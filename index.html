@@ -4,29 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Webmap 201</title>
-    <link rel="stylesheet" href="src/leaflet.css">
-    <link rel="stylesheet" href="src/css/bootstrap.min.css">
-    <link rel="stylesheet" href="src/css/foundation.css">
-    <link rel="stylesheet" href="src/plugins/L.Control.Pan.css">
-    <link rel="stylesheet" href="src/plugins/L.Control.Zoomslider.css">
-    <link rel="stylesheet" href="src/plugins/L.Control.MousePosition.css">
-    <link rel="stylesheet" href="src/plugins/Leaflet.PolylineMeasure.css">
+    <title>Intel GO</title>
+    <link rel="shortcut icon" href="src/images/icon32.png" type="image/x-icon">
+    <link rel="stylesheet" href="src/style.css">
     <script src="src/leaflet-src.js"></script>
     <script src="src/jquery-3.6.1.min.js"></script>
-    <script src="src/plugins/L.Control.Pan.js"></script>
+    <!-- <script src="src/plugins/L.Control.Pan.js"></script> -->
     <script src="src/plugins/L.Control.Zoomslider.js"></script>
     <script src="src/plugins/L.Control.MousePosition.js"></script>
     <script src="src/plugins/Leaflet.PolylineMeasure.js"></script>
 </head>
 <body>
-    <div id="side-bar" class="col-md-3">
+    <!-- <div id="side-bar" class="col-md-3">
         <button id="btnLocate" class="btn btn-primary btn-block">Locate</button>
         <button id="btnBaanPaWaeng" class="btn btn-primary btn-block">Moo Baan Pa Wang</button>
         <h4>Zoom Level: <span id="zoom-level"></span></h4>
         <h4>Map Center: <span id="map-center"></span></h4>
         <h4>Mouse Location: <span id="mouse-location"></span></h4>
-    </div>
+    </div> -->
     <div id="mapdiv" class="col-md-9"></div>
     <script>
         const LatLngToArrayString = (ll) => {
@@ -35,7 +30,7 @@
         var mymap, lyrOSM, mrkCurrentLocation, popBaanPaWaeng, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMouseposition, ctlMeasure
         $(document).ready(function(){
             mymap = L.map(`mapdiv`,{
-                center:[19.4,-99.2],
+                center:[ 13.769028, 100.540186],
                 zoom:13,
                 zoomControl:false,
                 // dragging:false,
@@ -47,7 +42,7 @@
             mymap.addLayer(lyrOSM)
 
             // https://github.com/kartena/Leaflet.Pancontrol
-            ctlPan = L.control.pan().addTo(mymap)
+            // ctlPan = L.control.pan().addTo(mymap)
 
             // https://github.com/kartena/Leaflet.zoomslider
             ctlZoomslider = L.control.zoomslider({position:"topright"}).addTo(mymap)
@@ -73,24 +68,25 @@
             popBaanPaWaeng.setContent(`<h2>บ้านป่าแหว่ง (Moo Baan Pa Wang)</h2><img src="src/images/BaanPaWaeng.jpg" width="200px">`)
             console.log(popBaanPaWaeng)
 
-            // popExample = L.popup()
-            // popExample.setLatLng([18.856694, 98.948937])
-            // popExample.setContent($("#side-bar")[0])
-            // popExample.openOn(mymap)
-
-            // mymap.on('click',function(e) {
-            //     console.log(e)
-            //     // console.log(e.latlng.toString())
-            //     if (e.originalEvent.shiftKey) {
-            //         alert(mymap.getZoom())
-            //     }
-            //     else {
-            //         alert(e.latlng.toString())
-            //     }
-            // })
             mymap.on('contextmenu', function(e) {
                 var dtCurrentTime = new Date()
-                L.marker(e.latlng).addTo(mymap).bindPopup(`${e.latlng.toString()}<br>${dtCurrentTime.toString()}`)
+                var lat = e.latlng.lat.toFixed(6)
+                var lng = e.latlng.lng.toFixed(6)
+                const z = 17
+                const windy_zoom = 8
+                L.marker(e.latlng).addTo(mymap).bindPopup(
+                    `
+                    ${e.latlng.toString()}
+                    <br>${dtCurrentTime.toString()}
+                    <br>
+                    <img src="src/images/intel.webp" onclick="window.open('https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}', '_blank')">
+                    <img src="src/images/bannergress.png" onclick="window.open('https://bannergress.com/map?lat=${lat}&lng=${lng}&zoom=${z}', '_blank')">
+                    <img src="src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${lat},${lng}', '_blank')">
+                    <img src="src/images/NO2.jpg" onclick="window.open('https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}', '_blank')">
+                    <img src="src/images/pm.jpg" onclick="window.open('https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${lat},${lng},${windy_zoom}', '_blank')">
+                    `
+                    )
+                    // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
             })
             mymap.on('keypress',function(e) {
                 if (e.originalEvent.key === "l") {
