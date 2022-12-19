@@ -6,3 +6,11 @@
 @import 'plugins/L.Control.MousePosition';
 @import 'plugins/Leaflet.PolylineMeasure';
 // @import 'plugins/';
+
+a {
+    text-decoration: none;
+    transition: all 0.5s;
+    &:hover {
+        font-size: 2em;
+    }
+}
