@@ -6,6 +6,7 @@
 @import 'plugins/L.Control.MousePosition';
 @import 'plugins/Leaflet.PolylineMeasure';
 // @import 'plugins/';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;700&display=swap');
 
 a {
     text-decoration: none;
@@ -13,4 +14,12 @@ a {
     &:hover {
         font-size: 2em;
     }
+}
+
+* {
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+
+h2 {
+    font-weight: 700;
 }
