@@ -19,7 +19,21 @@
         const LatLngToArrayString = (ll) => {
             return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`
         }
-        var mymap, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMouseposition, ctlMeasure
+        const iconProps = {
+            iconSize: [38, 95],
+            iconAnchor: [22, 94],
+            popupAnchor: [-3, -76],
+            // shadowUrl: 'my-icon-shadow.png',
+            shadowSize: [68, 95],
+            shadowAnchor: [22, 94]
+        }
+        const BTSlightgreenline = L.icon({
+                iconUrl: '../src/images/marker-icon-2x-lightgreen.png',...iconProps
+        })
+        const BTSdarkgreenline = L.icon({
+                iconUrl: '../src/images/marker-icon-2x-green.png',...iconProps
+        })
+        var mymap, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
         $(document).ready(function(){
             mymap = L.map(`mapdiv`,{
                 center:[ 13.769028, 100.540186],
@@ -52,9 +66,6 @@
                 // https://leafletjs.com/reference.html#control-scale
             }).addTo(mymap)
 
-            // https://github.com/ardhi/Leaflet.MousePosition
-            ctlMouseposition = L.control.mousePosition().addTo(mymap)
-
             const sucksTransport = [
                 {
                     name: "สนามกีฬาแห่งชาติ",
@@ -67,7 +78,8 @@
                             w: 480,
                             h: 320
                         }
-                    ]
+                    ],
+                    icon: BTSlightgreenline
                 },
                 {
                     name: "สยาม",
@@ -80,7 +92,8 @@
                             w: 480,
                             h:  80
                         }
-                    ]
+                    ],
+                    icon: BTSlightgreenline
                 },
                 {
                     name: "ชิดลม",
@@ -93,7 +106,8 @@
                             w: 480,
                             h: 160
                         }
-                    ]
+                    ],
+                    icon: BTSlightgreenline
                 },
                 {
                     name: "เพลินจิต",
@@ -106,7 +120,8 @@
                             w: 480,
                             h: 480
                         }
-                    ]
+                    ],
+                    icon: BTSlightgreenline
                 },
                 {
                     name: "นานา",
@@ -119,7 +134,8 @@
                             w: 480,
                             h: 480
                         }
-                    ]
+                    ],
+                    icon: BTSlightgreenline
                 },
                 {
                     name: "อโศก",
@@ -132,7 +148,8 @@
                             w: 480,
                             h: 480
                         }
-                    ]
+                    ],
+                    icon: BTSlightgreenline
                 },
                 {
                     name: "พร้อมพงษ์",
@@ -145,7 +162,8 @@
                             w: 400,
                             h:  80
                         }
-                    ]
+                    ],
+                    icon: BTSlightgreenline
                 },
                 {
                     name: "ทองหล่อ",
@@ -158,7 +176,8 @@
                             w: 480,
                             h: 240
                         }
-                    ]
+                    ],
+                    icon: BTSlightgreenline
                 },
                 {
                     name: "",
@@ -171,12 +190,16 @@
                             w: 480,
                             h: 480
                         }
-                    ]
+                    ],
+                    icon: BTSlightgreenline
                 },
             ]
+            
             for (let station of sucksTransport) {
                 if (station.name !== "" && station.latlng !== [] ) {
-                    L.marker(station.latlng).addTo(mymap).bindPopup(`
+                    L.marker(station.latlng, 
+                    {icon: station.icon}
+                    ).addTo(mymap).bindPopup(`
                     <h2>${station.name}</h2>
                     <a href="https://bannergress.com/banner/${station.bannergress[0].path}" target="_blank">
                         <img alt="${station.name}" src="https://api.bannergress.com/bnrs/pictures/${station.bannergress[0].bg}" style="width:${station.bannergress[0].w}px;height:${station.bannergress[0].h}px;">
