@@ -10,6 +10,9 @@ const iconProps = {
     shadowSize: [68, 95],
     shadowAnchor: [22, 94]
 }
+const BRTProps = {
+    iconSize: [30, 30]
+}
 const BTSlightgreenline = L.icon({
         iconUrl: '../src/images/marker-icon-2x-lightgreen.png',...iconProps
 })
@@ -32,6 +35,9 @@ const ARLicon = L.icon({
 })
 const SRTredline = L.icon({
         iconUrl: '../src/images/marker-icon-2x-softred.png',...iconProps
+})
+const BRT = L.icon({
+        iconUrl: '../src/images/1200px-Bangkok_BRT_logo.png',...BRTProps
 })
 var mymap, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
 $(document).ready(function(){
@@ -1593,10 +1599,10 @@ $(document).ready(function(){
             type: "MRT",
             bannergress: [
                 {
-                    path: "",
-                    bg: "",
-                    w: 240,
-                    h: 480,
+                    path: "benchakitti-park-93ad",
+                    bg: "6d2b2e7cbdfcef5fcf5d455a1da1b5bc",
+                    w: 480,
+                    h: 400,
                 }
             ],
             icon: MRTblueline
@@ -2258,11 +2264,11 @@ $(document).ready(function(){
             icon: SRTredline
         },
         {
-            name: "",
-            en: "",
-            id: "",
-			latlng: [],
-            type: "SRTR",
+            name: "สาทร",
+            en: "Sathon",
+            id: "B1",
+			latlng: [13.7214, 100.53054],
+            type: "BRT",
             bannergress: [
                 {
                     path: "",
@@ -2271,7 +2277,183 @@ $(document).ready(function(){
                     h: 480,
                 }
             ],
-            icon: SRTredline
+            icon: BRT
+        },
+        {
+            name: "อาคารสงเคราะห์",
+            en: "Akhan Songkhro",
+            id: "B2",
+			latlng: [13.71704, 100.532638],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "เทคนิคกรุงเทพ",
+            en: "Technic Krungthep",
+            id: "B3",
+			latlng: [13.712441, 100.534998],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "ถนนจันทน์",
+            en: "Thanon Chan",
+            id: "B4",
+			latlng: [13.704787, 100.538925],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "นราราม 3",
+            en: "Nararam III",
+            id: "B5",
+			latlng: [13.696464, 100.545279],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "วัดด่าน",
+            en: "Wat Dan",
+            id: "B6",
+			latlng: [13.674225, 100.543152],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "วัดปริวาส",
+            en: "Wat Pariwat",
+            id: "B7",
+			latlng: [13.674679, 100.534258],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "the-great-king-bhumibol-bridge-cc32",
+                    bg: "2ec8a21ccb9d390be4fd9ff0d3bd6605",
+                    w: 480,
+                    h: 240,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "วัดดอกไม้",
+            en: "Wat Dokmai",
+            id: "B8",
+			latlng: [13.682389, 100.525374],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "สะพานพระรามเก้า",
+            en: "Rama IX Bridge",
+            id: "B9",
+			latlng: [13.688207, 100.515456],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "เจริญราษฎร์",
+            en: "Charoenrat",
+            id: "B10",
+			latlng: [13.690282, 100.504201],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "สะพานพระรามสาม",
+            en: "Rama III Bridge",
+            id: "B11",
+			latlng: [13.693937, 100.500054],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "สะพานภูมิพล-bhumibol-bridge-35d2",
+                    bg: "d0425562ae65d75625a827ce41ecfed3",
+                    w: 480,
+                    h: 320,
+                }
+            ],
+            icon: BRT
+        },
+        {
+            name: "ราชพฤกษ์",
+            en: "Ratchapruek",
+            id: "B12",
+			latlng: [13.715899, 100.478951],
+            type: "BRT",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: BRT
         },
         
     ]
