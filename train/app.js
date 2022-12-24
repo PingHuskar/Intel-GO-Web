@@ -52,11 +52,12 @@ $(document).ready(function(){
         // https://leafletjs.com/reference.html#control-scale
     }).addTo(mymap)
 
-    const sucksTransport = [
+    const stations = [
         {
             name: "คูคต",
             en: "Khu Khot",
             id: "N24",
+			radius: 500,
             latlng: [13.932369, 100.64653],
             type: "BTS",
             bannergress: [
@@ -73,6 +74,7 @@ $(document).ready(function(){
             name: "แยก คปอ.",
             en: "Yaek Kor Por Aor",
             id: "N23",
+			radius: 500,
             latlng: [13.924996, 100.625855],
             type: "BTS",
             bannergress: [
@@ -89,6 +91,7 @@ $(document).ready(function(){
             name: "พิพิธภัณฑ์กองทัพอากาศ",
             en: "Royal Thai Air Force Museum",
             id: "N22",
+			radius: 500,
 			latlng: [13.917874, 100.621655],
             type: "BTS",
             bannergress: [
@@ -105,6 +108,7 @@ $(document).ready(function(){
             name: "โรงพยาบาลภูมิพลอดุลยเดช",
             en: "Bhumibol Adulyadej Hospital",
             id: "N21",
+			radius: 500,
 			latlng: [13.910707, 100.617385],
             type: "BTS",
             bannergress: [
@@ -121,6 +125,7 @@ $(document).ready(function(){
             name: "สะพานใหม่",
             en: "Saphan Mai",
             id: "N20",
+			radius: 500,
 			latlng: [13.896523, 100.609016],
             type: "BTS",
             bannergress: [
@@ -137,6 +142,7 @@ $(document).ready(function(){
             name: "สายหยุด",
             en: "Sai Yud",
             id: "N19",
+			radius: 500,
 			latlng: [13.888483, 100.604296],
             type: "BTS",
             bannergress: [
@@ -153,6 +159,7 @@ $(document).ready(function(){
             name: "พหลโยธิน 59",
             en: "Phahon Yothin 59",
             id: "N18",
+			radius: 500,
 			latlng: [13.882526, 100.600841],
             type: "BTS",
             bannergress: [
@@ -169,6 +176,7 @@ $(document).ready(function(){
             name: "วัดพระศรีมหาธาตุ",
             en: "Wat Phra Sri Mahathat",
             id: "N17",
+			radius: 500,
 			latlng: [13.875278, 100.596748],
             type: "BTS",
             bannergress: [
@@ -185,6 +193,7 @@ $(document).ready(function(){
             name: "กรมทหารราบที่ 11",
             en: "11th Infantry Regiment",
             id: "N16",
+			radius: 500,
 			latlng: [13.867673, 100.592081],
             type: "BTS",
             bannergress: [
@@ -201,6 +210,7 @@ $(document).ready(function(){
             name: "บางบัว",
             en: "Bang Bua",
             id: "N15",
+			radius: 500,
 			latlng: [13.856002, 100.585193],
             type: "BTS",
             bannergress: [
@@ -217,6 +227,7 @@ $(document).ready(function(){
             name: "กรมป่าไม้",
             en: "Royal Forest Department",
             id: "N14",
+			radius: 500,
 			latlng: [13.850304, 100.581851],
             type: "BTS",
             bannergress: [
@@ -233,6 +244,7 @@ $(document).ready(function(){
             name: "มหาวิทยาลัยเกษตรศาสตร์",
             en: "Kasetsart University",
             id: "N13",
+			radius: 500,
 			latlng: [13.842268, 100.57713],
             type: "BTS",
             bannergress: [
@@ -249,6 +261,7 @@ $(document).ready(function(){
             name: "เสนานิคม",
             en: "Sena Nikhom",
             id: "N12",
+			radius: 500,
 			latlng: [13.836399, 100.573633],
             type: "BTS",
             bannergress: [
@@ -265,6 +278,7 @@ $(document).ready(function(){
             name: "รัชโยธิน",
             en: "Ratchayothin",
             id: "N11",
+			radius: 500,
 			latlng: [13.829738, 100.569697],
             type: "BTS",
             bannergress: [
@@ -281,6 +295,7 @@ $(document).ready(function(){
             name: "พหลโยธิน 24",
             en: "Phahon Yothin 24",
             id: "N10",
+			radius: 500,
 			latlng: [13.82416, 100.566477],
             type: "BTS",
             bannergress: [
@@ -297,6 +312,7 @@ $(document).ready(function(){
             name: "ห้าแยกลาดพร้าว",
             en: "Ha Yaek Lat Phrao",
             id: "N9",
+			radius: 500,
 			latlng: [13.81668, 100.562078],
             type: "BTS",
             bannergress: [
@@ -313,6 +329,7 @@ $(document).ready(function(){
             name: "หมอชิต",
             en: "Mo Chit",
             id: "N8",
+			radius: 500,
 			latlng: [13.802573, 100.553741],
             type: "BTS",
             bannergress: [
@@ -329,6 +346,7 @@ $(document).ready(function(){
             name: "สะพานควาย",
             en: "Saphan Khwai",
             id: "N7",
+			radius: 500,
 			latlng: [13.793858, 100.549724],
             type: "BTS",
             bannergress: [
@@ -345,6 +363,7 @@ $(document).ready(function(){
             name: "อารีย์",
             en: "Ari",
             id: "N5",
+			radius: 500,
 			latlng: [13.779578, 100.544622],
             type: "BTS",
             bannergress: [
@@ -361,6 +380,7 @@ $(document).ready(function(){
             name: "สนามเป้า",
             en: "Sanam Pao",
             id: "N4",
+			radius: 500,
 			latlng: [13.772544, 100.542036],
             type: "BTS",
             bannergress: [
@@ -377,6 +397,7 @@ $(document).ready(function(){
             name: "อนุสาวรีย์ชัยสมรภูมิ",
             en: "Victory Monument",
             id: "N3",
+			radius: 500,
 			latlng: [13.762723, 100.537074],
             type: "BTS",
             bannergress: [
@@ -393,6 +414,7 @@ $(document).ready(function(){
             name: "พญาไท",
             en: "Phaya Thai",
             id: "N2",
+			radius: 500,
 			latlng: [13.756982, 100.533834],
             type: "BTS",
             bannergress: [
@@ -409,6 +431,7 @@ $(document).ready(function(){
             name: "ราชเทวี",
             en: "Ratchathewi",
             id: "N1",
+			radius: 500,
 			latlng: [13.751848, 100.531517],
             type: "BTS",
             bannergress: [
@@ -425,6 +448,7 @@ $(document).ready(function(){
             name: "สยาม",
             en: "Siam",
             id: "CEN",
+			radius: 500,
 			latlng: [13.745615, 100.53421],
             type: "BTS",
             bannergress: [
@@ -441,6 +465,7 @@ $(document).ready(function(){
             name: "ชิดลม",
             en: "Chit Lom",
             id: "E1",
+			radius: 500,
 			latlng: [13.744114, 100.542991],
             type: "BTS",
             bannergress: [
@@ -457,6 +482,7 @@ $(document).ready(function(){
             name: "เพลินจิต",
             en: "Phloen Chit",
             id: "E2",
+			radius: 500,
 			latlng: [13.743072, 100.54916],
             type: "BTS",
             bannergress: [
@@ -473,6 +499,7 @@ $(document).ready(function(){
             name: "นานา",
             en: "Nana",
             id: "E3",
+			radius: 500,
 			latlng: [13.740655, 100.555345],
             type: "BTS",
             bannergress: [
@@ -489,6 +516,7 @@ $(document).ready(function(){
             name: "อโศก",
             en: "Asok",
             id: "E4",
+			radius: 500,
 			latlng: [13.737003, 100.560409],
             type: "BTS",
             bannergress: [
@@ -505,6 +533,7 @@ $(document).ready(function(){
             name: "พร้อมพงษ์",
             en: "Phrom Phong",
             id: "E5",
+			radius: 500,
 			latlng: [13.730499, 100.569577],
             type: "BTS",
             bannergress: [
@@ -521,6 +550,7 @@ $(document).ready(function(){
             name: "ทองหล่อ",
             en: "Thong Lo",
             id: "E6",
+			radius: 500,
 			latlng: [13.724256, 100.578445],
             type: "BTS",
             bannergress: [
@@ -537,6 +567,7 @@ $(document).ready(function(){
             name: "เอกมัย",
             en: "Ekkamai",
             id: "E7",
+			radius: 500,
 			latlng: [13.719534, 100.585123],
             type: "BTS",
             bannergress: [
@@ -553,6 +584,7 @@ $(document).ready(function(){
             name: "พระโขนง",
             en: "Phra Khanong",
             id: "E8",
+			radius: 500,
 			latlng: [13.715243, 100.591158],
             type: "BTS",
             bannergress: [
@@ -569,6 +601,7 @@ $(document).ready(function(){
             name: "อ่อนนุช",
             en: "On Nut",
             id: "E9",
+			radius: 500,
 			latlng: [13.705656, 100.601088],
             type: "BTS",
             bannergress: [
@@ -585,6 +618,7 @@ $(document).ready(function(){
             name: "บางจาก",
             en: "Bang Chak",
             id: "E10",
+			radius: 500,
 			latlng: [13.696725, 100.605283],
             type: "BTS",
             bannergress: [
@@ -601,6 +635,7 @@ $(document).ready(function(){
             name: "ปุณณวิถี",
             en: "Punnawithi",
             id: "E11",
+			radius: 500,
 			latlng: [13.689291, 100.608979],
             type: "BTS",
             bannergress: [
@@ -616,6 +651,7 @@ $(document).ready(function(){
         {
             name: "อุดมสุข",
             id: "E12",
+			radius: 500,
 			latlng: [13.679857, 100.609413],
             type: "BTS",
             bannergress: [
@@ -631,6 +667,7 @@ $(document).ready(function(){
         {
             name: "บางนา",
             id: "E13",
+			radius: 500,
 			latlng: [13.668106, 100.604612],
             type: "BTS",
             bannergress: [
@@ -646,6 +683,7 @@ $(document).ready(function(){
         {
             name: "แบริ่ง",
             id: "E14",
+			radius: 500,
 			latlng: [13.661123, 100.601796],
             type: "BTS",
             bannergress: [
@@ -661,6 +699,7 @@ $(document).ready(function(){
         {
             name: "สำโรง",
             id: "E15",
+			radius: 500,
 			latlng: [13.6465, 100.595734],
             type: "BTS",
             bannergress: [
@@ -676,6 +715,7 @@ $(document).ready(function(){
         {
             name: "ปู่เจ้า",
             id: "E16",
+			radius: 500,
 			latlng: [13.637352, 100.592043],
             type: "BTS",
             bannergress: [
@@ -691,6 +731,7 @@ $(document).ready(function(){
         {
             name: "ช้างเอราวัณ",
             id: "E17",
+			radius: 500,
 			latlng: [13.621582, 100.590134],
             type: "BTS",
             bannergress: [
@@ -706,6 +747,7 @@ $(document).ready(function(){
         {
             name: "โรงเรียนนายเรือ",
             id: "E18",
+			radius: 500,
 			latlng: [13.608383, 100.594897],
             type: "BTS",
             bannergress: [
@@ -721,6 +763,7 @@ $(document).ready(function(){
         {
             name: "ปากน้ำ",
             id: "E19",
+			radius: 500,
 			latlng: [13.602146, 100.597107],
             type: "BTS",
             bannergress: [
@@ -736,6 +779,7 @@ $(document).ready(function(){
         {
             name: "ศรีนครินทร์",
             id: "E20",
+			radius: 500,
 			latlng: [13.591999, 100.609043],
             type: "BTS",
             bannergress: [
@@ -751,6 +795,7 @@ $(document).ready(function(){
         {
             name: "แพรกษา",
             id: "E21",
+			radius: 500,
 			latlng: [13.584187, 100.607911],
             type: "BTS",
             bannergress: [
@@ -766,6 +811,7 @@ $(document).ready(function(){
         {
             name: "สายลวด",
             id: "E22",
+			radius: 500,
 			latlng: [13.577783, 100.605449],
             type: "BTS",
             bannergress: [
@@ -781,6 +827,7 @@ $(document).ready(function(){
         {
             name: "เคหะฯ",
             id: "E23",
+			radius: 500,
 			latlng: [13.567689, 100.607697],
             type: "BTS",
             bannergress: [
@@ -796,6 +843,7 @@ $(document).ready(function(){
         {
             name: "",
             id: "",
+			radius: 500,
 			latlng: [],
             type: "BTS",
             bannergress: [
@@ -811,6 +859,7 @@ $(document).ready(function(){
         {
             name: "",
             id: "",
+			radius: 500,
 			latlng: [],
             type: "BTS",
             bannergress: [
@@ -827,6 +876,7 @@ $(document).ready(function(){
             name: "สุวรรณภูมิ",
             en: "Suvarnabhumi Airport",
             id: "",
+			radius: 500,
 			latlng: [13.694218, 100.751324],
             type: "ARL",
             bannergress: [
@@ -843,6 +893,7 @@ $(document).ready(function(){
             name: "ลาดกระบัง",
             en: "Lad Krabang",
             id: "",
+			radius: 500,
 			latlng: [13.727719, 100.748599],
             type: "ARL",
             bannergress: [
@@ -858,6 +909,8 @@ $(document).ready(function(){
         {
             name: "บ้านทับช้าง",
             en: "Ban Thap Chang",
+            id: "",
+			radius: 500,
             latlng: [13.73285, 100.690808],
             type: "ARL",
             bannergress: [
@@ -873,6 +926,8 @@ $(document).ready(function(){
         {
             name: "หัวหมาก",
             en: "Hua Mark",
+            id: "",
+			radius: 500,
             latlng: [13.737996, 100.645269],
             type: "ARL",
             bannergress: [
@@ -888,6 +943,8 @@ $(document).ready(function(){
         {
             name: "รามคำแหง",
             en: "Ramkhamhaeng",
+            id: "",
+			radius: 500,
             latlng: [13.743009, 100.600165],
             type: "ARL",
             bannergress: [
@@ -903,6 +960,8 @@ $(document).ready(function(){
         {
             name: "มักกะสัน",
             en: "Makkasan",
+            id: "",
+			radius: 500,
             latlng: [13.750945, 100.561155],
             type: "ARL",
             bannergress: [
@@ -918,6 +977,8 @@ $(document).ready(function(){
         {
             name: "ราชปรารภ",
             en: "Ratchaprarop",
+            id: "",
+			radius: 500,
             latlng: [13.755103, 100.542149],
             type: "ARL",
             bannergress: [
@@ -933,6 +994,8 @@ $(document).ready(function(){
         {
             name: "พญาไท",
             en: "Phayathai",
+            id: "",
+			radius: 500,
             latlng: [13.756725, 100.534923],
             type: "ARL",
             bannergress: [
@@ -949,6 +1012,7 @@ $(document).ready(function(){
             name: "สนามกีฬาแห่งชาติ",
             en: "National Stadium",
             id: "W1",
+			radius: 500,
 			latlng: [13.746531, 100.529087],
             type: "BTS",
             bannergress: [
@@ -965,6 +1029,7 @@ $(document).ready(function(){
             name: "ราชดำริ",
             en: "Ratchadamri",
             id: "S1",
+			radius: 500,
             latlng: [13.73945, 100.539467],
             type: "BTS",
             bannergress: [
@@ -981,6 +1046,7 @@ $(document).ready(function(){
             name: "ศาลาแดง",
             en: "Sala Daeng",
             id: "S2",
+			radius: 500,
 			latlng: [13.728554, 100.534338],
             type: "BTS",
             bannergress: [
@@ -997,6 +1063,7 @@ $(document).ready(function(){
             name: "ช่องนนทรี",
             en: "Chong Nonsi",
             id: "S3",
+			radius: 500,
 			latlng: [13.723802, 100.529339],
             type: "BTS",
             bannergress: [
@@ -1013,6 +1080,7 @@ $(document).ready(function(){
             name: "เซนต์หลุยส์",
             en: "Saint Louis",
             id: "S4",
+			radius: 500,
 			latlng: [13.720811, 100.526689],
             type: "BTS",
             bannergress: [
@@ -1029,6 +1097,7 @@ $(document).ready(function(){
             name: "สุรศักดิ์",
             en: "Surasak",
             id: "S5",
+			radius: 500,
 			latlng: [13.719326, 100.52156],
             type: "BTS",
             bannergress: [
@@ -1045,6 +1114,7 @@ $(document).ready(function(){
             name: "สะพานตากสิน",
             en: "Saphan Taksin",
             id: "S6",
+			radius: 500,
 			latlng: [13.718794, 100.514211],
             type: "BTS",
             bannergress: [
@@ -1061,6 +1131,7 @@ $(document).ready(function(){
             name: "กรุงธนบุรี",
             en: "Krung Thon Buri",
             id: "S7",
+			radius: 500,
 			latlng: [13.720926, 100.50272],
             type: "BTS",
             bannergress: [
@@ -1077,6 +1148,7 @@ $(document).ready(function(){
             name: "วงเวียนใหญ่",
             en: "Wongwian Yai",
             id: "S8",
+			radius: 500,
 			latlng: [13.72106, 100.495226],
             type: "BTS",
             bannergress: [
@@ -1093,6 +1165,7 @@ $(document).ready(function(){
             name: "โพธิ์นิมิตร",
             en: "Pho Nimit",
             id: "S9",
+			radius: 500,
 			latlng: [13.719236, 100.485924],
             type: "BTS",
             bannergress: [
@@ -1109,6 +1182,7 @@ $(document).ready(function(){
             name: "ตลาดพลู",
             en: "Talat Phlu",
             id: "S10",
+			radius: 500,
 			latlng: [13.714074, 100.476354],
             type: "BTS",
             bannergress: [
@@ -1125,6 +1199,7 @@ $(document).ready(function(){
             name: "วุฒากาศ",
             en: "Wutthakat",
             id: "S11",
+			radius: 500,
 			latlng: [13.71301, 100.468962],
             type: "BTS",
             bannergress: [
@@ -1141,6 +1216,7 @@ $(document).ready(function(){
             name: "บางหว้า",
             en: "Bang Wa",
             id: "S12",
+			radius: 500,
 			latlng: [13.720788, 100.457804],
             type: "BTS",
             bannergress: [
@@ -1157,6 +1233,7 @@ $(document).ready(function(){
             name: "",
             en: "",
             id: "S",
+			radius: 500,
 			latlng: [],
             type: "BTS",
             bannergress: [
@@ -1171,7 +1248,7 @@ $(document).ready(function(){
         },
     ]
     
-    for (let station of sucksTransport) {
+    for (let station of stations) {
         if (station.name !== "" && station.latlng !== [] ) {
             if (station.type === "BTS") {
                 L.marker(station.latlng, 
@@ -1179,6 +1256,7 @@ $(document).ready(function(){
                 )
                 .addTo(mymap).bindPopup(`
                 <h3>${station.name} (${station.en||""})</h3>
+                <p>Radius: ${station.radius} meters</p>
                 <a href="../src/images/BTS/${station.id}.png" target="_blank">
                     <img alt="${station.id}" src="../src/images/BTS/${station.id}.png" style="width:200px;height:150px;">
                 </a>
@@ -1196,6 +1274,16 @@ $(document).ready(function(){
                     <img alt="${station.name}" src="https://api.bannergress.com/bnrs/pictures/${station.bannergress[0].bg}" style="width:${station.bannergress[0].w}px;height:${station.bannergress[0].h}px;">
                 </a>
                 `)
+            }
+
+            if (station.radius) {
+                L.donut(station.latlng,{
+                    radius: station.radius,
+                    innerRadius: 0,
+                    innerRadiusAsPercent: false,
+                }).addTo(mymap)
+            } else {
+                console.log(station.name)
             }
         }
     }
