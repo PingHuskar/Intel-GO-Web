@@ -874,16 +874,11 @@ $(document).ready(function(){
         },
         {
             name: "บางโพ",
-            en: "",
-            id: "",
-<<<<<<< HEAD
+            en: "Bang Pho",
+            id: "BL09",
 			radius: 500,
-			latlng: [],
-            type: "BTS",
-=======
 			latlng: [13.806387, 100.521083],
             type: "MRT",
->>>>>>> 1d2121603c64860cc01dc4b4a5f34510a1d002aa
             bannergress: [
                 {
                     path: "",
@@ -896,16 +891,11 @@ $(document).ready(function(){
         },
         {
             name: "บางอ้อ",
-            en: "",
-            id: "",
-<<<<<<< HEAD
+            en: "Bang O",
+            id: "BL08",
 			radius: 500,
-			latlng: [],
-            type: "BTS",
-=======
 			latlng: [13.798976, 100.509818],
             type: "MRT",
->>>>>>> 1d2121603c64860cc01dc4b4a5f34510a1d002aa
             bannergress: [
                 {
                     path: "",
@@ -918,8 +908,8 @@ $(document).ready(function(){
         },
         {
             name: "บางพลัด",
-            en: "",
-            id: "",
+            en: "Bang Phlat",
+            id: "BL07",
 			latlng: [13.792393, 100.504877],
             type: "MRT",
             bannergress: [
@@ -1550,18 +1540,10 @@ $(document).ready(function(){
             icon: BTSdarkgreenline
         },
         {
-<<<<<<< HEAD
-            name: "",
-            en: "",
-            id: "S",
-			radius: 500,
-			latlng: [],
-=======
             name: "กรุงธนบุรี",
             en: "Krung Thon Buri",
             id: "G1",
 			latlng: [13.721093, 100.503713],
->>>>>>> 1d2121603c64860cc01dc4b4a5f34510a1d002aa
             type: "BTS",
             bannergress: [
                 {
@@ -2552,28 +2534,17 @@ $(document).ready(function(){
         
     ]
     
-<<<<<<< HEAD
-    for (let station of stations) {
-        if (station.name !== "" && station.latlng !== [] ) {
-            if (station.type === "BTS") {
-=======
     for (let station of sucksTransport) {
         if (station.name !== "" && station.latlng.length > 1 ) {
             if (station.type === "BTS" || station.type === "MRT") {
->>>>>>> 1d2121603c64860cc01dc4b4a5f34510a1d002aa
                 L.marker(station.latlng, 
                     {icon: station.icon}
                 )
                 .addTo(mymap).bindPopup(`
                 <h3>${station.name} (${station.en||""})</h3>
-<<<<<<< HEAD
                 <p>Radius: ${station.radius} meters</p>
                 <a href="../src/images/BTS/${station.id}.png" target="_blank">
                     <img alt="${station.id}" src="../src/images/BTS/${station.id}.png" style="width:200px;height:150px;">
-=======
-                <a href="../src/images/${station.type}/${station.id}.png" target="_blank">
-                    <img alt="${station.id}" src="../src/images/${station.type}/${station.id}.png" style="width:200px;height:150px;">
->>>>>>> 1d2121603c64860cc01dc4b4a5f34510a1d002aa
                 </a>
                 <a href="https://bannergress.com/banner/${station.bannergress[0].path}" target="_blank">
                     <img alt="${station.name}" src="https://api.bannergress.com/bnrs/pictures/${station.bannergress[0].bg}" style="width:${station.bannergress[0].w}px;height:${station.bannergress[0].h}px;">
