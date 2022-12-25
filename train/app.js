@@ -33,6 +33,9 @@ const MRTpurpleline = L.icon({
 const MRTpinkline = L.icon({
         iconUrl: '../src/images/marker-icon-2x-pink.png',...iconProps
 })
+const MRTorangeline = L.icon({
+        iconUrl: '../src/images/marker-icon-2x-orange.png',...iconProps
+})
 const ARLicon = L.icon({
         iconUrl: '../src/images/marker-icon-2x-red.png',...iconProps
 })
@@ -1274,7 +1277,7 @@ $(document).ready(function(){
             name: "รามคำแหง",
             en: "Ramkhamhaeng",
             id: "",
-			radius: 1500,
+			radius: 800,
             latlng: [13.743009, 100.600165],
             type: "ARL",
             bannergress: [
@@ -3105,6 +3108,346 @@ $(document).ready(function(){
                 }
             ],
             icon: MRTpinkline
+        },
+        {
+            name: "มีนบุรี",
+            en: "",
+            id: "PK30",
+			radius: 500,
+			latlng: [13.809095, 100.732301],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "อิมแพคเมืองทองธานี",
+            en: "",
+            id: "MT01",
+			radius: 500,
+			latlng: [13.910895, 100.544343],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "ทะเลสาบเมืองทอง",
+            en: "",
+            id: "MT02",
+			radius: 500,
+			latlng: [13.91771, 100.545282],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "ศูนย์วัฒนธรรมฯ",
+            en: "",
+            id: "OR13",
+			radius: 500,
+			latlng: [13.765672, 100.570693],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "รฟม.",
+            en: "",
+            id: "OR14",
+			radius: 500,
+			latlng: [13.75537, 100.57934],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "วัดพระราม 9",
+            en: "",
+            id: "OR15",
+			radius: 500,
+			latlng: [13.752171, 100.592816],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "รามคำแหง 12",
+            en: "",
+            id: "OR16",
+			radius: 500,
+			latlng: [13.751563, 100.609703],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "รามคำแหง",
+            en: "",
+            id: "OR17",
+			radius: 600,
+			latlng: [13.75905, 100.617975],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "กกท.",
+            en: "",
+            id: "OR18",
+			radius: 500,
+			latlng: [13.760336, 100.624648],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "รามคำแหง 34",
+            en: "",
+            id: "OR19",
+			radius: 500,
+			latlng: [13.76179, 100.637839],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "แยกลำสาลี",
+            en: "",
+            id: "OR20",
+			radius: 500,
+			latlng: [13.762769, 100.646283],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "ศรีบูรพา",
+            en: "",
+            id: "OR21",
+			radius: 500,
+			latlng: [13.768101, 100.658616],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "คลองบ้านม้า",
+            en: "",
+            id: "OR22",
+			radius: 500,
+			latlng: [13.773623, 100.667848],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "สัมมากร",
+            en: "",
+            id: "OR23",
+			radius: 500,
+			latlng: [13.778223, 100.675793],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "น้อมเกล้า",
+            en: "",
+            id: "OR24",
+			radius: 500,
+			latlng: [13.786985, 100.691741],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "ราษฎร์พัฒนา",
+            en: "",
+            id: "OR25",
+			radius: 500,
+			latlng: [13.792333, 100.701467],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "มีนพัฒนา",
+            en: "",
+            id: "OR26",
+			radius: 500,
+			latlng: [13.797453, 100.711311],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "เคหะรามคำแหง",
+            en: "",
+            id: "OR27",
+			radius: 500,
+			latlng: [13.803382, 100.723241],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "มีนบุรี",
+            en: "",
+            id: "OR28",
+			radius: 500,
+			latlng: [13.809801, 100.732682],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
+        },
+        {
+            name: "แยกร่มเกล้า",
+            en: "",
+            id: "OR29",
+			radius: 500,
+			latlng: [13.813114, 100.738782],
+            type: "OR",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTorangeline
         },
         
     ]
