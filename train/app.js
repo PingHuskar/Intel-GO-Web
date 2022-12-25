@@ -30,6 +30,9 @@ const MRTpurpleline = L.icon({
         iconUrl: '../src/images/marker-icon-2x-purple.png',...iconProps
         // สายฉลองรัชธรรม
 })
+const MRTpinkline = L.icon({
+        iconUrl: '../src/images/marker-icon-2x-pink.png',...iconProps
+})
 const ARLicon = L.icon({
         iconUrl: '../src/images/marker-icon-2x-red.png',...iconProps
 })
@@ -2326,7 +2329,7 @@ $(document).ready(function(){
             en: "Lak Si",
             id: "",
 			radius: 500,
-			latlng: [13.883728, 100.580692],
+			latlng: [13.886317, 100.581937],
             type: "SRTR",
             bannergress: [
                 {
@@ -2609,6 +2612,499 @@ $(document).ready(function(){
                 }
             ],
             icon: BRT
+        },
+        {
+            name: "ศูนย์ราชการนนทบุรี",
+            en: "",
+            id: "PK01",
+			radius: 500,
+			latlng: [13.85947, 100.518326],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "แคราย",
+            en: "",
+            id: "PK02",
+			radius: 500,
+			latlng: [13.862434, 100.520745],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "สนามบินน้ำ",
+            en: "",
+            id: "PK03",
+			radius: 500,
+			latlng: [13.873871, 100.516427],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "สามัคคี",
+            en: "",
+            id: "PK04",
+			radius: 500,
+			latlng: [13.889167, 100.510595],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "กรมชลประทาน",
+            en: "",
+            id: "PK05",
+			radius: 500,
+			latlng: [13.89845, 100.507082],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "ปากเกร็ด",
+            en: "",
+            id: "PK06",
+			radius: 750,
+			latlng: [13.906144, 100.50537],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "เลี่ยงเมืองปากเกร็ด",
+            en: "",
+            id: "PK07",
+			radius: 750,
+			latlng: [13.906404, 100.515606],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "แจ้งวัฒนะ ปากเกร็ด 28",
+            en: "",
+            id: "PK08",
+			radius: 500,
+			latlng: [13.904061, 100.529317],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "ศรีรัช",
+            en: "",
+            id: "PK09",
+			radius: 500,
+			latlng: [13.900492, 100.540196],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "เมืองทองธานี",
+            en: "",
+            id: "PK10",
+			radius: 500,
+			latlng: [13.897347, 100.548517],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "แจ้งวัฒนะ 14",
+            en: "",
+            id: "PK11",
+			radius: 500,
+			latlng: [13.893269, 100.560082],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "ศูนย์ราชการเฉลิมพระเกียรติ",
+            en: "",
+            id: "PK12",
+			radius: 500,
+			latlng: [13.890737, 100.567271],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "โทรคมนาคมแห่งชาติ",
+            en: "",
+            id: "PK13",
+			radius: 500,
+			latlng: [13.887437, 100.575891],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "หลักสี่",
+            en: "",
+            id: "PK14",
+			radius: 500,
+			latlng: [13.884171, 100.582479],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "ราชภัฎพระนคร",
+            en: "",
+            id: "PK15",
+			radius: 500,
+			latlng: [13.879897, 100.589222],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "วัดพระศรีมหาธาตุ",
+            en: "",
+            id: "PK16",
+			radius: 500,
+			latlng: [13.874463, 100.597161],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "รามอินทรา 3",
+            en: "",
+            id: "PK17",
+			radius: 500,
+			latlng: [13.870886, 100.602622],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "ลาดปลาเค้า",
+            en: "",
+            id: "PK18",
+			radius: 650,
+			latlng: [13.862772, 100.617696],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "รามอินทรา 31",
+            en: "",
+            id: "PK19",
+			radius: 500,
+			latlng: [13.857954, 100.626703],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "มัยลาภ",
+            en: "",
+            id: "PK20",
+			radius: 500,
+			latlng: [13.854883, 100.632373],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "วัชรพล",
+            en: "",
+            id: "PK21",
+			radius: 500,
+			latlng: [13.849059, 100.643134],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "รามอินทรา 40",
+            en: "",
+            id: "PK22",
+			radius: 500,
+			latlng: [13.845185, 100.650312],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "คู้บอน",
+            en: "",
+            id: "PK23",
+			radius: 500,
+			latlng: [13.840563, 100.658777],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "รามอินทรา 83",
+            en: "",
+            id: "PK24",
+			radius: 750,
+			latlng: [13.833714, 100.667574],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "วงแหวนตะวันออก",
+            en: "",
+            id: "PK25",
+			radius: 700,
+			latlng: [13.824458, 100.677134],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "นพรัตนราชธานี",
+            en: "",
+            id: "PK26",
+			radius: 600,
+			latlng: [13.816465, 100.685642],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "บางชัน",
+            en: "",
+            id: "PK27",
+			radius: 500,
+			latlng: [13.812722, 100.703124],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "เศรษฐบุตรบำเพ็ญ",
+            en: "",
+            id: "PK28",
+			radius: 500,
+			latlng: [13.812705, 100.712453],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
+        },
+        {
+            name: "ตลาดมีนบุรี",
+            en: "",
+            id: "PK29",
+			radius: 500,
+			latlng: [13.812514, 100.725253],
+            type: "PK",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTpinkline
         },
         
     ]
