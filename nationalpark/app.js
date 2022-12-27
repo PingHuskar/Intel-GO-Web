@@ -15,14 +15,17 @@ var mymap, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlSca
 $(document).ready(function(){
     mymap = L.map(`mapdiv`,{
         center:[ 13.769028, 100.540186],
-        zoom:13,
+        zoom: 6,
         zoomControl:false,
         // dragging:false,
         // minZoom:10,
         // maxZoom:14
         attributionControl:false
     })
-    lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
+    lyrOSM = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
+        maxZoom: 20,
+        attribution: '<a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> | Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    });
     mymap.addLayer(lyrOSM)
 
     // https://github.com/kartena/Leaflet.Pancontrol
@@ -34,7 +37,7 @@ $(document).ready(function(){
     ctlMeasure = L.control.polylineMeasure().addTo(mymap);
 
     ctlAttribute = L.control.attribution({position:'bottomleft'}).addTo(mymap)
-    ctlAttribute.addAttribution(`OSM`) //Open Street Map
+    ctlAttribute.addAttribution(`Cyclosm`) //Open Street Map
     ctlAttribute.addAttribution(`<a href="https://github.com/pinghuskar">Chadin Chaipornpisuth</a>`)
 
     ctlScale = L.control.scale({
@@ -43,10 +46,172 @@ $(document).ready(function(){
         maxWidth:200
         // https://leafletjs.com/reference.html#control-scale
     }).addTo(mymap)
-    
-    mymap.on('keypress',function(e) {
-        if (e.originalEvent.key === "l") {
-            mymap.locate()
-        }
-    })
+
+    const nationalParks = [
+        {name:'กุยบุรี',province:'ประจวบคีรีขันธ์',announced:'25 มีนาคม 2542',geo: [12.051667,99.557222]},
+        {name:'แก่งกระจาน',province:'เพชรบุรี',announced:'12 มิถุนายน 2524',geo: [12.798889, 99.453333]},
+        {name:'แก่งกรุง',province:'สุราษฎร์ธานี',announced:'4 ธันวาคม 2534',geo: [9.3, 98.866667]},
+        {name:'แก่งตะนะ',province:'อุบลราชธานี',announced:'13 กรกฎาคม 2524',geo: [15.297222, 105.473611]},
+        {name:'ขุนขาน',province:'เชียงใหม่',announced:'18 พฤษภาคม 2555',geo: [18.853889, 98.623889]},
+        {name:'ขุนแจ',province:'เชียงราย',announced:'14 สิงหาคม 2538',geo: [19.153056, 99.467222]},
+        {name:'ขุนน่าน',province:'น่าน',announced:'15 กรกฎาคม 2552',geo: [19.183056, 101.1775]},
+        {name:'ขุนพะวอ',province:'ตาก',announced:'23 ธันวาคม 2552',geo: [17.038521, 98.627722]},
+        {name:'ขุนสถาน',province:'น่าน',announced:'25 มีนาคม 2560',geo: [18.091667, 100.588611]},
+        {name:'เขาค้อ',province:'เพชรบูรณ์',announced:'18 พฤษภาคม 2555',geo: [16.6667, 100.9667]},
+        {name:'เขาคิชฌกูฏ',province:'จันทบุรี',announced:'4 พฤษภาคม 2520',geo: [12.845556, 102.159722]},
+        {name:'เขาชะเมา-เขาวง',province:'ระยอง',announced:'31 ธันวาคม 2518',geo: [12.95, 101.74]},
+        {name:'เขานัน',province:'นครศรีธรรมราช',announced:'23 ธันวาคม 2552',geo: [8.75, 99.7]},
+        {name:'เขาน้ำค้าง',province:'สงขลา',announced:'22 กรกฎาคม 2534',geo: [6.556389, 100.595833]},
+        {name:'เขาปู่-เขาย่า',province:'พัทลุง',announced:'27 พฤษภาคม 2525',geo: [7.67845, 99.873071]},
+        {name:'เขาพนมเบญจา',province:'กระบี่',announced:'9 กรกฎาคม 2524',geo: [8.241944, 98.915278]},
+        {name:'เขาพระวิหาร',province:'ศรีสะเกษ',announced:'20 มีนาคม 2541',geo: [14.445069, 104.732922]},
+        {name:'เขาลำปี-หาดท้ายเหมือง',province:'พังงา',announced:'14 เมษายน 2529',geo: [8.422778, 98.241389]},
+        {name:'เขาสก',province:'สุราษฎร์ธานี',announced:'22 ธันวาคม 2523',geo: [8.936667, 98.530278]},
+        {name:'เขาสามร้อยยอด',province:'ประจวบคีรีขันธ์',announced:'28 มิถุนายน 2509',geo: [12.1825, 99.948333]},
+        {name:'เขาสิบห้าชั้น',province:'จันทบุรี',announced:'25 ธันวาคม 2552',geo: [12.923111, 101.750806]},
+        {name:'เขาหลวง',province:'นครศรีธรรมราช',announced:'18 ธันวาคม 2517',geo: [8.493333, 99.729444]},
+        {name:'เขาหลัก-ลำรู่',province:'พังงา',announced:'30 สิงหาคม 2534',geo: [8.698333, 98.280278]},
+        {name:'เขาแหลม',province:'กาญจนบุรี',announced:'8 พฤศจิกายน 2534',geo: [15.022222, 98.597222]},
+        {name:'เขาแหลมหญ้า-หมู่เกาะเสม็ด',province:'ระยอง',announced:'1 ตุลาคม 2524',geo: [12.590833, 101.416944]},
+        {name:'เขาใหญ่',province:'นครนายก',announced:'18 กันยายน 2505',geo: [14.35, 101.44]},
+        {name:'คลองพนม',province:'สุราษฎร์ธานี',announced:'17 พฤศจิกายน 2543',geo: [8.866667, 98.7]},
+        {name:'คลองลาน',province:'กำแพงเพชร',announced:'25 ธันวาคม 2525',geo: [16.199722, 99.201944]},
+        {name:'คลองวังเจ้า',province:'กำแพงเพชร',announced:'29 สิงหาคม 2533',geo: [16.412, 99.15]},
+        {name:'แควน้อย',province:'พิษณุโลก',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: [17.093056, 100.622778]},
+        {name:'แจ้ซ้อน',province:'ลำปาง',announced:'28 กรกฎาคม 2531',geo: [18.836389, 99.470556]},
+        {name:'เฉลิมพระเกียรติไทยประจัน',province:'ราชบุรี',announced:'24 มกราคม 2555',geo: [13.248611, 99.511556]},
+        {name:'เฉลิมรัตนโกสินทร์',province:'กาญจนบุรี',announced:'12 กุมภาพันธ์ 2523',geo: [14.796944, 99.181667]},
+        {name:'ดอยขุนตาล',province:'ลำพูน',announced:'5 มีนาคม 2518',geo: [18.470833, 99.284722]},
+        {name:'ดอยผากลอง',province:'แพร่',announced:'6 กรกฎาคม 2550',geo: [18.15278, 99.98733]},
+        {name:'ดอยผ้าห่มปก',province:'เชียงใหม่',announced:'4 กันยายน 2543',geo: [19.987778, 99.146389]},
+        {name:'ดอยภูคา',province:'น่าน',announced:'17 มิถุนายน 2542',geo: [19.200556, 101.068056]},
+        {name:'ดอยภูนาง',province:'พะเยา',announced:'13 มิถุนายน 2555',geo: [19, 100.16]},
+        {name:'ดอยเวียงผา',province:'เชียงใหม่',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: [19.67838, 99.19715]},
+        {name:'ดอยสุเทพ-ปุย',province:'เชียงใหม่',announced:'14 เมษายน 2524',geo: [18.809444, 98.915833]},
+        {name:'ดอยอินทนนท์',province:'เชียงใหม่',announced:'2 ตุลาคม 2515',geo: [18.592222, 98.486667]},
+        {name:'ต้นสักใหญ่',province:'อุตรดิตถ์',announced:'4 ธันวาคม 2546',geo: [17.683333, 100.95]},
+        {name:'ตะรุเตา',province:'สตูล',announced:'19 เมษายน 2517',geo: [6.595278, 99.644722]},
+        {name:'ตากสินมหาราช',province:'ตาก',announced:'23 ธันวาคม 2524',geo: [16.780278,98.928473]},
+        {name:'ตาดโตน',province:'ชัยภูมิ',announced:'31 ธันวาคม 2523',geo: [15.987778, 102.041389]},
+        {name:'ตาดหมอก',province:'เพชรบูรณ์',announced:'30 ตุลาคม 2541',geo: [16.468056, 101.390278]},
+        {name:'ตาพระยา',province:'สระแก้ว',announced:'22 พฤศจิกายน 2539',geo: [14.12, 102.66]},
+        {name:'ใต้ร่มเย็น',province:'สุราษฎร์ธานี',announced:'31 ธันวาคม 2534',geo: [8.87325, 99.476361]},
+        {name:'ถ้ำปลา-น้ำตกผาเสื่อ',province:'แม่ฮ่องสอน',announced:'23 ธันวาคม 2552',geo: [19.502222, 98.006389]},
+        {name:'ถ้ำผาไท',province:'ลำปาง',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: [18.605278, 99.8975]},
+        {name:'ถ้ำสะเกิน',province:'น่าน',announced:'21 เมษายน 2559',geo: [19.366741,100.54121]},
+        {name:'ทองผาภูมิ',province:'กาญจนบุรี',announced:'23 ธันวาคม 2552',geo: [14.692778, 98.403611]},
+        {name:'ทะเลบัน',province:'สตูล',announced:'27 ตุลาคม 2523',geo: [6.472778, 100.133889]},
+        {name:'ทับลาน',province:'ปราจีนบุรี',announced:'23 ธันวาคม 2524',geo: [14.2, 101.916667]},
+        {name:'ทุ่งแสลงหลวง',province:'พิษณุโลก',announced:'29 มกราคม 2506',geo: [16.827778, 100.87]},
+        {name:'ไทรทอง',province:'ชัยภูมิ',announced:'30 ธันวาคม 2535',geo: [15.871389, 101.515]},
+        {name:'ไทรโยค',province:'กาญจนบุรี',announced:'27 ตุลาคม 2523',geo: [14.417778, 98.747222]},
+        {name:'ธารโบกขรณี',province:'กระบี่',announced:'30 กันยายน 2541',geo: [8.3887,98.73432]},
+        {name:'ธารเสด็จ-เกาะพะงัน',province:'สุราษฎร์ธานี',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'นันทบุรี',province:'น่าน',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'นายูง-น้ำโสม',province:'อุดรธานี',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'น้ำตกคลองแก้ว',province:'ตราด',announced:'25 ธันวาคม 2552',geo: [12.58, 102.623611]},
+        {name:'น้ำตกเจ็ดสาวน้อย',province:'สระบุรี',announced:'26 ธันวาคม 2559',geo: [14.726111, 101.189167]},
+        {name:'น้ำตกชาติตระการ',province:'พิษณุโลก',announced:'2 พฤศจิกายน 2530',geo: [17.301841, 100.677525]},
+        {name:'น้ำตกซีโป',province:'นราธิวาส',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'น้ำตกทรายขาว',province:'ปัตตานี',announced:'28 พฤษภาคม 2551',geo: [6.657303,101.095502]},
+        {name:'น้ำตกพลิ้ว',province:'จันทบุรี',announced:'2 พฤษภาคม 2518',geo: [12.525278, 102.176944]},
+        {name:'น้ำตกพาเจริญ',province:'ตาก',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'น้ำตกแม่สุรินทร์',province:'แม่ฮ่องสอน',announced:'29 ตุลาคม 2524',geo: [19.140556, 98.032778]},
+        {name:'น้ำตกโยง',province:'นครศรีธรรมราช',announced:'22 กรกฎาคม 2534',geo: [8.17219, 99.74181]},
+        {name:'น้ำตกสามหลั่น',province:'สระบุรี',announced:'2 มิถุนายน 2524',geo: [14.437222, 100.963056]},
+        {name:'น้ำตกสี่ขีด',province:'นครศรีธรรมราช',announced:'17 มิถุนายน 2542',geo: [9, 99.7]},
+        {name:'น้ำตกหงาว',province:'ระนอง',announced:'2 มิถุนายน 2542',geo: [9.856334, 98.62766]},
+        {name:'น้ำตกห้วยยาง',province:'ประจวบคีรีขันธ์',announced:'8 ธันวาคม 2534',geo: [11.625839, 99.613796]},
+        {name:'น้ำพอง',province:'ขอนแก่น',announced:'15 พฤศจิกายน 2543',geo: [16.622222, 102.589444]},
+        {name:'น้ำหนาว',province:'เพชรบูรณ์',announced:'4 พฤษภาคม 2515',geo: [16.733611, 101.563056]},
+        {name:'บางลาง',province:'ยะลา',announced:'24 กุมภาพันธ์ 2542',geo: [6.00833, 101.160017]},
+        {name:'บูโด-สุไหงปาดี',province:'นราธิวาส',announced:'17 มิถุนายน 2542',geo: [6.467, 101.63]},
+        {name:'ปางสีดา',province:'สระแก้ว',announced:'22 กุมภาพันธ์ 2525',geo: [14.08, 102.26]},
+        {name:'ป่าหินงาม',province:'ชัยภูมิ',announced:'6 มิถุนายน 2550',geo: [15.659444, 101.39]},
+        {name:'ผาแดง',province:'เชียงใหม่',announced:'2 พฤศจิกายน 2543',geo: [19.628618, 98.956048]},
+        {name:'ผาแต้ม',province:'อุบลราชธานี',announced:'31 ธันวาคม 2534',geo: [15.4, 105.516667]},
+        {name:'พุเตย',province:'สุพรรณบุรี',announced:'30 กันยายน 2541',geo: [14.909, 99.46]},
+        {name:'ภูกระดึง',province:'เลย',announced:'23 พฤศจิกายน 2505',geo: [16.868056, 101.775833]},
+        {name:'ภูเก้า-ภูพานคำ',province:'หนองบัวลำภู',announced:'20 กันยายน 2528',geo: [16.810556, 102.611111]},
+        {name:'ภูจอง-นายอย',province:'อุบลราชธานี',announced:'1 มิถุนายน 2530',geo: [14.533333, 105.385833]},
+        {name:'ภูซาง',province:'พะเยา',announced:'2 พฤศจิกายน 2543',geo: [19.66014, 100.37518]},
+        {name:'ภูผาเทิบ',province:'มุกดาหาร',announced:'28 ธันวาคม 2531',geo: [16.439167, 104.756667]},
+        {name:'ภูผาม่าน',province:'ขอนแก่น',announced:'8 ธันวาคม 2534',geo: [16.743889, 102.001111]},
+        {name:'ภูผายล',province:'สกลนคร',announced:'28 กรกฎาคม 2531',geo: [16.929, 104.17748]},
+        {name:'ภูผาเหล็ก',province:'สกลนคร',announced:'23 ธันวาคม 2552',geo: [17.26727,103.45878]},
+        {name:'ภูพาน',province:'สกลนคร',announced:'13 พฤศจิกายน 2515',geo: [17.0625, 103.972778]},
+        {name:'ภูเรือ',province:'เลย',announced:'26 กรกฎาคม 2522',geo: [17.514722, 101.344722]},
+        {name:'ภูลังกา',province:'นครพนม',announced:'23 ธันวาคม 2552',geo: [17.984722, 104.14]},
+        {name:'ภูแลนคา',province:'ชัยภูมิ',announced:'27 กรกฎาคม 2550',geo: [16.010093, 101.890619]},
+        {name:'ภูเวียง',province:'ขอนแก่น',announced:'8 ธันวาคม 2534',geo: [16.678333, 102.353611]},
+        {name:'ภูสระดอกบัว',province:'มุกดาหาร',announced:'30 ธันวาคม 2535',geo: [16.2329585,104.7801077]},
+        {name:'ภูสวนทราย',province:'เลย',announced:'23 พฤศจิกายน 2537',geo: [17.503857, 100.939391]},
+        {name:'ภูสอยดาว',province:'พิษณุโลก',announced:'28 พฤษภาคม 2551',geo: [17.733333, 101]},
+        {name:'ภูหินร่องกล้า',province:'พิษณุโลก',announced:'26 กรกฎาคม 2527',geo: [16.976667, 101.04]},
+        {name:'แม่เงา',province:'แม่ฮ่องสอน',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'แม่จริม',province:'น่าน',announced:'6 กรกฎาคม 2550',geo: [18.6015, 100.9802]},
+        {name:'แม่ตะไคร้',province:'เชียงใหม่',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'แม่โถ',province:'เชียงใหม่',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'แม่ปิง',province:'ลำพูน',announced:'13 กรกฎาคม 2524',geo: [17.566667, 98.8]},
+        {name:'แม่ปืม',province:'พะเยา',announced:'25 ธันวาคม 2552',geo: [19.35116, 99.86911]},
+        {name:'แม่เมย',province:'ตาก',announced:'20 พฤษภาคม 2542',geo: [17.48206, 98.0738]},
+        {name:'แม่ยม',province:'แพร่',announced:'1 มีนาคม 2529',geo: [18.62588, 100.16355]},
+        {name:'แม่วงก์',province:'กำแพงเพชร',announced:'14 กันยายน 2530',geo: [16.039722, 99.234444]},
+        {name:'แม่วะ',province:'ลำปาง',announced:'17 พฤศจิกายน 2543',geo: [17.4482, 99.22482]},
+        {name:'แม่วาง',province:'เชียงใหม่',announced:'20 พฤศจิกายน 2552',geo: [18.5268, 98.75415]},
+        {name:'รามคำแหง',province:'สุโขทัย',announced:'27 ตุลาคม 2523',geo: [16.908333, 99.65]},
+        {name:'ลานสาง',province:'ตาก',announced:'14 พฤษภาคม 2522',geo: [16.783333, 99.016667]},
+        {name:'ลำคลองงู',province:'กาญจนบุรี',announced:'25 ธันวาคม 2552',geo: [14.907592, 98.735801]},
+        {name:'ลำน้ำกระบุรี',province:'ระนอง',announced:'21 เมษายน 2542',geo: [10.084378, 98.662353]},
+        {name:'ลำน้ำน่าน',province:'แพร่',announced:'30 กันยายน 2541',geo: [18.063333, 100.548611]},
+        {name:'ศรีน่าน',province:'น่าน',announced:'25 พฤษภาคม 2550',geo: [18.36751, 100.83993]},
+        {name:'ศรีพังงา',province:'พังงา',announced:'16 เมษายน 2531',geo: [8.9971566,98.459107]},
+        {name:'ศรีลานนา',province:'เชียงใหม่',announced:'1 สิงหาคม 2532',geo: [19.282222, 99.091111]},
+        {name:'ศรีสัชนาลัย',province:'สุโขทัย',announced:'8 พฤษภาคม 2524',geo: [17.58, 99.51]},
+        {name:'สันกาลาคีรี',province:'สงขลา',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'สาละวิน',province:'แม่ฮ่องสอน',announced:'9 พฤศจิกายน 2537',geo: [18.166667, 97.883333]},
+        {name:'สิรินาถ',province:'ภูเก็ต',announced:'13 กรกฎาคม 2524',geo: [8.088056, 98.296111]},
+        {name:'หมู่เกาะช้าง',province:'ตราด',announced:'31 ธันวาคม 2525',geo: [12.054425, 102.34623]},
+        {name:'หมู่เกาะชุมพร',province:'ชุมพร',announced:'24 กุมภาพันธ์ 2542',geo: [10.356435, 99.231077]},
+        {name:'หมู่เกาะเภตรา',province:'สตูล',announced:'31 ธันวาคม 2527',geo: [6.85, 99.533333]},
+        {name:'หมู่เกาะระนอง',province:'ระนอง',announced:'23 ธันวาคม 2552',geo: [9.87492, 98.587346]},
+        {name:'หมู่เกาะลันตา',province:'กระบี่',announced:'15 สิงหาคม 2533',geo: [7.47051, 99.09779]},
+        {name:'หมู่เกาะสิมิลัน',province:'พังงา',announced:'1 กันยายน 2525',geo: [8.6525, 97.640833]},
+        {name:'หมู่เกาะสุรินทร์',province:'พังงา',announced:'9 กรกฎาคม 2524',geo: [9.416667, 97.866667]},
+        {name:'หมู่เกาะอ่างทอง',province:'สุราษฎร์ธานี',announced:'12 พฤศจิกายน 2523',geo: [9.622778, 99.675]},
+        {name:'ห้วยน้ำดัง',province:'เชียงใหม่',announced:'14 สิงหาคม 2538',geo: [19.2987, 98.5961]},
+        {name:'หาดขนอม-หมู่เกาะทะเลใต้',province:'นครศรีธรรมราช',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'หาดเจ้าไหม',province:'ตรัง',announced:'14 ตุลาคม 2524',geo: [7.397, 99.33]},
+        {name:'หาดนพรัตน์ธารา-หมู่เกาะพีพี',province:'กระบี่',announced:'6 ตุลาคม 2526',geo: [7.7333, 98.7667]},
+        {name:'หาดวนกร',province:'ประจวบคีรีขันธ์',announced:'30 ธันวาคม 2535',geo: [11.598611, 99.676111]},
+        {name:'แหลมสน',province:'ระนอง',announced:'19 สิงหาคม 2526',geo: [9.604, 98.466]},
+        {name:'ออบขาน',province:'เชียงใหม่',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'ออบหลวง',province:'เชียงใหม่',announced:'4 ธันวาคม 2534',geo: [18.223056, 98.481111]},
+        {name:'อ่าวพังงา',province:'พังงา',announced:'29 เมษายน 2524',geo: [8.35, 98.483333]},
+        {name:'อ่าวมะนาว-เขาตันหยง',province:'นราธิวาส',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
+        {name:'เอราวัณ',province:'กาญจนบุรี',announced:'19 มิถุนายน 2518',geo: [14.383333, 99.116667]},
+    ]
+    const z = 9
+    var open_count = 0
+    for (let park of nationalParks) {
+        // console.log(park.geo.length,open_count)
+        if (/^\d{1,2}\s.+\s2\d{3}$/.test(park.announced)) {
+            // console.log(`${park.name} ${park.province} ${park.announced}`)
+            L.marker(park.geo,)
+            .addTo(mymap).bindPopup(`อุทยานแห่งชาติ<h2>${park.name}</h2>
+            จังหวัด<h3>${park.province}</h3>
+            <a href="https://th.wikipedia.org/wiki/อุทยานแห่งชาติ${park.name}" target="_blank"><img src="../src/images/wikipedia.png"></a>
+            <img src="../src/images/intel.webp" onclick="window.open('https://intel.ingress.com/intel?ll=${park.geo[0]},${park.geo[1]}&z=${z}', '_blank')">
+            <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${park.geo[0]},${park.geo[1]}', '_blank')">
+            `)
+        } 
+        // else {
+            //     console.log(`${park.name} Error`)
+            // }
+    }
+    L.marker([15.298283, 98.4484919],)
+    .addTo(mymap).bindPopup(`เขตรักษาพันธุ์สัตว์ป่าทุ่งใหญ่นเรศวร<h3>Black Panther Killed Here by เปรมชัย</h3>
+    จังหวัด<h4>กาญจนบุรี</h4>
+    <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=15.298283, 98.4484919', '_blank')">
+    `)
 })
