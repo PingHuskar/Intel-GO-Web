@@ -11,32 +11,34 @@ const iconProps = {
     shadowAnchor: [22, 94]
 }
 
-var mymap, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
+var map, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
 $(document).ready(function(){
-    mymap = L.map(`mapdiv`,{
+
+    lyrOSM = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
+        maxZoom: 20,
+        attribution: '<a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> | Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    });
+    map = L.map(`mapdiv`,{
         center:[ 13.769028, 100.540186],
         zoom: 6,
         zoomControl:false,
         // dragging:false,
         // minZoom:10,
         // maxZoom:14
-        attributionControl:false
+        attributionControl:false,
+        layers: [lyrOSM]
     })
-    lyrOSM = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
-        maxZoom: 20,
-        attribution: '<a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> | Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    });
-    mymap.addLayer(lyrOSM)
+    // map.addLayer(lyrOSM)
 
     // https://github.com/kartena/Leaflet.Pancontrol
-    // ctlPan = L.control.pan().addTo(mymap)
+    // ctlPan = L.control.pan().addTo(map)
 
     // https://github.com/kartena/Leaflet.zoomslider
-    ctlZoomslider = L.control.zoomslider({position:"topright"}).addTo(mymap)
+    ctlZoomslider = L.control.zoomslider({position:"topright"}).addTo(map)
 
-    ctlMeasure = L.control.polylineMeasure().addTo(mymap);
+    ctlMeasure = L.control.polylineMeasure().addTo(map);
 
-    ctlAttribute = L.control.attribution({position:'bottomleft'}).addTo(mymap)
+    ctlAttribute = L.control.attribution({position:'bottomleft'}).addTo(map)
     ctlAttribute.addAttribution(`Cyclosm`) //Open Street Map
     ctlAttribute.addAttribution(`<a href="https://github.com/pinghuskar">Chadin Chaipornpisuth</a>`)
 
@@ -45,7 +47,7 @@ $(document).ready(function(){
         metric:false,
         maxWidth:200
         // https://leafletjs.com/reference.html#control-scale
-    }).addTo(mymap)
+    }).addTo(map)
 
     const nationalParks = [
         {name:'กุยบุรี',province:'ประจวบคีรีขันธ์',announced:'25 มีนาคม 2542',geo: [12.051667,99.557222]},
@@ -191,27 +193,50 @@ $(document).ready(function(){
         {name:'อ่าวมะนาว-เขาตันหยง',province:'นราธิวาส',announced:'ยังไม่มีประกาศจัดตั้งในราชกิจจานุเบกษา',geo: []},
         {name:'เอราวัณ',province:'กาญจนบุรี',announced:'19 มิถุนายน 2518',geo: [14.383333, 99.116667]},
     ]
-    const z = 9
-    var open_count = 0
+    // const z = 9
+    // var open_count = 0
+    var markers = L.markerClusterGroup()
     for (let park of nationalParks) {
         // console.log(park.geo.length,open_count)
         if (/^\d{1,2}\s.+\s2\d{3}$/.test(park.announced)) {
             // console.log(`${park.name} ${park.province} ${park.announced}`)
-            L.marker(park.geo,)
-            .addTo(mymap).bindPopup(`อุทยานแห่งชาติ<h2>${park.name}</h2>
+            // markers.addLayer(
+            //     L.marker(new L.LatLng(park.geo), { title: `อุทยานแห่งชาติ${park.name}` })
+            //     .bindPopup(`อุทยานแห่งชาติ${park.name}`)
+            // )
+
+			markers.addLayer(L.marker(new L.LatLng(...park.geo), { title: `อุทยานแห่งชาติ${park.name}` })
+			.bindPopup(`อุทยานแห่งชาติ<h2>${park.name}</h2>
             จังหวัด<h3>${park.province}</h3>
             <a href="https://th.wikipedia.org/wiki/อุทยานแห่งชาติ${park.name}" target="_blank"><img src="../src/images/wikipedia.png"></a>
-            <img src="../src/images/intel.webp" onclick="window.open('https://intel.ingress.com/intel?ll=${park.geo[0]},${park.geo[1]}&z=${z}', '_blank')">
             <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${park.geo[0]},${park.geo[1]}', '_blank')">
-            `)
+            `))
+
+
+            // markers.addLayer(L.marker(park.geo,)
+            // .addTo(map).bindPopup(`อุทยานแห่งชาติ<h2>${park.name}</h2>
+            // จังหวัด<h3>${park.province}</h3>
+            // <a href="https://th.wikipedia.org/wiki/อุทยานแห่งชาติ${park.name}" target="_blank"><img src="../src/images/wikipedia.png"></a>
+            // <img src="../src/images/intel.webp" onclick="open('https://intel.ingress.com/intel?ll=${park.geo[0]},${park.geo[1]}&z=${z}', '_blank')">
+            // <img src="../src/images/googlemaps.png" onclick="open('https://www.google.com/maps?daddr=${park.geo[0]},${park.geo[1]}', '_blank')">
+            // `))
         } 
         // else {
             //     console.log(`${park.name} Error`)
             // }
     }
-    L.marker([15.298283, 98.4484919],)
-    .addTo(mymap).bindPopup(`เขตรักษาพันธุ์สัตว์ป่าทุ่งใหญ่นเรศวร<h3>Black Panther Killed Here by เปรมชัย</h3>
-    จังหวัด<h4>กาญจนบุรี</h4>
-    <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=15.298283, 98.4484919', '_blank')">
-    `)
+    // markers.addLayer(L.marker([15.298283, 98.4484919],)
+    // .addTo(map).bindPopup(`เขตรักษาพันธุ์สัตว์ป่าทุ่งใหญ่นเรศวร<h3>Black Panther Killed Here by เปรมชัย</h3>
+    // จังหวัด<h4>กาญจนบุรี</h4>
+    // <img src="../src/images/googlemaps.png" onclick="open('https://www.google.com/maps?daddr=15.298283, 98.4484919', '_blank')">
+    // `))
+
+    markers.addLayer(L.marker(new L.LatLng(15.298283, 98.4484919), { title: `เขตรักษาพันธุ์สัตว์ป่าทุ่งใหญ่นเรศวร` })
+			.bindPopup(`เขตรักษาพันธุ์สัตว์ป่าทุ่งใหญ่นเรศวร<h3>Black Panther Killed Here by เปรมชัย</h3>
+            จังหวัด<h4>กาญจนบุรี</h4>
+            <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=15.298283,98.4484919', '_blank')">
+            <img src="https://ichef.bbci.co.uk/news/800/cpsprodpb/15041/production/_99918068_044554722.jpg" onclick="window.open('https://www.bbc.com/thai/thailand-47620949', '_blank')" style="width:${150}px;">
+            `))
+
+    map.addLayer(markers)
 })
