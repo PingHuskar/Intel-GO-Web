@@ -12,6 +12,9 @@
 - MRT<Metropolitan Rapid Transit>
   - Blue Line
   - Purple Line
+  - Pink Line
+  - Orange Line
+  - Yellow Line
 - ARL<Airport Rail Link>
 - BRT<Bangkok Rapid Transit>
 - SRT<State Railway of Thailand>

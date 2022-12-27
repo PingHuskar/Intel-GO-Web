@@ -12093,6 +12093,38 @@ a.polyline-measure-clearControl:active {
   line-height: 11px;
 }
 
+.parallax-marker.label {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(98, 56, 128);
+  text-transform: uppercase;
+  text-shadow: rgb(255, 255, 255) 1px 0px 1px, rgb(255, 255, 255) -1px 0px 1px, rgb(255, 255, 255) 0px -1px 1px, rgb(255, 255, 255) 0px 1px 1px;
+}
+
+.parallax-marker.label.huge {
+  font-size: 96px;
+  color: rgba(185, 157, 185, 0.39);
+  text-shadow: none;
+}
+
+.parallax-marker.label.big {
+  font-size: 24px;
+}
+
+.parallax-marker.label.medium {
+  font-size: 16px;
+  color: rgb(121, 85, 125);
+  font-weight: normal;
+}
+
+.parallax-marker.label.small {
+  font-size: 12px;
+  text-transform: none;
+  font-weight: normal;
+  color: rgb(137, 128, 144);
+}
+
 a {
   text-decoration: none;
   transition: all 0.5s;
