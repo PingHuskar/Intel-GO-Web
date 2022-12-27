@@ -36,6 +36,9 @@ const MRTpinkline = L.icon({
 const MRTorangeline = L.icon({
         iconUrl: '../src/images/marker-icon-2x-orange.png',...iconProps
 })
+const MRTyellowline = L.icon({
+        iconUrl: '../src/images/marker-icon-2x-yellow.png',...iconProps
+})
 const ARLicon = L.icon({
         iconUrl: '../src/images/marker-icon-2x-red.png',...iconProps
 })
@@ -3448,6 +3451,449 @@ $(document).ready(function(){
                 }
             ],
             icon: MRTorangeline
+        },
+        {
+            name: "ลาดพร้าว",
+            original_name: "รัชดา",
+            en: "",
+            id: "YL01",
+			radius: 500,
+			latlng: [13.807111, 100.574836],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ภาวนา",
+            en: "",
+            id: "YL02",
+			radius: 500,
+			latlng: [13.800192, 100.584174],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "โชคชัย 4",
+            en: "",
+            id: "YL03",
+			radius: 500,
+			latlng: [13.794425, 100.594409],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ลาดพร้าว 71",
+            en: "",
+            id: "YL04",
+			radius: 500,
+			latlng: [13.787044, 100.607632],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ลาดพร้าว 83",
+            en: "",
+            id: "YL05",
+			radius: 500,
+			latlng: [13.783662, 100.613796],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "มหาดไทย",
+            en: "",
+            id: "YL06",
+			radius: 500,
+			latlng: [13.778327, 100.623259],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ลาดพร้าว 101",
+            en: "",
+            id: "YL07",
+			radius: 500,
+			latlng: [13.774623, 100.629916],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "บางกะปิ",
+            en: "",
+            id: "YL08",
+			radius: 500,
+			latlng: [13.768974, 100.63998],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "แยกลำสาลี",
+            en: "",
+            id: "YL09",
+			radius: 500,
+			latlng: [13.762013, 100.645564],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ลาดพร้าว",
+            en: "",
+            id: "YL10",
+			radius: 500,
+			latlng: [],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ศรีกรีฑา",
+            en: "",
+            id: "YL10",
+			radius: 500,
+			latlng: [13.750482, 100.644824],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "หัวหมาก",
+            en: "",
+            id: "YL11",
+			radius: 500,
+			latlng: [13.736042, 100.641101],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "กลันตัน",
+            en: "",
+            id: "YL12",
+			radius: 500,
+			latlng: [13.725324, 100.641782],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ศรีนุช",
+            en: "",
+            id: "YL13",
+			radius: 500,
+			latlng: [13.710776, 100.64425],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ศรีนครินทร์ 38",
+            en: "",
+            id: "YL14",
+			radius: 500,
+			latlng: [13.701038, 100.646471],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "สวนหลวง ร.9",
+            en: "",
+            id: "YL15",
+			radius: 500,
+			latlng: [13.690799, 100.647088],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ศรีอุดม",
+            en: "",
+            id: "YL16",
+			radius: 500,
+			latlng: [13.676574, 100.646165],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ศรีเอี่ยม",
+            en: "",
+            id: "YL17",
+			radius: 500,
+			latlng: [13.667891, 100.645108],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ศรีลาซาล",
+            en: "",
+            id: "YL18",
+			radius: 500,
+			latlng: [13.654832, 100.642099],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ศรีแบริ่ง",
+            en: "",
+            id: "YL19",
+			radius: 500,
+			latlng: [13.643369, 100.636209],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ศรีด่าน",
+            en: "",
+            id: "YL20",
+			radius: 500,
+			latlng: [13.63312, 100.630109],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ศรีเทพา",
+            en: "",
+            id: "YL21",
+			radius: 500,
+			latlng: [13.629721, 100.623012],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "ทิพวัล",
+            en: "",
+            id: "YL22",
+			radius: 500,
+			latlng: [13.636737, 100.609939],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "สำโรง",
+            en: "",
+            id: "YL23",
+			radius: 500,
+			latlng: [13.645141, 100.596464],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "จันทรเกษม",
+            en: "",
+            id: "YLEX01",
+			radius: 500,
+			latlng: [13.815056, 100.575382],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
+        },
+        {
+            name: "พหลโยธิน 24",
+            en: "",
+            id: "YLEX02",
+			radius: 500,
+			latlng: [13.826589, 100.568579],
+            type: "YL",
+            bannergress: [
+                {
+                    path: "",
+                    bg: "",
+                    w: 240,
+                    h: 480,
+                }
+            ],
+            icon: MRTyellowline
         },
         
     ]
