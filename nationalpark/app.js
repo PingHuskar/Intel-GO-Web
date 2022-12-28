@@ -205,12 +205,13 @@ $(document).ready(function(){
             //     .bindPopup(`อุทยานแห่งชาติ${park.name}`)
             // )
 
-			markers.addLayer(L.marker(new L.LatLng(...park.geo), { title: `อุทยานแห่งชาติ${park.name}` })
+			markers.addLayer(L.marker(new L.LatLng(...park.geo))
 			.bindPopup(`อุทยานแห่งชาติ<h2>${park.name}</h2>
             จังหวัด<h3>${park.province}</h3>
             <a href="https://th.wikipedia.org/wiki/อุทยานแห่งชาติ${park.name}" target="_blank"><img src="../src/images/wikipedia.png"></a>
             <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${park.geo[0]},${park.geo[1]}', '_blank')">
-            `))
+            `).bindTooltip(`อุทยานแห่งชาติ${park.name}`).openTooltip()
+            )
 
 
             // markers.addLayer(L.marker(park.geo,)
