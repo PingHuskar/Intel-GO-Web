@@ -4032,21 +4032,4 @@ $(document).ready(function(){
         L.marker(textMarkersBig.latlng,{icon: icon}).addTo(map);
     }
 
-    var textMarkersMediums = [
-        {html: `The quick`, latlng: {lat: 63.42287395311381, lng: 10.387744903564455} },
-        {html: `Brown fox`, latlng:  {lat: 63.42425634961289, lng: 10.40782928466797} },
-        {html: `Jumps over`, latlng: {lat: 63.419648101985715, lng: 10.42302131652832} },
-        {html: `The lazy`, latlng: {lat: 63.412811170054, lng: 10.414695739746096} },
-        {html: `Dog`, latlng: {lat: 63.411120890614214, lng: 10.387744903564455} },
-        {html: `The Foxy Dog`, latlng:  {lat: 63.41911042483627, lng: 10.392723083496096} },
-        {html: `Crawls under`, latlng:  {lat: 63.41672916195147, lng: 10.378475189208986} },
-        {html: `The doggy horse`, latlng:   {lat: 63.42928617415903, lng: 10.40456771850586} }
-    ]
-
-
-    for(let textMarkersMedium of textMarkersMediums){
-        var icon =  L.divIcon({className: 'parallax-marker label medium', html: textMarkersMedium.html, iconSize: [200, 36], iconAnchor: [100, 18]});
-        L.Marker.parallax(textMarkersMedium.latlng,{icon: icon, parallaxZoffset: 1}).addTo(map);
-    }
-
 })
