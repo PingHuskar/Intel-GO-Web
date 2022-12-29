@@ -23326,72 +23326,55 @@ const getInventory = {
 // console.log(typeof(getInventory["result"][0]))
 // console.log(getInventory["result"][0])
 var map, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
-$(document).ready(function(){
 
-    lyrOSM = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
-        maxZoom: 20,
-        attribution: '<a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> | Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    });
-    map = L.map(`mapdiv`,{
-        center:[ 13.769028, 100.540186],
-        zoom: 6,
-        zoomControl:false,
-        // dragging:false,
-        // minZoom:10,
-        // maxZoom:14
-        attributionControl:false,
-        layers: [lyrOSM]
-    })
-    // map.addLayer(lyrOSM)
-
-    // https://github.com/kartena/Leaflet.Pancontrol
-    // ctlPan = L.control.pan().addTo(map)
-
-    // https://github.com/kartena/Leaflet.zoomslider
-    ctlZoomslider = L.control.zoomslider({position:"topright"}).addTo(map)
-
-    ctlMeasure = L.control.polylineMeasure().addTo(map);
-
-    ctlAttribute = L.control.attribution({position:'bottomleft'}).addTo(map)
-    ctlAttribute.addAttribution(`Cyclosm`) //Open Street Map
-    ctlAttribute.addAttribution(`<a href="https://github.com/pinghuskar">Chadin Chaipornpisuth</a>`)
-
-    ctlScale = L.control.scale({
-        position:'bottomleft',
-        metric:false,
-        maxWidth:200
-        // https://leafletjs.com/reference.html#control-scale
-    }).addTo(map)
-
-    var markers = L.markerClusterGroup()
-
-    for (let item of getInventory["result"]) {
-        var current_item = item[item.length - 1]
-        try {
-            if (current_item.resource.resourceType === `PORTAL_LINK_KEY`) {
-                // console.log()
-                var [encode_lat,encode_lng] = current_item.portalCoupler.portalLocation.split(",")
-                var [lat,lng] = [parseInt(encode_lat,16)/10**6,parseInt(encode_lng,16)/10**6]
-                // console.log(lat,lng)
-                markers.addLayer(L.marker(new L.LatLng(lat, lng), { title: `${current_item.portalCoupler.portalTitle}` })
-                .bindPopup(`<h2>${current_item.portalCoupler.portalTitle}</h2>
-                <h3>${lat}, ${lng}</h3>
-                <p>${current_item.portalCoupler.portalAddress}</p>
-                <img src="${current_item.portalCoupler.portalImageUrl}">
-                `))
-            }
-    
-            // "portalGuid": "98d01b462222400bba37d3be2afa8d9b.16",
-            // "portalLocation": "00d217a1,05fe1e5f",
-            // "portalImageUrl": "http://lh3.googleusercontent.com/UAcgrgVoJzbvDgXmeIgbPkWLDGcd-bOHJamI6KItpj0vcnjFJHew9-WGd6oVeyyQYcvfl8DZfToer7TCa-GV8Xzhz48",
-            // "portalTitle": "Sanampao Market Shrine",
-            // "portalAddress": "219/1 Phaholyothin Road, Samsen Nai, Phaya Thai, Bangkok 10400, Thailand"
-    
-            // console.log(item[item.length - 1].resource.resourceRarity)
-        } catch (err) {
-            continue
-        }
-    }
-    map.addLayer(markers)
-
+lyrOSM = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
+    maxZoom: 20,
+    attribution: '<a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> | Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+});
+map = L.map(`mapdiv`,{
+    center:[ 13.769028, 100.540186],
+    zoom: 6,
+    zoomControl:false,
+    // dragging:false,
+    // minZoom:10,
+    // maxZoom:14
+    attributionControl:false,
+    layers: [lyrOSM]
 })
+// map.addLayer(lyrOSM)
+// https://github.com/kartena/Leaflet.Pancontrol
+// ctlPan = L.control.pan().addTo(map)
+// https://github.com/kartena/Leaflet.zoomslider
+ctlZoomslider = L.control.zoomslider({position:"topright"}).addTo(map)
+ctlMeasure = L.control.polylineMeasure().addTo(map);
+ctlAttribute = L.control.attribution({position:'bottomleft'}).addTo(map)
+ctlAttribute.addAttribution(`Cyclosm`) //Open Street Map
+ctlAttribute.addAttribution(`<a href="https://github.com/pinghuskar">Chadin Chaipornpisuth</a>`)
+ctlScale = L.control.scale({
+    position:'bottomleft',
+    metric:false,
+    maxWidth:200
+    // https://leafletjs.com/reference.html#control-scale
+}).addTo(map)
+var markers = L.markerClusterGroup()
+for (let item of getInventory["result"]) {
+    var current_item = item[item.length - 1]
+    try {
+        if (current_item.resource.resourceType === `PORTAL_LINK_KEY`) {
+            // console.log()
+            var [encode_lat,encode_lng] = current_item.portalCoupler.portalLocation.split(",")
+            var [lat,lng] = [parseInt(encode_lat,16)/10**6,parseInt(encode_lng,16)/10**6]
+            // console.log(lat,lng)
+            markers.addLayer(L.marker(new L.LatLng(lat, lng), { title: `${current_item.portalCoupler.portalTitle}` })
+            .bindPopup(`<h2>${current_item.portalCoupler.portalTitle}</h2>
+            <h3>${lat}, ${lng}</h3>
+            <p>${current_item.portalCoupler.portalAddress}</p>
+            <img src="${current_item.portalCoupler.portalImageUrl}">
+            `))
+        }
+    } catch (err) {
+        continue
+    }
+}
+
+map.addLayer(markers)

@@ -49,7 +49,7 @@ const BRT = L.icon({
         iconUrl: '../src/images/1200px-Bangkok_BRT_logo.png',...BRTProps
 })
 var map, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
-$(document).ready(function(){
+
     map = L.map(`mapdiv`,{
         // center:[13.6592, 100.3991],
         center:[ 13.769028, 100.540186],
@@ -4032,4 +4032,3 @@ $(document).ready(function(){
         L.marker(textMarkersBig.latlng,{icon: icon}).addTo(map);
     }
 
-})
