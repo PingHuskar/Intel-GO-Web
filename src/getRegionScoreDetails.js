@@ -2,8 +2,7 @@
 // 2341
 // 3412
 // 4123
-$(document).ready(function(){
-	const FOUR_COLOR = ["lime", "cyan", "pink", "yellow"]
+const FOUR_COLOR = ["lime", "cyan", "pink", "yellow"]
 // https://fevgames.net/ingress/ingress-guide/ops/scores/
 const region_th = [
 	{
@@ -88,5 +87,3 @@ for (let region of region_th) {
 		L.polygon(region.regionVertices.map(a => regionVerticesToPloygon(a)), {color: region.color}).addTo(map)
 	}
 }
-
-})
