@@ -2247,8 +2247,10 @@ var map, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale
             icon: SRTredline
         },
         {
-            name: "บางซื่อ",
-            en: "Bang Sue",
+            name: "ค่าโง่ 33 ล้าน",
+            original_name: "บางซื่อ",
+            en: "1 Million Dollar Label Station",
+            AKA: "Bang Sue",
             id: "",
 			radius: 500,
 			latlng: [13.804138, 100.539944],
