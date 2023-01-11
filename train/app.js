@@ -3640,7 +3640,7 @@ map.on('contextmenu', function(e) {
     var lng = e.latlng.lng.toFixed(6)
     const z = 17
     const windy_zoom = 8
-    L.marker(e.latlng).addTo(map).bindPopup(
+    L.marker(e.latlng).bindPopup(
         `
             ${e.latlng.toString()}
             <br>${dtCurrentTime.toString()}
@@ -3652,7 +3652,7 @@ map.on('contextmenu', function(e) {
             <img src="../src/images/NO2.jpg" onclick="window.open('https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}', '_blank')">
             <img src="../src/images/pm.jpg" onclick="window.open('https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${lat},${lng},${windy_zoom}', '_blank')">
             `
-    )
+    ).bindTooltip(`${key.portalTitle}`).openTooltip().addTo(map)
     // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
 })
 map.on('keypress', function(e) {
