@@ -31,7 +31,7 @@ ctlScale = L.control.scale({
     // https://leafletjs.com/reference.html#control-scale
 }).addTo(map)
 
-var NonKeys = {
+const NonKeys = {
     "EMP_BURSTER": {
         1: 0,
         2: 0,
@@ -62,6 +62,7 @@ var NonKeys = {
         7: 0,
         8: 0,
     },
+    "BOOSTED_POWER_CUBE": 0,
     "ULTRA_STRIKE": {
         1: 0,
         2: 0,
@@ -142,7 +143,6 @@ var NonKeys = {
 const AddImageToMap = (key,lat,lng) => {
     L.marker([lat,lng], 
         {icon: new LeafIcon({iconUrl: `${key.portalImageUrl}`})})
-        // {icon: new LeafIcon({iconUrl: `https://lh3.googleusercontent.com/${portal.img}`})})
     .bindPopup(
         `
         <h2>${key.portalTitle}</h2>
@@ -192,6 +192,9 @@ const getItemDetail = (item) => {
         } else if (item["resource"]["resourceType"] === `PLAYER_POWERUP`) {
             NonKeys[`PLAYER_POWERUP`][item.playerPowerupResource.playerPowerupEnum]++
             return `${item.playerPowerupResource.playerPowerupEnum}`
+        } else if (item["resource"]["resourceType"] === `BOOSTED_POWER_CUBE`) {
+            NonKeys[`BOOSTED_POWER_CUBE`]++
+            return `${item.BOOSTED_POWER_CUBE}`
         } else if (item["resource"]["resourceType"] === `FLIP_CARD`) {
             NonKeys[`FLIP_CARD`][item.flipCard.flipCardType]++
             return `${item.flipCard.flipCardType}`
@@ -199,6 +202,9 @@ const getItemDetail = (item) => {
             NonKeys[`PORTAL_POWERUP`][item.timedPowerupResource.designation]++
             return `${item.timedPowerupResource.designation}`
         } else if (/CAPSULE$/.test(item["resource"]["resourceType"])) {
+            if (item.container.currentCount !== 0) {
+                console.log(item)
+            }
             NonKeys["CAPSULE"][item["resource"]["resourceType"]]++
             return `${item.resource.resourceType}`
         } else {
@@ -232,8 +238,31 @@ for (let item of getInventory["result"]) {
     
 }
 
-// console.log(getInventory["result"].length)
-// console.log(count+resourceWithLevels)
-// console.log(count, resourceWithLevels)
-console.log(NonKeys)
+const ap = NonKeys.PLAYER_POWERUP.APEX
+const jv = NonKeys.FLIP_CARD.JARVIS
+const ad = NonKeys.FLIP_CARD.ADA
+const qc = NonKeys.CAPSULE.INTEREST_CAPSULE
+const c = NonKeys.CAPSULE.CAPSULE
+const kc = NonKeys.CAPSULE.KINETIC_CAPSULE
+const hs = NonKeys.HEATSINK.COMMON + NonKeys.HEATSINK.RARE + NonKeys.HEATSINK.VERY_RARE
+const mh = NonKeys.MULTIHACK.COMMON + NonKeys.MULTIHACK.RARE + NonKeys.MULTIHACK.VERY_RARE
+const ps = NonKeys.RES_SHIELD.COMMON + NonKeys.RES_SHIELD.RARE + NonKeys.RES_SHIELD.VERY_RARE + NonKeys.EXTRA_SHIELD.VERY_RARE
+const re = NonKeys.EMITTER_A["1"] + NonKeys.EMITTER_A["2"] + NonKeys.EMITTER_A["3"] + NonKeys.EMITTER_A["4"] + 
+            NonKeys.EMITTER_A["5"] + NonKeys.EMITTER_A["6"] + NonKeys.EMITTER_A["7"] + NonKeys.EMITTER_A["8"]
+const xmp = NonKeys.EMP_BURSTER["1"] + NonKeys.EMP_BURSTER["2"] + NonKeys.EMP_BURSTER["3"] + NonKeys.EMP_BURSTER["4"] + 
+            NonKeys.EMP_BURSTER["5"] + NonKeys.EMP_BURSTER["6"] + NonKeys.EMP_BURSTER["7"] + NonKeys.EMP_BURSTER["8"]
+const us = NonKeys.ULTRA_STRIKE["1"] + NonKeys.ULTRA_STRIKE["2"] + NonKeys.ULTRA_STRIKE["3"] + NonKeys.ULTRA_STRIKE["4"] + 
+            NonKeys.ULTRA_STRIKE["5"] + NonKeys.ULTRA_STRIKE["6"] + NonKeys.ULTRA_STRIKE["7"] + NonKeys.ULTRA_STRIKE["8"]
+const la = NonKeys.LINK_AMPLIFIER.RARE
+const sb = NonKeys.ULTRA_LINK_AMP.VERY_RARE
+const pc = NonKeys.POWER_CUBE["1"] + NonKeys.POWER_CUBE["2"] + NonKeys.POWER_CUBE["3"] + NonKeys.POWER_CUBE["4"] + 
+            NonKeys.POWER_CUBE["5"] + NonKeys.POWER_CUBE["6"] + NonKeys.POWER_CUBE["7"] + NonKeys.POWER_CUBE["8"]
+const hc = NonKeys.BOOSTED_POWER_CUBE
+const fa = NonKeys.FORCE_AMP.RARE
+const tu = NonKeys.TURRET.RARE
+const tp = NonKeys.TRANSMUTER_DEFENSE.VERY_RARE
+const tm = NonKeys.TRANSMUTER_ATTACK.VERY_RARE
 
+const params = `ap=${ap}&ad=${ad}&jv=${jv}&qc=${qc}&c=${c}&kc=${kc}&hs=${hs}&mh=${mh}&ps=${ps}&re=${re}&xmp=${xmp}&us=${us}&la=${la}&sb=${sb}&pc=${pc}&hc=${hc}&fa=${fa}&tu=${tu}&tp=${tp}&tm=${tm}`
+let domain = Math.round(Math.random()) ? `https://pinghuskar.github.io/Ingressventory` : `https://lively-sfogliatella-516092.netlify.app`
+open(`${domain}?${params}`, "_blank")
