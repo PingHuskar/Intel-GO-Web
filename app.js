@@ -56,8 +56,10 @@ $(document).ready(function() {
         var dtCurrentTime = new Date()
         var lat = e.latlng.lat.toFixed(6)
         var lng = e.latlng.lng.toFixed(6)
+        var wlat = e.latlng.lat.toFixed(3)
+        var wlng = e.latlng.lng.toFixed(3)
         const z = 17
-        const windy_zoom = 8
+        const windy_zoom = 5
         L.marker(e.latlng).addTo(mymap).bindPopup(
             `
                     ${e.latlng.toString()}
@@ -76,7 +78,7 @@ $(document).ready(function() {
                     <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
                         <img src="src/images/NO2.jpg">
                     </a>
-                    <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${lat},${lng},${windy_zoom}' target='_blank'>
+                    <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode({lat:lat,lon:lng})}' target='_blank'>
                         <img src="src/images/pm.jpg">
                     </a>
                     `
@@ -114,11 +116,29 @@ $(document).ready(function() {
         $(`#mouse-location`).html(LatLngToArrayString(e.latlng))
     })
 
-    $(`#btnLocate`).click(function() {
-        mymap.locate()
-    })
-    $(`#btnBaanPaWaeng`).click(function() {
-        mymap.setView([popBaanPaWaeng._latlng.lat, popBaanPaWaeng._latlng.lng], 17)
-        mymap.openPopup(popBaanPaWaeng)
-    })
+    // $(`#btnLocate`).click(function() {
+    //     mymap.locate()
+    // })
+    // $(`#btnBaanPaWaeng`).click(function() {
+    //     mymap.setView([popBaanPaWaeng._latlng.lat, popBaanPaWaeng._latlng.lng], 17)
+    //     mymap.openPopup(popBaanPaWaeng)
+    // })
 })
+
+function createCoordCode(coords) {
+    let ar = [];
+    for (let i = 98; i < 123; i++) ar.push(String.fromCharCode(i));
+    for (let i = 65; i < 91; i++) ar.push(String.fromCharCode(i));
+    for (let i = 0; i < 9; i++) ar.push(i);
+
+    let lat = Math.round(100 * (coords.lat + 90));
+    let lon = Math.round(100 * (coords.lon + 180));
+
+    return "m:" +
+        ar[Math.floor(lat / 3600)] +
+        ar[Math.floor((lat % 3600) / 60)] +
+        ar[lat % 60] + "a" +
+        ar[Math.floor(lon / 3600)] +
+        ar[Math.floor((lon % 3600) / 60)] +
+        ar[lon % 60];
+}
