@@ -62,20 +62,22 @@ const BRTIcon = L.icon({
     iconUrl: '../src/images/1200px-Bangkok_BRT_logo.png',
     ...BRTProps
 })
-var map, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
+var map, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
 
 map = L.map(`mapdiv`, {
-    // center:[13.6592, 100.3991],
-    center: [13.769028, 100.540186],
-    zoom: 13,
+    center: [13.744256, 100.5334],
+    zoom: 15,
     zoomControl: false,
     // dragging:false,
     // minZoom:10,
     // maxZoom:14
     attributionControl: false
 })
-lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
-map.addLayer(lyrOSM)
+map.addLayer(L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`))
+// map.addLayer(L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{
+//     maxZoom: 20,
+//     subdomains:['mt0','mt1','mt2','mt3']
+// }))
 
 // https://github.com/kartena/Leaflet.Pancontrol
 // ctlPan = L.control.pan().addTo(map)
@@ -1346,6 +1348,48 @@ const BTSlightgreenline = [
         radius: 500,
         latlng: [13.745615, 100.53421],
         type: "BTS",
+        exits: [{
+            latlng: {
+                lat: 13.745853,
+                lng: 100.533609
+            },
+            places: [
+                "สยามเซ็นเตอร์",
+                "สยาม ดิส",
+                "วังสระปทุม",
+            ]
+        },
+        {
+            latlng: {
+                lat: 13.745613,
+                lng: 100.533561
+            }
+        },
+        {
+            latlng: {
+                lat: 13.745738,
+                lng: 100.534264
+            }
+        },
+        {
+            latlng: {
+                lat: 13.745498,
+                lng: 100.534232
+            }
+        },
+        {
+            latlng: {
+                lat: 13.745603,
+                lng: 100.53479
+            }
+        },
+        {
+            latlng: {
+                lat: 13.745379,
+                lng: 100.534742
+            }
+        },
+    ],
         bannergress: [{
             path: "we-love-thailand-banner-5280",
             bg: "bd429af0c315c2031aa587ef35e6bc89",
@@ -3552,6 +3596,30 @@ const stations = [
     ...BRT,
 ].concat(getFutureStation())
 
+const createDonut = (station) => {
+    if (station.radius) {
+        L.donut(station.latlng, {
+            radius: station.radius,
+            innerRadius: 0,
+            innerRadiusAsPercent: false,
+        }).addTo(map)
+    } else {
+        console.log(station.name)
+    }
+}
+
+const placeText = (places) => {
+    let tempText = ``
+    try {
+        for (let place of places) {
+            tempText += `<li>${place}</li>`
+        }
+        return tempText
+    } catch {
+        return `ยังไม่ได้ใส่ข้อมูล`
+    }
+    
+}
 for (let station of stations) {
     if (station.hasOwnProperty("name") && station.hasOwnProperty("latlng")) {
         // console.log(station.name)
@@ -3587,15 +3655,28 @@ for (let station of stations) {
                     `)
             }
 
-            if (station.radius) {
-                L.donut(station.latlng, {
-                    radius: station.radius,
-                    innerRadius: 0,
-                    innerRadiusAsPercent: false,
-                }).addTo(map)
-            } else {
-                console.log(station.name)
-            }
+            // createDonut(station)
+
+        }
+    }
+    if (station.hasOwnProperty("exits")) {
+        for (let [i, exit] of station.exits.entries()) {
+            L.marker({lat:exit.latlng.lat,lng:exit.latlng.lng},{
+                icon: L.divIcon({
+                    className: 'parallax-marker label medium', 
+                    html: i+1, 
+                    iconSize: [200, 36], 
+                    iconAnchor: [100, 18]}
+                    ),
+                parallaxZoffset: 1
+            })
+            .bindPopup(`
+                <h6><b>${station.name}</b> ทางออก <b>${i+1}</b> สถานที่ใกล้เคียง</h6>
+                <ul>
+                ${placeText(exit.places)}
+                </ul>
+            `)
+            .addTo(map)
         }
     }
 }
@@ -3631,13 +3712,33 @@ if (searchParam.get("mode") === `future`) {
     addPath(MRTyellowline,"yellow",0.75)
 }
 
+const createCoordCode = (coords) => {
+    let ar = [];
+    for (let i = 98; i < 123; i++) ar.push(String.fromCharCode(i));
+    for (let i = 65; i < 91; i++) ar.push(String.fromCharCode(i));
+    for (let i = 0; i < 9; i++) ar.push(i);
+
+    let lat = Math.round(100 * (coords.lat + 90));
+    let lon = Math.round(100 * (coords.lon + 180));
+
+    return "m:" +
+        ar[Math.floor(lat / 3600)] +
+        ar[Math.floor((lat % 3600) / 60)] +
+        ar[lat % 60] + "a" +
+        ar[Math.floor(lon / 3600)] +
+        ar[Math.floor((lon % 3600) / 60)] +
+        ar[lon % 60];
+}
+
 // pathGroup.addLayer(BRTpath, MRTpurplelinepath)
 // map.fitBounds(pathGroup.getBounds())
 
 map.on('contextmenu', function(e) {
     var dtCurrentTime = new Date()
-    var lat = e.latlng.lat.toFixed(6)
-    var lng = e.latlng.lng.toFixed(6)
+    const lat = e.latlng.lat.toFixed(6)
+    const lng = e.latlng.lng.toFixed(6)
+    const wlat = e.latlng.lat.toFixed(3)
+    const wlng = e.latlng.lng.toFixed(3)
     const z = 17
     const windy_zoom = 8
     L.marker(e.latlng).bindPopup(
@@ -3646,13 +3747,23 @@ map.on('contextmenu', function(e) {
             <br>${dtCurrentTime.toString()}
             <br><h6>Open in <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${lat}&lng=${lng}" target="_blank">X Marks Leaflet</a></h6>
             <br>
-            <img src="../src/images/intel.webp" onclick="window.open('https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}', '_blank')">
-            <img src="../src/images/bannergress.png" onclick="window.open('https://bannergress.com/map?lat=${lat}&lng=${lng}&zoom=${z}', '_blank')">
-            <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${lat},${lng}', '_blank')">
-            <img src="../src/images/NO2.jpg" onclick="window.open('https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}', '_blank')">
-            <img src="../src/images/pm.jpg" onclick="window.open('https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${lat},${lng},${windy_zoom}', '_blank')">
+            <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
+                <img src="../src/images/intel.webp">
+            </a>
+            <a href='https://bannergress.com/map?lat=${lat}&lng=${lng}&zoom=${z}' target='_blank'>
+                <img src="../src/images/bannergress.png">
+            </a>
+            <a href='https://www.google.com/maps?daddr=${lat},${lng}' target='_blank'>
+                <img src="../src/images/googlemaps.png">
+            </a>
+            <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
+                <img src="../src/images/NO2.jpg">
+            </a>
+            <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode({lat:lat,lon:lng})}' target='_blank'>
+                <img src="../src/images/pm.jpg">
+            </a>
             `
-    ).bindTooltip(`${key.portalTitle}`).openTooltip().addTo(map)
+    ).addTo(map)
     // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
 })
 map.on('keypress', function(e) {

@@ -355,13 +355,12 @@ var textMarkersBigs = [{
 ]
 
 for (let textMarkersBig of textMarkersBigs) {
-var icon = L.divIcon({
-    className: 'parallax-marker label big',
-    html: textMarkersBig.html,
-    iconSize: [200, 36],
-    iconAnchor: [100, 18]
-});
-L.marker(textMarkersBig.latlng, {
-    icon: icon
-}).addTo(map);
+    L.marker(textMarkersBig.latlng, {
+        icon: L.divIcon({
+            className: 'parallax-marker label big',
+            html: textMarkersBig.html,
+            iconSize: [200, 36],
+            iconAnchor: [100, 18]
+        })
+    }).addTo(map)
 }
