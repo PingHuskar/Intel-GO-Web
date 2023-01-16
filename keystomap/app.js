@@ -179,7 +179,7 @@ const decodeLatLngAndAddtoMap = (key) => {
     return `${key.portalTitle} @${lat},${lng} Added to Map`
 }
 
-var count = 0
+var key = 0
 var resourceWithLevels = 0
 const getItemDetail = (item) => {
     if (item.hasOwnProperty("resourceWithLevels")) {
@@ -228,9 +228,9 @@ for (let item of getInventory["result"]) {
     var current_item = item[item.length - 1]
     if (current_item.hasOwnProperty("resource")) {
         if (current_item.resource.resourceType === `PORTAL_LINK_KEY`) {
-            count++
+            key++
             decodeLatLngAndAddtoMap(current_item.portalCoupler)
-            // console.log(count++, decodeLatLngAndAddtoMap(current_item.portalCoupler))
+            // console.log(key++, decodeLatLngAndAddtoMap(current_item.portalCoupler))
             // break
         } else {
             resourceWithLevels++
@@ -270,6 +270,68 @@ const tu = NonKeys.TURRET.RARE
 const tp = NonKeys.TRANSMUTER_DEFENSE.VERY_RARE
 const tm = NonKeys.TRANSMUTER_ATTACK.VERY_RARE
 
-const params = `ap=${ap}&ad=${ad}&jv=${jv}&qc=${qc}&c=${c}&kc=${kc}&hs=${hs}&mh=${mh}&ps=${ps}&re=${re}&xmp=${xmp}&us=${us}&la=${la}&sb=${sb}&pc=${pc}&hc=${hc}&fa=${fa}&tu=${tu}&tp=${tp}&tm=${tm}`
-let domain = Math.round(Math.random()) ? `https://pinghuskar.github.io/Ingressventory` : `https://lively-sfogliatella-516092.netlify.app`
-open(`${domain}?${params}`, "_blank")
+let str_IngressventoryParams = ``
+
+const IngressventoryParams = [
+    `ap`,
+    `ad`,
+    `jv`,
+    `qc`,
+    `c`,
+    `kc`,
+    `hs`,
+    `mh`,
+    `ps`,
+    `re`,
+    `xmp`,
+    `us`,
+    `la`,
+    `sb`,
+    `pc`,
+    `hc`,
+    `fa`,
+    `tu`,
+    `tp`,
+    `tm`,
+]
+
+for (let IngressventoryParam of IngressventoryParams) {
+    str_IngressventoryParams += `${IngressventoryParam}=${eval(IngressventoryParam)}&`
+}
+
+let Ingressventory = Math.round(Math.random()) ? `https://pinghuskar.github.io/Ingressventory` : `https://lively-sfogliatella-516092.netlify.app`
+open(`${Ingressventory}?${str_IngressventoryParams.replace(/&$/,'')}`, "_blank")
+
+const createCoordCode = (coords) => {
+    let ar = [];
+    for (let i = 98; i < 123; i++) ar.push(String.fromCharCode(i));
+    for (let i = 65; i < 91; i++) ar.push(String.fromCharCode(i));
+    for (let i = 0; i < 9; i++) ar.push(i);
+
+    let lat = Math.round(100 * (coords.lat + 90));
+    let lon = Math.round(100 * (coords.lon + 180));
+
+    return "m:" +
+        ar[Math.floor(lat / 3600)] +
+        ar[Math.floor((lat % 3600) / 60)] +
+        ar[lat % 60] + "a" +
+        ar[Math.floor(lon / 3600)] +
+        ar[Math.floor((lon % 3600) / 60)] +
+        ar[lon % 60];
+}
+
+const SunburstParams = [
+    `key`,
+    `nkey-def-res-l1`,
+    `nkey-def-res-l2`,
+    `nkey-def-res-l3`,
+    `nkey-def-res-l4`,
+    `nkey-def-res-l5`,
+    `nkey-def-res-l6`,
+    `nkey-def-res-l7`,
+    `nkey-def-res-l8`,
+    `nkey-mod`,
+    `nkey-`,
+    `nkey-`,
+    `nkey-`,
+]
