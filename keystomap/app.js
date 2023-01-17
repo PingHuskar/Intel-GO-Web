@@ -300,7 +300,10 @@ for (let IngressventoryParam of IngressventoryParams) {
 }
 
 let Ingressventory = Math.round(Math.random()) ? `https://pinghuskar.github.io/Ingressventory` : `https://lively-sfogliatella-516092.netlify.app`
-open(`${Ingressventory}?${str_IngressventoryParams.replace(/&$/,'')}`, "_blank")
+const viewItems = confirm(`Open Ingressventory`)
+if (viewItems) {
+    open(`${Ingressventory}?${str_IngressventoryParams.replace(/&$/,'')}`, "_blank")
+}
 
 const createCoordCode = (coords) => {
     let ar = [];
@@ -321,17 +324,80 @@ const createCoordCode = (coords) => {
 }
 
 const SunburstParams = [
-    `key`,
-    `nkey-def-res-l1`,
-    `nkey-def-res-l2`,
-    `nkey-def-res-l3`,
-    `nkey-def-res-l4`,
-    `nkey-def-res-l5`,
-    `nkey-def-res-l6`,
-    `nkey-def-res-l7`,
-    `nkey-def-res-l8`,
-    `nkey-mod`,
-    `nkey-`,
-    `nkey-`,
-    `nkey-`,
+    {"key": key},
+    {"nkey-def-res-l1": NonKeys.EMITTER_A["1"]},
+    {"nkey-def-res-l2": NonKeys.EMITTER_A["2"]},
+    {"nkey-def-res-l3": NonKeys.EMITTER_A["3"]},
+    {"nkey-def-res-l4": NonKeys.EMITTER_A["4"]},
+    {"nkey-def-res-l5": NonKeys.EMITTER_A["5"]},
+    {"nkey-def-res-l6": NonKeys.EMITTER_A["6"]},
+    {"nkey-def-res-l7": NonKeys.EMITTER_A["7"]},
+    {"nkey-def-res-l8": NonKeys.EMITTER_A["8"]},
+    {"nkey-atk-xmp-l1": NonKeys.EMP_BURSTER["1"]},
+    {"nkey-atk-xmp-l2": NonKeys.EMP_BURSTER["2"]},
+    {"nkey-atk-xmp-l3": NonKeys.EMP_BURSTER["3"]},
+    {"nkey-atk-xmp-l4": NonKeys.EMP_BURSTER["4"]},
+    {"nkey-atk-xmp-l5": NonKeys.EMP_BURSTER["5"]},
+    {"nkey-atk-xmp-l6": NonKeys.EMP_BURSTER["6"]},
+    {"nkey-atk-xmp-l7": NonKeys.EMP_BURSTER["7"]},
+    {"nkey-atk-xmp-l8": NonKeys.EMP_BURSTER["8"]},
+    {"nkey-atk-us-l1": NonKeys.ULTRA_STRIKE["1"]},
+    {"nkey-atk-us-l2": NonKeys.ULTRA_STRIKE["2"]},
+    {"nkey-atk-us-l3": NonKeys.ULTRA_STRIKE["3"]},
+    {"nkey-atk-us-l4": NonKeys.ULTRA_STRIKE["4"]},
+    {"nkey-atk-us-l5": NonKeys.ULTRA_STRIKE["5"]},
+    {"nkey-atk-us-l6": NonKeys.ULTRA_STRIKE["6"]},
+    {"nkey-atk-us-l7": NonKeys.ULTRA_STRIKE["7"]},
+    {"nkey-atk-us-l8": NonKeys.ULTRA_STRIKE["8"]},
+    {"nkey-def-cube-l1": NonKeys.POWER_CUBE["1"]},
+    {"nkey-def-cube-l2": NonKeys.POWER_CUBE["2"]},
+    {"nkey-def-cube-l3": NonKeys.POWER_CUBE["3"]},
+    {"nkey-def-cube-l4": NonKeys.POWER_CUBE["4"]},
+    {"nkey-def-cube-l5": NonKeys.POWER_CUBE["5"]},
+    {"nkey-def-cube-l6": NonKeys.POWER_CUBE["6"]},
+    {"nkey-def-cube-l7": NonKeys.POWER_CUBE["7"]},
+    {"nkey-def-cube-l8": NonKeys.POWER_CUBE["8"]},
+    {"nkey-def-cube-vr": hc},
+    {"nkey-mod-la-rare": la},
+    {"nkey-mod-sb-vr": sb},
+    {"nkey-mod-hs-cmn": NonKeys.HEATSINK.COMMON},
+    {"nkey-mod-hs-rare": NonKeys.HEATSINK.RARE},
+    {"nkey-mod-hs-vr": NonKeys.HEATSINK.VERY_RARE},
+    {"nkey-mod-mh-cmn": NonKeys.MULTIHACK.COMMON},
+    {"nkey-mod-mh-rare": NonKeys.MULTIHACK.RARE},
+    {"nkey-mod-mh-vr": NonKeys.MULTIHACK.VERY_RARE},
+    {"nkey-mod-ps-cmn": NonKeys.RES_SHIELD.COMMON},
+    {"nkey-mod-ps-rare": NonKeys.RES_SHIELD.RARE},
+    {"nkey-mod-ps-vr": NonKeys.RES_SHIELD.VERY_RARE},
+    {"nkey-mod-ps-xr": NonKeys.EXTRA_SHIELD.VERY_RARE},
+    {"nkey-mod-fa-rare": fa},
+    {"nkey-mod-tu-rare": tu},
+    {"nkey-mod-tp-vr": tp},
+    {"nkey-mod-tm-vr": tm},
+    {"nkey-atk-flip-jv": jv},
+    {"nkey-atk-flip-ada": ad},
+    {"cap-cap": c},
+    {"cap-qc": qc},
+    {"cap-kc": kc},
+    {"cap-kl": NonKeys.CAPSULE.KEY_CAPSULE},
+    {"nkey-power-apex-vr": ap},
+    {"nkey-power-bc-cmn": NonKeys.PORTAL_POWERUP.BB_BATTLE},
+    {"nkey-power-bc-rare": NonKeys.PORTAL_POWERUP.BB_BATTLE_RARE},
+    {"nkey-power-FRACK-vr": NonKeys.PORTAL_POWERUP.FRACK},
 ]
+
+let str_SunburstParams = ``
+
+for (let [i, d] of SunburstParams.entries()) {
+    let k = Object.keys(d)[0]
+    let v = Object.values(d)[0]
+    str_SunburstParams += `${k}=${v}&`
+}
+
+// let Sunburst = `${Ingressventory}/sunburst`
+let Sunburst = Math.round(Math.random()) ? `https://pinghuskar.github.io/Sunburst` : `https://lively-sfogliatella-516092.netlify.app`
+if (viewItems) {
+    if (confirm(`Open Sunburst?`)) {
+        open(`${Sunburst}?${str_SunburstParams.replace(/&$/,'')}`, "_blank")
+    }
+}
