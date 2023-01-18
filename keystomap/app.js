@@ -394,10 +394,7 @@ for (let [i, d] of SunburstParams.entries()) {
     str_SunburstParams += `${k}=${v}&`
 }
 
-// let Sunburst = `${Ingressventory}/sunburst`
-let Sunburst = Math.round(Math.random()) ? `https://pinghuskar.github.io/Sunburst` : `https://lively-sfogliatella-516092.netlify.app`
+let Sunburst = `${Ingressventory}/sunburst`
 if (viewItems) {
-    if (confirm(`Open Sunburst?`)) {
-        open(`${Sunburst}?${str_SunburstParams.replace(/&$/,'')}`, "_blank")
-    }
+    open(`${Sunburst}?${str_SunburstParams.replace(/&$/,'')}`, "_blank")
 }
