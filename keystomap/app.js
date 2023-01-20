@@ -1,5 +1,10 @@
 // "use strict";
-const getInventory = JSON.parse(prompt(`Copy Response From getInventory (PRIME)`))
+let responseFromIntel = ``
+const responsePattern = /^{"result"\:\[\[".+\]\]}$/
+while (!responsePattern.test(responseFromIntel)) {
+    responseFromIntel = prompt(`Copy Response From getInventory (PRIME)`)
+}
+const getInventory = JSON.parse(responseFromIntel)
 var map, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
 
 var map = L.map('map').setView([13.697683, 100.491943], 5)
