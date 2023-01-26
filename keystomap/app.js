@@ -281,7 +281,7 @@ const IngressventoryParams = [
     `ap`,
     `ad`,
     `jv`,
-    `qc`,
+    `key`,
     `c`,
     `kc`,
     `hs`,
