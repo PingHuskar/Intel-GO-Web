@@ -1,0 +1,16 @@
+{
+  "name": "Ingressventory",
+  "description": "Visualize Ingress Inventory",
+  "version": "0.0.1",
+  "icons": {
+      "128": "icon128.png",
+      "32": "icon32.png",
+      "16": "icon16.png"
+    },
+  "manifest_version": 3,
+  "action": {
+      "default_title": "Ingressventory",
+      "default_icon": "icon16.png",
+      "default_popup": "popup.html"
+  }
+}

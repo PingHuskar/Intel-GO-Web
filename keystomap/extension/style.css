@@ -1,0 +1,29 @@
+body {
+    background: #ddd;
+    color: #333;
+    min-width: 600px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+*::selection {
+    background: #01B6FD;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+input {
+    width: 500px;
+}
+
+.show {
+    display: block;
+}
+.hide {
+    display: none;
+}
