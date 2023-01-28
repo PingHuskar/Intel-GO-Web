@@ -24,9 +24,6 @@ var LeafIcon = L.Icon.extend({
         popupAnchor: [-3, -76]
     }
 })
-ctlZoomslider = L.control.zoomslider({
-    position: "topright"
-}).addTo(map)
 ctlMeasure = L.control.polylineMeasure().addTo(map);
 ctlAttribute = L.control.attribution({
     position: 'bottomleft'
@@ -150,7 +147,8 @@ const NonKeys = {
 }
 
 const AddImageToMap = (key, lat, lng) => {
-    L.marker([lat, lng], {
+    try {
+        L.marker([lat, lng], {
             icon: new LeafIcon({
                 iconUrl: `${key.portalImageUrl}`
             })
@@ -163,6 +161,9 @@ const AddImageToMap = (key, lat, lng) => {
         </a>`)
         .bindTooltip(`${key.portalTitle}`).openTooltip()
         .addTo(map)
+    } catch (err) {
+        console.error(`Portal Image Not Found`)
+    }
 }
 
 const AddDonut = (lat, lng) => {
