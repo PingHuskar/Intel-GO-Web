@@ -1,11 +1,12 @@
 "use strict";
+// https://www.youtube.com/watch?v=i3sFfqq3N4Q
 
 const searchParam = new URLSearchParams(location.search)
 
 const LatLngToArrayString = (ll) => {
     return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`
 }
-const iconProps = {
+const ICONPROPS = {
     iconSize: [38, 95],
     iconAnchor: [22, 94],
     popupAnchor: [-3, -76],
@@ -13,54 +14,54 @@ const iconProps = {
     shadowSize: [68, 95],
     shadowAnchor: [22, 94]
 }
-const BRTProps = {
+const BRTPROPS = {
     iconSize: [30, 30]
 }
-const BTSlightgreenlineIcon = L.icon({
+const BTSLIGHTGREENLINEICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-lightgreen.png',
-    ...iconProps
+    ...ICONPROPS
 })
-const BTSdarkgreenlineIcon = L.icon({
+const BTSDARKGREENLINEICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-green.png',
-    ...iconProps
+    ...ICONPROPS
 })
-const BTSgoldlineIcon = L.icon({
+const BTSGOLDLINEICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-gold.png',
-    ...iconProps
+    ...ICONPROPS
 })
-const MRTbluelineIcon = L.icon({
+const MRTBLUELINEICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-blue.png',
-    ...iconProps
+    ...ICONPROPS
     // สายเฉลิมรัชมงคล
 })
-const MRTpurplelineIcon = L.icon({
+const MRTPURPLELINEICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-purple.png',
-    ...iconProps
+    ...ICONPROPS
     // สายฉลองรัชธรรม
 })
-const MRTpinklineIcon = L.icon({
+const MRTPINKLINEICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-pink.png',
-    ...iconProps
+    ...ICONPROPS
 })
-const MRTorangelineIcon = L.icon({
+const MRTORANGELINEICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-orange.png',
-    ...iconProps
+    ...ICONPROPS
 })
-const MRTyellowlineIcon = L.icon({
+const MRTYELLOWLINEICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-yellow.png',
-    ...iconProps
+    ...ICONPROPS
 })
-const ARLIcon = L.icon({
+const ARLICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-red.png',
-    ...iconProps
+    ...ICONPROPS
 })
-const SRTredlineIcon = L.icon({
+const SRTREDLINEICON = L.icon({
     iconUrl: '../src/images/marker-icon-2x-softred.png',
-    ...iconProps
+    ...ICONPROPS
 })
-const BRTIcon = L.icon({
+const BRTICON = L.icon({
     iconUrl: '../src/images/1200px-Bangkok_BRT_logo.png',
-    ...BRTProps
+    ...BRTPROPS
 })
 var map, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
 
@@ -115,7 +116,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "อาคารสงเคราะห์",
@@ -130,7 +131,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "เทคนิคกรุงเทพ",
@@ -145,7 +146,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "ถนนจันทน์",
@@ -160,7 +161,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "นราราม 3",
@@ -175,7 +176,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "วัดด่าน",
@@ -190,7 +191,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "วัดปริวาส",
@@ -205,7 +206,7 @@ const BRT = [{
         w: 480,
         h: 240,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "วัดดอกไม้",
@@ -220,7 +221,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "สะพานพระรามเก้า",
@@ -235,7 +236,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "เจริญราษฎร์",
@@ -250,7 +251,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "สะพานพระรามสาม",
@@ -265,7 +266,7 @@ const BRT = [{
         w: 480,
         h: 320,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },
 {
     name: "ราชพฤกษ์",
@@ -280,7 +281,7 @@ const BRT = [{
         w: 240,
         h: 0,
     }],
-    icon: BRTIcon
+    icon: BRTICON
 },]
 
 const ARL = [{
@@ -296,7 +297,8 @@ const ARL = [{
         w: 480,
         h: 240
     }],
-    icon: ARLIcon
+    since: "8/23/2010",
+    icon: ARLICON
 },
 {
     name: "ลาดกระบัง",
@@ -311,7 +313,8 @@ const ARL = [{
         w: 480,
         h: 480,
     }],
-    icon: ARLIcon
+    since: "8/23/2010",
+    icon: ARLICON
 },
 {
     name: "บ้านทับช้าง",
@@ -326,7 +329,8 @@ const ARL = [{
         w: 240,
         h: 0,
     }],
-    icon: ARLIcon
+    since: "8/23/2010",
+    icon: ARLICON
 },
 {
     name: "หัวหมาก",
@@ -341,7 +345,8 @@ const ARL = [{
         w: 480,
         h: 80
     }],
-    icon: ARLIcon
+    since: "8/23/2010",
+    icon: ARLICON
 },
 {
     name: "รามคำแหง",
@@ -356,7 +361,8 @@ const ARL = [{
         w: 240,
         h: 0,
     }],
-    icon: ARLIcon
+    since: "8/23/2010",
+    icon: ARLICON
 },
 {
     name: "มักกะสัน",
@@ -371,7 +377,8 @@ const ARL = [{
         w: 480,
         h: 160
     }],
-    icon: ARLIcon
+    since: "8/23/2010",
+    icon: ARLICON
 },
 {
     name: "ราชปรารภ",
@@ -386,7 +393,8 @@ const ARL = [{
         w: 240,
         h: 0,
     }],
-    icon: ARLIcon
+    since: "8/23/2010",
+    icon: ARLICON
 },
 {
     name: "พญาไท",
@@ -401,7 +409,8 @@ const ARL = [{
         w: 240,
         h: 0,
     }],
-    icon: ARLIcon
+    since: "8/23/2010",
+    icon: ARLICON
 },]
 
 const MRTblueline = [{
@@ -417,7 +426,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "9/21/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางแค",
@@ -432,7 +442,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "9/21/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "ภาษีเจริญ",
@@ -447,7 +458,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "9/21/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "เพชรเกษม 48",
@@ -462,7 +474,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "9/21/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางหว้า",
@@ -477,7 +490,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "8/24/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางไผ่",
@@ -492,7 +506,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "8/24/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "ท่าพระ",
@@ -507,7 +522,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/29/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "อิสรภาพ",
@@ -522,7 +538,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/29/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "สนามไชย",
@@ -537,7 +554,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/29/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "สามยอด",
@@ -553,7 +571,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/29/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "วัดมังกร",
@@ -569,7 +588,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/29/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "หัวลำโพง",
@@ -584,7 +604,8 @@ const MRTblueline = [{
         w: 480,
         h: 160
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "สามย่าน",
@@ -599,7 +620,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "สีลม",
@@ -614,7 +636,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "ลุมพินี",
@@ -629,7 +652,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "คลองเตย",
@@ -644,7 +668,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "ศูนย์การประชุมแห่งชาติสิริกิติ์",
@@ -659,7 +684,8 @@ const MRTblueline = [{
         w: 480,
         h: 400,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "สุขุมวิท",
@@ -674,7 +700,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "เพชรบุรี",
@@ -689,7 +716,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "พระราม 9",
@@ -704,7 +732,8 @@ const MRTblueline = [{
         w: 96,
         h: 112,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "ศูนย์วัฒนธรรมแห่งประเทศไทย",
@@ -719,7 +748,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "ห้วยขวาง",
@@ -734,7 +764,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "สุทธิสาร",
@@ -749,7 +780,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "รัชดาภิเษก",
@@ -764,7 +796,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "ลาดพร้าว",
@@ -779,7 +812,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "พหลโยธิน",
@@ -794,7 +828,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "สวนจตุจักร",
@@ -809,7 +844,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "กำแพงเพชร",
@@ -824,7 +860,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางซื่อ",
@@ -839,7 +876,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/3/2004",
+    icon: MRTBLUELINEICON
 },
 {
     name: "เตาปูน",
@@ -854,7 +892,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "8/11/2017",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางโพ",
@@ -869,7 +908,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "12/4/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางอ้อ",
@@ -884,7 +924,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "12/4/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางพลัด",
@@ -899,7 +940,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "12/4/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "สิรินธร",
@@ -914,7 +956,8 @@ const MRTblueline = [{
         w: 480,
         h: 240
     }],
-    icon: MRTbluelineIcon
+    since: "12/4/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางยี่ขัน",
@@ -929,7 +972,8 @@ const MRTblueline = [{
         w: 480,
         h: 240,
     }],
-    icon: MRTbluelineIcon
+    since: "12/23/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางขุนนนท์",
@@ -944,7 +988,8 @@ const MRTblueline = [{
         w: 480,
         h: 80
     }],
-    icon: MRTbluelineIcon
+    since: "12/23/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "ไฟฉาย",
@@ -960,7 +1005,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "12/23/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "จรัญฯ 13",
@@ -976,7 +1022,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "12/23/2019",
+    icon: MRTBLUELINEICON
 },
 {
     name: "ท่าพระ",
@@ -991,7 +1038,8 @@ const MRTblueline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "7/29/2019",
+    icon: MRTBLUELINEICON
 },
 ]
 
@@ -1009,7 +1057,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/16/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "แยก คปอ.",
@@ -1024,7 +1073,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/16/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "พิพิธภัณฑ์กองทัพอากาศ",
@@ -1039,7 +1089,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/16/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "โรงพยาบาลภูมิพลอดุลยเดช",
@@ -1054,7 +1105,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/16/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "สะพานใหม่",
@@ -1069,7 +1121,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/16/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "สายหยุด",
@@ -1084,7 +1137,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/16/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "พหลโยธิน 59",
@@ -1099,7 +1153,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/16/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "วัดพระศรีมหาธาตุ",
@@ -1114,7 +1169,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "6/5/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "กรมทหารราบที่ 11",
@@ -1129,7 +1185,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "6/5/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "บางบัว",
@@ -1144,7 +1201,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "6/5/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "กรมป่าไม้",
@@ -1159,7 +1217,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "6/5/2020",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "มหาวิทยาลัยเกษตรศาสตร์",
@@ -1174,7 +1233,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 200
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/4/2019",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "เสนานิคม",
@@ -1189,7 +1249,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/4/2019",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "รัชโยธิน",
@@ -1204,7 +1265,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/4/2019",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "พหลโยธิน 24",
@@ -1219,7 +1281,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/4/2019",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "ห้าแยกลาดพร้าว",
@@ -1234,7 +1297,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/9/2019",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "หมอชิต",
@@ -1249,7 +1313,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 160
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "สะพานควาย",
@@ -1264,7 +1329,25 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
+    },
+    {
+        name: "ล่องหน",
+        AKA: "เสนาร่วม",
+        en: "Invisible",
+        AKAen: "Sena Ruam",
+        id: "N6",
+        radius: 500,
+        latlng: [13.786067, 100.546918],
+        type: "BTS",
+        bannergress: [{
+            path: "",
+            bg: "",
+            w: 480,
+            h: 80
+        }],
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "อารีย์",
@@ -1279,7 +1362,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "สนามเป้า",
@@ -1294,7 +1378,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "อนุสาวรีย์ชัยสมรภูมิ",
@@ -1309,7 +1394,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "พญาไท",
@@ -1324,7 +1410,7 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "ราชเทวี",
@@ -1339,7 +1425,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "สยาม",
@@ -1348,55 +1435,57 @@ const BTSlightgreenline = [
         radius: 500,
         latlng: [13.745615, 100.53421],
         type: "BTS",
-        exits: [{
-            latlng: {
-                lat: 13.745853,
-                lng: 100.533609
+        exits: [
+            {
+                latlng: {
+                    lat: 13.745853,
+                    lng: 100.533609
+                },
+                places: [
+                    "สยามเซ็นเตอร์",
+                    "สยาม ดิส",
+                    "วังสระปทุม",
+                ]
             },
-            places: [
-                "สยามเซ็นเตอร์",
-                "สยาม ดิส",
-                "วังสระปทุม",
-            ]
-        },
-        {
-            latlng: {
-                lat: 13.745613,
-                lng: 100.533561
-            }
-        },
-        {
-            latlng: {
-                lat: 13.745738,
-                lng: 100.534264
-            }
-        },
-        {
-            latlng: {
-                lat: 13.745498,
-                lng: 100.534232
-            }
-        },
-        {
-            latlng: {
-                lat: 13.745603,
-                lng: 100.53479
-            }
-        },
-        {
-            latlng: {
-                lat: 13.745379,
-                lng: 100.534742
-            }
-        },
-    ],
+            {
+                latlng: {
+                    lat: 13.745613,
+                    lng: 100.533561
+                }
+            },
+            {
+                latlng: {
+                    lat: 13.745738,
+                    lng: 100.534264
+                }
+            },
+            {
+                latlng: {
+                    lat: 13.745498,
+                    lng: 100.534232
+                }
+            },
+            {
+                latlng: {
+                    lat: 13.745603,
+                    lng: 100.53479
+                }
+            },
+            {
+                latlng: {
+                    lat: 13.745379,
+                    lng: 100.534742
+                }
+            },
+        ],
         bannergress: [{
             path: "we-love-thailand-banner-5280",
             bg: "bd429af0c315c2031aa587ef35e6bc89",
             w: 480,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "ชิดลม",
@@ -1411,7 +1500,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 160
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "เพลินจิต",
@@ -1426,7 +1516,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "นานา",
@@ -1441,7 +1532,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "อโศก",
@@ -1456,7 +1548,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 480,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "พร้อมพงษ์",
@@ -1471,7 +1564,8 @@ const BTSlightgreenline = [
             w: 400,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "ทองหล่อ",
@@ -1486,7 +1580,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 240
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "เอกมัย",
@@ -1501,7 +1596,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 240
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "พระโขนง",
@@ -1516,7 +1612,8 @@ const BTSlightgreenline = [
             w: 400,
             h: 80
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "อ่อนนุช",
@@ -1531,7 +1628,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "12/5/1999",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "บางจาก",
@@ -1546,7 +1644,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/12/2011",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "ปุณณวิถี",
@@ -1561,7 +1660,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/12/2011",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "อุดมสุข",
@@ -1576,7 +1676,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/12/2011",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "บางนา",
@@ -1591,7 +1692,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 160
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/12/2011",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "แบริ่ง",
@@ -1606,7 +1708,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/12/2011",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "สำโรง",
@@ -1621,7 +1724,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "4/3/2017",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "ปู่เจ้า",
@@ -1636,7 +1740,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/6/2018",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "ช้างเอราวัณ",
@@ -1651,7 +1756,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/6/2018",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "โรงเรียนนายเรือ",
@@ -1666,7 +1772,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/6/2018",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "ปากน้ำ",
@@ -1681,7 +1788,8 @@ const BTSlightgreenline = [
             w: 480,
             h: 240
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/6/2018",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "ศรีนครินทร์",
@@ -1696,7 +1804,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/6/2018",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "แพรกษา",
@@ -1711,7 +1820,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/6/2018",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "สายลวด",
@@ -1726,7 +1836,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/6/2018",
+        icon: BTSLIGHTGREENLINEICON
     },
     {
         name: "เคหะฯ",
@@ -1741,7 +1852,8 @@ const BTSlightgreenline = [
             w: 240,
             h: 0,
         }],
-        icon: BTSlightgreenlineIcon
+        since: "8/6/2018",
+        icon: BTSLIGHTGREENLINEICON
     },
 ]
 
@@ -1758,7 +1870,8 @@ const BTSdarkgreenline = [{
         w: 480,
         h: 320
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "12/5/1999",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "สยาม",
@@ -1773,7 +1886,8 @@ const BTSdarkgreenline = [{
         w: 480,
         h: 80
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "12/5/1999",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "ราชดำริ",
@@ -1788,7 +1902,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "12/5/1999",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "ศาลาแดง",
@@ -1803,7 +1918,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "12/5/1999",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "ช่องนนทรี",
@@ -1818,7 +1934,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "12/5/1999",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "เซนต์หลุยส์",
@@ -1833,7 +1950,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "2/8/2021",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "สุรศักดิ์",
@@ -1848,7 +1966,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 480,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "12/5/1999",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "สะพานตากสิน",
@@ -1863,7 +1982,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "12/5/1999",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "กรุงธนบุรี",
@@ -1878,7 +1998,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "3/15/2009",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "วงเวียนใหญ่",
@@ -1893,7 +2014,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "3/15/2009",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "โพธิ์นิมิตร",
@@ -1908,7 +2030,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "1/12/2013",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "ตลาดพลู",
@@ -1923,7 +2046,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "2/14/2013",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "วุฒากาศ",
@@ -1938,7 +2062,8 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "12/5/2013",
+    icon: BTSDARKGREENLINEICON
 },
 {
     name: "บางหว้า",
@@ -1953,10 +2078,11 @@ const BTSdarkgreenline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSdarkgreenlineIcon
+    since: "12/5/2013",
+    icon: BTSDARKGREENLINEICON
 },]
 
-const BTSgoldline = [{
+const BTSGOLDLINE = [{
     name: "กรุงธนบุรี",
     en: "Krung Thon Buri",
     id: "G1",
@@ -1969,7 +2095,8 @@ const BTSgoldline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSgoldlineIcon
+    since: "12/16/2020",
+    icon: BTSGOLDLINEICON
 },
 {
     name: "เจริญนคร",
@@ -1984,7 +2111,8 @@ const BTSgoldline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSgoldlineIcon
+    since: "12/16/2020",
+    icon: BTSGOLDLINEICON
 },
 {
     name: "คลองสาน",
@@ -1999,7 +2127,8 @@ const BTSgoldline = [{
         w: 240,
         h: 0,
     }],
-    icon: BTSgoldlineIcon
+    since: "12/16/2020",
+    icon: BTSGOLDLINEICON
 },]
 
 const SRTredline = [
@@ -2016,7 +2145,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "บางบำหรุ",
@@ -2031,7 +2161,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "บางซ่อน",
@@ -2046,7 +2177,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "ค่าโง่ 33 ล้าน",
@@ -2063,7 +2195,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "จตุจักร",
@@ -2078,7 +2211,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "วัดเสมียนนารี",
@@ -2093,7 +2227,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "บางเขน",
@@ -2108,7 +2243,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "ทุ่งสองห้อง",
@@ -2123,7 +2259,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "หลักสี่",
@@ -2138,7 +2275,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "การเคหะ",
@@ -2153,7 +2291,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "ดอนเมือง",
@@ -2168,11 +2307,12 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
-        name: "หลักหก",
-        en: "Lak Hok",
+        name: "หลักหก (มหาวิทยาลัยรังสิต)",
+        en: "Lak Hok (Rangsit University)",
         id: "",
         radius: 500,
         latlng: [13.965722, 100.605326],
@@ -2183,7 +2323,8 @@ const SRTredline = [
             w: 240,
             h: 0,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
     {
         name: "รังสิต",
@@ -2198,7 +2339,8 @@ const SRTredline = [
             w: 480,
             h: 180,
         }],
-        icon: SRTredlineIcon
+        since: "11/29/2021",
+        icon: SRTREDLINEICON
     },
 ]
 
@@ -2215,7 +2357,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTbluelineIcon
+    since: "8/6/2016",
+    icon: MRTBLUELINEICON
 },
 {
     name: "บางซ่อน",
@@ -2230,7 +2373,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "วงศ์สว่าง",
@@ -2245,7 +2389,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "แยกติวานนท์",
@@ -2260,7 +2405,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "กระทรวงสาธารณสุข",
@@ -2275,7 +2421,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "ศูนย์ราชการนนทบุรี",
@@ -2290,7 +2437,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "บางกระสอ",
@@ -2305,7 +2453,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "แยกนนทบุรี 1",
@@ -2320,7 +2469,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "สะพานพระนั่งเกล้า",
@@ -2335,7 +2485,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "ไทรม้า",
@@ -2350,7 +2501,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "บางรักน้อย-ท่าอิฐ",
@@ -2365,7 +2517,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "บางรักใหญ่",
@@ -2380,7 +2533,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "บางพลู",
@@ -2395,7 +2549,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "สามแยกบางใหญ่",
@@ -2410,7 +2565,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "ตลาดบางใหญ่",
@@ -2425,7 +2581,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },
 {
     name: "คลองบางไผ่",
@@ -2440,7 +2597,8 @@ const MRTpurpleline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpurplelineIcon
+    since: "8/6/2016",
+    icon: MRTPURPLELINEICON
 },]
 
 const MRTpinkline = [{
@@ -2456,7 +2614,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "แคราย",
@@ -2471,7 +2629,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "สนามบินน้ำ",
@@ -2486,7 +2644,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "สามัคคี",
@@ -2501,7 +2659,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "กรมชลประทาน",
@@ -2516,7 +2674,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "ปากเกร็ด",
@@ -2531,7 +2689,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "เลี่ยงเมืองปากเกร็ด",
@@ -2546,7 +2704,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "แจ้งวัฒนะ ปากเกร็ด 28",
@@ -2561,7 +2719,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "ศรีรัช",
@@ -2576,7 +2734,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "เมืองทองธานี",
@@ -2591,7 +2749,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "แจ้งวัฒนะ 14",
@@ -2606,7 +2764,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "ศูนย์ราชการเฉลิมพระเกียรติ",
@@ -2621,7 +2779,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "โทรคมนาคมแห่งชาติ",
@@ -2636,7 +2794,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "หลักสี่",
@@ -2651,7 +2809,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "ราชภัฎพระนคร",
@@ -2666,7 +2824,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "วัดพระศรีมหาธาตุ",
@@ -2681,7 +2839,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "รามอินทรา 3",
@@ -2696,7 +2854,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "ลาดปลาเค้า",
@@ -2711,7 +2869,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "รามอินทรา 31",
@@ -2726,7 +2884,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "มัยลาภ",
@@ -2741,7 +2899,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "วัชรพล",
@@ -2756,7 +2914,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "รามอินทรา 40",
@@ -2771,7 +2929,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "คู้บอน",
@@ -2786,7 +2944,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "รามอินทรา 83",
@@ -2801,7 +2959,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "วงแหวนตะวันออก",
@@ -2816,7 +2974,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "นพรัตนราชธานี",
@@ -2831,7 +2989,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "บางชัน",
@@ -2846,7 +3004,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "เศรษฐบุตรบำเพ็ญ",
@@ -2861,7 +3019,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "ตลาดมีนบุรี",
@@ -2876,7 +3034,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 {
     name: "มีนบุรี",
@@ -2891,7 +3049,7 @@ const MRTpinkline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTpinklineIcon
+    icon: MRTPINKLINEICON
 },
 ]
 
@@ -2909,7 +3067,7 @@ const MRTpinklineExt = [
             w: 240,
             h: 0,
         }],
-        icon: MRTpinklineIcon
+        icon: MRTPINKLINEICON
     },
     {
         name: "อิมแพคเมืองทองธานี",
@@ -2924,7 +3082,7 @@ const MRTpinklineExt = [
             w: 240,
             h: 0,
         }],
-        icon: MRTpinklineIcon
+        icon: MRTPINKLINEICON
     },
     {
         name: "ทะเลสาบเมืองทอง",
@@ -2939,7 +3097,7 @@ const MRTpinklineExt = [
             w: 240,
             h: 0,
         }],
-        icon: MRTpinklineIcon
+        icon: MRTPINKLINEICON
     },
 ]
 
@@ -2956,7 +3114,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
     {
     name: "จันทรเกษม",
@@ -2971,7 +3129,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
     {
     name: "ลาดพร้าว",
@@ -2987,7 +3145,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ภาวนา",
@@ -3002,7 +3160,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "โชคชัย 4",
@@ -3017,7 +3175,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ลาดพร้าว 71",
@@ -3032,7 +3190,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ลาดพร้าว 83",
@@ -3047,7 +3205,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "มหาดไทย",
@@ -3062,7 +3220,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ลาดพร้าว 101",
@@ -3077,7 +3235,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "บางกะปิ",
@@ -3092,7 +3250,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "แยกลำสาลี",
@@ -3107,7 +3265,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ศรีกรีฑา",
@@ -3122,7 +3280,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "หัวหมาก",
@@ -3137,7 +3295,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "กลันตัน",
@@ -3152,7 +3310,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ศรีนุช",
@@ -3167,7 +3325,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ศรีนครินทร์ 38",
@@ -3182,7 +3340,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "สวนหลวง ร.9",
@@ -3197,7 +3355,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ศรีอุดม",
@@ -3212,7 +3370,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ศรีเอี่ยม",
@@ -3227,7 +3385,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ศรีลาซาล",
@@ -3242,7 +3400,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ศรีแบริ่ง",
@@ -3257,7 +3415,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ศรีด่าน",
@@ -3272,7 +3430,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ศรีเทพา",
@@ -3287,7 +3445,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "ทิพวัล",
@@ -3302,7 +3460,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 {
     name: "สำโรง",
@@ -3317,7 +3475,7 @@ const MRTyellowline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTyellowlineIcon
+    icon: MRTYELLOWLINEICON
 },
 ]
 
@@ -3334,7 +3492,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "รฟม.",
@@ -3349,7 +3507,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "วัดพระราม 9",
@@ -3364,7 +3522,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "รามคำแหง 12",
@@ -3379,7 +3537,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "รามคำแหง",
@@ -3394,7 +3552,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "กกท.",
@@ -3409,7 +3567,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "รามคำแหง 34",
@@ -3424,7 +3582,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "แยกลำสาลี",
@@ -3439,7 +3597,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "ศรีบูรพา",
@@ -3454,7 +3612,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "คลองบ้านม้า",
@@ -3469,7 +3627,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "สัมมากร",
@@ -3484,7 +3642,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "น้อมเกล้า",
@@ -3499,7 +3657,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "ราษฎร์พัฒนา",
@@ -3514,7 +3672,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "มีนพัฒนา",
@@ -3529,7 +3687,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "เคหะรามคำแหง",
@@ -3544,7 +3702,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "มีนบุรี",
@@ -3559,7 +3717,7 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },
 {
     name: "แยกร่มเกล้า",
@@ -3574,20 +3732,20 @@ const MRTorangeline = [{
         w: 240,
         h: 0,
     }],
-    icon: MRTorangelineIcon
+    icon: MRTORANGELINEICON
 },]
 
 const getFutureStation = () => {
-    if (searchParam.get("mode") === `future`) {
+    if (searchParam.get("mode") === `F`) {
         return [...MRTpinkline,...MRTpinklineExt, ...MRTyellowline,...MRTorangeline]
     } else {
         return []
     }
 }
 
-const stations = [
+const STATIONS = [
     ...ARL,
-    ...BTSgoldline,
+    ...BTSGOLDLINE,
     ...BTSdarkgreenline,
     ...BTSlightgreenline,
     ...MRTblueline,
@@ -3617,14 +3775,21 @@ const placeText = (places) => {
         return tempText
     } catch {
         return `ยังไม่ได้ใส่ข้อมูล`
-    }
-    
+    }    
 }
-for (let station of stations) {
+
+const printstationage = (type, name, since) => {
+    console.log(`${type} ${name}\n${moment.preciseDiff(moment(since), moment())}`)
+}
+
+for (let station of STATIONS) {
     if (station.hasOwnProperty("name") && station.hasOwnProperty("latlng")) {
         // console.log(station.name)
         // console.log(station.type)
         if (station.name !== "" && station.latlng.length > 1) {
+            if (station.hasOwnProperty("since")) {
+                printstationage(station.type, station.en ?? station.name ?? station.AKA, station.since)
+            }
             if (station.type === "BTS" || station.type === "MRT") {
                 L.marker(station.latlng, {
                         icon: station.icon
@@ -3681,7 +3846,7 @@ for (let station of stations) {
     }
 }
 
-console.log(stations.length)
+// console.log(STATIONS.length)
 
 var pathGroup = L.featureGroup()
 
@@ -3703,7 +3868,7 @@ addPath(SRTredline,"red",0.5)
 addPath(ARL,"red",0.75)
 addPath(BTSdarkgreenline,"darkgreen",0.75)
 addPath(BTSlightgreenline,"green",0.75)
-addPath(BTSgoldline,"gold",0.75)
+addPath(BTSGOLDLINE,"gold",0.75)
 
 if (searchParam.get("mode") === `future`) {
     addPath(MRTpinkline,"hotpink",0.75)
