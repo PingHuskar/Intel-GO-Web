@@ -1,5 +1,6 @@
 // "use strict";
 let responseFromIntel = ``
+let inventorySpace = 2500
 const responsePattern = /^{"result"\:\[\[".+\]\]}$/
 while (!responsePattern.test(responseFromIntel)) {
     responseFromIntel = prompt(`Copy Response From getInventory (PRIME)`)
@@ -148,21 +149,24 @@ const NonKeys = {
 
 const AddImageToMap = (key, lat, lng) => {
     try {
-        L.marker([lat, lng], {
-            icon: new LeafIcon({
-                iconUrl: `${key.portalImageUrl}`
+        if (key.hasOwnProperty(`portalImageUrl`) && key.portalImageUrl !== ``) {
+            L.marker([lat, lng], {
+                icon: new LeafIcon({
+                    iconUrl: `${key.portalImageUrl}`
+                })
             })
-        })
-        .bindPopup(
-            `
-        <h2>${key.portalTitle}</h2>
-        <a href="https://intel.ingress.com/intel?ll=${lat},${lng}&z=18&pll=${lat},${lng}" target="_blank">
-        <p>${key.portalAddress}</p>
-        </a>`)
-        .bindTooltip(`${key.portalTitle}`).openTooltip()
-        .addTo(map)
+            .bindPopup(
+                `
+                <h2>${key.portalTitle}</h2>
+                <a href="https://intel.ingress.com/intel?ll=${lat},${lng}&z=18&pll=${lat},${lng}" target="_blank">
+                <p>${key.portalAddress}</p>
+                </a>`)
+                .bindTooltip(`${key.portalTitle}`).openTooltip()
+                .addTo(map)
+            }
     } catch (err) {
-        console.error(`Portal Image Not Found`)
+        console.log(key)
+        console.error(`Portal Image Not Found\nhttps://lh3.googleusercontent.com/${key.portalImageUrl}`)
     }
 }
 
@@ -215,8 +219,17 @@ const getItemDetail = (item) => {
             NonKeys[`PORTAL_POWERUP`][item.timedPowerupResource.designation]++
             return `${item.timedPowerupResource.designation}`
         } else if (/CAPSULE$/.test(item["resource"]["resourceType"])) {
-            if (item.container.currentCount !== 0) {
+            if (item["resource"]["resourceType"] === `KEY_CAPSULE`) {
+                // console.log(`FREE SPACE ${item["resource"]["resourceType"]["currentCount"]}`)
+                console.log(`FREE ${item["container"]["currentCapacity"]-item["container"]["currentCount"]} SPACE IN KEY LOCKER!`)
+            }
+            else if (item.container.currentCount !== 0) {
+                //*
                 console.log(item)
+                inventorySpace -= item.container.currentCount
+                /*/
+                console.log(item)
+                //*/
             }
             NonKeys["CAPSULE"][item["resource"]["resourceType"]]++
             return `${item.resource.resourceType}`
@@ -306,10 +319,10 @@ for (let IngressventoryParam of IngressventoryParams) {
 }
 
 let Ingressventory = Math.round(Math.random()) ? `https://pinghuskar.github.io/Ingressventory` : `https://lively-sfogliatella-516092.netlify.app`
-const viewItems = confirm(`Open Ingressventory`)
-if (viewItems) {
-    open(`${Ingressventory}?${str_IngressventoryParams.replace(/&$/,'')}`, "_blank")
-}
+// const viewItems = confirm(`Open Ingressventory`)
+// if (viewItems) {
+//     open(`${Ingressventory}?${str_IngressventoryParams.replace(/&$/,'')}`, "_blank")
+// }
 
 const createCoordCode = (coords) => {
     let ar = [];
@@ -390,6 +403,17 @@ const SunburstParams = [
     {"nkey-power-bc-cmn": NonKeys.PORTAL_POWERUP.BB_BATTLE},
     {"nkey-power-bc-rare": NonKeys.PORTAL_POWERUP.BB_BATTLE_RARE},
     {"nkey-power-FRACK-vr": NonKeys.PORTAL_POWERUP.FRACK},
+    {"nkey-power-MAGNUSRE": NonKeys.PORTAL_POWERUP.MAGNUSRE},
+    {"nkey-power-LOOK": NonKeys.PORTAL_POWERUP.LOOK},
+    {"nkey-power-TOASTY": NonKeys.PORTAL_POWERUP.TOASTY},
+    {"nkey-power-FW_RES": NonKeys.PORTAL_POWERUP.FW_RES},
+    {"nkey-power-FW_ENL": NonKeys.PORTAL_POWERUP.FW_ENL},
+    {"nkey-power-BN_BLM": NonKeys.PORTAL_POWERUP.BN_BLM},
+    {"nkey-power-RES": NonKeys.PORTAL_POWERUP.RES},
+    {"nkey-power-ENL": NonKeys.PORTAL_POWERUP.ENL},
+    {"nkey-power-VIALUX": NonKeys.PORTAL_POWERUP.VIALUX},
+    {"nkey-power-NIA": NonKeys.PORTAL_POWERUP.NIA},
+    {"nkey-media": NonKeys.MEDIA},
 ]
 
 let str_SunburstParams = ``
@@ -397,10 +421,13 @@ let str_SunburstParams = ``
 for (let [i, d] of SunburstParams.entries()) {
     let k = Object.keys(d)[0]
     let v = Object.values(d)[0]
+    inventorySpace -= v
     str_SunburstParams += `${k}=${v}&`
 }
 
+str_SunburstParams += `space=${inventorySpace}&`
+
 let Sunburst = `${Ingressventory}/sunburst`
-if (viewItems) {
+// if (viewItems) {
     open(`${Sunburst}?${str_SunburstParams.replace(/&$/,'')}`, "_blank")
-}
+// }
