@@ -33,7 +33,9 @@ ctlScale = L.control.scale({
 }).addTo(map)
 const BRANDS = {
     "Gold Curry Bangkok": {
-        "FB": "https://www.facebook.com/GoldCurryBangkok/",
+        "INFO" : {
+            "FB": "https://www.facebook.com/GoldCurryBangkok/",
+        },
         "branches" : [
             {name: "Rama9", tel: "098 898 6222",geo: [13.742658, 100.632240]},
             {name: "CentralPlaza Westgate", tel: "098 898 6222",geo: [13.877627, 100.410561]},
@@ -56,15 +58,23 @@ const BRANDS = {
 var markers = L.markerClusterGroup()
 
 const DISPLAYBRANDS = [
-    'Gold Curry Bangkok'
+    {name: 'Gold Curry Bangkok',dspname: 'Gold Curry'},
 ]
 
 const ADDMARKER = (brand) => {
-    for (let branch of BRANDS[brand]['branches']) {
+    for (let branch of BRANDS[brand.name]['branches']) {
         markers.addLayer(L.marker(new L.LatLng(...branch.geo))
-        .bindPopup(`<h2>Gold Curry ${branch.name}</h2>
-        TEL: ${branch.tel}
-        `).bindTooltip(`Gold Curry ${branch.name}`).openTooltip()
+        .bindPopup(`<h2>${brand.dspname} ${branch.name}</h2>
+        <h6>TEL: ${branch.tel.replace(/\s/g,"-")}</h6>
+        `)
+        .bindTooltip(`${brand.dspname} ${branch.name}`)
+        .openTooltip()
+        .addEventListener("click", () => {
+            console.clear()
+            for (let [k,v] of Object.entries(BRANDS[brand.name]["INFO"])){
+                console.log(`${k}\n${v}`)
+            }
+        })
         )
     }
 }
