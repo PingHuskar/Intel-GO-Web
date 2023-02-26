@@ -1,4 +1,7 @@
 "use strict";
+
+const searchParam = new URLSearchParams(location.search)
+
 const LatLngToArrayString = (ll) => {
     return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`
 }
@@ -51,7 +54,6 @@ const BRANDS = {
             {name: "Chong Nonsi", tel: "06-5001-0606",geo: [13.72352, 100.52980]},
             {name: "Bang Pakong", tel: "033 020 302",geo: [13.53970, 101.00780]},
             {name: "Chidlom", tel: "02 118 2429",geo: [13.74317, 100.54423]},
-            // {name: "", tel: "",geo: []},
         ]
     },
     "CoCoICHIBANYA Thailand": {
@@ -110,13 +112,50 @@ const BRANDS = {
             {name: "Central Khonkaen",name_th: "เซ็นทรัล ขอนแก่น", tel: "063-737-9083",geo: [16.433134, 102.825746]},
         ]
     },
+    "OHKAJHU": {
+        "INFO" : {
+            "FB": "ohkajhu",
+        },
+        "branches": [
+            {name: "OHKAJHU ORGANIC",name_th: "", tel: "061-274-9977",geo: [18.8405983,99.0224429],open: "9:00am",closed: "9:30pm",place: "Nongjom chiangmai,TH"},
+            {name: "OHKAJHU AIRPORT",name_th: "", tel: "098-545-2492",geo: [18.7723983,98.9781963],open: "9:30am",closed: "9:30pm",place: "Nimcity chiangmai,TH"},
+            {name: "SIAM SQUARE ONE",name_th: "", tel: "082-444-2251",geo: [13.7449978,100.531685],open: "10:00am",closed: "9:30pm",place: "Siam Square One Bangkok,TH"},
+            {name: "RATCHAPRUK",name_th: "", tel: "096-698-1666",geo: [13.7676442,100.4406511],open: "10:00am",closed: "9:30pm",place: "The Circle Ratchapruk Bangkok,TH"},
+            {name: "DADFA LASALLE",name_th: "", tel: "097-126-4947",geo: [13.6628877,100.6178832],open: "10:00am",closed: "9:30pm",place: "Dadfa Lasalle Bangkok,TH"},
+            {name: "SIAM SQUARE SOI 2",name_th: "", tel: "062-309-4545",geo: [13.7448256,100.5318486],open: "9:00am",closed: "9:30pm",place: "Siam Square Soi 2 Bangkok,TH"},
+            {name: "THE PASEO PARK KANJANAPISEK",name_th: "097-921-9555", tel: "",geo: [13.766379,100.4063514],open: "10:00am",closed: "9:30pm",place: "The Paseo Park Kanjanapisek Bangkok,TH"},
+            {name: "SB RAMA 2",name_th: "", tel: "065-415-7999",geo: [13.667709,100.447148],open: "10:00am",closed: "9:30pm",place: "SB Rama 2 Bangkok,TH"},
+            {name: "BTS SENANIKHOM",name_th: "", tel: "062-310-6989",geo: [13.83617, 100.57398],open: "10:00am",closed: "9:00pm",place: "BTS Senanikom Bangkok,TH"},
+            {name: "LADPRAO",name_th: "", tel: "082-339-4666",geo: [13.77750, 100.62514],open: "10:00am",closed: "9:30pm",place: "Phetchaburi - Ekkamai Bangkok,TH"},
+            {name: "PHETCHABURI - EKKAMAI",name_th: "", tel: "052-080-744",geo: [13.74263, 100.59354],open: "9:00am",closed: "9:30pm",place: "Ladprao Bangkok,TH"},
+            {name: "MARKET VILLAGE RANG-SIT",name_th: "", tel: "062-083-3666",geo: [14.00028, 100.68499],open: "10:00am",closed: "9:00pm",place: "Market Village Rangsit Bangkok,TH"},
+            {name: "EKKAMAI - RAM INTHRA",name_th: "", tel: "082-329-7666",geo: [13.81127, 100.61876],open: "9:00am",closed: "9:30pm",place: "Ekkamai Ram inthra Bangkok,TH"},
+            {name: "SEACON SQUARE SRINAGARINDRA",name_th: "", tel: "082-440-4666",geo: [13.69630, 100.64812],open: "9:00am",closed: "9:30pm",place: "Seacon Square Srinagarindra Bangkok,TH"},
+            {name: "INDEXLIVINGMALL BANGNA",name_th: "", tel: "094-447-0914",geo: [13.66530, 100.65069],open: "9:00am",closed: "9:30pm",place: "Indexlivingmall bangna Bangkok,TH"},
+            {name: "ACTIVE PARK PTT STATION MUANGTHONG",name_th: "", tel: "066-121-0515",geo: [13.9120372,100.5404632],open: "10:00am",closed: "9:00pm",place: ""},
+            {name: "SAI MAI MALL",name_th: "", tel: "062-064-4916",geo: [13.921051, 100.680389],open: "10:00am",closed: "9:00pm",place: "Sai Mai Mall Bangkok,TH"},
+        ]
+    }
 }
 var markers = L.markerClusterGroup()
 
-const DISPLAYBRANDS = [
-    {name: 'Gold Curry Bangkok',dspname: 'Gold Curry'},
-    {name: 'CoCoICHIBANYA Thailand',dspname: 'CoCo ICHIBANYA'},
+const ADDEDBRANDS = [
+    {name: 'Gold Curry Bangkok',dspname: 'Gold Curry',type: 'curry'},
+    {name: 'CoCoICHIBANYA Thailand',dspname: 'CoCo ICHIBANYA',type: 'curry'},
+    {name: 'OHKAJHU',dspname: 'OHKAJHU',type: 'salad'},
 ]
+
+const SELECT = searchParam.get(`s`) ?? `curry`
+
+let DISPLAYBRANDS = []
+const REGEXIGNORECASE = `i`
+
+for (let brand of ADDEDBRANDS) {
+    if (brand.type === SELECT || new RegExp(SELECT, REGEXIGNORECASE).test(brand.dspname)) {
+        DISPLAYBRANDS.push(brand)
+    }
+}
+
 
 const ADDMARKER = (brand) => {
     for (let branch of BRANDS[brand.name]['branches']) {
@@ -137,6 +176,5 @@ const ADDMARKER = (brand) => {
 }
 
 DISPLAYBRANDS.map(ADDMARKER)
-
 
 map.addLayer(markers)
