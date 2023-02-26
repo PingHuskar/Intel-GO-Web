@@ -135,7 +135,33 @@ const BRANDS = {
             {name: "ACTIVE PARK PTT STATION MUANGTHONG",name_th: "", tel: "066-121-0515",geo: [13.9120372,100.5404632],open: "10:00am",closed: "9:00pm",place: ""},
             {name: "SAI MAI MALL",name_th: "", tel: "062-064-4916",geo: [13.921051, 100.680389],open: "10:00am",closed: "9:00pm",place: "Sai Mai Mall Bangkok,TH"},
         ]
-    }
+    },
+    "Jones Salad": {
+        "INFO" : {
+            "FB": "JonesSaladThailand",
+        },
+        "branches": [
+            {name: "Silom",name_th: "สีลม",geo: [13.7287523,100.5352922]},
+            {name: "CentralPlaza WestGate",name_th: "เซ็นทรัลพลาซา เวสต์เกต",geo: [13.876104,100.412125]},
+            {name: "Esplanade Ratchada",name_th: "เอสพละนาด รัชดา",geo: [13.766522,100.5695168]},
+            {name: "King Chulalongkorn Memorial Hospital",name_th: "โรงพยาบาลจุฬาลงกรณ์",geo: [13.7324333,100.5365971]},
+            {name: "Sala Daeng",name_th: "ศาลาแดง",geo: [13.7284877,100.5341327]},
+            {name: "Chamchuri Square",name_th: "จามจุรีสแควร์​",geo: [13.73299,100.530403]},
+            {name: "The Market Bangkok",name_th: "เดอะมาร์เก็ต แบงคอก",geo: [13.7477942,100.5412348]},
+            {name: "Siriraj Hospital",name_th: "โรงพยาบาลศิริราช",geo: [13.7572396,100.4848858]},
+            {name: "Central Ladprao",name_th: "เซ็นทรัล ลาดพร้าว",geo: [13.816445,100.561149]},
+            {name: "CentralPlaza Cheangwattana",name_th: "เซ็นทรัลพลาซา แจ้งวัฒนะ",geo: [13.903492,100.528249]},
+            {name: "CentralPlaza Pinklao",name_th: "เซ็นทรัลพลาซา ปิ่นเกล้า",geo: [13.7782739,100.4761901]},
+            {name: "Union Mall",name_th: "ยูเนี่ยน มอลล์",geo: [13.8133627,100.5618615]},
+            {name: "La Villa Ari",name_th: "ลา วิลล่า อารีย์",geo: [13.78002, 100.54523]},
+            {name: "CentralPlaza Rama 2",name_th: "เซ็นทรัลพลาซา พระราม 2",geo: [13.663727,100.437367]},
+            {name: "CentralPlaza Rama 3",name_th: "เซ็นทรัลพลาซา พระราม 3",geo: [13.697567,100.537583]},
+            {name: "Future Park Rangsit",name_th: "ฟิวเจอร์พาร์ค รังสิต",geo: [13.9897121,100.6168391]},
+            {name: "Seacon Square",name_th: "ซีคอนสแควร์",geo: [13.6941977,100.64785]},
+            {name: "Central Rama 9",name_th: "เซ็นทรัล พระราม 9",geo: [13.758406,100.566078]},
+            {name: "Terminal 21 Rama 3",name_th: "เทอร์มินอล 21 พระราม 3",geo: [13.6893538,100.5057552]},
+        ]
+    },
 }
 var markers = L.markerClusterGroup()
 
@@ -143,11 +169,21 @@ const ADDEDBRANDS = [
     {name: 'Gold Curry Bangkok',dspname: 'Gold Curry',type: 'curry'},
     {name: 'CoCoICHIBANYA Thailand',dspname: 'CoCo ICHIBANYA',type: 'curry'},
     {name: 'OHKAJHU',dspname: 'OHKAJHU',type: 'salad'},
+    {name: 'Jones Salad',dspname: 'JonesSalad',type: 'salad'},
 ]
 
-const SELECT = searchParam.get(`s`) ?? `curry`
+const SELECTRANDOM = [
+    `curry`
+    ,`salad`
+]
 
-let DISPLAYBRANDS = []
+const get_random = (list) => {
+    return list[Math.floor((Math.random()*list.length))]
+}
+
+const SELECT = searchParam.get(`s`) ?? get_random(SELECTRANDOM)
+
+const DISPLAYBRANDS = []
 const REGEXIGNORECASE = `i`
 
 for (let brand of ADDEDBRANDS) {
@@ -156,22 +192,28 @@ for (let brand of ADDEDBRANDS) {
     }
 }
 
+const genTel = (branch) => {
+    if (branch.tel) return `<h6>TEL: ${branch.tel.replace(/\s/g,"-")}</h6>`
+}
+
 
 const ADDMARKER = (brand) => {
     for (let branch of BRANDS[brand.name]['branches']) {
-        markers.addLayer(L.marker(new L.LatLng(...branch.geo))
-        .bindPopup(`<h2>${brand.dspname} ${branch.name}</h2>
-        <h6>TEL: ${branch.tel.replace(/\s/g,"-")}</h6>
-        `)
-        .bindTooltip(`${brand.dspname} ${branch.name}`)
-        .openTooltip()
-        .addEventListener("click", () => {
-            console.clear()
-            for (let [k,v] of Object.entries(BRANDS[brand.name]["INFO"])){
-                console.log(`${k}\n${v}`)
-            }
-        })
-        )
+        if (branch.geo.length === 2) {
+            markers.addLayer(L.marker(new L.LatLng(...branch.geo))
+            .bindPopup(`<h2>${brand.dspname} ${branch.name}</h2>
+            ${genTel(branch)}
+            `)
+            .bindTooltip(`${brand.dspname} ${branch.name}`)
+            .openTooltip()
+            .addEventListener("click", () => {
+                console.clear()
+                for (let [k,v] of Object.entries(BRANDS[brand.name]["INFO"])){
+                    console.log(`${k}\n${v}`)
+                }
+            })
+            )
+        }
     }
 }
 
