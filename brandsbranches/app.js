@@ -168,42 +168,69 @@ const BRANDS = {
             "REF": "https://www.afteryoudessertcafe.com/en/branches"
         },
         "branches": [
-            {name: "CENTRAL @centralwOrld", name_th: "", tel: "090-275-7126",geo: [13.744973, 100.539625]},
-            {name: "CentralFestival Hatyai", name_th: "", tel: "090-275-7126",geo: [6.9915948, 100.4829401]},
-            {name: "The Market Bangkok", name_th: "", tel: "090-275-7126",geo: [13.74763, 100.541319]},
-            {name: "101 The Third Place", name_th: "", tel: "090-275-7126",geo: [13.68614, 100.611678]},
-            {name: "ICONSIAM", name_th: "", tel: "090-275-7126",geo: [13.726917, 100.511189]},
-            {name: "Terminal 21 Pattaya", name_th: "", tel: "090-275-7126",geo: [12.950206, 100.888678]},
-            {name: "CentralPlaza Rama ll", name_th: "", tel: "090-275-7126",geo: [13.663684, 100.439341]},
-            {name: "CentralPlaza Udonthani", name_th: "", tel: "090-275-7126",geo: [17.406483, 102.800075]},
-            {name: "CentralFestival Chiangmai", name_th: "", tel: "090-275-7126",geo: [18.807268, 99.018122]},
-            {name: "Hillside Town, 1st Floor", name_th: "", tel: "090-275-7126",geo: [13.876644, 100.411027]},
-            {name: "The Mall Korat", name_th: "", tel: "090-275-7126",geo: [14.974594, 102.077241]},
-            {name: "The Promenade", name_th: "", tel: "090-275-7126",geo: [13.826958, 100.676697]},
-            {name: "MBK Center", name_th: "", tel: "090-275-7126",geo: [13.745042, 100.529946]},
-            {name: "CentralPlaza Bangna", name_th: "", tel: "090-275-7126",geo: [13.669344, 100.634311]},
-            {name: "Esplanade Ratchadapisek", name_th: "", tel: "090-275-7126",geo: [13.766406, 100.569521]},
-            {name: "BANGKOK PLAZA - Bangkok Hospital", name_th: "", tel: "090-275-7126",geo: [13.74879, 100.582551]},
-            {name: "The Portal", name_th: "", tel: "090-275-7126",geo: [13.911431, 100.550129]},
-            {name: "CentralPlaza Pinklao", name_th: "", tel: "090-275-7126",geo: [13.777812, 100.475898]},
-            {name: "Seacon Square", name_th: "", tel: "090-275-7126",geo: [13.694498, 100.648361]},
-            {name: "Terminal 21", name_th: "", tel: "090-275-7126",geo: [13.737894, 100.560384]},
-            {name: "ZPELL - Futrue Park Rangsit", name_th: "", tel: "090-275-7126",geo: [13.989542, 100.617846]},
-            {name: "The Mall Bangkae", name_th: "", tel: "090-275-7126",geo: [13.714309, 100.407695]},
-            {name: "Tha Maharaj", name_th: "", tel: "090-275-7126",geo: [13.755026, 100.4887]},
-            {name: "Megabangna", name_th: "", tel: "090-275-7126",geo: [13.647195443986, 100.68056459005]},
-            {name: "The Crystal SB Ratchapruek", name_th: "", tel: "090-275-7126",geo: [13.809624501965, 100.44853678847]},
-            {name: "INT Intersect Rama lll", name_th: "", tel: "090-275-7126",geo: [13.67455683634, 100.54500885308]},
-            {name: "J Avenue Thonglor 13", name_th: "", tel: "090-275-7126",geo: [13.733679, 100.58136]},
-            {name: "The Crystal Park", name_th: "", tel: "090-275-7126",geo: [13.811267222969, 100.61893198037]},
-            {name: "Siam Paragon", name_th: "", tel: "090-275-7126",geo: [13.747092238823, 100.53514458836]},
-            {name: "CentralPlaza Ladprao", name_th: "", tel: "090-275-7126",geo: [13.817211910538, 100.56148756085]},
-            {name: "La Villa Aree", name_th: "", tel: "090-275-7126",geo: [13.779965111953, 100.54499564851]},
-            {name: "The Mall Bangkapi", name_th: "", tel: "090-275-7126",geo: [13.765148, 100.643113]},
-            {name: "Central wOrld", name_th: "", tel: "090-275-7126",geo: [13.747398937284, 100.54025077354]},
-            {name: "Silom Complex", name_th: "", tel: "090-275-7126",geo: [13.72852, 100.535186]},
+            {name: "CENTRAL @centralwOrld", name_th: "", tel: "",geo: [13.744973, 100.539625]},
+            {name: "CentralFestival Hatyai", name_th: "", tel: "",geo: [6.9915948, 100.4829401]},
+            {name: "The Market Bangkok", name_th: "", tel: "",geo: [13.74763, 100.541319]},
+            {name: "101 The Third Place", name_th: "", tel: "",geo: [13.68614, 100.611678]},
+            {name: "ICONSIAM", name_th: "", tel: "",geo: [13.726917, 100.511189]},
+            {name: "Terminal 21 Pattaya", name_th: "", tel: "",geo: [12.950206, 100.888678]},
+            {name: "CentralPlaza Rama ll", name_th: "", tel: "",geo: [13.663684, 100.439341]},
+            {name: "CentralPlaza Udonthani", name_th: "", tel: "",geo: [17.406483, 102.800075]},
+            {name: "CentralFestival Chiangmai", name_th: "", tel: "",geo: [18.807268, 99.018122]},
+            {name: "Hillside Town, 1st Floor", name_th: "", tel: "",geo: [13.876644, 100.411027]},
+            {name: "The Mall Korat", name_th: "", tel: "",geo: [14.974594, 102.077241]},
+            {name: "The Promenade", name_th: "", tel: "",geo: [13.826958, 100.676697]},
+            {name: "MBK Center", name_th: "", tel: "",geo: [13.745042, 100.529946]},
+            {name: "CentralPlaza Bangna", name_th: "", tel: "",geo: [13.669344, 100.634311]},
+            {name: "Esplanade Ratchadapisek", name_th: "", tel: "",geo: [13.766406, 100.569521]},
+            {name: "BANGKOK PLAZA - Bangkok Hospital", name_th: "", tel: "",geo: [13.74879, 100.582551]},
+            {name: "The Portal", name_th: "", tel: "",geo: [13.911431, 100.550129]},
+            {name: "CentralPlaza Pinklao", name_th: "", tel: "",geo: [13.777812, 100.475898]},
+            {name: "Seacon Square", name_th: "", tel: "",geo: [13.694498, 100.648361]},
+            {name: "Terminal 21", name_th: "", tel: "",geo: [13.737894, 100.560384]},
+            {name: "ZPELL - Futrue Park Rangsit", name_th: "", tel: "",geo: [13.989542, 100.617846]},
+            {name: "The Mall Bangkae", name_th: "", tel: "",geo: [13.714309, 100.407695]},
+            {name: "Tha Maharaj", name_th: "", tel: "",geo: [13.755026, 100.4887]},
+            {name: "Megabangna", name_th: "", tel: "",geo: [13.647195443986, 100.68056459005]},
+            {name: "The Crystal SB Ratchapruek", name_th: "", tel: "",geo: [13.809624501965, 100.44853678847]},
+            {name: "INT Intersect Rama lll", name_th: "", tel: "",geo: [13.67455683634, 100.54500885308]},
+            {name: "J Avenue Thonglor 13", name_th: "", tel: "",geo: [13.733679, 100.58136]},
+            {name: "The Crystal Park", name_th: "", tel: "",geo: [13.811267222969, 100.61893198037]},
+            {name: "Siam Paragon", name_th: "", tel: "",geo: [13.747092238823, 100.53514458836]},
+            {name: "CentralPlaza Ladprao", name_th: "", tel: "",geo: [13.817211910538, 100.56148756085]},
+            {name: "La Villa Aree", name_th: "", tel: "",geo: [13.779965111953, 100.54499564851]},
+            {name: "The Mall Bangkapi", name_th: "", tel: "",geo: [13.765148, 100.643113]},
+            {name: "Central wOrld", name_th: "", tel: "",geo: [13.747398937284, 100.54025077354]},
+            {name: "Silom Complex", name_th: "", tel: "",geo: [13.72852, 100.535186]},
         ]
     },
+    "Daddy Dough": {
+        "INFO" : {
+
+        },
+        "branches": [
+            {name: "PTT Daeng-Vibhavadi (ปตท. ดินแดง-วิภาวดี)", name_th: "ปตท. ดินแดง-วิภาวดี", tel: "0827896863", geo: [13.7793352, 100.5557102]},
+                {name: "Bon Marche (บองมาเช่)", name_th: "บองมาเช่", tel: "0827896852", geo: [13.8393928, 100.5510049]},
+                {name: "Silom (สีลม)", name_th: "สีลม", tel: "0827896851", geo: [13.7233636, 100.5202987]},
+                {name: "PTT Phaholyothin 53 (ปตท. พหลโยธิน 53)", name_th: "ปตท. พหลโยธิน 53", tel: "0632722517", geo: [13.8669221, 100.59103]},   
+                {name: "PTT Bangna Inbound (ปตท.บางนา ขาเข้า)", name_th: "ปตท.บางนา ขาเข้า", tel: "0614200012", geo: [13.6868153, 100.6014841]},  
+                {name: "Delivery (เดลิเวอรี่)", name_th: "เดลิเวอรี่", tel: "", geo: [13.8682011, 100.4520435]},
+                {name: "Ratchaphruek (ราชพฤกษ์)", name_th: "ราชพฤกษ์", tel: "", geo: [13.8682011, 100.4520435]},
+                {name: "PTT Suksawat 30 (ปตท. สุขสวัสดิ์ 30)", name_th: "ปตท. สุขสวัสดิ์ 30", tel: "0613868525", geo: [13.6790101, 100.4962711]}, 
+                {name: "PTT. Borommarajonani (ปตท.บรมราชชนนี)", name_th: "ปตท.บรมราชชนนี", tel: "", geo: [13.7827886, 100.4155408]},
+                {name: "PTT Chaiyapruek (ปตท. ชัยพฤกษ์)", name_th: "ปตท. ชัยพฤกษ์", tel: "0888096968", geo: [13.9233792, 100.476029]},
+                {name: "PTT Rama 2 Outbound (ปตท. พระราม2 ขาออก)", name_th: "ปตท. พระราม2 ขาออก", tel: "0613868525", geo: [13.6252112, 100.393579]},
+                {name: "PTT Km.35 (ปตท. กม.35)", name_th: "ปตท. กม.35", tel: "0827896874", geo: [13.5322065, 100.2093555]},
+                {name: "PTT BangPa-In (ปตท. บางปะอิน)", name_th: "ปตท. บางปะอิน", tel: "0614200103", geo: [14.2290385, 100.6101142]},
+                {name: "PTT Wang Noi Outbound (ปตท.วังน้อย ขาออก)", name_th: "ปตท.วังน้อย ขาออก", tel: "0632709629", geo: [14.2890969, 100.8177191]},
+                {name: "CentralPlaza Khonkaen (เซ็นทรัลพลาซา ขอนแก่น)", name_th: "เซ็นทรัลพลาซา ขอนแก่น", tel: "", geo: [16.432901, 102.825582]}, 
+                {name: "PTT. Western Outer Ring (ปตท. วงแหวนตะวันตก)", name_th: "ปตท. วงแหวนตะวันตก", tel: "0922598329", geo: [14.1093821, 100.5332956]},
+                {name: "Motorway Inbound (มอเตอร์เวย์ ขาเข้า)", name_th: "มอเตอร์เวย์ ขาเข้า", tel: "0614234184", geo: [13.5407232, 101.0069717]},
+                {name: "PTT Laemchabang (ปตท. แหลมฉบัง ขาเข้า)", name_th: "ปตท. แหลมฉบัง ขาเข้า", tel: "0901988967", geo: [13.1369062, 100.9848851]},
+                {name: "PTT. Laemchabang (ปตท. แหลมฉบัง ขาออก)", name_th: "ปตท. แหลมฉบัง ขาออก", tel: "0854882675", geo: [13.135165, 100.985981]},
+                {name: "PTT Rayong Gas Separation Plant (ปตท. โรงแยกก๊าซระยอง)", name_th: "ปตท. โรงแยกก๊าซระยอง", tel: "0613868523", geo: [12.7225035, 101.1511636]},
+        ]
+    }
 }
 var markers = L.markerClusterGroup()
 
@@ -213,11 +240,14 @@ const ADDEDBRANDS = [
     {name: 'OHKAJHU',dspname: 'OHKAJHU',type: 'salad'},
     {name: 'Jones Salad',dspname: 'JonesSalad',type: 'salad'},
     {name: 'After You',dspname: 'After You',type: 'dessert'},
+    {name: 'Daddy Dough',dspname: 'Daddy Dough',type: 'donut'},
 ]
 
 const SELECTRANDOM = [
     `curry`
     ,`salad`
+    ,`dessert`
+    ,`donut`
 ]
 
 const get_random = (list) => {
