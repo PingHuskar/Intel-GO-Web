@@ -162,6 +162,48 @@ const BRANDS = {
             {name: "Terminal 21 Rama 3",name_th: "เทอร์มินอล 21 พระราม 3",geo: [13.6893538,100.5057552]},
         ]
     },
+    "After You": {
+        "INFO" : {
+            "FB": "afteryoucafe",
+            "REF": "https://www.afteryoudessertcafe.com/en/branches"
+        },
+        "branches": [
+            {name: "CENTRAL @centralwOrld", name_th: "", tel: "090-275-7126",geo: [13.744973, 100.539625]},
+            {name: "CentralFestival Hatyai", name_th: "", tel: "090-275-7126",geo: [6.9915948, 100.4829401]},
+            {name: "The Market Bangkok", name_th: "", tel: "090-275-7126",geo: [13.74763, 100.541319]},
+            {name: "101 The Third Place", name_th: "", tel: "090-275-7126",geo: [13.68614, 100.611678]},
+            {name: "ICONSIAM", name_th: "", tel: "090-275-7126",geo: [13.726917, 100.511189]},
+            {name: "Terminal 21 Pattaya", name_th: "", tel: "090-275-7126",geo: [12.950206, 100.888678]},
+            {name: "CentralPlaza Rama ll", name_th: "", tel: "090-275-7126",geo: [13.663684, 100.439341]},
+            {name: "CentralPlaza Udonthani", name_th: "", tel: "090-275-7126",geo: [17.406483, 102.800075]},
+            {name: "CentralFestival Chiangmai", name_th: "", tel: "090-275-7126",geo: [18.807268, 99.018122]},
+            {name: "Hillside Town, 1st Floor", name_th: "", tel: "090-275-7126",geo: [13.876644, 100.411027]},
+            {name: "The Mall Korat", name_th: "", tel: "090-275-7126",geo: [14.974594, 102.077241]},
+            {name: "The Promenade", name_th: "", tel: "090-275-7126",geo: [13.826958, 100.676697]},
+            {name: "MBK Center", name_th: "", tel: "090-275-7126",geo: [13.745042, 100.529946]},
+            {name: "CentralPlaza Bangna", name_th: "", tel: "090-275-7126",geo: [13.669344, 100.634311]},
+            {name: "Esplanade Ratchadapisek", name_th: "", tel: "090-275-7126",geo: [13.766406, 100.569521]},
+            {name: "BANGKOK PLAZA - Bangkok Hospital", name_th: "", tel: "090-275-7126",geo: [13.74879, 100.582551]},
+            {name: "The Portal", name_th: "", tel: "090-275-7126",geo: [13.911431, 100.550129]},
+            {name: "CentralPlaza Pinklao", name_th: "", tel: "090-275-7126",geo: [13.777812, 100.475898]},
+            {name: "Seacon Square", name_th: "", tel: "090-275-7126",geo: [13.694498, 100.648361]},
+            {name: "Terminal 21", name_th: "", tel: "090-275-7126",geo: [13.737894, 100.560384]},
+            {name: "ZPELL - Futrue Park Rangsit", name_th: "", tel: "090-275-7126",geo: [13.989542, 100.617846]},
+            {name: "The Mall Bangkae", name_th: "", tel: "090-275-7126",geo: [13.714309, 100.407695]},
+            {name: "Tha Maharaj", name_th: "", tel: "090-275-7126",geo: [13.755026, 100.4887]},
+            {name: "Megabangna", name_th: "", tel: "090-275-7126",geo: [13.647195443986, 100.68056459005]},
+            {name: "The Crystal SB Ratchapruek", name_th: "", tel: "090-275-7126",geo: [13.809624501965, 100.44853678847]},
+            {name: "INT Intersect Rama lll", name_th: "", tel: "090-275-7126",geo: [13.67455683634, 100.54500885308]},
+            {name: "J Avenue Thonglor 13", name_th: "", tel: "090-275-7126",geo: [13.733679, 100.58136]},
+            {name: "The Crystal Park", name_th: "", tel: "090-275-7126",geo: [13.811267222969, 100.61893198037]},
+            {name: "Siam Paragon", name_th: "", tel: "090-275-7126",geo: [13.747092238823, 100.53514458836]},
+            {name: "CentralPlaza Ladprao", name_th: "", tel: "090-275-7126",geo: [13.817211910538, 100.56148756085]},
+            {name: "La Villa Aree", name_th: "", tel: "090-275-7126",geo: [13.779965111953, 100.54499564851]},
+            {name: "The Mall Bangkapi", name_th: "", tel: "090-275-7126",geo: [13.765148, 100.643113]},
+            {name: "Central wOrld", name_th: "", tel: "090-275-7126",geo: [13.747398937284, 100.54025077354]},
+            {name: "Silom Complex", name_th: "", tel: "090-275-7126",geo: [13.72852, 100.535186]},
+        ]
+    },
 }
 var markers = L.markerClusterGroup()
 
@@ -170,6 +212,7 @@ const ADDEDBRANDS = [
     {name: 'CoCoICHIBANYA Thailand',dspname: 'CoCo ICHIBANYA',type: 'curry'},
     {name: 'OHKAJHU',dspname: 'OHKAJHU',type: 'salad'},
     {name: 'Jones Salad',dspname: 'JonesSalad',type: 'salad'},
+    {name: 'After You',dspname: 'After You',type: 'dessert'},
 ]
 
 const SELECTRANDOM = [
