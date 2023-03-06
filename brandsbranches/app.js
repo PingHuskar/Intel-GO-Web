@@ -323,6 +323,39 @@ const BRANDS = {
             // {name: "สำนักงานใหญ่", tel: "02-385-7022-24, 085-906-0611", geo: []},
         ]
     },
+    "AMOR": {
+        "INFO": {
+
+        },
+        "branches": [
+            {name: "Central Ladprao", name_th: "", tel: "02-116-7400", geo: [13.8163264,100.5607534],type: "dine in"},
+            {name: "Central Rama 3", name_th: "", tel: "02-212-5257", geo: [13.697567,100.5375824],type: "dine in"},
+            {name: "Central Chaengwattana", name_th: "", tel: "02-407-9039", geo: [13.9034928,100.5282496],type: "dine in"},
+            {name: "Central Rama 9", name_th: "", tel: "02-103-4877", geo: [13.7584066,100.5660782],type: "dine in"},
+            {name: "Future Park Rangsit", name_th: "", tel: "02-567-6153", geo: [13.9897121,100.6168391],type: "dine in"},
+            {name: "Fashion Island", name_th: "", tel: "02-947-5811", geo: [13.8247283,100.6782607],type: "dine in"},
+            {name: "Terminal 21 (Asok)", name_th: "", tel: "02-115-8255", geo: [],type: "dine in"},
+            {name: "Market Place Nanglinchee", name_th: "", tel: "02-287-2536", geo: [13.7099594,100.5431394],type: "dine in"},
+            {name: "Thonglor", name_th: "", tel: "02-102-6457", geo: [13.7242156,100.5793398],type: "dine in"},
+            {name: "Sun Towers", name_th: "", tel: "02-617-6449", geo: [13.808208,100.5587078],type: "dine in"},
+            {name: "All Seasons Place", name_th: "", tel: "02-074-8780", geo: [13.7394596,100.5473702],type: "dine in"},
+            {name: "Muang Thai Pattara Complex", name_th: "", tel: "02-054-4844", geo: [13.7869915,100.5748125],type: "dine in"},
+            {name: "Siam Center", name_th: "", tel: "095-714-3255", geo: [],type: "dine in"},
+            {name: "Central Rama 2", name_th: "", tel: "095-118-0909, 02-872-4144", geo: [],type: "take away"},
+            {name: "Central WestGate", name_th: "", tel: "091-871-4704", geo: [13.876104,100.412125],type: "take away"},
+            {name: "Central EastVille", name_th: "", tel: "095-165-7701", geo: [13.8033456,100.6143248],type: "take away"},
+            {name: "Central Pinklao", name_th: "", tel: "02-115-9355", geo: [13.7782739,100.4761901],type: "take away"},
+            {name: "Central Bangna", name_th: "", tel: "02-745-7133", geo: [13.6695566,100.6346283],type: "take away"},
+            {name: "Mega Bangna", name_th: "", tel: "02-105-1562", geo: [13.646594,100.6801987],type: "take away"},
+            {name: "The Mall Bangkae", name_th: "", tel: "097-201-0083", geo: [13.7136869,100.4079409],type: "take away"},
+            {name: "Silom Complex", name_th: "", tel: "02-231-3185", geo: [13.7281905,100.5350653],type: "take away"},
+            {name: "Robinson Bangrak", name_th: "", tel: "02-234-4029", geo: [13.7197206,100.5152759],type: "take away"},
+            {name: "Big C Suksawat", name_th: "", tel: "02-463-9337", geo: [13.6531707,100.5213722],type: "take away"},
+            {name: "Lotus's Prachachuen", name_th: "", tel: "02-910-4288", geo: [13.8063052,100.5340641],type: "take away"},
+            {name: "Chan Road", name_th: "", tel: "02-286-3887", geo: [13.706657,100.5236411],type: "take away"},
+            {name: "Samyan Mitrtown", name_th: "", tel: "095-905-2720", geo: [],type: "take away"},
+        ]
+    }
 }
 var markers = L.markerClusterGroup()
 
@@ -335,6 +368,7 @@ const ADDEDBRANDS = [
     {name: 'Daddy Dough',dspname: 'Daddy Dough',type: 'donut'},
     {name: 'Fuji Restaurant',dspname: 'Fuji Restaurant',type: 'food'},
     {name: 'HuaplaChongnonsea',dspname: 'หัวปลาช่องนนทรี',type: 'sea'},
+    {name: 'AMOR',dspname: 'AMOR',type: 'dessert'},
 ]
 
 const SELECTRANDOM = [
