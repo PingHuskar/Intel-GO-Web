@@ -431,3 +431,4 @@ let Sunburst = `${Ingressventory}/sunburst`
 // if (viewItems) {
     open(`${Sunburst}?${str_SunburstParams.replace(/&$/,'')}`, "_blank")
 // }
+open(`https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=${Sunburst}?${str_SunburstParams.replace(/&$/,'').replace(/&/g,'%26')}&choe=UTF-8`,"_blank")
