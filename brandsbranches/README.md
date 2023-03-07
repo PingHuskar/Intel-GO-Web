@@ -14,6 +14,11 @@
 
 ## Seafood
 - หัวปลาช่องนนทรี
+- สมบูรณ์โภชนา
+
+## Furniture
+- IKEA
+- Index Living Mall
 
 ## ETC
 - Fuji Restaurant

@@ -254,7 +254,8 @@ const BRANDS = {
             {name: "Tesco Lotus Srinakarin (เทสโก้ โลตัส ศรีนครินทร์)", name_th: "เทสโก้ โลตัส ศรีนครินทร์", tel: "0902711842", geo: [13.620938, 100.620369]},
             {name: "Mega Bangna (เมกาบางนา)", name_th: "เมกาบางนา", tel: "0812044842", geo: [13.646594, 100.680199]},
             {name: "Paradise Park (พาราไดซ์ พาร์ค)", name_th: "พาราไดซ์ พาร์ค", tel: "0837946839", geo: [13.687696, 100.647614]},
-            {name: "Seacon Square Srinakarin (ซีคอนสแควร์ ศรีนครินทร์)", name_th: "ซีคอนสแควร์ ศรีนครินทร์", tel: "0803626842", geo: [13.694198, 100.647850]},
+            {name: "Seacon Square Srinakarin (ซีคอนสแควร์ ศรีนครินทร์)", name_th: "ซีคอนสแควร์ ศรีนครินทร์", tel: "0803626842", geo: [13.694823, 100.648279]},
+            // {name: "Seacon Square Srinakarin (ซีคอนสแควร์ ศรีนครินทร์)", name_th: "ซีคอนสแควร์ ศรีนครินทร์", tel: "0803626842", geo: [13.694198, 100.647850]},
             {name: "Suvarnabhumi Airport (ท่าอากาศยานสุวรรณภูมิ ชั้น 3)", name_th: "ท่าอากาศยานสุวรรณภูมิ ชั้น 3", tel: "021346157", geo: [13.689999, 100.750112]},
             {name: "The Mall Ngamwongwan (เดอะมอลล์ งามวงศ์วาน)", name_th: "เดอะมอลล์ งามวงศ์วาน", tel: "0837916297", geo: [13.855129, 100.542099]},        
             {name: "CentralPlaza Rattanathibet (เซ็นทรัลพลาซา รัตนาธิเบศร์)", name_th: "เซ็นทรัลพลาซา รัตนาธิเบศร์", tel: "0803627615", geo: [13.866294, 100.497520]},
@@ -355,6 +356,75 @@ const BRANDS = {
             {name: "Chan Road", name_th: "", tel: "02-286-3887", geo: [13.706657,100.5236411],type: "take away"},
             {name: "Samyan Mitrtown", name_th: "", tel: "095-905-2720", geo: [],type: "take away"},
         ]
+    },
+    "IKEA": {
+        "INFO": {
+
+        },
+        "branches": [
+            {name: "Bangna", name_th: "บางนา", tel: "", geo: [13.6444384,100.6796627]},
+            {name: "Bang Yai", name_th: "บางใหญ่", tel: "", geo: [13.878507,100.412798]},
+            {name: "Phuket", name_th: "ภูเก็ต", tel: "", geo: [7.936796, 98.378680]},
+            {name: "Emsphere", name_th: "", tel: "", geo: []},
+        ]
+    },
+    "indexlivingmall": {
+        "INFO": {
+
+        },
+        "branches": [
+            {name: "Ekkamai", name_th: "เอกมัย", tel: "027148300", geo: [13.726628, 100.585486]},
+            {name: "Bangna (บางนา) ", name_th: "บางนา", tel: "023480707", geo: [13.665728, 100.650668]},
+            {name: "The Walk Kaset Nawamin", name_th: "เดอะวอล์ค เกษตร-นวมินทร์", tel: "021082940", geo: [13.828686, 100.625733]},
+            {name: "The Walk Ratchaphruek", name_th: "เดอะวอล์ค ราชพฤกษ์", tel: "024896900", geo: [13.821353, 100.449911]},
+            // {name: "Central Bangna", name_th: "เซ็นทรัล บางนา", tel: "023480707", geo: [13.669557, 100.634628]},
+            {name: "The Mall Bangkae", name_th: "เดอะมอลล์ บางแค", tel: "024549634", geo: [13.713687, 100.407941]},
+            {name: "Fashion Island Ramindra", name_th: "แฟชั่นไอส์แลนด์-รามอินทรา", tel: "029476216", geo: [13.824728, 100.678261]},
+            {name: "Bang Yai", name_th: "บางใหญ่", tel: "025950900", geo: [13.877153, 100.408776]},
+            {name: "Rangsit", name_th: "รังสิต", tel: "029585099", geo: [13.992088, 100.618385]},
+            {name: "Rattanathibet", name_th: "รัตนาธิเบศร์", tel: "029699264", geo: [13.866667, 100.495556]},
+            {name: "Seacon Square Srinakarin", name_th: "ซีคอน ศรีนครินทร์", tel: "027219303", geo: [13.694879, 100.648273]},
+            {name: "Rama 2", name_th: "พระราม 2", tel: "020331888", geo: [13.665991, 100.443619]},
+            {name: "Lat Krabang", name_th: "ลาดกระบัง", tel: "", geo: [13.722563, 100.725937]},
+            // {name: "Rangsit", name_th: "รังสิต", tel: "029585099", geo: [13.992088, 100.618385]},
+            {name: "Ekachai", name_th: "เอกชัย", tel: "", geo: [13.627402, 100.379478]},
+            {name: "Mahachai", name_th: "มหาชัย", tel: "034836450", geo: [13.563438, 100.279845]},
+            {name: "Nakhon Pathom", name_th: "นครปฐม", tel: "034213670", geo: [13.813920, 100.082428]},
+            {name: "The Walk Nakhonsawan", name_th: "เดอะวอล์ค นครสวรรค์", tel: "056313099", geo: [15.701597, 100.121890]},
+            {name: "Phitsanulok", name_th: "พิษณุโลก", tel: "055224515", geo: [16.816084, 100.315389]},
+            {name: "Nakhon Ratchasima", name_th: "นครราชสีมา", tel: "044276880", geo: [15.018233, 102.130333]},
+            {name: "Surin", name_th: "สุรินทร์", tel: "044091260", geo: [14.878905, 103.523565]},
+            {name: "KHON KAEN", name_th: "ขอนแก่น", tel: "043472600", geo: [16.397724, 102.814927]},
+            {name: "Udonthani", name_th: "อุดรธานี", tel: "042309044", geo: [17.416182, 102.814772]},
+            {name: "Ubon Ratchathani", name_th: "อุบลราชธานี", tel: "045283500", geo: [15.261785, 104.845985]},
+            {name: "Chiang Mai", name_th: "เชียงใหม่", tel: "053851700", geo: [18.795563, 99.022792]},
+            {name: "Chachoengsao", name_th: "ฉะเชิงเทรา", tel: "033056280", geo: [13.680565, 101.052433]},
+            {name: "Chonburi", name_th: "ชลบุรี", tel: "038383333", geo: [13.312922, 100.955679]},
+            {name: "Winner Furniture Ratchaburi", name_th: "วินเนอร์ เฟอร์นิเจอร์ สาขา ราชบุรี", tel: " 032920180", geo: [13.547030, 99.806624]}, 
+            {name: "Pattaya", name_th: "พัทยา", tel: "038716859", geo: [12.934758, 100.901157]},
+            {name: "Rayong", name_th: "ระยอง", tel: "038873760", geo: [12.698500, 101.255729]},
+            {name: "Chanthaburi", name_th: "จันทบุรี", tel: "039608990", geo: [12.605761, 102.133319]},
+            {name: "Hua Hin", name_th: "หัวหิน", tel: "032547565", geo: [12.599449, 99.950558]},
+            {name: "Surat Thani", name_th: "สุราษฎร์ธานี", tel: "077968300", geo: [9.108475, 99.294701]},
+            {name: "Nakhonsrithammarat", name_th: "นครศรีธรรมราช", tel: "075312600", geo: [8.461270, 99.964254]},
+            {name: "Phuket", name_th: "ภูเก็ต", tel: "076249541", geo: [7.899238, 98.367880]},
+            {name: "Hat Yai", name_th: "หาดใหญ่", tel: "074892400", geo: [6.999453, 100.447683]},
+        ]
+    },
+    "Somboon Seafood": {
+        "INFO": {
+
+        },
+        "branches": [
+            {name: "Bantadthong", name_th: "บรรทัดทอง", tel: "02-216-4203-5", geo: [13.745208, 100.5237093], addr: "895/6-21 ซ.จุฬาฯ 8 ถ.บรรทัดทอง แขวงวังใหม่ เขตปทุมวัน กรุงเทพฯ 10330"},
+            {name: "Surawong", name_th: "สุรวงศ์", tel: "02-233-3104, 02-234-4499", geo: [13.7282182, 100.5266623], addr: "169,169/7-12 ถ.สุรวงศ์ แขวงสุริยวงศ์ เขตบางรัก กรุงเทพฯ 10500"},
+            {name: "Ratchada", name_th: "รัชดา", tel: "02-692-6850-2", geo: [13.7778757, 100.5732234], addr: "167/9-12 สี่แยกห้วยขวาง ถ.รัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพฯ 10400"},
+            {name: "Udom Suk (Bangna)", name_th: "อุดมสุข (บางนา)", tel: "02-746-6850-2", geo: [13.6777191, 100.6419156], addr: "26 ซ.อุดมสุข 60 ถ.สุขุมวิท 103 แขวงหนองบอน เขตประเวศ กรุงเทพฯ 10250"},
+            {name: "Samyan", name_th: "สามย่าน", tel: "02-160-5100", geo: [13.7329793, 100.5303844], addr: "315 อาคารจามจุรีสแควร์ ชั้น G ถ.พญาไท เขตปทุมวัน กรุงเทพฯ 10330"},
+            {name: "Central Embassy", name_th: "เซ็นทรัลเอ็มบาสซี", tel: "02-160-5965-6", geo: [13.7438568, 100.5461597], addr: "ช้ัน 5 เซ็นทรัลเอ็มบาสซี่ 1031 ถ.เพลินจิต แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330"},
+            {name: "Siam Square One (SQ1)", name_th: "สยามสแควร์วัน (SQ1)", tel: "02-115-1401-2", geo: [13.744800, 100.533891], addr: "ชั้น 4 อาคารสยามสแควร์วัน 388 ถ.พระราม 1 แขวงปทุมวัน เขตปทุมวัน กรุงเทพฯ 10330"},
+            {name: "CentralWorld", name_th: "เซ็นทรัลเวิลด์", tel: "02-090-6602", geo: [13.7470625, 100.5392044], addr: "C602 ชั้น 6 ศูนย์การค้าเซ็นทรัลเวิลด์ เลขที่ 4, 4/1-4/2, 4/4 ถ.ราชดําริห์ แขวงปทุมวัน เขตปทุมวัน กรุงเทพฯ 10330"},
+        ]
     }
 }
 var markers = L.markerClusterGroup()
@@ -369,6 +439,9 @@ const ADDEDBRANDS = [
     {name: 'Fuji Restaurant',dspname: 'Fuji Restaurant',type: 'food'},
     {name: 'HuaplaChongnonsea',dspname: 'หัวปลาช่องนนทรี',type: 'sea'},
     {name: 'AMOR',dspname: 'AMOR',type: 'dessert'},
+    {name: 'IKEA',dspname: 'อิเกีย',type: 'furniture'},
+    {name: 'indexlivingmall',dspname: 'อินเด็กซ์ ลิฟวิ่งมอลล์',type: 'furniture'},
+    {name: 'Somboon Seafood',dspname: 'สมบูรณ์โภชนา',type: 'sea'},
 ]
 
 const SELECTRANDOM = [
@@ -377,6 +450,7 @@ const SELECTRANDOM = [
     ,`dessert`
     ,`donut`
     ,`food`
+    // ,`furniture`
 ]
 
 const get_random = (list) => {
@@ -389,21 +463,30 @@ const DISPLAYBRANDS = []
 const REGEXIGNORECASE = `i`
 
 for (let brand of ADDEDBRANDS) {
-    if (brand.type === SELECT || new RegExp(SELECT, REGEXIGNORECASE).test(brand.dspname)) {
+    if (brand.type === SELECT 
+        || new RegExp(SELECT, REGEXIGNORECASE).test(brand.dspname)
+        || new RegExp(SELECT, REGEXIGNORECASE).test(brand.name)
+        ) {
         DISPLAYBRANDS.push(brand)
     }
 }
 
+const genAddr = (branch) => {
+    if (branch.addr) return `<h6>Address: ${branch.addr}</h6>`
+}
 const genTel = (branch) => {
     if (branch.tel) return `<h6>TEL: ${branch.tel.replace(/\s/g,"-")}</h6>`
 }
 
 
 const ADDMARKER = (brand) => {
+    let c = 0
     for (let branch of BRANDS[brand.name]['branches']) {
         if (branch.geo.length === 2) {
+            c++
             markers.addLayer(L.marker(new L.LatLng(...branch.geo))
             .bindPopup(`<h2>${brand.dspname} ${branch.name}</h2>
+            ${genAddr(branch)}
             ${genTel(branch)}
             `)
             .bindTooltip(`${brand.dspname} ${branch.name}`)
@@ -417,6 +500,7 @@ const ADDMARKER = (brand) => {
             )
         }
     }
+    console.log(c)
 }
 
 DISPLAYBRANDS.map(ADDMARKER)
