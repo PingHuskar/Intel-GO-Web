@@ -226,10 +226,10 @@ const getItemDetail = (item) => {
             else if (item.container.currentCount !== 0) {
                 //*
                 // console.log(item)
-                inventorySpace -= item.container.currentCount
+                // inventorySpace -= item.container.currentCount
                 for (let stackableItem of item.container.stackableItems) {
                     try {
-                        console.log(stackableItem.exampleGameEntity.at(2).resource.resourceType)
+                        // console.log(stackableItem.exampleGameEntity.at(2).resource.resourceType)
                         NonKeys[stackableItem.exampleGameEntity.at(2).resource.resourceType] += stackableItem.itemGuids.length
                     } catch (error) {
                         try {
@@ -239,7 +239,7 @@ const getItemDetail = (item) => {
                             NonKeys[stackableItem.exampleGameEntity.at(2).modResource.resourceType][stackableItem.exampleGameEntity.at(2).modResource.rarity] += stackableItem.itemGuids.length
                         }
                     }
-                    console.log(NonKeys)
+                    // console.log(NonKeys)
                 }
                 /*/
                 console.log(item)
