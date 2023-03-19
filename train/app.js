@@ -1064,19 +1064,7 @@ const MRTBLUELINE = [
             h: 0,
         }],
         since: "12/23/2019",
-    },
-    {
-        name: "ท่าพระ",
-        en: "Tha Phra",
-        id: "BL01-L",
-        latlng: [13.729659, 100.474074],
-        bannergress: [{
-            path: "",
-            bg: "",
-            w: 240,
-            h: 0,
-        }],
-        since: "7/29/2019",
+        drawto: "ท่าพระ",
     },
 ]
 MRTBLUELINE.forEach(station => {
@@ -2918,6 +2906,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.33,
     },
     {
         name: "ภาวนา",
@@ -2931,6 +2920,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.26,
     },
     {
         name: "โชคชัย 4",
@@ -2944,6 +2934,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.6,
     },
     {
         name: "ลาดพร้าว 71",
@@ -2957,6 +2948,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 0.9,
     },
     {
         name: "ลาดพร้าว 83",
@@ -2970,6 +2962,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.18,
     },
     {
         name: "มหาดไทย",
@@ -2983,6 +2976,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 0.84,
     },
     {
         name: "ลาดพร้าว 101",
@@ -2996,6 +2990,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.23,
     },
     {
         name: "บางกะปิ",
@@ -3009,6 +3004,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.16,
     },
     {
         name: "แยกลำสาลี",
@@ -3022,6 +3018,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.29,
     },
     {
         name: "ศรีกรีฑา",
@@ -3035,6 +3032,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.63,
     },
     {
         name: "หัวหมาก",
@@ -3048,6 +3046,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.2,
     },
     {
         name: "กลันตัน",
@@ -3061,6 +3060,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.6,
     },
     {
         name: "ศรีนุช",
@@ -3074,6 +3074,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.14,
     },
     {
         name: "ศรีนครินทร์ 38",
@@ -3087,6 +3088,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.15,
     },
     {
         name: "สวนหลวง ร.9",
@@ -3100,6 +3102,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.57,
     },
     {
         name: "ศรีอุดม",
@@ -3113,6 +3116,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1,
     },
     {
         name: "ศรีเอี่ยม",
@@ -3126,6 +3130,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.43,
     },
     {
         name: "ศรีลาซาล",
@@ -3139,6 +3144,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.44,
     },
     {
         name: "ศรีแบริ่ง",
@@ -3152,6 +3158,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.35,
     },
     {
         name: "ศรีด่าน",
@@ -3165,6 +3172,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.11,
     },
     {
         name: "ศรีเทพา",
@@ -3178,6 +3186,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.61,
     },
     {
         name: "ทิพวัล",
@@ -3191,6 +3200,7 @@ const MRTYELLOWLINE = [
             w: 240,
             h: 0,
         }],
+        distance_between_the_center_of_the_station_and_the_center_of_the_next_station: 1.64,
     },
     {
         name: "สำโรง",
@@ -3582,6 +3592,9 @@ const addPath = (route, color, opacity) => {
     var path = []
     for (let stop of route) {
         path.push(stop.latlng)
+        if (stop.drawto) {
+            path.push(route.find(r => r.name === stop.drawto).latlng)
+        }
     }
     L.polyline(path, {
         color: color,

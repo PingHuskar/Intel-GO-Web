@@ -425,7 +425,40 @@ const BRANDS = {
             {name: "Siam Square One (SQ1)", name_th: "สยามสแควร์วัน (SQ1)", tel: "02-115-1401-2", geo: [13.744800, 100.533891], addr: "ชั้น 4 อาคารสยามสแควร์วัน 388 ถ.พระราม 1 แขวงปทุมวัน เขตปทุมวัน กรุงเทพฯ 10330"},
             {name: "CentralWorld", name_th: "เซ็นทรัลเวิลด์", tel: "02-090-6602", geo: [13.7470625, 100.5392044], addr: "C602 ชั้น 6 ศูนย์การค้าเซ็นทรัลเวิลด์ เลขที่ 4, 4/1-4/2, 4/4 ถ.ราชดําริห์ แขวงปทุมวัน เขตปทุมวัน กรุงเทพฯ 10330"},
         ]
-    }
+    },
+    "Mont Nomsod": {
+        "INFO": {
+            "FB" : `https://www.facebook.com/montnomsod.official`,
+            "Wongnai" : `https://www.wongnai.com/chains/montnomsod`,
+        },
+        "branches": [
+            {name: "The Giant Swing", name_th: "เสาชิงช้า", tel: "", geo: [13.754191,100.50117], addr: "",r: 1300},
+            // {name: "MBK", name_th: "มาบุญครอง ชั้น 2", tel: "02-048-4898", geo: [], addr: "อยู่ฝั่งโรงแรมปทุมวันปริ๊นเซส อาคารมาบุญครองเซ็นเตอร์ ถนนพญาไท แขวงวังใหม่ เขตปทุมวัน กรุงเทพฯ 10330"},
+            {name: "Rama 1", name_th: "", tel: "", geo: [13.747213,100.524278], addr: "",r: 1300},
+            {name: "Mae Rim", name_th: "เชียงใหม่ แม่ริม", tel: "", geo: [18.92233, 98.94019], addr: ""},
+            {name: "Mae Hia", name_th: "เชียงใหม่ แม่เหียะ", tel: "", geo: [18.74891, 98.94244], addr: ""},
+            {name: "Nimmanahaeminda", name_th: "เชียงใหม่ นิมมานเหมินท์", tel: "", geo: [18.79796, 98.96671], addr: ""},
+            {name: "Itsaraphap", name_th: "อิสรภาพ นันทอุทยาน", tel: "", geo: [13.751223,100.478472], addr: "",r: 1300},
+        ]
+    },
+    "True Space": {
+        "INFO": {
+            
+        },
+        "branches": [
+            {name: "True Digital Park", name_th: "True Digital Park", tel: "", geo: [], addr: "",r: 1000},
+            {name: "Siam Square Soi 2", name_th: "สยามสแควร์ ซอย 2 ชั้น 3-4", tel: "090-970-4587", geo: [13.745723,100.532062], addr: "เลขที่ 232/5 สยามสแควร์ ซอย2 ถนน พระราม 1 เขตปทุมวัน กทม 10330",r: 1000},
+            {name: "Centerpoint of Siam Square", name_th: "เซ็นเตอร์พอยต์ ออฟ สยามสแควร์ ชั้น 4", tel: "090-971-0219", geo: [13.745279,100.533438], addr: "เลขที่ 411 อาคาร Centerpoint of Siam Square ชั้น 4 ซอยสยามสแควร์ ถนนพระราม1 แขวงปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330",r: 1000},
+            {name: "Asoke", name_th: "อโศก", tel: "", geo: [], addr: "",r: 1000},
+            {name: "iconsiam", name_th: "ไอคอนสยาม ชั้น 4", tel: "090-971-4415", geo: [13.72628,100.510166], addr: "เลขที่ 299 ถนน เจริญนคร แขวง คลองต้นไทร เขต คลองสาน กรุงเทพมหานคร 10600",r: 1000},
+            // {name: "", name_th: "มหาวิทยาลัยหอการค้าไทย", tel: "", geo: [], addr: "",r: 1000},
+            {name: "Rangsit University", name_th: "มหาวิทยาลัยรังสิต", tel: "090-971-5764", geo: [13.964251,100.586694], addr: "เลขที่ 52/347 หมู่ที่ 7 อาคารพิฆเณศ Student Center ชั้น 1 มหาวิทยาลัยรังสิต ตำบลหลักหก อำเภอเมือง จังหวัดปทุมธานี 12000",r: 1000},
+            {name: "Mahidol University TH", name_th: "มหาวิทยาลัยมหิดล ศาลายา", tel: "090-971-5283", geo: [13.800951,100.320456], addr: "999 อาคารสิริวัฒนภักดี ถนน พุทธมณฑลสาย 4 Salaya, Phutthamonthon District, Nakhon Pathom 73170",r: 1000},
+            {name: "Maha Sarakham", name_th: "เสริมไทยคอมเพล็กซ์ มหาสารคาม", tel: "064 703 4278", geo: [16.201232,103.276606], addr: "เสริมไทยคอมเพลกซ์ เลขที่ 76/1-7 ถนนนครสวรรค์ (ห้อง EX-RES201 ชั้น 2) ตำบล ตลาด อำเภอเมือง มหาสารคาม 44000",r: 1000},
+            {name: "Ubonratchathani", name_th: "Y-Square อุบลราชธานี", tel: "090-971-6325", geo: [15.247868,104.843255], addr: "เลขที่ 50 ถนนแจ้งสนิท ตำบลในเมือง อำเภอเมือง อุบลราชธานี 34000",r: 1000},
+            // {name: "", name_th: "", tel: "", geo: [], addr: "",r: 1000},
+        ]
+    },
 }
 var markers = L.markerClusterGroup()
 
@@ -442,6 +475,8 @@ const ADDEDBRANDS = [
     {name: 'IKEA',dspname: 'อิเกีย',type: 'furniture'},
     {name: 'indexlivingmall',dspname: 'อินเด็กซ์ ลิฟวิ่งมอลล์',type: 'furniture'},
     {name: 'Somboon Seafood',dspname: 'สมบูรณ์โภชนา',type: 'sea'},
+    {name: 'Mont Nomsod',dspname: 'มนต์ นมสด',type: 'milk'},
+    {name: 'True Space',dspname: 'ทรูสเปซ',type: 'cowork'},
 ]
 
 const SELECTRANDOM = [
@@ -450,6 +485,7 @@ const SELECTRANDOM = [
     ,`dessert`
     ,`donut`
     ,`food`
+    ,`milk`
     // ,`furniture`
 ]
 
@@ -473,9 +509,11 @@ for (let brand of ADDEDBRANDS) {
 
 const genAddr = (branch) => {
     if (branch.addr) return `<h6>Address: ${branch.addr}</h6>`
+    return ``
 }
 const genTel = (branch) => {
     if (branch.tel) return `<h6>TEL: ${branch.tel.replace(/\s/g,"-")}</h6>`
+    return ``
 }
 
 
@@ -498,6 +536,13 @@ const ADDMARKER = (brand) => {
                 }
             })
             )
+            if (branch.r) {
+                L.donut(branch.geo, {
+                    radius: branch.r,
+                    innerRadius: 0,
+                    innerRadiusAsPercent: false,
+                }).addTo(map)
+            }
         }
     }
     console.log(c)
