@@ -1,0 +1,157 @@
+{
+  "status": "OK",
+  "data": {
+    "limit": 10,
+    "offset": 0,
+    "total": 4,
+    "items": [
+      {
+        "store_id": 7,
+        "store_code": "S0007",
+        "category_id": 3,
+        "google_map_url": "13.162079842554315, 100.92854123489059",
+        "thumbnail_url": null,
+        "longitude": 100.928541234891,
+        "latitude": 13.1620798425543,
+        "post_code": null,
+        "post_seq": "001",
+        "pickup_flag": true,
+        "contact_info": [
+          { "type": "email", "value": "" },
+          { "type": "facebook", "value": "" },
+          { "type": "mobile", "value": "xx" },
+          { "type": "line", "value": "" }
+        ],
+        "opening_day": [
+          { "day": "sunday", "end": "20:00", "start": "10:30" },
+          { "day": "monday", "end": "20:00", "start": "10:30" },
+          { "day": "tuesday", "end": "20:00", "start": "10:30" },
+          { "day": "wednesday", "end": "20:00", "start": "10:30" },
+          { "day": "thursday", "end": "20:00", "start": "10:30" },
+          { "day": "friday", "end": "20:00", "start": "10:30" },
+          { "day": "saturday", "end": "20:00", "start": "10:30" },
+          { "day": "holiday", "end": "20:00", "start": "10:30" }
+        ],
+        "province": { "province_id": "PRV201608000299", "label": "ชลบุรี" },
+        "district": { "district_id": "DIS201608003080", "label": "ศรีราชา" },
+        "subdistrict": {
+          "subdistrict_id": "SUB201608024795",
+          "label": "ศรีราชา"
+        },
+        "title": "IT CITY - ตึกคอม ศรีราชา (S0007)",
+        "address": "ห้อง 2SP03 ชั้น 2 อาคารตึกคอม ศรีราชา เลขที่ 135/99 ถนนสุขุมวิท ศรีราชา ศรีราชา ชลบุรี 20110"
+      },
+      {
+        "store_id": 6,
+        "store_code": "S0005",
+        "category_id": 3,
+        "google_map_url": "13.69302914555196, 100.64776372546261",
+        "thumbnail_url": null,
+        "longitude": 100.647763725463,
+        "latitude": 13.693029145552,
+        "post_code": "10250",
+        "post_seq": "002",
+        "pickup_flag": true,
+        "contact_info": [
+          { "type": "email", "value": "" },
+          { "type": "facebook", "value": "" },
+          { "type": "mobile", "value": "xx" },
+          { "type": "line", "value": "" }
+        ],
+        "opening_day": [
+          { "day": "sunday", "end": "21:00", "start": "10:30" },
+          { "day": "monday", "end": "21:00", "start": "10:30" },
+          { "day": "tuesday", "end": "21:00", "start": "10:30" },
+          { "day": "wednesday", "end": "21:00", "start": "10:30" },
+          { "day": "thursday", "end": "21:00", "start": "10:30" },
+          { "day": "friday", "end": "21:00", "start": "10:30" },
+          { "day": "saturday", "end": "21:00", "start": "10:30" },
+          { "day": "holiday", "end": "21:00", "start": "10:30" }
+        ],
+        "province": {
+          "province_id": "PRV201608000295",
+          "label": "กรุงเทพมหานคร"
+        },
+        "district": { "district_id": "DIS201608003130", "label": "ประเวศ" },
+        "subdistrict": {
+          "subdistrict_id": "SUB201608024231",
+          "label": "หนองบอน"
+        },
+        "title": "IT CITY - ซีคอนสแควร์ ศรีนครินทร์ (S0005)",
+        "address": "ห้อง B100B ชั้น B1 ศูนย์การค้าซีคอนสแควร์ ศรีนครินทร์ เลขที่ 55 ถนนศรีนครินทร์ หนองบอน ประเวศ กรุงเทพมหานคร 10250"
+      },
+      {
+        "store_id": 5,
+        "store_code": "S0155",
+        "category_id": 6,
+        "google_map_url": "13.647924769854432, 100.68062945563615",
+        "thumbnail_url": null,
+        "longitude": 100.680629455636,
+        "latitude": 13.6479247698544,
+        "post_code": null,
+        "post_seq": "002",
+        "pickup_flag": true,
+        "contact_info": [
+          { "type": "email", "value": "" },
+          { "type": "facebook", "value": "" },
+          { "type": "mobile", "value": "xx" },
+          { "type": "line", "value": "" }
+        ],
+        "opening_day": [
+          { "day": "sunday", "end": "22:00", "start": "10:00" },
+          { "day": "monday", "end": "22:00", "start": "10:00" },
+          { "day": "tuesday", "end": "22:00", "start": "10:00" },
+          { "day": "wednesday", "end": "22:00", "start": "10:00" },
+          { "day": "thursday", "end": "22:00", "start": "10:00" },
+          { "day": "friday", "end": "22:00", "start": "10:00" },
+          { "day": "saturday", "end": "22:00", "start": "10:00" },
+          { "day": "holiday", "end": "22:00", "start": "10:00" }
+        ],
+        "province": {
+          "province_id": "PRV201608000314",
+          "label": "สมุทรปราการ"
+        },
+        "district": { "district_id": "DIS201608003133", "label": "บางพลี" },
+        "subdistrict": {
+          "subdistrict_id": "SUB201608024242",
+          "label": "บางแก้ว"
+        },
+        "title": "AMD Exclusive Store by IT CITY (S0155)",
+        "address": "ห้อง 2630 ชั้น 2 ศูนย์การค้าเมกาบางนา เลขที่ 39 หมู่ 6 ถนนบางนา-ตราด กม.8 บางแก้ว บางพลี สมุทรปราการ 10540"
+      },
+      {
+        "store_id": 4,
+        "store_code": "S0003",
+        "category_id": 3,
+        "google_map_url": "13.960897132014196, 100.62221681561644",
+        "thumbnail_url": null,
+        "longitude": 100.622216815616,
+        "latitude": 13.9608971320142,
+        "post_code": "12130",
+        "post_seq": "003",
+        "pickup_flag": true,
+        "contact_info": [
+          { "type": "email", "value": "" },
+          { "type": "facebook", "value": "" },
+          { "type": "mobile", "value": "xx" },
+          { "type": "line", "value": "" }
+        ],
+        "opening_day": [
+          { "day": "sunday", "end": "20:00", "start": "10:30" },
+          { "day": "monday", "end": "20:00", "start": "10:30" },
+          { "day": "tuesday", "end": "20:00", "start": "10:30" },
+          { "day": "wednesday", "end": "20:00", "start": "10:30" },
+          { "day": "thursday", "end": "20:00", "start": "10:30" },
+          { "day": "friday", "end": "20:00", "start": "10:30" },
+          { "day": "saturday", "end": "20:00", "start": "10:30" },
+          { "day": "holiday", "end": "20:00", "start": "10:30" }
+        ],
+        "province": { "province_id": "PRV201608000306", "label": "ปทุมธานี" },
+        "district": { "district_id": "DIS201608003177", "label": "ลำลูกกา" },
+        "subdistrict": { "subdistrict_id": "SUB201608024572", "label": "คูคต" },
+        "title": "IT CITY - เซียร์ รังสิต (S0003)",
+        "address": "ชั้น 3 ศูนย์การค้าเซียร์รังสิต เลขที่ 99 หมู่ 8 ถนนพหลโยธิน คูคต ลำลูกกา ปทุมธานี 12130 "
+      }
+    ]
+  }
+}
