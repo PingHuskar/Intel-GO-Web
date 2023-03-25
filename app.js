@@ -8,7 +8,7 @@ var mymap, lyrOSM, mrkCurrentLocation, popBaanPaWaeng, popExample, ctlZoom, ctlA
 $(document).ready(function() {
     mymap = L.map(`mapdiv`, {
         center: [13.769028, 100.540186],
-        zoom: 13,
+        zoom: 18,
         zoomControl: false,
         // dragging:false,
         // minZoom:10,
@@ -75,11 +75,14 @@ $(document).ready(function() {
                     <a href='https://www.google.com/maps?daddr=${lat},${lng}' target='_blank'>
                         <img src="src/images/googlemaps.png">
                     </a>
-                    <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
+                    <!-- <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
                         <img src="src/images/NO2.jpg">
-                    </a>
+                    </a> -->
                     <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode({lat:lat,lon:lng})}' target='_blank'>
                         <img src="src/images/pm.jpg">
+                    </a>
+                    <a href='https://www.openstreetmap.org/#map=${z}/${lat}/${lng}' target='_blank'>
+                        <img src="src/images/osm.svg">
                     </a>
                     `
         )
