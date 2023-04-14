@@ -3452,7 +3452,7 @@ MRTORANGELINE.forEach(station => {
 })
 const getFutureStation = () => {
     if (searchParam.get("mode") === `F`) {
-        return [...MRTPINKLINE,...MRTPINKLINEEXT, ...MRTYELLOWLINE,...MRTORANGELINE]
+        return [...MRTPINKLINE,...MRTPINKLINEEXT,...MRTORANGELINE]
     }
     return []
 }
@@ -3465,6 +3465,7 @@ const STATIONS = [
     ...MRTPURPLELINE,
     ...SRTREDLINE,
     ...BRT,
+    ...MRTYELLOWLINE,
 ].concat(getFutureStation())
 const createDonut = (station) => {
     if (station.radius) {
