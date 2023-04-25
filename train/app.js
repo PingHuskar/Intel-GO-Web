@@ -3610,11 +3610,11 @@ addPath(ARL, "red", 0.75);
 addPath(BTSDARKGREENLINE, "darkgreen", 0.75);
 addPath(BTSLIGHTGREENLINE, "green", 0.75);
 addPath(BTSGOLDLINE, "gold", 0.75);
+addPath(MRTYELLOWLINE, "yellow", 0.75);
 if (searchParam.get("mode") === `future`) {
     addPath(MRTPINKLINE, "hotpink", 0.75);
     addPath(MRTPINKLINEEXT, "hotpink", 0.75);
     addPath(MRTORANGELINE, "orange", 0.75);
-    addPath(MRTYELLOWLINE, "yellow", 0.75);
 }
 const createCoordCode = (coords) => {
     let ar = [];

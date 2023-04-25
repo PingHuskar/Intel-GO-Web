@@ -47,16 +47,42 @@ const AddDonut = (lat, lng) => {
 }
 
 var markers = L.markerClusterGroup()
+const printNearbyStation = (CurrentStation) => {
+    console.clear()
+    console.log(`เลือก: ${CurrentStation}`)
+    const CurrentStationDetail = POLICESTATIONS.filter(s => s.name === CurrentStation).at(0)
+    // console.log(CurrentStationDetail)
+    // console.log(CurrentStationDetail.geo)
+    const CalculateDistFromCurrentStation = [
+        
+    ]
+    for (let station of POLICESTATIONS.filter(s => s.name !== CurrentStation)) {
+        // console.log(CurrentStationDetail.geo.at(0))
+        CalculateDistFromCurrentStation.push({
+            n: station.name, 
+            d: parseFloat(dist(CurrentStationDetail.geo.at(0),CurrentStationDetail.geo.at(1),station.geo.at(0),station.geo.at(1),`km`).replace('km',''))})
+    }
+    const sortedNearest = CalculateDistFromCurrentStation.sort((a,b) => a.d - b.d)
+    for (let station of sortedNearest) {
+        console.log(`${CurrentStation} ห่างจาก ${station.n}: ${station.d} km`)
+    }
+
+}
+let NAME = ``
 for (let record of POLICESTATIONS) {
     if (record.geo.length > 0) {
-        const NAME = record.name
-        markers.addLayer(L.marker(new L.LatLng(...record.geo))
-        .bindPopup(`<h2>${NAME}</h2>
-        <p>${record.addr}</p>
-        <p>tel: ${record.tel}</p>
-        <p>fax: ${record.fax}</p>
-        <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${record.geo[0]},${record.geo[1]}', '_blank')">
-        `).bindTooltip(`${record.name}`).openTooltip()
+        NAME = record.name
+        markers.addLayer(
+            L.marker(new L.LatLng(...record.geo))
+            .bindPopup(`<h2>${NAME}</h2>
+            <p>${record.addr}</p>
+            <p>tel: ${record.tel}</p>
+            <p>fax: ${record.fax}</p>
+            <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${record.geo[0]},${record.geo[1]}', '_blank')">
+            `).bindTooltip(`${record.name}`).openTooltip()
+            .addEventListener("click", () => {
+                printNearbyStation(record.name)
+            })
         )
         AddDonut(record.geo.at(0),record.geo.at(1))
     }
