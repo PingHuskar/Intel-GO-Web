@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.leaflet-container {
+    height: 2000px;
+    width: 3000px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+img:hover {
+    transform: scale(1.5);
+    transition: .5s all ease-in-out;
+}
+
+.leaflet-marker-icon {
+    opacity: 0.7 !important;
+}
+
+/* img.leaflet-marker-icon:hover {
+    transform: scale(2) !important;
+    transition: .5s all ease-in-out !important;
+} */
+
+.leaflet-marker-icon.leaflet-zoom-animated.leaflet-interactive {
+    margin-top: -24px !important;
+}
