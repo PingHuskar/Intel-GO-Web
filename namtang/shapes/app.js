@@ -62,16 +62,31 @@ const addPath = (route, color, opacity) => {
 // console.log(shapes)
 // console.log(shapes.length)
 if (id === ``) {
+    let delay = 1000
     for (let shape of shapes) {
-        let randomColor = Math.floor(Math.random()*16777215).toString(16);
-        console.log(shape.id, randomColor)
-        addPath(shape.shape, `#${randomColor}`, 1);
+        setTimeout(() => {
+            let randomColor = Math.floor(Math.random()*16777215).toString(16);
+            console.log(shape.id, randomColor)
+            addPath(shape.shape, `#${randomColor}`, 1)
+        }, delay)
+        delay += 40
+    }
+    for (let stop of stops) {
+        setTimeout(() => {
+        L.marker(stop.geo)
+            .addTo(map)
+            .bindPopup(`<h3>${lang === `en` ? stop.en : stop.local}</h3>`)
+            .bindTooltip(`${lang === `en` ? stop.en : stop.local}`)
+        map.panTo(new L.LatLng(...stop.geo));
+        }, delay)
+        delay += 1000/4
     }
 } else {
     let shape = shapes.find(s => s.id === id)
     // console.log(shape)
     addPath(shape.shape, `red`, 1);
 }
+
 
 const createCoordCode = (coords) => {
     let ar = [];
@@ -90,39 +105,7 @@ const createCoordCode = (coords) => {
 }
 // pathGroup.addLayer(BRTpath, MRTPURPLELINEpath)
 // map.fitBounds(pathGroup.getBounds())
-map.on('contextmenu', function(e) {
-    var dtCurrentTime = new Date()
-    const lat = e.latlng.lat.toFixed(6)
-    const lng = e.latlng.lng.toFixed(6)
-    const wlat = e.latlng.lat.toFixed(3)
-    const wlng = e.latlng.lng.toFixed(3)
-    const z = 17
-    const windy_zoom = 8
-    L.marker(e.latlng).bindPopup(
-        `
-            ${e.latlng.toString()}
-            <br>${dtCurrentTime.toString()}
-            <br><h6>Open in <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${lat}&lng=${lng}" target="_blank">X Marks Leaflet</a></h6>
-            <br>
-            <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
-                <img src="../src/images/intel.webp">
-            </a>
-            <a href='https://bannergress.com/map?lat=${lat}&lng=${lng}&zoom=${z}' target='_blank'>
-                <img src="../src/images/bannergress.png">
-            </a>
-            <a href='https://www.google.com/maps?daddr=${lat},${lng}' target='_blank'>
-                <img src="../src/images/googlemaps.png">
-            </a>
-            <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
-                <img src="../src/images/NO2.jpg">
-            </a>
-            <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode({lat:lat,lon:lng})}' target='_blank'>
-                <img src="../src/images/pm.jpg">
-            </a>
-            `
-    ).addTo(map)
-    // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
-})
+
 map.on('keypress', function(e) {
     console.log(e.originalEvent.key)
     if (e.originalEvent.key === "l") {
