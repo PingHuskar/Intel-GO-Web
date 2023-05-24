@@ -13,8 +13,12 @@
 - [SubDistrict](https://lustrous-muffin-830396.netlify.app/tambon)
 - [Public Health](https://lustrous-muffin-830396.netlify.app/publichealth)
 - [Police Stations](https://lustrous-muffin-830396.netlify.app/policestation)
+- [BNK77](https://lustrous-muffin-830396.netlify.app/bnk77)
 - [data.go.th]
   - [Thailand Nature Sites](https://lustrous-muffin-830396.netlify.app/datagoth/thailandnaturesites)
+- [namtang]
+  - [routes](https://lustrous-muffin-830396.netlify.app/namtang/routes)
+  - [parking](https://lustrous-muffin-830396.netlify.app/namtang/parking)
 <!-- - [](https://lustrous-muffin-830396.netlify.app/) -->
 
 
