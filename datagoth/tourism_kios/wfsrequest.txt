@@ -1,0 +1,1 @@
+http://gid.bangkok.go.th:8090/geoserver/BMAWMS/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=BMAWMS:tourism_kios&outputFormat=SHAPE-ZIP&format_options=charset:cp874

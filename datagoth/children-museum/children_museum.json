@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 2,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "children_museum.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [667582.1372727825, 1526572.4000035552]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "name": "พิพิธภัณฑ์เด็กกรุงเทพมหานคร จตุจักร",
+        "address": "ตั้งอยู่ภายในบริเวณสวนสมเด็จพระนางเจ้าสิริกิติ์ ถ.กำแพงเพชร 1 ตรงข้ามตลาดนัดจตุจักร เขตจตุจักร",
+        "dcode": "1030",
+        "tel": "02-6157333 ต่อ 132"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "children_museum.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [659506.9927054232, 1512851.9483965058]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "name": "พิพิธภัณฑ์เด็กกรุงเทพมหานคร บางมด",
+        "address": "8/245 หมู่ 4 ถ.พระราม 2 แขวงบางมด เขตจอมทอง",
+        "dcode": "1035",
+        "tel": "-"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::32647" }
+  }
+}
