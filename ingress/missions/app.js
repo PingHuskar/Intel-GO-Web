@@ -1,7 +1,7 @@
 "use strict";
 
 const searchParam = new URLSearchParams(location.search);
-const agentname = searchParam.get(`agent`) ?? `secretarea`;
+const agentname = `.*${searchParam.get(`agent`) ?? `secretarea`}.*`;
 const showPan = false
 const LatLngToArrayString = (ll) => {
   return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`;
@@ -77,65 +77,73 @@ var LeafIcon = L.Icon.extend({
 });
 
 let delay = 300
-document.title = `${agentname}'s missions`
+document.title = `${searchParam.get(`agent`) ?? `secretarea`}'s missions`
 // var markers = L.markerClusterGroup()
+// alert(agentname)
+// alert(RegExp(agentname,`i`))
 for (let agent of data) {
   for (let mission of agent.mission) {
     // console.log(mission.name)
-    if (RegExp(agentname,`i`).exec(mission.player)) {
-      let lat = mission.location.coordinates.at(1);
-      let lng = mission.location.coordinates.at(0);
-      setTimeout(() => {
-        const milliseconds = mission.updated['$date']
-        const dateObject = new Date(milliseconds).toLocaleString()
-          if (mission.img && false) {
-              L.marker([lat, lng], {
-                  icon: new LeafIcon({
-                      iconUrl: `${mission.img}`,
-                    }),
-                })
-                .bindPopup(
-                    `<h6>${mission.name}</h6>
-                    <a href="https://intel.ingress.com/mission/${
-                        mission.mguid
-                    }" target="_blank" >
-                    <img src="${mission.img}" />
-                    </a>
-                    <p>${mission.description ?? ``}</p>
-                    <p>completed: ${mission.completed ?? 0}</p>
-                    <p>completion: ${mission.completion / 10**5 ?? 0}%</p>
-                    <p>created by: ${mission.player}</p>
-                    <p>updated: ${dateObject}</p>
-                    `
-                    )
-          .bindTooltip(`${mission.name}`)
-          .openTooltip()
-          .addTo(map);
-        } else {
-            L.marker([lat, lng])
-            .bindPopup(
-                `<h6>${mission.name}</h6>
-                <a href="https://intel.ingress.com/mission/${
-                        mission.mguid
-                    }" target="_blank" >
-                    <img src="${mission.img}" />
-                    </a>
-                <p>${mission.description ?? ``}</p>
-                <p>completed: ${mission.completed ?? 0}</p>
-                <p>completion: ${mission.completion / 10**5 ?? 0}%</p>
-                    <p>created by: ${mission.player}</p>
-                    <p>updated: ${dateObject}</p>
-                `
-                )
-                .bindTooltip(`${mission.name}`)
-                .openTooltip()
-                .addTo(map);
-            }
-            if (showPan) {
-                map.panTo([lat, lng]);
-            }
-        }
-      ,delay)
+    if (new RegExp(agentname,`i`).exec(mission.player)) {
+      try {
+        // console.log(mission)
+        let lat = mission.location.coordinates.at(1);
+        let lng = mission.location.coordinates.at(0);
+        setTimeout(() => {
+          const milliseconds = mission.updated['$date']
+          const dateObject = new Date(milliseconds).toLocaleString()
+            if (mission.img && false) {
+                L.marker([lat, lng], {
+                    icon: new LeafIcon({
+                        iconUrl: `${mission.img}`,
+                      }),
+                  })
+                  .bindPopup(
+                      `<h6>${mission.name}</h6>
+                      <a href="https://intel.ingress.com/mission/${
+                          mission.mguid
+                      }" target="_blank" >
+                      <img src="${mission.img}" />
+                      </a>
+                      <p>${mission.description ?? ``}</p>
+                      <p>completed: ${mission.completed ?? 0}</p>
+                      <p>completion: ${mission.completion / 10**5 ?? 0}%</p>
+                      <p>created by: ${mission.player}</p>
+                      <p>updated: ${dateObject}</p>
+                      `
+                      )
+            .bindTooltip(`${mission.name}`)
+            .openTooltip()
+            .addTo(map);
+          } else {
+              L.marker([lat, lng])
+              .bindPopup(
+                  `<h6>${mission.name}</h6>
+                  <a href="https://intel.ingress.com/mission/${
+                          mission.mguid
+                      }" target="_blank" >
+                      <img src="${mission.img}" />
+                      </a>
+                  <p>${mission.description ?? ``}</p>
+                  <p>completed: ${mission.completed ?? 0}</p>
+                  <p>completion: ${mission.completion / 10**5 ?? 0}%</p>
+                      <p>created by: ${mission.player}</p>
+                      <p>updated: ${dateObject}</p>
+                  `
+                  )
+                  .bindTooltip(`${mission.name}`)
+                  .openTooltip()
+                  .addTo(map);
+              }
+              if (showPan) {
+                  map.panTo([lat, lng]);
+              }
+          }
+        ,delay)
+      } catch (e) {
+        console.info(mission)
+      }
+      
       delay += 100
       // break
     }
