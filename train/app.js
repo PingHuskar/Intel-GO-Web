@@ -271,7 +271,7 @@ const BRTICON = L.icon({
 var map, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
 map = L.map(`mapdiv`, {
     center: [13.744256, 100.5334],
-    zoom: 15,
+    zoom: 13,
     zoomControl: false,
     // dragging:false,
     // minZoom:10,
@@ -2867,32 +2867,32 @@ MRTPINKLINEEXT.forEach(station => {
     station.radius = 500
 })
 const MRTYELLOWLINE = [
-    {
-        name: "พหลโยธิน 24",
-        en: "",
-        id: "YLEX02",
-        latlng: [13.826589, 100.568579],
-        type: "YL",
-        bannergress: [{
-            path: "",
-            bg: "",
-            w: 240,
-            h: 0,
-        }],
-    },
-        {
-        name: "จันทรเกษม",
-        en: "",
-        id: "YLEX01",
-        latlng: [13.815056, 100.575382],
-        type: "YL",
-        bannergress: [{
-            path: "",
-            bg: "",
-            w: 240,
-            h: 0,
-        }],
-    },
+    // {
+    //     name: "พหลโยธิน 24",
+    //     en: "",
+    //     id: "YLEX02",
+    //     latlng: [13.826589, 100.568579],
+    //     type: "YL",
+    //     bannergress: [{
+    //         path: "",
+    //         bg: "",
+    //         w: 240,
+    //         h: 0,
+    //     }],
+    // },
+    //     {
+    //     name: "จันทรเกษม",
+    //     en: "",
+    //     id: "YLEX01",
+    //     latlng: [13.815056, 100.575382],
+    //     type: "YL",
+    //     bannergress: [{
+    //         path: "",
+    //         bg: "",
+    //         w: 240,
+    //         h: 0,
+    //     }],
+    // },
         {
         name: "ลาดพร้าว",
         original_name: "รัชดา",
