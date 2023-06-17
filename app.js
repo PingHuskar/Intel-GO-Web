@@ -7,8 +7,8 @@ const LatLngToArrayString = (ll) => {
 var mymap, lyrOSM, mrkCurrentLocation, popBaanPaWaeng, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMouseposition, ctlMeasure
 $(document).ready(function() {
     mymap = L.map(`mapdiv`, {
-        center: [13.769028, 100.540186],
-        zoom: 18,
+        center: [13.744,100.533142],
+        zoom: 15,
         zoomControl: false,
         // dragging:false,
         // minZoom:10,
@@ -62,9 +62,11 @@ $(document).ready(function() {
         const windy_zoom = 5
         L.marker(e.latlng).addTo(mymap).bindPopup(
             `
-                    ${e.latlng.toString()}
-                    <br>${dtCurrentTime.toString()}
-                    <br><h6>Open in <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(lat)}&lng=${encodeLatLng(lng)}" target="_blank">X Marks Leaflet</a></h6>
+                    <p>${lat},${lng}</p>
+                    <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
+                    <p>Open in <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(lat)}&lng=${encodeLatLng(lng)}" target="_blank">X Marks Leaflet</a> 
+                            ,<a href="https://pinghuskar.github.io/Weather-App/?geo=${lat},${lng}" target="_blank">Weather App</a>
+                    </p>
                     <br>
                     <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
                         <img src="src/images/intel.webp">

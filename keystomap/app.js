@@ -442,7 +442,21 @@ for (let [i, d] of SunburstParams.entries()) {
 str_SunburstParams += `space=${inventorySpace}&`
 
 let Sunburst = `${Ingressventory}/sunburst`
+const SunburstURL = `${Sunburst}?${str_SunburstParams.replace(/&$/,'')}`
 // if (viewItems) {
-    open(`${Sunburst}?${str_SunburstParams.replace(/&$/,'')}`, "_blank")
+    open(SunburstURL, "_blank")
 // }
-open(`https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=${Sunburst}?${str_SunburstParams.replace(/&$/,'').replace(/&/g,'%26')}&choe=UTF-8`,"_blank")
+
+/*
+open(`https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=${SunburstURL.replace(/&/g,'%26')}&choe=UTF-8`,"_blank")
+/*/
+axios.get(`https://api.shrtco.de/v2/shorten?url=${SunburstURL.replace(/&/g,'%26')}`)
+.then(res => {
+    return res.data
+})
+.then(data => {
+    console.log(data)
+    console.log(data.result.short_link2)
+    alert(data.result.short_link2)
+})
+//*/

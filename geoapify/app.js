@@ -2,8 +2,8 @@
 
 const searchParam = new URLSearchParams(location.search)
 const mode = searchParam.get(`mode`) ?? `drive`
-const APIkey = searchParam.get(`key`) ?? geoapify.key
-const geo = searchParam.get(`geo`) ?? `13.768323,100.539837|13.768323,101.539837`
+const APIkey = searchParam.get(`key`) ?? localStorage.getItem(`key`)
+const geo = searchParam.get(`geo`) ?? localStorage.getItem(`geo`)
 const nShowWaypoint = Number(searchParam.get(`point`) ?? `10`) - 1
 const lang = searchParam.get(`lang`) ?? `en`
 const LatLngToArrayString = (ll) => {
