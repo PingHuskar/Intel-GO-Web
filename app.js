@@ -66,6 +66,7 @@ $(document).ready(function() {
                     <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
                     <p>Open in <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(lat)}&lng=${encodeLatLng(lng)}" target="_blank">X Marks Leaflet</a> 
                             ,<a href="https://pinghuskar.github.io/Weather-App/?geo=${lat},${lng}" target="_blank">Weather App</a>
+                            ,<a href="https://pinghuskar.github.io/UV-Forecast-OpenUV.io/forecast/?lat=${lat}&lng=${lng}" target="_blank">Forecast UV</a>
                     </p>
                     <br>
                     <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
