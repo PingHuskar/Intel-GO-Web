@@ -1,3 +1,5 @@
+const searchParam = new URLSearchParams(location.search)
+const LOGDOMAPAPIKEY = searchParam.get(`longdokey`) || localStorage.getItem(`longdokey`)
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 const decodeLatLng = (encodeHex) => parseInt(encodeHex, 16) / 10 ** 6
 const encodeLatLng = (num) => zeroPad((num * 10 ** 6).toString(16), 8)
@@ -53,42 +55,63 @@ $(document).ready(function() {
     // console.log(popBaanPaWaeng)
 
     mymap.on('contextmenu', function(e) {
-        var dtCurrentTime = new Date()
-        var lat = e.latlng.lat.toFixed(6)
-        var lng = e.latlng.lng.toFixed(6)
-        var wlat = e.latlng.lat.toFixed(3)
-        var wlng = e.latlng.lng.toFixed(3)
+        let dtCurrentTime = new Date()
+        let lat = e.latlng.lat.toFixed(6)
+        let lng = e.latlng.lng.toFixed(6)
+        let wlat = e.latlng.lat.toFixed(3)
+        let wlng = e.latlng.lng.toFixed(3)
         const z = 17
         const windy_zoom = 5
-        L.marker(e.latlng).addTo(mymap).bindPopup(
-            `
-                    <p>${lat},${lng}</p>
-                    <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
-                    <p>Open in <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(lat)}&lng=${encodeLatLng(lng)}" target="_blank">X Marks Leaflet</a> 
-                            ,<a href="https://pinghuskar.github.io/Weather-App/?geo=${lat},${lng}" target="_blank">Weather App</a>
-                            ,<a href="https://pinghuskar.github.io/UV-Forecast-OpenUV.io/forecast/?lat=${lat}&lng=${lng}" target="_blank">Forecast UV</a>
-                    </p>
-                    <br>
-                    <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
-                        <img src="src/images/intel.webp">
-                    </a>
-                    <a href='https://bannergress.com/map?lat=${lat}&lng=${lng}&zoom=${z}' target='_blank'>
-                        <img src="src/images/bannergress.png">
-                    </a>
-                    <a href='https://www.google.com/maps?daddr=${lat},${lng}' target='_blank'>
-                        <img src="src/images/googlemaps.png">
-                    </a>
-                    <!-- <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
-                        <img src="src/images/NO2.jpg">
-                    </a> -->
-                    <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode({lat:lat,lon:lng})}' target='_blank'>
-                        <img src="src/images/pm.jpg">
-                    </a>
-                    <a href='https://www.openstreetmap.org/#map=${z}/${lat}/${lng}' target='_blank'>
-                        <img src="src/images/osm.svg">
-                    </a>
-                    `
-        )
+        axios.get(`https://api.longdo.com/map/services/addresses?lon[]=${lng}&lat[]=${lat}&key=${LOGDOMAPAPIKEY}`)
+        .then(res => res.data.at(0))
+        .then(data => {
+            console.log(data)
+            const aoi = data.aoi || ``
+            L.marker(e.latlng).addTo(mymap).bindPopup(
+                `
+                        <p>${lat},${lng}</p>
+                        <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
+                        
+                        <p>${aoi}</p>
+                        <p>
+                            ${data.road} 
+                            ${data.subdistrict} 
+                            ${data.district}
+                            ${data.province}
+                            ${data.postcode}
+                            ${data.country}
+                            ${data.geocode}
+                        </p>
+                        <p>
+                            elevation: ${data.elevation}
+                        </p>
+                        <p>Open in <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(lat)}&lng=${encodeLatLng(lng)}" target="_blank">X Marks Leaflet</a> 
+                                ,<a href="https://pinghuskar.github.io/Weather-App/?geo=${lat},${lng}" target="_blank">Weather App</a>
+                                ,<a href="https://pinghuskar.github.io/UV-Forecast-OpenUV.io/forecast/?lat=${lat}&lng=${lng}" target="_blank">Forecast UV</a>
+                        </p>
+                        <br>
+                        <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
+                            <img src="src/images/intel.webp">
+                        </a>
+                        <a href='https://bannergress.com/map?lat=${lat}&lng=${lng}&zoom=${z}' target='_blank'>
+                            <img src="src/images/bannergress.png">
+                        </a>
+                        <a href='https://www.google.com/maps?daddr=${lat},${lng}' target='_blank'>
+                            <img src="src/images/googlemaps.png">
+                        </a>
+                        <!-- <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
+                            <img src="src/images/NO2.jpg">
+                        </a> -->
+                        <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode({lat:lat,lon:lng})}' target='_blank'>
+                            <img src="src/images/pm.jpg">
+                        </a>
+                        <a href='https://www.openstreetmap.org/#map=${z}/${lat}/${lng}' target='_blank'>
+                            <img src="src/images/osm.svg">
+                        </a>
+                        `
+            )
+        })
+        
         // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
     })
     mymap.on('keypress', function(e) {
