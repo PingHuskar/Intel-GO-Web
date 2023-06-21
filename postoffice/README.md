@@ -1,0 +1,1 @@
+[สถานที่ (Locations) - บริษัท ไปรษณีย์ไทย จำกัด](https://opendata.onde.go.th/en/dataset/6-locations-thaipost)
