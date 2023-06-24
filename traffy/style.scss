@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    table {
+        tr {
+            th {
+                text-align: center;
+                text-transform: uppercase;
+                border: 3px solid salmon;
+            }
+            td {
+                border: 1px solid salmon;
+                text-align: center;
+                &:first-child {
+                    text-align: left;
+                }
+            }
+        }
+    }
+}
