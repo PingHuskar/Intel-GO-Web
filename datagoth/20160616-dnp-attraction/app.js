@@ -47,17 +47,22 @@ const AddDonut = (lat, lng, meter) => {
 }
 
 // var markers = L.markerClusterGroup()
-for (let record of data) {
-    if (record.geo.length > 0) {
-        const NAME = record.name
-        // markers.addLayer(
-            L.marker(new L.LatLng(...record.geo))
-        .bindPopup(`<h2>${NAME}</h2>
-        <img src="../../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${record.geo[0]},${record.geo[1]}', '_blank')">
-        `).bindTooltip(`${NAME}`).openTooltip().addTo(map)
-        // )
-        AddDonut(record.geo.at(0), record.geo.at(1), 300)
+
+fetch('data.json')
+.then(res => res.json())
+.then((data) => {
+    for (let record of data) {
+        if (record.geo.length > 0) {
+            const NAME = record.name
+            // markers.addLayer(
+                L.marker(new L.LatLng(...record.geo))
+            .bindPopup(`<h2>${NAME}</h2>
+            <img src="../../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${record.geo[0]},${record.geo[1]}', '_blank')">
+            `).bindTooltip(`${NAME}`).openTooltip().addTo(map)
+            // )
+            AddDonut(record.geo.at(0), record.geo.at(1), 300)
+        }
     }
-}
+})
 
 // map.addLayer(markers)
