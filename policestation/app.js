@@ -69,23 +69,27 @@ const printNearbyStation = (CurrentStation) => {
 
 }
 let NAME = ``
-for (let record of POLICESTATIONS) {
-    if (record.geo.length > 0) {
-        NAME = record.name
-        markers.addLayer(
-            L.marker(new L.LatLng(...record.geo))
-            .bindPopup(`<h2>${NAME}</h2>
-            <p>${record.addr}</p>
-            <p>tel: ${record.tel}</p>
-            <p>fax: ${record.fax}</p>
-            <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${record.geo[0]},${record.geo[1]}', '_blank')">
-            `).bindTooltip(`${record.name}`).openTooltip()
-            .addEventListener("click", () => {
-                printNearbyStation(record.name)
-            })
-        )
-        AddDonut(record.geo.at(0),record.geo.at(1))
+fetch(`./data.json`)
+.then(res => res.json())
+.then(POLICESTATIONS => {
+    for (let record of POLICESTATIONS) {
+        if (record.geo.length > 0) {
+            NAME = record.name
+            markers.addLayer(
+                L.marker(new L.LatLng(...record.geo))
+                .bindPopup(`<h2>${NAME}</h2>
+                <p>${record.addr}</p>
+                <p>tel: ${record.tel}</p>
+                <p>fax: ${record.fax}</p>
+                <img src="../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${record.geo[0]},${record.geo[1]}', '_blank')">
+                `).bindTooltip(`${record.name}`).openTooltip()
+                .addEventListener("click", () => {
+                    printNearbyStation(record.name)
+                })
+            )
+            AddDonut(record.geo.at(0),record.geo.at(1))
+        }
     }
-}
+})
 
 map.addLayer(markers)
