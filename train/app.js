@@ -116,6 +116,25 @@ const CORP = {
             },
             "MaxTrain": 21
         },
+        "YELLOW": {
+            "FareLog": {
+                "7/3/2023": {
+                    "normal": {
+                        0: 15,
+                        1: `18-21`,
+                        2: `22-25`,
+                        3: `24-27`,
+                        4: 24,
+                        5: 26,
+                        6: 28,
+                        7: 31,
+                        8: 33,
+                        9: 35,
+                        10: 45
+                    },
+                }
+            }
+        },
         "TH": {
             "Full": "บริษัท ทางด่วนและรถไฟฟ้ากรุงเทพ จำกัด (มหาชน)",
         },
@@ -268,10 +287,11 @@ const BRTICON = L.icon({
     iconUrl: '../src/images/1200px-Bangkok_BRT_logo.png',
     ...BRTPROPS
 })
+let zoom = localStorage.getItem(`zoom`) || 6
 var map, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
 map = L.map(`mapdiv`, {
     center: [13.744256, 100.5334],
-    zoom: 13,
+    zoom,
     zoomControl: false,
     // dragging:false,
     // minZoom:10,
@@ -3218,7 +3238,8 @@ const MRTYELLOWLINE = [
 ]
 MRTYELLOWLINE.forEach(station => {
     station.icon = MRTYELLOWLINEICON
-    station.type = `MRT`
+    station.fare = CORP["MRT"]["YELLOW"]["FareLog"]["7/3/2023"]
+    station.type = `MRTYELLOW`
     station.radius = 500
 })
 const MRTORANGELINE = [
@@ -3513,6 +3534,8 @@ const printFare = (faredata, stationType) => {
                 console.log(`${numberofstation.toString().padStart(2)} ${DICT.STOPS[lang]} : ${fare.toString().padStart(3)} ${DICT.BAHT[lang]}`)
             }
         }
+    } else if  (stationType === `MRTYELLOW`) {
+        console.log(`โคตรแพง`)
     }
 }
 const printStationDetail = (station) => {
@@ -3536,6 +3559,13 @@ const getStationImage = (station) => {
     return ``
 }
 const getBannergressBanner = (station) => {
+    if (station.type === `MRTYELLOW`) {
+        return `
+        <a href="./ref/MRTYELLOWFARETABLE.jpg" target="_blank">
+        <img src="./ref/MRTYELLOWFARETABLE.jpg" style="height: 200px; width: 340px;">
+        </a>
+        `
+    }
     if (!station.bannergress[0].path) return ''
     return `<a href="https://bannergress.com/banner/${station.bannergress[0].path}" target="_blank">
     <img 
@@ -3563,7 +3593,7 @@ for (let station of STATIONS) {
                 ${getBannergressBanner(station)}
                 `)
                 .addEventListener("click", () => printStationDetail(station))
-            // createDonut(station)
+            createDonut(station)
         }
     }
     if (station.hasOwnProperty("exits")) {
