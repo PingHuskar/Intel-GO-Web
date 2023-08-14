@@ -2,9 +2,9 @@
 let responseFromIntel = ``
 let inventorySpace = 2500
 const responsePattern = /^{"result"\:\[\[".+\]\]}$/
-while (!responsePattern.test(responseFromIntel)) {
+// while (!responsePattern.test(responseFromIntel)) {
     responseFromIntel = prompt(`Copy Response From getInventory (PRIME)`)
-}
+// }
 const getInventory = JSON.parse(responseFromIntel)
 var map, lyrOSM, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
 
