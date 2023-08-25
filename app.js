@@ -86,6 +86,9 @@ $(document).ready(function() {
                             elevation: ${data.elevation}
                         </p>
                         <p>Open in 
+                                <a href="https://glistening-froyo-abf34c.netlify.app/?lat=${lat}&lng=${lng}" target="_blank">
+                                    Ohn Ma 10 thousand
+                                </a> 
                                 <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(lat)}&lng=${encodeLatLng(lng)}" target="_blank">
                                     X Marks Leaflet
                                 </a> 
