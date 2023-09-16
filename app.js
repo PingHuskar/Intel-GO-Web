@@ -75,9 +75,9 @@ $(document).ready(function() {
                         <p>${aoi}</p>
                         <p>
                             ${data.road} 
-                            ${data.subdistrict} 
-                            ${data.district}
-                            ${data.province}
+                            <a href="${location.origin}/longdo/geometry/districtobject/?code=${data.geocode}" target="_blank">${data.subdistrict}</a>
+                            <a href="${location.origin}/longdo/geometry/districtobject/?code=${data.geocode.replace(/\d{2}$/,'')}" target="_blank">${data.district}</a>
+                            <a href="${location.origin}/longdo/geometry/districtobject/?code=${data.geocode.replace(/\d{4}$/,'')}" target="_blank">${data.province}</a>
                             ${data.postcode}
                             ${data.country}
                             ${data.geocode}

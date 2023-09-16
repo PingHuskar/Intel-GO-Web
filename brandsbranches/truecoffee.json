@@ -1,0 +1,1034 @@
+[
+  {
+    "id": 0,
+    "name": "TrueCoffee Flagship Store at Center Point of Siam Square",
+    "pos": {
+      "lat": 13.745700332961347,
+      "lng": 100.53334890475415
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee CP Tower 1",
+    "pos": {
+      "lat": 13.7277659,
+      "lng": 100.5326964
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee EmQuartier",
+    "pos": {
+      "lat": 13.7318275,
+      "lng": 100.5692798
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Fortune Town (Fl.3)",
+    "pos": {
+      "lat": 13.758508385881635,
+      "lng": 100.5651193857193
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Rama 2",
+    "pos": {
+      "lat": 13.664090837926652,
+      "lng": 100.43788880109787
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Ladprao",
+    "pos": {
+      "lat": 13.816290846349945,
+      "lng": 100.5609941482544
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Bangna",
+    "pos": {
+      "lat": 13.6695901,
+      "lng": 100.6347227
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee The Mall Bangkapi",
+    "pos": {
+      "lat": 13.7667907,
+      "lng": 100.64248
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Seacon Square",
+    "pos": {
+      "lat": 13.6924936,
+      "lng": 100.6478426
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Tayan Tower",
+    "pos": {
+      "lat": 13.7363203,
+      "lng": 100.6224483
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Tower",
+    "pos": {
+      "lat": 13.7625809,
+      "lng": 100.5677653
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Siam Square Soi 3",
+    "pos": {
+      "lat": 13.7446861,
+      "lng": 100.5325737
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Eight Thonglor",
+    "pos": {
+      "lat": 13.7306925,
+      "lng": 100.582015
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Siam Paragon (Urban Park Fl.3)",
+    "pos": {
+      "lat": 13.746261,
+      "lng": 100.5346526
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Muangthai Phatra Complex Building",
+    "pos": {
+      "lat": 13.787195,
+      "lng": 100.5751674
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee ABAC Bangna",
+    "pos": {
+      "lat": 13.6117493,
+      "lng": 100.8376449
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee U Chu Ling Building",
+    "pos": {
+      "lat": 13.72698,
+      "lng": 100.5407743
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Silom Lofts (Silom Soi 3)",
+    "pos": {
+      "lat": 13.724411,
+      "lng": 100.5320826
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Siam Square Soi 2",
+    "pos": {
+      "lat": 13.745805,
+      "lng": 100.532065
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Chamchuri Square",
+    "pos": {
+      "lat": 13.7326118,
+      "lng": 100.5304716
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee ABAC Huamak",
+    "pos": {
+      "lat": 13.7536187,
+      "lng": 100.6276395
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Kasetsart University",
+    "pos": {
+      "lat": 13.8431597,
+      "lng": 100.571025
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Bangkok Patana School",
+    "pos": {
+      "lat": 13.6615718,
+      "lng": 100.6224941
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Dhurakij Pundit University",
+    "pos": {
+      "lat": 13.8703485,
+      "lng": 100.549855
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee KMITL",
+    "pos": {
+      "lat": 13.7293216,
+      "lng": 100.7768536
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Siam University",
+    "pos": {
+      "lat": 13.7193864,
+      "lng": 100.4532134
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Paradise Park",
+    "pos": {
+      "lat": 13.6877173,
+      "lng": 100.6472466
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Chulalongkorn University (Engineering)",
+    "pos": {
+      "lat": 13.7367057,
+      "lng": 100.53312
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Chulalongkorn University (Arts)",
+    "pos": {
+      "lat": 13.7397411,
+      "lng": 100.5316934
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Siam Paragon (True Stadium Fl.4)",
+    "pos": {
+      "lat": 13.746261,
+      "lng": 100.5346526
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Fortune Town (Fl.1)",
+    "pos": {
+      "lat": 13.758404175948204,
+      "lng": 100.5651006102562
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee The Mall Bangkhae",
+    "pos": {
+      "lat": 13.7115217,
+      "lng": 100.4084412
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Sripatum University",
+    "pos": {
+      "lat": 13.8551079,
+      "lng": 100.5858991
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Chulalongkorn University (Education)",
+    "pos": {
+      "lat": 13.7384715,
+      "lng": 100.5313366
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Terminal 21 Asok",
+    "pos": {
+      "lat": 13.7376267,
+      "lng": 100.5601318
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Tesco Lotus Ramintra",
+    "pos": {
+      "lat": 13.8001882,
+      "lng": 100.6141954
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Seacon Bangkhae",
+    "pos": {
+      "lat": 13.7122509,
+      "lng": 100.4331894
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Empire Tower",
+    "pos": {
+      "lat": 13.7201459,
+      "lng": 100.5302661
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central World",
+    "pos": {
+      "lat": 13.7462839,
+      "lng": 100.5394118
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Rungroj Building",
+    "pos": {
+      "lat": 13.7625809,
+      "lng": 100.5677653
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Embassy",
+    "pos": {
+      "lat": 13.7437483,
+      "lng": 100.5465903
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Siriraj (CP Food World)",
+    "pos": {
+      "lat": 13.7598148,
+      "lng": 100.486369
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Sing Sian Yer Pao",
+    "pos": {
+      "lat": 13.7459774,
+      "lng": 100.5055559
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Lab Srinakharinwirot University",
+    "pos": {
+      "lat": 13.7461297,
+      "lng": 100.5656556
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Chulalongkorn University (Law)",
+    "pos": {
+      "lat": 13.7353069,
+      "lng": 100.5285833
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Lab Kasetsart University",
+    "pos": {
+      "lat": 13.8457155,
+      "lng": 100.5677231
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Lab KMITL",
+    "pos": {
+      "lat": 13.7293216,
+      "lng": 100.7768536
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee AIA Sathorn Tower",
+    "pos": {
+      "lat": 13.719444,
+      "lng": 100.5264014
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Goverment Complex (CP Food)",
+    "pos": {
+      "lat": 13.8810782,
+      "lng": 100.5658158
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Festival East Ville",
+    "pos": {
+      "lat": 13.8036231,
+      "lng": 100.6140301
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Silom Complex",
+    "pos": {
+      "lat": 13.7282073,
+      "lng": 100.5350609
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere EmQuartier",
+    "pos": {
+      "lat": 13.7313151,
+      "lng": 100.5697095
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Lab Mahanakorn University of Technology",
+    "pos": {
+      "lat": 13.8437677,
+      "lng": 100.8558098
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere The Mall Bangkapi",
+    "pos": {
+      "lat": 13.7658987,
+      "lng": 100.6425319
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere Central Festival East Ville",
+    "pos": {
+      "lat": 13.8033026,
+      "lng": 100.6144858
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Ramintra",
+    "pos": {
+      "lat": 13.8720784,
+      "lng": 100.6017689
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere Iconsiam",
+    "pos": {
+      "lat": 13.7267473,
+      "lng": 100.5113585
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee UTCC",
+    "pos": {
+      "lat": 13.7798191,
+      "lng": 100.560184
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere Central World",
+    "pos": {
+      "lat": 13.7460053,
+      "lng": 100.5384739
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Gateway Bangsue",
+    "pos": {
+      "lat": 13.8061434,
+      "lng": 100.5241181
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Tower (Fl.28)",
+    "pos": {
+      "lat": 13.7625809,
+      "lng": 100.5677653
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Digital Park (Hillside Town)",
+    "pos": {
+      "lat": 13.6851249,
+      "lng": 100.6110206
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Digital Park (Fl.1)",
+    "pos": {
+      "lat": 13.6851249,
+      "lng": 100.6110206
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Digital Park (Fl.6)",
+    "pos": {
+      "lat": 13.6851249,
+      "lng": 100.6110206
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Space UTCC",
+    "pos": {
+      "lat": 13.7798191,
+      "lng": 100.560184
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Space Iconsiam",
+    "pos": {
+      "lat": 13.7260501,
+      "lng": 100.5101105
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Digital Council of Thailand (DTC)",
+    "pos": {
+      "lat": 13.748828,
+      "lng": 100.562537
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee The Emperio Place",
+    "pos": {
+      "lat": 13.7231043,
+      "lng": 100.5666456
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee AIA Tower Surawong",
+    "pos": {
+      "lat": 13.7275756,
+      "lng": 100.5248255
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Benz NK",
+    "pos": {
+      "lat": 13.7782842,
+      "lng": 100.407917
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee The Belle Condominium Rama 9",
+    "pos": {
+      "lat": 13.7597035,
+      "lng": 100.5693498
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Perfect Place Ramkhamhaeng 164",
+    "pos": {
+      "lat": 13.7938733,
+      "lng": 100.7107908
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Chartered Square",
+    "pos": {
+      "lat": 13.7190883,
+      "lng": 100.5194111
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Marche Ramkhamhaeng 53",
+    "pos": {
+      "lat": 13.7664204,
+      "lng": 100.6192718
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee The Regent&#039;s International School",
+    "pos": {
+      "lat": 13.768031,
+      "lng": 100.5962307
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Ideo Mix Sukhumvit 103",
+    "pos": {
+      "lat": 13.6808751,
+      "lng": 100.6103371
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Sure Stay Plus Hotel (Sukhumvit Soi 2)",
+    "pos": {
+      "lat": 13.7391454,
+      "lng": 100.5519623
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee BITEC Bangna",
+    "pos": {
+      "lat": 13.6698429,
+      "lng": 100.6083133
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Marche Krungthepkreetha",
+    "pos": {
+      "lat": 13.7458036,
+      "lng": 100.6658714
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Trinity Complex",
+    "pos": {
+      "lat": 13.72463706451006,
+      "lng": 100.53049206733704
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Robinson Buriram",
+    "pos": {
+      "lat": 14.9731673,
+      "lng": 103.0641685
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Robinson Chachoengsao",
+    "pos": {
+      "lat": 13.6678641,
+      "lng": 101.0485148
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Festival Chiangmai",
+    "pos": {
+      "lat": 18.807268,
+      "lng": 99.0181221
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Chiangmai Airport",
+    "pos": {
+      "lat": 18.7689369,
+      "lng": 98.97539359999999
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Maya Chiangmai",
+    "pos": {
+      "lat": 18.802182281056307,
+      "lng": 98.96726444363594
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Harbor Mall Laemchabang",
+    "pos": {
+      "lat": 13.0790405,
+      "lng": 100.9206365
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Khonkaen",
+    "pos": {
+      "lat": 16.4322282,
+      "lng": 102.8254206
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Regional Office Khonkaen",
+    "pos": {
+      "lat": 16.4409554,
+      "lng": 102.8217614
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Big C Lumphun",
+    "pos": {
+      "lat": 18.591,
+      "lng": 99.0411999
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Tesco Lotus Lopburi",
+    "pos": {
+      "lat": 14.7869826,
+      "lng": 100.6781671
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Big C Lopburi",
+    "pos": {
+      "lat": 14.7936331,
+      "lng": 100.6720145
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Robinson Lopburi",
+    "pos": {
+      "lat": 14.7756713,
+      "lng": 100.6936482
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Sermthai Complex Mahasarakham",
+    "pos": {
+      "lat": 16.2015205,
+      "lng": 103.2768317
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Lab Mahidol University",
+    "pos": {
+      "lat": 13.7942319,
+      "lng": 100.3213767
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Salaya",
+    "pos": {
+      "lat": 13.7869455,
+      "lng": 100.2757335
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Space Mahidol University",
+    "pos": {
+      "lat": 13.80097,
+      "lng": 100.3205005
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Downtown Nakhonratchasima",
+    "pos": {
+      "lat": 14.974878,
+      "lng": 102.0973799
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Terminal 21 Korat",
+    "pos": {
+      "lat": 14.9814661,
+      "lng": 102.0905711
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Nakhonratchasima",
+    "pos": {
+      "lat": 14.996848565641791,
+      "lng": 102.11516839744917
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere Central Nakhonratchasima",
+    "pos": {
+      "lat": 14.9968367,
+      "lng": 102.1164626
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Scenical World Khaoyai",
+    "pos": {
+      "lat": 14.5375117,
+      "lng": 101.3782506
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Robinson Nakhonsithammarat",
+    "pos": {
+      "lat": 8.4274046,
+      "lng": 99.9721669
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Nakhonsithammarat",
+    "pos": {
+      "lat": 8.3819169,
+      "lng": 99.9697648
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee The Mall Ngamwongwan",
+    "pos": {
+      "lat": 13.8554654,
+      "lng": 100.5420791
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Chaengwaattana",
+    "pos": {
+      "lat": 13.9035229,
+      "lng": 100.5282478
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Westgate",
+    "pos": {
+      "lat": 13.8768924,
+      "lng": 100.4112625
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere Central Westgate",
+    "pos": {
+      "lat": 13.8768924,
+      "lng": 100.4112625
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Big C Bangyai",
+    "pos": {
+      "lat": 13.8830835,
+      "lng": 100.4076388
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Bangkok University Rangsit",
+    "pos": {
+      "lat": 14.0395107,
+      "lng": 100.6153646
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere Futrue Park Rangsit",
+    "pos": {
+      "lat": 13.9882861,
+      "lng": 100.6181681
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee True Space Rangsit University",
+    "pos": {
+      "lat": 13.9647085,
+      "lng": 100.5862972
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere Central Phuket",
+    "pos": {
+      "lat": 7.890089700000001,
+      "lng": 98.3668168
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Bluport Huahin",
+    "pos": {
+      "lat": 12.5481845,
+      "lng": 99.96179959999999
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Robinson Ratchaburi",
+    "pos": {
+      "lat": 13.5345577,
+      "lng": 99.8117298
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Rayong",
+    "pos": {
+      "lat": 12.6962918,
+      "lng": 101.2684891
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Robinson Roi-Et",
+    "pos": {
+      "lat": 16.0600725,
+      "lng": 103.6174826
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Mega Bangna",
+    "pos": {
+      "lat": 13.6475889,
+      "lng": 100.6800502
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Bangna Tower",
+    "pos": {
+      "lat": 13.6590254,
+      "lng": 100.6616001
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Robinson Samutprakan",
+    "pos": {
+      "lat": 13.5831153,
+      "lng": 100.6088601
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Big C Bangphli",
+    "pos": {
+      "lat": 13.603787,
+      "lng": 100.708007
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere Mega Bangna",
+    "pos": {
+      "lat": 13.6462983,
+      "lng": 100.679012
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Happy and Healthy Bike Lane",
+    "pos": {
+      "lat": 13.7095409,
+      "lng": 100.7792274
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee TrueSphere Happy and Healthy Bike Lane",
+    "pos": {
+      "lat": 13.7097457,
+      "lng": 100.779052
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Saprakan",
+    "pos": {
+      "lat": 13.6071938,
+      "lng": 100.6153354
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Mahachai",
+    "pos": {
+      "lat": 13.572805949196425,
+      "lng": 100.28891086578369
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Hatyai",
+    "pos": {
+      "lat": 6.991721,
+      "lng": 100.4826901
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Tesco Lotus Songkhla",
+    "pos": {
+      "lat": 7.153085099999999,
+      "lng": 100.6017979
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Central Samui",
+    "pos": {
+      "lat": 9.5323563,
+      "lng": 100.061652
+    }
+  },
+  {
+    "id": 0,
+    "name": "TrueCoffee Robinson Maesot",
+    "pos": {
+      "lat": 16.7221828,
+      "lng": 98.5864514
+    }
+  }
+]
