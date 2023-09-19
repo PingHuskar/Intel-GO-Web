@@ -1,4 +1,8 @@
 const searchParam = new URLSearchParams(location.search)
+const radius = 4
+const unit = `km`
+const donut = searchParam.get(`donut`)
+const plot = searchParam.get(`plot`)
 const LOGDOMAPAPIKEY = searchParam.get(`longdokey`) || localStorage.getItem(`longdokey`)
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 const decodeLatLng = (encodeHex) => parseInt(encodeHex, 16) / 10 ** 6
@@ -6,9 +10,9 @@ const encodeLatLng = (num) => zeroPad((num * 10 ** 6).toString(16), 8)
 const LatLngToArrayString = (ll) => {
     return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`
 }
-var mymap, lyrOSM, mrkCurrentLocation, popBaanPaWaeng, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMouseposition, ctlMeasure
+var map, lyrOSM, mrkCurrentLocation, popBaanPaWaeng, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMouseposition, ctlMeasure
 $(document).ready(function() {
-    mymap = L.map(`mapdiv`, {
+    map = L.map(`mapdiv`, {
         center: [13.744,100.533142],
         zoom: 15,
         zoomControl: false,
@@ -18,21 +22,21 @@ $(document).ready(function() {
         attributionControl: false
     })
     lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
-    mymap.addLayer(lyrOSM)
+    map.addLayer(lyrOSM)
 
     // https://github.com/kartena/Leaflet.Pancontrol
-    // ctlPan = L.control.pan().addTo(mymap)
+    // ctlPan = L.control.pan().addTo(map)
 
     // https://github.com/kartena/Leaflet.zoomslider
     ctlZoomslider = L.control.zoomslider({
         position: "topright"
-    }).addTo(mymap)
+    }).addTo(map)
 
-    ctlMeasure = L.control.polylineMeasure().addTo(mymap);
+    ctlMeasure = L.control.polylineMeasure().addTo(map);
 
     ctlAttribute = L.control.attribution({
         position: 'bottomleft'
-    }).addTo(mymap)
+    }).addTo(map)
     ctlAttribute.addAttribution(`OSM`) //Open Street Map
     ctlAttribute.addAttribution(`<a href="https://github.com/pinghuskar">Chadin Chaipornpisuth</a>`)
 
@@ -41,20 +45,12 @@ $(document).ready(function() {
         metric: false,
         maxWidth: 200
         // https://leafletjs.com/reference.html#control-scale
-    }).addTo(mymap)
+    }).addTo(map)
 
     // https://github.com/ardhi/Leaflet.MousePosition
-    ctlMouseposition = L.control.mousePosition().addTo(mymap)
+    ctlMouseposition = L.control.mousePosition().addTo(map)
 
-    popBaanPaWaeng = L.popup({
-        maxWidth: 200,
-        keepInView: true
-    })
-    popBaanPaWaeng.setLatLng([18.846694, 98.948937])
-    popBaanPaWaeng.setContent(`<h2>บ้านป่าแหว่ง (Moo Baan Pa Wang)</h2><img src="src/images/BaanPaWaeng.jpg" width="200px">`)
-    // console.log(popBaanPaWaeng)
-
-    mymap.on('contextmenu', function(e) {
+    map.on('contextmenu', function(e) {
         let dtCurrentTime = new Date()
         let lat = e.latlng.lat.toFixed(6)
         let lng = e.latlng.lng.toFixed(6)
@@ -67,7 +63,8 @@ $(document).ready(function() {
         .then(data => {
             console.log(data)
             const aoi = data.aoi || ``
-            L.marker(e.latlng).addTo(mymap).bindPopup(
+            
+            L.marker(e.latlng).addTo(map).bindPopup(
                 `
                         <p>${lat},${lng}</p>
                         <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
@@ -75,9 +72,14 @@ $(document).ready(function() {
                         <p>${aoi}</p>
                         <p>
                             ${data.road} 
-                            <a href="${location.origin}/longdo/geometry/districtobject/?code=${data.geocode}" target="_blank">${data.subdistrict}</a>
-                            <a href="${location.origin}/longdo/geometry/districtobject/?code=${data.geocode.replace(/\d{2}$/,'')}" target="_blank">${data.district}</a>
-                            <a href="${location.origin}/longdo/geometry/districtobject/?code=${data.geocode.replace(/\d{4}$/,'')}" target="_blank">${data.province}</a>
+                            <!--                          
+                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${data.subdistrict}</a>
+                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(/\d{2}$/,'')}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${data.district}</a>
+                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(/\d{4}$/,'')}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${data.province}</a>
+                            -->
+                            <a onclick="plotarea(${data.geocode})">${data.subdistrict}</a>
+                            <a onclick="plotarea(${data.geocode.replace(/\d{2}$/,'')})">${data.district}</a>
+                            <a onclick="plotarea(${data.geocode.replace(/\d{4}$/,'')})">${data.province}</a>
                             ${data.postcode}
                             ${data.country}
                             ${data.geocode}
@@ -123,47 +125,65 @@ $(document).ready(function() {
                         </a>
                         `
             )
+
+            if (donut) {
+                L.donut(e.latlng, {
+                    radius: radius * (unit === `km` ? 1000 : 1),
+                    innerRadius: 0,
+                    innerRadiusAsPercent: false,
+                }).addTo(map);
+            }
+            const arrPlot = plot.split(``)
+            if (arrPlot.includes(`s`)) {
+                plotShape(data.geocode, `LightSalmon`)
+            }
+            if (arrPlot.includes(`d`)) {
+                plotShape(data.geocode.replace(/\d{2}$/,''), `Salmon`)
+            }
+            if (arrPlot.includes(`p`)) {
+                plotShape(data.geocode.replace(/\d{4}$/,''), `IndianRed`)
+            }
         })
         
         // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
     })
-    mymap.on('keypress', function(e) {
+    map.on('keypress', function(e) {
         if (e.originalEvent.key === "l") {
-            mymap.locate()
+            map.locate()
         }
     })
-    mymap.on('locationfound', function(e) {
+    map.on('locationfound', function(e) {
         console.log(e)
         if (mrkCurrentLocation) {
             mrkCurrentLocation.remove()
         }
-        // mrkCurrentLocation = L.circleMarker(e.latlng).addTo(mymap)
+        // mrkCurrentLocation = L.circleMarker(e.latlng).addTo(map)
         mrkCurrentLocation = L.circle(e.latlng, {
             radius: e.accuracy / 2
-        }).addTo(mymap)
-        mymap.setView(e.latlng, 14)
+        }).addTo(map)
+        map.setView(e.latlng, 14)
     })
-    mymap.on('locationerror', function(e) {
+    map.on('locationerror', function(e) {
         // console.log(e)
         alert(`Location was not found`)
     })
-    mymap.on('zoomend', function() {
-        $(`#zoom-level`).html(mymap.getZoom())
+    map.on('zoomend', function() {
+        $(`#zoom-level`).html(map.getZoom())
     })
-    mymap.on('moveend', function() {
-        $(`#map-center`).html(LatLngToArrayString(mymap.getCenter()))
+    map.on('moveend', function() {
+        $(`#map-center`).html(LatLngToArrayString(map.getCenter()))
     })
-    mymap.on('mousemove', function(e) {
+    map.on('mousemove', function(e) {
         // console.log(e.latlng.toString())
         $(`#mouse-location`).html(LatLngToArrayString(e.latlng))
     })
 
     // $(`#btnLocate`).click(function() {
-    //     mymap.locate()
+    //     map.locate()
     // })
     // $(`#btnBaanPaWaeng`).click(function() {
-    //     mymap.setView([popBaanPaWaeng._latlng.lat, popBaanPaWaeng._latlng.lng], 17)
-    //     mymap.openPopup(popBaanPaWaeng)
+    //     map.setView([popBaanPaWaeng._latlng.lat, popBaanPaWaeng._latlng.lng], 17)
+    //     map.openPopup(popBaanPaWaeng)
     // })
 })
 
@@ -183,4 +203,58 @@ function createCoordCode(coords) {
         ar[Math.floor(lon / 3600)] +
         ar[Math.floor((lon % 3600) / 60)] +
         ar[lon % 60];
+}
+
+const plotShape = (geocode, color) => {
+    axios.get(`https://api.longdo.com/map/services/object?mode=geojson&id=${geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}`)
+            .then(res => {
+                console.log(res)
+                return res.data.features.at(0).geometry.coordinates
+            })
+            .then(shapes => {
+                // console.log(shapes)
+                for (let shape of shapes) {
+                    // console.log(shape)
+                    if (shape.length > 1) {
+                        let newArr = []
+                        for (let mark of shape) {
+                            newArr.push([mark.at(1),mark.at(0)])
+                        }
+                        // console.log(province.geometry.coordinates)
+                        L.polyline(newArr, {
+                            color: color
+                        }).addTo(map)
+                    } else if (shape.length === 1) {
+                        let newArr = []
+                        for (let mark of shape.at(0)) {
+                            newArr.push([mark.at(1),mark.at(0)])
+                        }
+                        // console.log(province.geometry.coordinates)
+                        L.polyline(newArr, {
+                            color: color
+                        }).addTo(map)
+                    }
+                }
+            })
+}
+
+const plotarea = (geocode) => {
+    // console.log(geocode)
+    switch (geocode.toString().length) {
+        case 6: {
+            plotShape(geocode, `red`)
+            break;
+        }
+        case 4: {
+            plotShape(geocode, `green`)
+            break;
+        }
+        case 2: {
+            plotShape(geocode, `blue`)
+            break;
+        }
+        default: {
+            alert(`error`)
+        }
+    }
 }
