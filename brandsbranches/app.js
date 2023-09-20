@@ -48,6 +48,9 @@ ctlScale = L.control
   .addTo(map);
 const BRANDS = {
   "True Coffee": {
+    INFO: {
+      ref: `view-source:https://truecoffee.truecorp.co.th/store`
+    },
     branches: [
       {
         id: 0,

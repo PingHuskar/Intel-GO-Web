@@ -1,71 +1,114 @@
-const searchParam = new URLSearchParams(location.search)
-const radius = 4
-const unit = `km`
-const donut = searchParam.get(`donut`)
-const plot = searchParam.get(`plot`)
-const LOGDOMAPAPIKEY = searchParam.get(`longdokey`) || localStorage.getItem(`longdokey`)
-const zeroPad = (num, places) => String(num).padStart(places, '0')
-const decodeLatLng = (encodeHex) => parseInt(encodeHex, 16) / 10 ** 6
-const encodeLatLng = (num) => zeroPad((num * 10 ** 6).toString(16), 8)
+const searchParam = new URLSearchParams(location.search);
+const radius = 4;
+const unit = `km`;
+const donut = searchParam.get(`donut`);
+const plot = searchParam.get(`plot`);
+const LAYER = searchParam.get(`layer`) || localStorage.getItem(`layer`);
+const LOGDOMAPAPIKEY =
+  searchParam.get(`longdokey`) || localStorage.getItem(`longdokey`);
+const zeroPad = (num, places) => String(num).padStart(places, "0");
+const decodeLatLng = (encodeHex) => parseInt(encodeHex, 16) / 10 ** 6;
+const encodeLatLng = (num) => zeroPad((num * 10 ** 6).toString(16), 8);
 const LatLngToArrayString = (ll) => {
-    return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`
+  return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`;
+};
+var map,
+  lyrOSM,
+  mrkCurrentLocation,
+  popExample,
+  ctlZoom,
+  ctlAttribute,
+  ctlScale,
+  ctlPan,
+  ctlZoomslider,
+  ctlMouseposition,
+  ctlMeasure;
+
+map = L.map(`mapdiv`, {
+  center: [13.744, 100.533142],
+  zoom: 15,
+  zoomControl: false,
+  // dragging:false,
+  // minZoom:10,
+  // maxZoom:14
+  attributionControl: false,
+});
+if (plot) {
+    var Esri_WorldGrayCanvas = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
+        maxZoom: 16
+    });
+    map.addLayer(Esri_WorldGrayCanvas);
+} else {
+    if (!LAYER) {
+        lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
+        map.addLayer(lyrOSM)
+    } else {
+        var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+            maxZoom: 17,
+            attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
+        });
+        map.addLayer(OpenTopoMap)
+    }
 }
-var map, lyrOSM, mrkCurrentLocation, popBaanPaWaeng, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMouseposition, ctlMeasure
-$(document).ready(function() {
-    map = L.map(`mapdiv`, {
-        center: [13.744,100.533142],
-        zoom: 15,
-        zoomControl: false,
-        // dragging:false,
-        // minZoom:10,
-        // maxZoom:14
-        attributionControl: false
-    })
-    lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
-    map.addLayer(lyrOSM)
 
-    // https://github.com/kartena/Leaflet.Pancontrol
-    // ctlPan = L.control.pan().addTo(map)
 
-    // https://github.com/kartena/Leaflet.zoomslider
-    ctlZoomslider = L.control.zoomslider({
-        position: "topright"
-    }).addTo(map)
 
-    ctlMeasure = L.control.polylineMeasure().addTo(map);
+// https://github.com/kartena/Leaflet.Pancontrol
+// ctlPan = L.control.pan().addTo(map)
 
-    ctlAttribute = L.control.attribution({
-        position: 'bottomleft'
-    }).addTo(map)
-    ctlAttribute.addAttribution(`OSM`) //Open Street Map
-    ctlAttribute.addAttribution(`<a href="https://github.com/pinghuskar">Chadin Chaipornpisuth</a>`)
+// https://github.com/kartena/Leaflet.zoomslider
+ctlZoomslider = L.control
+  .zoomslider({
+    position: "topright",
+  })
+  .addTo(map);
 
-    ctlScale = L.control.scale({
-        position: 'bottomleft',
-        metric: false,
-        maxWidth: 200
-        // https://leafletjs.com/reference.html#control-scale
-    }).addTo(map)
+ctlMeasure = L.control.polylineMeasure().addTo(map);
 
-    // https://github.com/ardhi/Leaflet.MousePosition
-    ctlMouseposition = L.control.mousePosition().addTo(map)
+ctlAttribute = L.control
+  .attribution({
+    position: "bottomleft",
+  })
+  .addTo(map);
+ctlAttribute.addAttribution(`OSM`); //Open Street Map
+ctlAttribute.addAttribution(
+  `<a href="https://github.com/pinghuskar">Chadin Chaipornpisuth</a>`
+);
 
-    map.on('contextmenu', function(e) {
-        let dtCurrentTime = new Date()
-        let lat = e.latlng.lat.toFixed(6)
-        let lng = e.latlng.lng.toFixed(6)
-        let wlat = e.latlng.lat.toFixed(3)
-        let wlng = e.latlng.lng.toFixed(3)
-        const z = 17
-        const windy_zoom = 5
-        axios.get(`https://api.longdo.com/map/services/addresses?lon[]=${lng}&lat[]=${lat}&key=${LOGDOMAPAPIKEY}`)
-        .then(res => res.data.at(0))
-        .then(data => {
-            console.log(data)
-            const aoi = data.aoi || ``
-            
-            L.marker(e.latlng).addTo(map).bindPopup(
-                `
+ctlScale = L.control
+  .scale({
+    position: "bottomleft",
+    metric: false,
+    maxWidth: 200,
+    // https://leafletjs.com/reference.html#control-scale
+  })
+  .addTo(map);
+
+// https://github.com/ardhi/Leaflet.MousePosition
+ctlMouseposition = L.control.mousePosition().addTo(map);
+
+map.on("contextmenu", function (e) {
+  let dtCurrentTime = new Date();
+  let lat = e.latlng.lat.toFixed(6);
+  let lng = e.latlng.lng.toFixed(6);
+  let wlat = e.latlng.lat.toFixed(3);
+  let wlng = e.latlng.lng.toFixed(3);
+  const z = 17;
+  const windy_zoom = 5;
+  axios
+    .get(
+      `https://api.longdo.com/map/services/addresses?lon[]=${lng}&lat[]=${lat}&key=${LOGDOMAPAPIKEY}`
+    )
+    .then((res) => res.data.at(0))
+    .then((data) => {
+      console.log(data);
+      const aoi = data.aoi || ``;
+
+      L.marker(e.latlng)
+        .addTo(map)
+        .bindPopup(
+          `
                         <p>${lat},${lng}</p>
                         <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
                         
@@ -73,13 +116,35 @@ $(document).ready(function() {
                         <p>
                             ${data.road} 
                             <!--                          
-                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${data.subdistrict}</a>
-                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(/\d{2}$/,'')}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${data.district}</a>
-                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(/\d{4}$/,'')}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${data.province}</a>
+                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${
+                              data.geocode
+                            }&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${
+            data.subdistrict
+          }</a>
+                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(
+                              /\d{2}$/,
+                              ""
+                            )}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${
+            data.district
+          }</a>
+                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(
+                              /\d{4}$/,
+                              ""
+                            )}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${
+            data.province
+          }</a>
                             -->
-                            <a onclick="plotarea(${data.geocode})">${data.subdistrict}</a>
-                            <a onclick="plotarea(${data.geocode.replace(/\d{2}$/,'')})">${data.district}</a>
-                            <a onclick="plotarea(${data.geocode.replace(/\d{4}$/,'')})">${data.province}</a>
+                            <a onclick="plotarea(${data.geocode})">${
+            data.subdistrict
+          }</a>
+                            <a onclick="plotarea(${data.geocode.replace(
+                              /\d{2}$/,
+                              ""
+                            )})">${data.district}</a>
+                            <a onclick="plotarea(${data.geocode.replace(
+                              /\d{4}$/,
+                              ""
+                            )})">${data.province}</a>
                             ${data.postcode}
                             ${data.country}
                             ${data.geocode}
@@ -87,23 +152,35 @@ $(document).ready(function() {
                         <p>
                             elevation: ${data.elevation}
                         </p>
-                        <p>Open in 
+                        <p>
+                            Open in
+                        </p>
+                        
+                        <ul> 
+                            <li>
                                 <a href="https://glistening-froyo-abf34c.netlify.app/?lat=${lat}&lng=${lng}" target="_blank">
                                     Ohn Ma 10 thousand
                                 </a> 
-                                <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(lat)}&lng=${encodeLatLng(lng)}" target="_blank">
+                                </li><li>
+                                <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(
+                                  lat
+                                )}&lng=${encodeLatLng(lng)}" target="_blank">
                                     X Marks Leaflet
                                 </a> 
-                                ,<a href="https://pinghuskar.github.io/Weather-App/?geo=${lat},${lng}" target="_blank">
+                                </li><li>
+                                <a href="https://pinghuskar.github.io/Weather-App/?geo=${lat},${lng}" target="_blank">
                                 Weather App
                                 </a>
-                                ,<a href="https://fabulous-starburst-a62d78.netlify.app/?lat=${lat}&lon=${lng}" target="_blank">
+                                </li><li>
+                                <a href="https://fabulous-starburst-a62d78.netlify.app/?lat=${lat}&lon=${lng}" target="_blank">
                                     Thailand Weather App
                                 </a>
-                                ,<a href="https://pinghuskar.github.io/UV-Forecast-OpenUV.io/forecast/?lat=${lat}&lng=${lng}" target="_blank">
+                                </li><li>
+                                <a href="https://pinghuskar.github.io/UV-Forecast-OpenUV.io/forecast/?lat=${lat}&lng=${lng}" target="_blank">
                                     UV Forecast
                                 </a>
-                        </p>
+                            </li>
+                        </ul>
                         <br>
                         <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
                             <img src="src/images/intel.webp">
@@ -117,144 +194,143 @@ $(document).ready(function() {
                         <!-- <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
                             <img src="src/images/NO2.jpg">
                         </a> -->
-                        <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode({lat:lat,lon:lng})}' target='_blank'>
+                        <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode(
+            { lat: lat, lon: lng }
+          )}' target='_blank'>
                             <img src="src/images/pm.jpg">
                         </a>
                         <a href='https://www.openstreetmap.org/#map=${z}/${lat}/${lng}' target='_blank'>
                             <img src="src/images/osm.svg">
                         </a>
                         `
-            )
+        );
 
-            if (donut) {
-                L.donut(e.latlng, {
-                    radius: radius * (unit === `km` ? 1000 : 1),
-                    innerRadius: 0,
-                    innerRadiusAsPercent: false,
-                }).addTo(map);
-            }
-            const arrPlot = plot.split(``)
-            if (arrPlot.includes(`s`)) {
-                plotShape(data.geocode, `LightSalmon`)
-            }
-            if (arrPlot.includes(`d`)) {
-                plotShape(data.geocode.replace(/\d{2}$/,''), `Salmon`)
-            }
-            if (arrPlot.includes(`p`)) {
-                plotShape(data.geocode.replace(/\d{4}$/,''), `IndianRed`)
-            }
-        })
-        
-        // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
-    })
-    map.on('keypress', function(e) {
-        if (e.originalEvent.key === "l") {
-            map.locate()
-        }
-    })
-    map.on('locationfound', function(e) {
-        console.log(e)
-        if (mrkCurrentLocation) {
-            mrkCurrentLocation.remove()
-        }
-        // mrkCurrentLocation = L.circleMarker(e.latlng).addTo(map)
-        mrkCurrentLocation = L.circle(e.latlng, {
-            radius: e.accuracy / 2
-        }).addTo(map)
-        map.setView(e.latlng, 14)
-    })
-    map.on('locationerror', function(e) {
-        // console.log(e)
-        alert(`Location was not found`)
-    })
-    map.on('zoomend', function() {
-        $(`#zoom-level`).html(map.getZoom())
-    })
-    map.on('moveend', function() {
-        $(`#map-center`).html(LatLngToArrayString(map.getCenter()))
-    })
-    map.on('mousemove', function(e) {
-        // console.log(e.latlng.toString())
-        $(`#mouse-location`).html(LatLngToArrayString(e.latlng))
-    })
+      if (donut) {
+        L.donut(e.latlng, {
+          radius: radius * (unit === `km` ? 1000 : 1),
+          innerRadius: 0,
+          innerRadiusAsPercent: false,
+        }).addTo(map);
+      }
+      const arrPlot = plot.split(``);
+      if (arrPlot.includes(`s`)) {
+        plotShape(data.geocode, `LightSalmon`);
+      }
+      if (arrPlot.includes(`d`)) {
+        plotShape(data.geocode.replace(/\d{2}$/, ""), `Salmon`);
+      }
+      if (arrPlot.includes(`p`)) {
+        plotShape(data.geocode.replace(/\d{4}$/, ""), `IndianRed`);
+      }
+    });
 
-    // $(`#btnLocate`).click(function() {
-    //     map.locate()
-    // })
-    // $(`#btnBaanPaWaeng`).click(function() {
-    //     map.setView([popBaanPaWaeng._latlng.lat, popBaanPaWaeng._latlng.lng], 17)
-    //     map.openPopup(popBaanPaWaeng)
-    // })
-})
+  // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
+});
+map.on("keypress", function (e) {
+  if (e.originalEvent.key === "l") {
+    map.locate();
+  }
+});
+map.on("locationfound", function (e) {
+  console.log(e);
+  if (mrkCurrentLocation) {
+    mrkCurrentLocation.remove();
+  }
+  // mrkCurrentLocation = L.circleMarker(e.latlng).addTo(map)
+  mrkCurrentLocation = L.circle(e.latlng, {
+    radius: e.accuracy / 2,
+  }).addTo(map);
+  map.setView(e.latlng, 14);
+});
+map.on("locationerror", function (e) {
+  // console.log(e)
+  alert(`Location was not found`);
+});
+map.on("zoomend", function () {
+  $(`#zoom-level`).html(map.getZoom());
+});
+map.on("moveend", function () {
+  $(`#map-center`).html(LatLngToArrayString(map.getCenter()));
+});
+map.on("mousemove", function (e) {
+  // console.log(e.latlng.toString())
+  $(`#mouse-location`).html(LatLngToArrayString(e.latlng));
+});
 
 function createCoordCode(coords) {
-    let ar = [];
-    for (let i = 98; i < 123; i++) ar.push(String.fromCharCode(i));
-    for (let i = 65; i < 91; i++) ar.push(String.fromCharCode(i));
-    for (let i = 0; i < 9; i++) ar.push(i);
+  let ar = [];
+  for (let i = 98; i < 123; i++) ar.push(String.fromCharCode(i));
+  for (let i = 65; i < 91; i++) ar.push(String.fromCharCode(i));
+  for (let i = 0; i < 9; i++) ar.push(i);
 
-    let lat = Math.round(100 * (coords.lat + 90));
-    let lon = Math.round(100 * (coords.lon + 180));
+  let lat = Math.round(100 * (coords.lat + 90));
+  let lon = Math.round(100 * (coords.lon + 180));
 
-    return "m:" +
-        ar[Math.floor(lat / 3600)] +
-        ar[Math.floor((lat % 3600) / 60)] +
-        ar[lat % 60] + "a" +
-        ar[Math.floor(lon / 3600)] +
-        ar[Math.floor((lon % 3600) / 60)] +
-        ar[lon % 60];
+  return (
+    "m:" +
+    ar[Math.floor(lat / 3600)] +
+    ar[Math.floor((lat % 3600) / 60)] +
+    ar[lat % 60] +
+    "a" +
+    ar[Math.floor(lon / 3600)] +
+    ar[Math.floor((lon % 3600) / 60)] +
+    ar[lon % 60]
+  );
 }
 
 const plotShape = (geocode, color) => {
-    axios.get(`https://api.longdo.com/map/services/object?mode=geojson&id=${geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}`)
-            .then(res => {
-                console.log(res)
-                return res.data.features.at(0).geometry.coordinates
-            })
-            .then(shapes => {
-                // console.log(shapes)
-                for (let shape of shapes) {
-                    // console.log(shape)
-                    if (shape.length > 1) {
-                        let newArr = []
-                        for (let mark of shape) {
-                            newArr.push([mark.at(1),mark.at(0)])
-                        }
-                        // console.log(province.geometry.coordinates)
-                        L.polyline(newArr, {
-                            color: color
-                        }).addTo(map)
-                    } else if (shape.length === 1) {
-                        let newArr = []
-                        for (let mark of shape.at(0)) {
-                            newArr.push([mark.at(1),mark.at(0)])
-                        }
-                        // console.log(province.geometry.coordinates)
-                        L.polyline(newArr, {
-                            color: color
-                        }).addTo(map)
-                    }
-                }
-            })
-}
+  axios
+    .get(
+      `https://api.longdo.com/map/services/object?mode=geojson&id=${geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}`
+    )
+    .then((res) => {
+      console.log(res);
+      return res.data.features.at(0).geometry.coordinates;
+    })
+    .then((shapes) => {
+      // console.log(shapes)
+      for (let shape of shapes) {
+        // console.log(shape)
+        if (shape.length > 1) {
+          let newArr = [];
+          for (let mark of shape) {
+            newArr.push([mark.at(1), mark.at(0)]);
+          }
+          // console.log(province.geometry.coordinates)
+          L.polyline(newArr, {
+            color: color,
+          }).addTo(map);
+        } else if (shape.length === 1) {
+          let newArr = [];
+          for (let mark of shape.at(0)) {
+            newArr.push([mark.at(1), mark.at(0)]);
+          }
+          // console.log(province.geometry.coordinates)
+          L.polyline(newArr, {
+            color: color,
+          }).addTo(map);
+        }
+      }
+    });
+};
 
 const plotarea = (geocode) => {
-    // console.log(geocode)
-    switch (geocode.toString().length) {
-        case 6: {
-            plotShape(geocode, `red`)
-            break;
-        }
-        case 4: {
-            plotShape(geocode, `green`)
-            break;
-        }
-        case 2: {
-            plotShape(geocode, `blue`)
-            break;
-        }
-        default: {
-            alert(`error`)
-        }
+  // console.log(geocode)
+  switch (geocode.toString().length) {
+    case 6: {
+      plotShape(geocode, `red`);
+      break;
     }
-}
+    case 4: {
+      plotShape(geocode, `green`);
+      break;
+    }
+    case 2: {
+      plotShape(geocode, `blue`);
+      break;
+    }
+    default: {
+      alert(`error`);
+    }
+  }
+};
