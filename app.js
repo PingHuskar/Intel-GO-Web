@@ -3,6 +3,7 @@ const radius = 4;
 const unit = `km`;
 const donut = searchParam.get(`donut`);
 const plot = searchParam.get(`plot`);
+const colorhunt = searchParam.get(`colorhunt`) || -1;
 const LAYER = searchParam.get(`layer`) || localStorage.getItem(`layer`);
 const LOGDOMAPAPIKEY =
   searchParam.get(`longdokey`) || localStorage.getItem(`longdokey`);
@@ -33,16 +34,25 @@ map = L.map(`mapdiv`, {
   // maxZoom:14
   attributionControl: false,
 });
+
 if (plot) {
     var Esri_WorldGrayCanvas = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
         attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
         maxZoom: 16
     });
     map.addLayer(Esri_WorldGrayCanvas);
-} else {
+} 
+// else {
     if (!LAYER) {
         lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
         map.addLayer(lyrOSM)
+    } else if (LAYER === `traffic` && LOGDOMAPAPIKEY) {
+      lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
+      map.addLayer(lyrOSM)
+      const trafficlayer = `https://mstraffic1.simplethai.net/mmmap/tile.php?proj=epsg3857&mode=trafficoverlay&zoom={z}&x={x}&y={y}&HD=1&key=${LOGDOMAPAPIKEY}`;
+      L.tileLayer(trafficlayer, {
+        attribution: "© Longdo Traffic Map"
+      }).addTo(map)
     } else {
         var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
             maxZoom: 17,
@@ -50,7 +60,7 @@ if (plot) {
         });
         map.addLayer(OpenTopoMap)
     }
-}
+// }
 
 
 
@@ -214,15 +224,19 @@ map.on("contextmenu", function (e) {
       }
       const arrPlot = plot.split(``);
       if (arrPlot.includes(`s`)) {
-        plotShape(data.geocode, `LightSalmon`);
+        plotShape(data.geocode, `#${palette.at(colorhunt).color.at(0)}`);
       }
       if (arrPlot.includes(`d`)) {
-        plotShape(data.geocode.replace(/\d{2}$/, ""), `Salmon`);
+        plotShape(data.geocode.replace(/\d{2}$/, ""), `#${palette.at(colorhunt).color.at(1)}`);
       }
       if (arrPlot.includes(`p`)) {
-        plotShape(data.geocode.replace(/\d{4}$/, ""), `IndianRed`);
+        plotShape(data.geocode.replace(/\d{4}$/, ""), `#${palette.at(colorhunt).color.at(2)}`);
       }
-    });
+    })
+    .catch((e) => {
+      console.error(e)
+      console.info(`https://api.longdo.com/map/services/addresses?lon[]=${lng}&lat[]=${lat}&key=${LOGDOMAPAPIKEY}`)
+    })
 
   // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
 });
@@ -278,6 +292,44 @@ function createCoordCode(coords) {
   );
 }
 
+const sPlotShape = (geocode, color = `black`) => {
+  axios
+    .get(
+      `https://api.longdo.com/map/services/object?mode=geojson&id=${geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}`
+    )
+    .then((res) => {
+      console.log(res);
+      return res.data.features;
+    })
+    .then((features) => {
+      // console.log(features)
+      for (let feature of features) {
+        // console.log(feature)
+        if (feature.geometry.coordinates.length > 1) {
+          console.log(feature.geometry.coordinates)
+          for (let shape of feature.geometry.coordinates) {
+            let newArr = [];
+            for (let mark of shape) {
+              newArr.push([mark.at(1), mark.at(0)]);
+            }
+            L.polyline(newArr, {
+              color: color,
+            }).addTo(map);
+          }
+          // console.log(province.geometry.coordinates)
+        } else if (feature.geometry.coordinates.length === 1) {
+          let newArr = [];
+          for (let mark of feature.geometry.coordinates.at(0)) {
+            newArr.push([mark.at(1), mark.at(0)]);
+          }
+          // console.log(province.geometry.coordinates)
+          L.polyline(newArr, {
+            color: color,
+          }).addTo(map);
+        }
+      }
+    })
+}
 const plotShape = (geocode, color) => {
   axios
     .get(
@@ -316,21 +368,27 @@ const plotShape = (geocode, color) => {
 
 const plotarea = (geocode) => {
   // console.log(geocode)
-  switch (geocode.toString().length) {
-    case 6: {
-      plotShape(geocode, `red`);
-      break;
+  const t = typeof geocode
+  if (t === `string`) {
+    sPlotShape(geocode)
+  } else {
+    switch (geocode.toString().length) {
+      case 6: {
+        plotShape(geocode, `red`);
+        break;
+      }
+      case 4: {
+        plotShape(geocode, `green`);
+        break;
+      }
+      case 2: {
+        plotShape(geocode, `blue`);
+        break;
+      }
+      default: {
+        alert(`error`);
+      }
     }
-    case 4: {
-      plotShape(geocode, `green`);
-      break;
-    }
-    case 2: {
-      plotShape(geocode, `blue`);
-      break;
-    }
-    default: {
-      alert(`error`);
-    }
-  }
+}
+  
 };
