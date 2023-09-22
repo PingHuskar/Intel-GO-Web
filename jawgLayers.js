@@ -1,7 +1,7 @@
 const jawgTOKEN = searchParam.get(`jawg`) || localStorage.getItem(`jawg`);
 const thunderforest = searchParam.get(`thunderforest`) || localStorage.getItem(`thunderforest`);
 
-if (!plot && jawgTOKEN) {
+if (!plot && jawgTOKEN && !mapGotLayer) {
   switch (LAYER) {
     case `dark`:
       var Jawg_Dark = L.tileLayer(
@@ -15,7 +15,7 @@ if (!plot && jawgTOKEN) {
           accessToken: jawgTOKEN,
         }
       );
-      map.addLayer(Jawg_Dark);
+      addLayerToMap(Jawg_Dark)
       break;
     case `opnvkarte`:
       var OPNVKarte = L.tileLayer(
@@ -27,7 +27,7 @@ if (!plot && jawgTOKEN) {
           accessToken: jawgTOKEN,
         }
       );
-      map.addLayer(OPNVKarte);
+      addLayerToMap(OPNVKarte);
       break;
     case `streets`:
       var Jawg_Streets = L.tileLayer(
@@ -41,7 +41,7 @@ if (!plot && jawgTOKEN) {
           accessToken: jawgTOKEN,
         }
       );
-      map.addLayer(Jawg_Streets);
+      addLayerToMap(Jawg_Streets)
       break;
     case `sunny`:
       var Jawg_Sunny = L.tileLayer(
@@ -55,7 +55,7 @@ if (!plot && jawgTOKEN) {
           accessToken: jawgTOKEN,
         }
       );
-      map.addLayer(Jawg_Sunny);
+      addLayerToMap(Jawg_Sunny)
       break;
     case `matrix`:
       var Jawg_Matrix = L.tileLayer(
@@ -69,37 +69,37 @@ if (!plot && jawgTOKEN) {
           accessToken: jawgTOKEN,
         }
       );
-      map.addLayer(Jawg_Matrix);
+      addLayerToMap(Jawg_Matrix)
       break;
     
   }
 }
 // https://manage.thunderforest.com/dashboard
-if (!plot && thunderforest) {
+if (!plot && thunderforest && !mapGotLayer) {
     switch (LAYER) {
         case `spinal`:
-            var Thunderforest_SpinalMap = L.tileLayer('https://{s}.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png?apikey={apikey}', {
+            let Thunderforest_SpinalMap = L.tileLayer('https://{s}.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png?apikey={apikey}', {
                 attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
                 apikey: thunderforest,
                 maxZoom: 22
             });
-            map.addLayer(Thunderforest_SpinalMap);
+            addLayerToMap(Thunderforest_SpinalMap)
             break;
         case `landscape`:
-            var Thunderforest_Landscape = L.tileLayer('https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey={apikey}', {
+            let Thunderforest_Landscape = L.tileLayer('https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey={apikey}', {
                 attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
                 apikey: thunderforest,
                 maxZoom: 22
             });
-            map.addLayer(Thunderforest_Landscape);
+            addLayerToMap(Thunderforest_Landscape)
             break;
         case `transport`:
-            var Thunderforest_Transport = L.tileLayer('https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey={apikey}', {
+            let Thunderforest_Transport = L.tileLayer('https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey={apikey}', {
                 attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
                 apikey: thunderforest,
                 maxZoom: 22
             });
-            map.addLayer(Thunderforest_Transport);
+            addLayerToMap(Thunderforest_Transport)
             break;
     }
 }

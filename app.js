@@ -13,6 +13,7 @@ const encodeLatLng = (num) => zeroPad((num * 10 ** 6).toString(16), 8);
 const LatLngToArrayString = (ll) => {
   return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`;
 };
+let mapGotLayer = false;
 var map,
   lyrOSM,
   mrkCurrentLocation,
@@ -35,30 +36,42 @@ map = L.map(`mapdiv`, {
   attributionControl: false,
 });
 
+const addLayerToMap = (layer) => {
+  // console.log(layer)
+  // console.log(typeof layer)
+  console.log(`${layer._url} added to map`)
+  map.addLayer(layer);
+  mapGotLayer = true
+}
+
 if (plot) {
     var Esri_WorldGrayCanvas = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
         attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
         maxZoom: 16
     });
-    map.addLayer(Esri_WorldGrayCanvas);
+    addLayerToMap(Esri_WorldGrayCanvas);
 } 
 // else {
     if (!LAYER) {
         lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
-        map.addLayer(lyrOSM)
+        addLayerToMap(lyrOSM)
     } else if (LAYER === `traffic` && LOGDOMAPAPIKEY) {
       lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
-      map.addLayer(lyrOSM)
-      const trafficlayer = `https://mstraffic1.simplethai.net/mmmap/tile.php?proj=epsg3857&mode=trafficoverlay&zoom={z}&x={x}&y={y}&HD=1&key=${LOGDOMAPAPIKEY}`;
-      L.tileLayer(trafficlayer, {
+      addLayerToMap(lyrOSM)
+      // const trafficlayer = `https://mstraffic1.simplethai.net/mmmap/tile.php?proj=epsg3857&mode=trafficoverlay&zoom={z}&x={x}&y={y}&HD=1&key=${LOGDOMAPAPIKEY}`;
+      // L.tileLayer(trafficlayer, {
+      //   attribution: "© Longdo Traffic Map"
+      // }).addTo(map)
+      const lyrLongdoTrafficlayer = L.tileLayer(`https://mstraffic1.simplethai.net/mmmap/tile.php?proj=epsg3857&mode=trafficoverlay&zoom={z}&x={x}&y={y}&HD=1&key=${LOGDOMAPAPIKEY}`,{
         attribution: "© Longdo Traffic Map"
-      }).addTo(map)
-    } else {
+      })
+      addLayerToMap(lyrLongdoTrafficlayer)
+    } else if (LAYER === `topo`) {
         var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
             maxZoom: 17,
             attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
         });
-        map.addLayer(OpenTopoMap)
+        addLayerToMap(OpenTopoMap)
     }
 // }
 
@@ -98,6 +111,35 @@ ctlScale = L.control
 // https://github.com/ardhi/Leaflet.MousePosition
 ctlMouseposition = L.control.mousePosition().addTo(map);
 
+const addMarker = (coor, data, addTooltip) => {
+  switch (data.country) {
+    case `Singapore`:
+      let planningArea = `Bedok`
+      axios
+    .get(
+      `https://www.onemap.gov.sg/api/public/popapi/getIndustry?planningArea=${planningArea}&year=2020`,{
+          headers: {"Authorization": `eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZWZjNDI0NTVkODU3Nzg1ZmNjY2E4YWViMmNiZDVhNSIsImlzcyI6Imh0dHA6Ly9pbnRlcm5hbC1hbGItb20tcHJkZXppdC1pdC0xMjIzNjk4OTkyLmFwLXNvdXRoZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tL2FwaS92Mi91c2VyL3Bhc3N3b3JkIiwiaWF0IjoxNjk1MzgwMzE0LCJleHAiOjE2OTU2Mzk1MTQsIm5iZiI6MTY5NTM4MDMxNCwianRpIjoiSGJqQ3VnenZVTTBYZEk5RyIsInVzZXJfaWQiOjkwNiwiZm9yZXZlciI6ZmFsc2V9.LghiYVul6xOUfPykokXTnzTdyUGAlNLQjt_JIRpalS4`
+      }}
+    ).then((res) => { 
+      console.log(res.data.at(0))
+    })
+      break
+    default:
+      const m = L.marker(coor)
+      .addTo(map)
+      .bindPopup(`
+      <h2>${data.country}<h2>
+      <h3>${data.province}<h2>
+      <h4>${data.district}<h2>
+      <h5>${data.subdistrict}<h2>
+      `)
+      if (addTooltip) {
+        m.bindTooltip(`${data.subdistrict}`)
+      }
+      
+    }
+}
+
 map.on("contextmenu", function (e) {
   let dtCurrentTime = new Date();
   let lat = e.latlng.lat.toFixed(6);
@@ -113,6 +155,7 @@ map.on("contextmenu", function (e) {
     .then((res) => res.data.at(0))
     .then((data) => {
       console.log(data);
+      if (data.country !== `ประเทศไทย`) return addMarker([lat,lng], data, true)
       const aoi = data.aoi || ``;
 
       L.marker(e.latlng)
@@ -222,19 +265,21 @@ map.on("contextmenu", function (e) {
           innerRadiusAsPercent: false,
         }).addTo(map);
       }
-      const arrPlot = plot.split(``);
-      if (arrPlot.includes(`s`)) {
-        plotShape(data.geocode, `#${palette.at(colorhunt).color.at(0)}`);
-      }
-      if (arrPlot.includes(`d`)) {
-        plotShape(data.geocode.replace(/\d{2}$/, ""), `#${palette.at(colorhunt).color.at(1)}`);
-      }
-      if (arrPlot.includes(`p`)) {
-        plotShape(data.geocode.replace(/\d{4}$/, ""), `#${palette.at(colorhunt).color.at(2)}`);
+      if (plot) {
+        const arrPlot = plot.split(``);
+        if (arrPlot.includes(`s`)) {
+          plotShape(data.geocode, `#${palette.at(colorhunt).color.at(0)}`);
+        }
+        if (arrPlot.includes(`d`)) {
+          plotShape(data.geocode.replace(/\d{2}$/, ""), `#${palette.at(colorhunt).color.at(1)}`);
+        }
+        if (arrPlot.includes(`p`)) {
+          plotShape(data.geocode.replace(/\d{4}$/, ""), `#${palette.at(colorhunt).color.at(2)}`);
+        }
       }
     })
-    .catch((e) => {
-      console.error(e)
+    .catch((err) => {
+      console.error(err)
       console.info(`https://api.longdo.com/map/services/addresses?lon[]=${lng}&lat[]=${lat}&key=${LOGDOMAPAPIKEY}`)
     })
 
@@ -312,8 +357,9 @@ const sPlotShape = (geocode, color = `black`) => {
             for (let mark of shape) {
               newArr.push([mark.at(1), mark.at(0)]);
             }
-            L.polyline(newArr, {
+            L.polygon(newArr, {
               color: color,
+              fillColor: color,
             }).addTo(map);
           }
           // console.log(province.geometry.coordinates)
@@ -323,8 +369,9 @@ const sPlotShape = (geocode, color = `black`) => {
             newArr.push([mark.at(1), mark.at(0)]);
           }
           // console.log(province.geometry.coordinates)
-          L.polyline(newArr, {
+          L.polygon(newArr, {
             color: color,
+            fillColor: color,
           }).addTo(map);
         }
       }
@@ -349,8 +396,9 @@ const plotShape = (geocode, color) => {
             newArr.push([mark.at(1), mark.at(0)]);
           }
           // console.log(province.geometry.coordinates)
-          L.polyline(newArr, {
+          L.polygon(newArr, {
             color: color,
+            fillColor: color,
           }).addTo(map);
         } else if (shape.length === 1) {
           let newArr = [];
@@ -358,8 +406,9 @@ const plotShape = (geocode, color) => {
             newArr.push([mark.at(1), mark.at(0)]);
           }
           // console.log(province.geometry.coordinates)
-          L.polyline(newArr, {
+          L.polygon(newArr, {
             color: color,
+            fillColor: color,
           }).addTo(map);
         }
       }
