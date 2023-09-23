@@ -125,6 +125,7 @@ const addMarker = (coor, data, addTooltip) => {
     })
       break
     default:
+      console.log(coor)
       const m = L.marker(coor)
       .addTo(map)
       .bindPopup(`
