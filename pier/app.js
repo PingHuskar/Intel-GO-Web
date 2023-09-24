@@ -19,7 +19,7 @@ const LatLngToArrayString = (ll) => {
 var map, mrkCurrentLocation, popExample, ctlZoom, ctlAttribute, ctlScale, ctlPan, ctlZoomslider, ctlMeasure
 map = L.map(`mapdiv`, {
     center: [13.744256, 100.5334],
-    zoom: 15,
+    zoom: 13,
     zoomControl: false,
     // dragging:false,
     // minZoom:10,
@@ -98,7 +98,7 @@ const data = [
 ]
 
 const addPath = (route, color, opacity) => {
-    var path = []
+    let path = []
     for (let stop of route) {
         path.push(stop.geo)
         L.marker(stop.geo)
@@ -132,44 +132,33 @@ const createCoordCode = (coords) => {
         ar[Math.floor((lon % 3600) / 60)] +
         ar[lon % 60];
 }
-// pathGroup.addLayer(BRTpath, MRTPURPLELINEpath)
 // map.fitBounds(pathGroup.getBounds())
-map.on('contextmenu', function(e) {
-    var dtCurrentTime = new Date()
-    const lat = e.latlng.lat.toFixed(6)
-    const lng = e.latlng.lng.toFixed(6)
-    const wlat = e.latlng.lat.toFixed(3)
-    const wlng = e.latlng.lng.toFixed(3)
-    const z = 17
-    const windy_zoom = 8
-    L.marker(e.latlng).bindPopup(
-        `
-            ${e.latlng.toString()}
-            <br>${dtCurrentTime.toString()}
-            <br><h6>Open in <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${lat}&lng=${lng}" target="_blank">X Marks Leaflet</a></h6>
-            <br>
-            <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
-                <img src="../src/images/intel.webp">
-            </a>
-            <a href='https://bannergress.com/map?lat=${lat}&lng=${lng}&zoom=${z}' target='_blank'>
-                <img src="../src/images/bannergress.png">
-            </a>
-            <a href='https://www.google.com/maps?daddr=${lat},${lng}' target='_blank'>
-                <img src="../src/images/googlemaps.png">
-            </a>
-            <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
-                <img src="../src/images/NO2.jpg">
-            </a>
-            <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode({lat:lat,lon:lng})}' target='_blank'>
-                <img src="../src/images/pm.jpg">
-            </a>
-            `
-    ).addTo(map)
-    // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
-})
+
 map.on('keypress', function(e) {
     console.log(e.originalEvent.key)
     if (e.originalEvent.key === "l") {
         map.locate()
     }
+})
+
+axios.get(`./pier.json`)
+.then(res => res.data.records)
+.then(data => {
+    let path = []
+    for (let item of data) {
+        let name = item.at(1)
+        let addr = item.at(2)
+        let geo = [parseFloat(item.at(3)),parseFloat(item.at(4))]
+        path.push(geo)
+        L.marker(geo)
+        .addTo(map)
+        .bindPopup(`<h2>${name}</h2>
+        <p>${addr}</p>
+        `)
+        .bindTooltip(`${name}`)
+    }
+    L.polyline(path, {
+        color: `#6796E5`,
+        // opacity: opacity
+    }).addTo(map)
 })
