@@ -149,6 +149,10 @@ const addMarker = (coor, data, addTooltip) => {
       }
   }
 };
+const appscriptsmacroid =
+  localStorage.getItem(`macro`) ||
+  `AKfycbwmzdYRwxYlAIdKC-sRXNMZofT27BrUyysZxAjaXZ70KWEnHaKbReVAF0xNOkd1S-svDg`;
+const appscripturl = `https://script.google.com/macros/s/${appscriptsmacroid}/exec`
 
 map.on("contextmenu", function (e) {
   let dtCurrentTime = new Date();
@@ -195,6 +199,23 @@ map.on("contextmenu", function (e) {
       if (data.country !== `ประเทศไทย`)
         return addMarker([lat, lng], data, true);
       const aoi = data.aoi || ``;
+
+      const adata = [
+        {
+          timestamp: new Date().toLocaleString(),
+          location: location.href,
+          lat: lat,
+          lng: lng,
+          name: localStorage.getItem(`username`) || `Anonymous`,
+        },
+      ];
+      fetch(appscripturl, {
+      method: 'POST',
+      body: JSON.stringify(adata)
+      })
+      .then(response => response.text())
+      .then(result => console.log(result))
+      .catch(error => console.error(error));
 
       L.marker(e.latlng)
         .addTo(map)
