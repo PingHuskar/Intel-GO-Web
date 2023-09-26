@@ -39,43 +39,51 @@ map = L.map(`mapdiv`, {
 const addLayerToMap = (layer) => {
   // console.log(layer)
   // console.log(typeof layer)
-  console.log(`${layer._url} added to map`)
+  console.log(`${layer._url} added to map`);
   map.addLayer(layer);
-  mapGotLayer = true
-}
+  mapGotLayer = true;
+};
 
 if (plot) {
-    var Esri_WorldGrayCanvas = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
-        maxZoom: 16
-    });
-    addLayerToMap(Esri_WorldGrayCanvas);
-} 
-// else {
-    if (!LAYER) {
-        lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
-        addLayerToMap(lyrOSM)
-    } else if (LAYER === `traffic` && LOGDOMAPAPIKEY) {
-      lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`)
-      addLayerToMap(lyrOSM)
-      // const trafficlayer = `https://mstraffic1.simplethai.net/mmmap/tile.php?proj=epsg3857&mode=trafficoverlay&zoom={z}&x={x}&y={y}&HD=1&key=${LOGDOMAPAPIKEY}`;
-      // L.tileLayer(trafficlayer, {
-      //   attribution: "© Longdo Traffic Map"
-      // }).addTo(map)
-      const lyrLongdoTrafficlayer = L.tileLayer(`https://mstraffic1.simplethai.net/mmmap/tile.php?proj=epsg3857&mode=trafficoverlay&zoom={z}&x={x}&y={y}&HD=1&key=${LOGDOMAPAPIKEY}`,{
-        attribution: "© Longdo Traffic Map"
-      })
-      addLayerToMap(lyrLongdoTrafficlayer)
-    } else if (LAYER === `topo`) {
-        var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
-            maxZoom: 17,
-            attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
-        });
-        addLayerToMap(OpenTopoMap)
+  var Esri_WorldGrayCanvas = L.tileLayer(
+    "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+    {
+      attribution: "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ",
+      maxZoom: 16,
     }
+  );
+  addLayerToMap(Esri_WorldGrayCanvas);
+}
+// else {
+if (!LAYER) {
+  lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`);
+  addLayerToMap(lyrOSM);
+} else if (LAYER === `traffic` && LOGDOMAPAPIKEY) {
+  lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`);
+  addLayerToMap(lyrOSM);
+  // const trafficlayer = `https://mstraffic1.simplethai.net/mmmap/tile.php?proj=epsg3857&mode=trafficoverlay&zoom={z}&x={x}&y={y}&HD=1&key=${LOGDOMAPAPIKEY}`;
+  // L.tileLayer(trafficlayer, {
+  //   attribution: "© Longdo Traffic Map"
+  // }).addTo(map)
+  const lyrLongdoTrafficlayer = L.tileLayer(
+    `https://mstraffic1.simplethai.net/mmmap/tile.php?proj=epsg3857&mode=trafficoverlay&zoom={z}&x={x}&y={y}&HD=1&key=${LOGDOMAPAPIKEY}`,
+    {
+      attribution: "© Longdo Traffic Map",
+    }
+  );
+  addLayerToMap(lyrLongdoTrafficlayer);
+} else if (LAYER === `topo`) {
+  var OpenTopoMap = L.tileLayer(
+    "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
+    {
+      maxZoom: 17,
+      attribution:
+        'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
+    }
+  );
+  addLayerToMap(OpenTopoMap);
+}
 // }
-
-
 
 // https://github.com/kartena/Leaflet.Pancontrol
 // ctlPan = L.control.pan().addTo(map)
@@ -114,32 +122,33 @@ ctlMouseposition = L.control.mousePosition().addTo(map);
 const addMarker = (coor, data, addTooltip) => {
   switch (data.country) {
     case `Singapore`:
-      let planningArea = `Bedok`
+      let planningArea = `Bedok`;
       axios
-    .get(
-      `https://www.onemap.gov.sg/api/public/popapi/getIndustry?planningArea=${planningArea}&year=2020`,{
-          headers: {"Authorization": `eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZWZjNDI0NTVkODU3Nzg1ZmNjY2E4YWViMmNiZDVhNSIsImlzcyI6Imh0dHA6Ly9pbnRlcm5hbC1hbGItb20tcHJkZXppdC1pdC0xMjIzNjk4OTkyLmFwLXNvdXRoZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tL2FwaS92Mi91c2VyL3Bhc3N3b3JkIiwiaWF0IjoxNjk1MzgwMzE0LCJleHAiOjE2OTU2Mzk1MTQsIm5iZiI6MTY5NTM4MDMxNCwianRpIjoiSGJqQ3VnenZVTTBYZEk5RyIsInVzZXJfaWQiOjkwNiwiZm9yZXZlciI6ZmFsc2V9.LghiYVul6xOUfPykokXTnzTdyUGAlNLQjt_JIRpalS4`
-      }}
-    ).then((res) => { 
-      console.log(res.data.at(0))
-    })
-      break
+        .get(
+          `https://www.onemap.gov.sg/api/public/popapi/getIndustry?planningArea=${planningArea}&year=2020`,
+          {
+            headers: {
+              Authorization: `eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZWZjNDI0NTVkODU3Nzg1ZmNjY2E4YWViMmNiZDVhNSIsImlzcyI6Imh0dHA6Ly9pbnRlcm5hbC1hbGItb20tcHJkZXppdC1pdC0xMjIzNjk4OTkyLmFwLXNvdXRoZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tL2FwaS92Mi91c2VyL3Bhc3N3b3JkIiwiaWF0IjoxNjk1MzgwMzE0LCJleHAiOjE2OTU2Mzk1MTQsIm5iZiI6MTY5NTM4MDMxNCwianRpIjoiSGJqQ3VnenZVTTBYZEk5RyIsInVzZXJfaWQiOjkwNiwiZm9yZXZlciI6ZmFsc2V9.LghiYVul6xOUfPykokXTnzTdyUGAlNLQjt_JIRpalS4`,
+            },
+          }
+        )
+        .then((res) => {
+          console.log(res.data.at(0));
+        });
+      break;
     default:
-      console.log(coor)
-      const m = L.marker(coor)
-      .addTo(map)
-      .bindPopup(`
+      console.log(coor);
+      const m = L.marker(coor).addTo(map).bindPopup(`
       <h2>${data.country}<h2>
       <h3>${data.province}<h2>
       <h4>${data.district}<h2>
       <h5>${data.subdistrict}<h2>
-      `)
+      `);
       if (addTooltip) {
-        m.bindTooltip(`${data.subdistrict}`)
+        m.bindTooltip(`${data.subdistrict}`);
       }
-      
-    }
-}
+  }
+};
 
 map.on("contextmenu", function (e) {
   let dtCurrentTime = new Date();
@@ -149,6 +158,33 @@ map.on("contextmenu", function (e) {
   let wlng = e.latlng.lng.toFixed(3);
   const z = 17;
   const windy_zoom = 5;
+  const resolution = 9
+  const h3Index = h3.latLngToCell(lat, lng, resolution);
+  console.log(h3Index);
+  // Get the center of the hexagon
+  const hexCenterCoordinates = h3.cellToLatLng(h3Index);
+  console.log(hexCenterCoordinates);
+  // Get the vertices of the hexagon
+  const hexBoundary = h3.cellToBoundary(h3Index);
+  console.log(hexBoundary);
+  const h3fillcolor = `#7AB7FF`
+  L.polygon(hexBoundary, {
+    color: h3fillcolor,
+    fillColor: h3fillcolor,
+  }).addTo(map);
+
+  // Get all neighbors within 1 step of the hexagon
+  const step = searchParam.get(`step`) || localStorage.getItem(`step`)
+  if (step) {
+    const disks = h3.gridDisk(h3Index, parseInt(step));
+    console.log(disks);
+    for (let disk of disks.splice(1)) {
+      L.polygon(h3.cellToBoundary(disk), {
+        color: `red`,
+        fillColor: `red`,
+      }).addTo(map);
+    }
+  }
   axios
     .get(
       `https://api.longdo.com/map/services/addresses?lon[]=${lng}&lat[]=${lat}&key=${LOGDOMAPAPIKEY}`
@@ -156,7 +192,8 @@ map.on("contextmenu", function (e) {
     .then((res) => res.data.at(0))
     .then((data) => {
       console.log(data);
-      if (data.country !== `ประเทศไทย`) return addMarker([lat,lng], data, true)
+      if (data.country !== `ประเทศไทย`)
+        return addMarker([lat, lng], data, true);
       const aoi = data.aoi || ``;
 
       L.marker(e.latlng)
@@ -164,6 +201,8 @@ map.on("contextmenu", function (e) {
         .bindPopup(
           `
                         <p>${lat},${lng}</p>
+                        <p>h3Index: ${h3Index}</p>
+                        <p>hexCenterCoordinates: ${hexCenterCoordinates}</p>
                         <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
                         
                         <p>${aoi}</p>
@@ -272,17 +311,25 @@ map.on("contextmenu", function (e) {
           plotShape(data.geocode, `#${palette.at(colorhunt).color.at(0)}`);
         }
         if (arrPlot.includes(`d`)) {
-          plotShape(data.geocode.replace(/\d{2}$/, ""), `#${palette.at(colorhunt).color.at(1)}`);
+          plotShape(
+            data.geocode.replace(/\d{2}$/, ""),
+            `#${palette.at(colorhunt).color.at(1)}`
+          );
         }
         if (arrPlot.includes(`p`)) {
-          plotShape(data.geocode.replace(/\d{4}$/, ""), `#${palette.at(colorhunt).color.at(2)}`);
+          plotShape(
+            data.geocode.replace(/\d{4}$/, ""),
+            `#${palette.at(colorhunt).color.at(2)}`
+          );
         }
       }
     })
     .catch((err) => {
-      console.error(err)
-      console.info(`https://api.longdo.com/map/services/addresses?lon[]=${lng}&lat[]=${lat}&key=${LOGDOMAPAPIKEY}`)
-    })
+      console.error(err);
+      console.info(
+        `https://api.longdo.com/map/services/addresses?lon[]=${lng}&lat[]=${lat}&key=${LOGDOMAPAPIKEY}`
+      );
+    });
 
   // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
 });
@@ -352,7 +399,7 @@ const sPlotShape = (geocode, color = `black`) => {
       for (let feature of features) {
         // console.log(feature)
         if (feature.geometry.coordinates.length > 1) {
-          console.log(feature.geometry.coordinates)
+          console.log(feature.geometry.coordinates);
           for (let shape of feature.geometry.coordinates) {
             let newArr = [];
             for (let mark of shape) {
@@ -376,8 +423,8 @@ const sPlotShape = (geocode, color = `black`) => {
           }).addTo(map);
         }
       }
-    })
-}
+    });
+};
 const plotShape = (geocode, color) => {
   axios
     .get(
@@ -418,9 +465,9 @@ const plotShape = (geocode, color) => {
 
 const plotarea = (geocode) => {
   // console.log(geocode)
-  const t = typeof geocode
+  const t = typeof geocode;
   if (t === `string`) {
-    sPlotShape(geocode)
+    sPlotShape(geocode);
   } else {
     switch (geocode.toString().length) {
       case 6: {
@@ -439,6 +486,5 @@ const plotarea = (geocode) => {
         alert(`error`);
       }
     }
-}
-  
+  }
 };
