@@ -3,3 +3,7 @@ drawline/app.js
 .DS_Store
 node_modules
 .Rhistory
+
+mitrearth/**/*.pdf
+mitrearth/**/*.jpg
+mitrearth/**/*.png
