@@ -1,8 +1,7 @@
 const searchParam = new URLSearchParams(location.search);
 const LOGDOMAPAPIKEY = localStorage.getItem(`longdokey`);
 const p = searchParam.get(`p`)
-const plotShape = (geocode) => {
-  const color = `black`;
+const plotShape = (geocode, color) => {
   axios
     .get(
       `https://api.longdo.com/map/services/object?mode=geojson&id=${geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}`
@@ -20,6 +19,7 @@ const plotShape = (geocode) => {
           for (let mark of shape) {
             newArr.push([mark.at(1), mark.at(0)]);
           }
+          // console.log(province.geometry.coordinates)
           L.polygon(newArr, {
             color: color,
             fillColor: color,
@@ -29,6 +29,7 @@ const plotShape = (geocode) => {
           for (let mark of shape.at(0)) {
             newArr.push([mark.at(1), mark.at(0)]);
           }
+          // console.log(province.geometry.coordinates)
           L.polygon(newArr, {
             color: color,
             fillColor: color,
@@ -74,21 +75,23 @@ function highlightFeature(e) {
   info.update(layer.feature.properties);
 }
 
-/* global statesData */
-
-if (!p) {
-  alert(`Invalid p`)
+// https://regex101.com/library/gDgi4I
+if (!p || !/^0(2\d{7}|3[2-9]\d{6}|4[2-5]\d{6}|5[3-6]\d{6}|7[3-7]\d{6})$/.test(p)) {
+  alert(`Invalid Format`)
 } else if (!LOGDOMAPAPIKEY) {
-  alert(`LOGDOMAPAPIKEY not set`)
+  alert(`LOGDOMAPAPIKEY Not Set`)
 } else {
   axios.get(`data.json`)
   .then(res => res.data)
   .then(data => {
-    const telno = p
+    const telno = p.slice(0, 3)
+    console.log(telno)
     const telno2 = telno.slice(0, 2)
+    console.log(telno2)
     const zones = data.find(i => i.pre == telno2).zones
     console.log(zones)
-    const zone = zones.find(zone => zone.pres == telno.slice(0, 3)).pro_code
+    const zone = telno2 == `02` ? zones.find(zone => zone.pres == telno.slice(0, 2)).pro_code : zones.find(zone => zone.pres == telno.slice(0, 3)).pro_code
+    console.log(zone)
     zone.forEach(plotShape)
   })
   .catch(e => {
