@@ -1,6 +1,9 @@
 const searchParam = new URLSearchParams(location.search);
 const radius = 4;
 const unit = `km`;
+const z = 17;
+const windy_zoom = 5;
+const resolution = 9
 const MinuteCastKey = 
   searchParam.get(`MinuteCast`) || localStorage.getItem(`MinuteCast`);
 const donut = searchParam.get(`donut`);
@@ -156,15 +159,122 @@ const appscriptsmacroid =
   `AKfycbwmzdYRwxYlAIdKC-sRXNMZofT27BrUyysZxAjaXZ70KWEnHaKbReVAF0xNOkd1S-svDg`;
 const appscripturl = `https://script.google.com/macros/s/${appscriptsmacroid}/exec`
 
+const addMarkerToMap = (latlng,lat,lng,h3Index,hexCenterCoordinates,MC,dtCurrentTime,aoi,data) => {
+  const wlat = latlng.lat.toFixed(3)
+  const wlng = latlng.lng.toFixed(3)
+  L.marker(latlng)
+          .addTo(map)
+          .bindPopup(
+            `
+                          <p>${lat},${lng}</p>
+                          <p>h3Index: ${h3Index}</p>
+                          <p>hexCenterCoordinates: ${hexCenterCoordinates}</p>
+                          <a href="${MC}" target="_blank">
+                          MinuteCast
+                          </a>
+                          <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
+                          
+                          <p>${aoi}</p>
+                          <p>
+                              ${data.road} 
+                              <!--                          
+                              <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${
+                                data.geocode
+                              }&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${
+              data.subdistrict
+            }</a>
+                              <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(
+                                /\d{2}$/,
+                                ""
+                              )}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${
+              data.district
+            }</a>
+                              <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(
+                                /\d{4}$/,
+                                ""
+                              )}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${
+              data.province
+            }</a>
+                              -->
+                              <a onclick="plotarea(${data.geocode})">${
+              data.subdistrict
+            }</a>
+                              <a onclick="plotarea(${data.geocode.replace(
+                                /\d{2}$/,
+                                ""
+                              )})">${data.district}</a>
+                              <a onclick="plotarea(${data.geocode.replace(
+                                /\d{4}$/,
+                                ""
+                              )})">${data.province}</a>
+                              ${data.postcode}
+                              ${data.country}
+                              ${data.geocode}
+                          </p>
+                          <p>
+                              elevation: ${data.elevation}
+                          </p>
+                          <p>
+                              Open in
+                          </p>
+                          
+                          <ul> 
+                              <li>
+                                  <a href="https://glistening-froyo-abf34c.netlify.app/?lat=${lat}&lng=${lng}" target="_blank">
+                                      Ohn Ma 10 thousand
+                                  </a> 
+                                  </li><li>
+                                  <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(
+                                    lat
+                                  )}&lng=${encodeLatLng(lng)}" target="_blank">
+                                      X Marks Leaflet
+                                  </a> 
+                                  </li><li>
+                                  <a href="https://pinghuskar.github.io/Weather-App/?geo=${lat},${lng}" target="_blank">
+                                  Weather App
+                                  </a>
+                                  </li><li>
+                                  <a href="https://fabulous-starburst-a62d78.netlify.app/?lat=${lat}&lon=${lng}" target="_blank">
+                                      Thailand Weather App
+                                  </a>
+                                  </li><li>
+                                  <a href="https://pinghuskar.github.io/UV-Forecast-OpenUV.io/forecast/?lat=${lat}&lng=${lng}" target="_blank">
+                                      UV Forecast
+                                  </a>
+                              </li>
+                          </ul>
+                          <br>
+                          <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
+                              <img src="src/images/intel.webp">
+                          </a>
+                          <a href='https://bannergress.com/map?lat=${lat}&lng=${lng}&zoom=${z}' target='_blank'>
+                              <img src="src/images/bannergress.png">
+                          </a>
+                          <a href='https://www.google.com/maps?daddr=${lat},${lng}' target='_blank'>
+                              <img src="src/images/googlemaps.png">
+                          </a>
+                          <!-- <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
+                              <img src="src/images/NO2.jpg">
+                          </a> -->
+                          <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode(
+              { lat: lat, lon: lng }
+            )}' target='_blank'>
+                              <img src="src/images/pm.jpg">
+                          </a>
+                          <a href='https://www.openstreetmap.org/#map=${z}/${lat}/${lng}' target='_blank'>
+                              <img src="src/images/osm.svg">
+                          </a>
+                          `
+          );
+}
+
+
 map.on("contextmenu", function (e) {
   let dtCurrentTime = new Date();
   let lat = e.latlng.lat.toFixed(6);
   let lng = e.latlng.lng.toFixed(6);
   let wlat = e.latlng.lat.toFixed(3);
   let wlng = e.latlng.lng.toFixed(3);
-  const z = 17;
-  const windy_zoom = 5;
-  const resolution = 9
   const h3Index = h3.latLngToCell(lat, lng, resolution);
   console.log(h3Index);
   // Get the center of the hexagon
@@ -218,118 +328,8 @@ map.on("contextmenu", function (e) {
       .then(response => response.text())
       .then(result => console.log(result))
       .catch(error => console.error(error));
-      
-      axios.get(`http://dataservice.accuweather.com/forecasts/v1/minute?q=${lat}%2C${lng}&apikey=${MinuteCastKey}&language=th-th`)
-      .then(res => res.data)
-      .then(accuweather => {
-        // console.log(data.Summary.Phrase)
-        const MC = accuweather.Summary.Phrase
-        L.marker(e.latlng)
-        .addTo(map)
-        .bindPopup(
-          `
-                        <p>${lat},${lng}</p>
-                        <p>h3Index: ${h3Index}</p>
-                        <p>hexCenterCoordinates: ${hexCenterCoordinates}</p>
-                        <p>MinuteCast: ${MC}</p>
-                        <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
-                        
-                        <p>${aoi}</p>
-                        <p>
-                            ${data.road} 
-                            <!--                          
-                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${
-                              data.geocode
-                            }&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${
-            data.subdistrict
-          }</a>
-                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(
-                              /\d{2}$/,
-                              ""
-                            )}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${
-            data.district
-          }</a>
-                            <a href="https://api.longdo.com/map/services/object?mode=geojson&id=${data.geocode.replace(
-                              /\d{4}$/,
-                              ""
-                            )}&dataset=IG&key=${LOGDOMAPAPIKEY}" target="_blank">${
-            data.province
-          }</a>
-                            -->
-                            <a onclick="plotarea(${data.geocode})">${
-            data.subdistrict
-          }</a>
-                            <a onclick="plotarea(${data.geocode.replace(
-                              /\d{2}$/,
-                              ""
-                            )})">${data.district}</a>
-                            <a onclick="plotarea(${data.geocode.replace(
-                              /\d{4}$/,
-                              ""
-                            )})">${data.province}</a>
-                            ${data.postcode}
-                            ${data.country}
-                            ${data.geocode}
-                        </p>
-                        <p>
-                            elevation: ${data.elevation}
-                        </p>
-                        <p>
-                            Open in
-                        </p>
-                        
-                        <ul> 
-                            <li>
-                                <a href="https://glistening-froyo-abf34c.netlify.app/?lat=${lat}&lng=${lng}" target="_blank">
-                                    Ohn Ma 10 thousand
-                                </a> 
-                                </li><li>
-                                <a href="https://pinghuskar.github.io/X-Marks-Leaflet/?lat=${encodeLatLng(
-                                  lat
-                                )}&lng=${encodeLatLng(lng)}" target="_blank">
-                                    X Marks Leaflet
-                                </a> 
-                                </li><li>
-                                <a href="https://pinghuskar.github.io/Weather-App/?geo=${lat},${lng}" target="_blank">
-                                Weather App
-                                </a>
-                                </li><li>
-                                <a href="https://fabulous-starburst-a62d78.netlify.app/?lat=${lat}&lon=${lng}" target="_blank">
-                                    Thailand Weather App
-                                </a>
-                                </li><li>
-                                <a href="https://pinghuskar.github.io/UV-Forecast-OpenUV.io/forecast/?lat=${lat}&lng=${lng}" target="_blank">
-                                    UV Forecast
-                                </a>
-                            </li>
-                        </ul>
-                        <br>
-                        <a href='https://intel.ingress.com/intel?ll=${lat},${lng}&z=${z}' target='_blank'>
-                            <img src="src/images/intel.webp">
-                        </a>
-                        <a href='https://bannergress.com/map?lat=${lat}&lng=${lng}&zoom=${z}' target='_blank'>
-                            <img src="src/images/bannergress.png">
-                        </a>
-                        <a href='https://www.google.com/maps?daddr=${lat},${lng}' target='_blank'>
-                            <img src="src/images/googlemaps.png">
-                        </a>
-                        <!-- <a href='https://www.windy.com/-NO2-no2?cams,no2,${lat},${lng},${windy_zoom}' target='_blank'>
-                            <img src="src/images/NO2.jpg">
-                        </a> -->
-                        <a href='https://www.windy.com/-PM2-5-pm2p5?cams,pm2p5,${wlat},${wlng},${windy_zoom},${createCoordCode(
-            { lat: lat, lon: lng }
-          )}' target='_blank'>
-                            <img src="src/images/pm.jpg">
-                        </a>
-                        <a href='https://www.openstreetmap.org/#map=${z}/${lat}/${lng}' target='_blank'>
-                            <img src="src/images/osm.svg">
-                        </a>
-                        `
-        );
-      })
-      })
-      .catch(e => {
-        return e
+      const accuURL = `http://dataservice.accuweather.com/forecasts/v1/minute?q=${lat},${lng}&apikey=${MinuteCastKey}&language=th-th`
+      addMarkerToMap(e.latlng,lat,lng,h3Index,hexCenterCoordinates,accuURL,dtCurrentTime,aoi,data)
       })
         
 
