@@ -1,6 +1,8 @@
 const searchParam = new URLSearchParams(location.search);
 const radius = 4;
 const unit = `km`;
+const MinuteCastKey = 
+  searchParam.get(`MinuteCast`) || localStorage.getItem(`MinuteCast`);
 const donut = searchParam.get(`donut`);
 const plot = searchParam.get(`plot`);
 const colorhunt = searchParam.get(`colorhunt`) || -1;
@@ -216,14 +218,20 @@ map.on("contextmenu", function (e) {
       .then(response => response.text())
       .then(result => console.log(result))
       .catch(error => console.error(error));
-
-      L.marker(e.latlng)
+      
+      axios.get(`http://dataservice.accuweather.com/forecasts/v1/minute?q=${lat}%2C${lng}&apikey=${MinuteCastKey}&language=th-th`)
+      .then(res => res.data)
+      .then(accuweather => {
+        // console.log(data.Summary.Phrase)
+        const MC = accuweather.Summary.Phrase
+        L.marker(e.latlng)
         .addTo(map)
         .bindPopup(
           `
                         <p>${lat},${lng}</p>
                         <p>h3Index: ${h3Index}</p>
                         <p>hexCenterCoordinates: ${hexCenterCoordinates}</p>
+                        <p>MinuteCast: ${MC}</p>
                         <p>${dtCurrentTime.toLocaleDateString()} ${dtCurrentTime.toLocaleTimeString()}</p>
                         
                         <p>${aoi}</p>
@@ -318,6 +326,12 @@ map.on("contextmenu", function (e) {
                         </a>
                         `
         );
+      })
+      })
+      .catch(e => {
+        return e
+      })
+        
 
       if (donut) {
         L.donut(e.latlng, {
@@ -353,7 +367,7 @@ map.on("contextmenu", function (e) {
     });
 
   // https://pinghuskar.github.io/Mark-Center-by-Province/js/configData.js
-});
+
 map.on("keypress", function (e) {
   if (e.originalEvent.key === "l") {
     map.locate();
