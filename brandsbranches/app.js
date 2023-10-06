@@ -47,6 +47,50 @@ ctlScale = L.control
   })
   .addTo(map);
 const BRANDS = {
+  "Haidilao": {
+    branches: [
+      {
+        name: "Central World"
+        ,tel: "02 255 0310 / 02 255 0311"
+        ,geo: [13.746472,100.539290]
+      }
+      ,{
+        name: "Central Phuket"
+        ,tel: "07 660 9171 / 07 660 9173"
+        ,geo: []
+      }
+      ,{
+        name: "Central Rama 9"
+        ,tel: "02 029 1775 / 02 029 1776"
+        ,geo: [13.757894,100.566337]
+      }
+      ,{
+        name: "MAYA Chiangmai"
+        ,tel: "05 208 0786 / 05 208 0787"
+        ,geo: []
+      }
+      ,{
+        name: "Central Pattaya"
+        ,tel: "03 314 0370 / 03 314 0372"
+        ,geo: []
+      }
+      ,{
+        name: "Central Chiangmai"
+        ,tel: "05 200 5893 / 05 200 5894"
+        ,geo: []
+      }
+      ,{
+        name: "Central Pinklao"
+        ,tel: "02 079 4741 / 02 079 4742"
+        ,geo: [13.777328,100.475475]
+      }
+      ,{
+        name: "Central Rama3"
+        ,tel: "02 079 4734  / 02 079 4735"
+        ,geo: [13.698059,100.537750]
+      }
+    ]
+  },
   "True Coffee": {
     INFO: {
       ref: `view-source:https://truecoffee.truecorp.co.th/store`
@@ -3852,6 +3896,7 @@ const ADDEDBRANDS = [
   { name: "True Space", dspname: "ทรูสเปซ", type: "cowork" },
   { name: "True Coffee", dspname: "True Coffee", type: "cafe" },
   { name: "JIB", dspname: "เจไอบี คอมพิวเตอร์ กรุ๊ป", type: "it" },
+  { name: "Haidilao", dspname: "Haidilao", type: "food" },
 ];
 
 const SELECTRANDOM = [
@@ -3928,6 +3973,7 @@ const ADDMARKER = (brand) => {
   console.log(c);
 };
 
+console.log(ADDMARKER)
 DISPLAYBRANDS.map(ADDMARKER);
 
 map.addLayer(markers);
