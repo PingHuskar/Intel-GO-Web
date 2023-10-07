@@ -80,17 +80,20 @@ let delay = 300;
 
 const imgpath = `https://lh3.googleusercontent.com/`
 
-axios.get(`https://script.googleusercontent.com/macros/echo?user_content_key=h-uQkFZWvrP4uMBPM6B-_8SAjTihn939XGMXEi9e6W4Uwb6p2QAVrd8wxUuG5vbMbKnPC0cdrUokL41WAfY_Pz5yITRSy-4um5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnMi0KFvqX0J3aDJ6uzWMYXksLa4ngF93Tk-h-TAaAQcXXJArt-3GNIJvd4iwEnJJUpSVPSbm8UHn6pRcjUnpd-uZVKtSQJqQ7A&lib=MRfQbo_GWQ0KlBb8HlWXEjAqTJ97KyBO0`)
+const url = `https://script.google.com/macros/s/AKfycbycVtfaHDc7cCklaPhMRrmF770gbAOR2GgGR74vem3uhPoR3E-ZhXuFrbxRwZ4W4IM7/exec`
+
+axios.get(url)
 .then(res => res.data.user)
 .then(data => {
   console.log(data)
   for (let damage of data) {
     if (!damage.time) break
+    if (!damage.epoch) continue
     if (damage.agent.match(agent)) {
       let [lat,lng] = damage.geo.split(`,`)
       L.marker([lat,lng])
       .bindPopup(`<h2>${damage.agent}</h2>
-      <h3>${damage.time}</h3>
+      <h3>${new Date(damage.epoch).toLocaleDateString()} ${new Date(damage.epoch).toLocaleTimeString()}</h3>
       <img src="${imgpath}${damage.img}">
       `)
       .bindTooltip(`${damage.agent}`)
