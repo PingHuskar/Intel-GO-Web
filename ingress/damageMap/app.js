@@ -1,6 +1,7 @@
 "use strict";
 
 const searchParam = new URLSearchParams(location.search);
+const agent = searchParam.get(`agent`) || "^.+$"
 const showPan = false;
 const LatLngToArrayString = (ll) => {
   return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`;
@@ -84,15 +85,18 @@ axios.get(`https://script.googleusercontent.com/macros/echo?user_content_key=h-u
 .then(data => {
   console.log(data)
   for (let damage of data) {
-    let [lat,lng] = damage.geo.split(`,`)
-    L.marker([lat,lng])
-    .bindPopup(`<h2>${damage.agent}</h2>
-    <h3>${damage.time}</h3>
-    <img src="${imgpath}${damage.img}">
-    `)
-    .bindTooltip(`${damage.agent}`)
-    .openTooltip()
-    .addTo(map)
+    if (!damage.time) break
+    if (damage.agent.match(agent)) {
+      let [lat,lng] = damage.geo.split(`,`)
+      L.marker([lat,lng])
+      .bindPopup(`<h2>${damage.agent}</h2>
+      <h3>${damage.time}</h3>
+      <img src="${imgpath}${damage.img}">
+      `)
+      .bindTooltip(`${damage.agent}`)
+      .openTooltip()
+      .addTo(map)
+    }
   }
 
 
