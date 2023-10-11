@@ -79,8 +79,8 @@ var LeafIcon = L.Icon.extend({
 let delay = 300;
 
 const imgpath = `https://lh3.googleusercontent.com/`
-
-const url = `https://script.google.com/macros/s/AKfycbycVtfaHDc7cCklaPhMRrmF770gbAOR2GgGR74vem3uhPoR3E-ZhXuFrbxRwZ4W4IM7/exec`
+const deployID = `AKfycbwl4KQXYWLBiGZbW3Jg4Y4pK-ZDxiTP8BMzsRWlH0wZBKI8oPlRzAoI3viswNb16jvr`
+const url = `https://script.google.com/macros/s/${deployID}/exec`
 
 axios.get(url)
 .then(res => res.data.user)
@@ -94,6 +94,9 @@ axios.get(url)
       L.marker([lat,lng])
       .bindPopup(`<h2>${damage.agent}</h2>
       <h3>${new Date(damage.epoch).toLocaleDateString()} ${new Date(damage.epoch).toLocaleTimeString()}</h3>
+      <h3>
+        ${damage.owner}
+      </h3>
       <img src="${imgpath}${damage.img}">
       `)
       .bindTooltip(`${damage.agent}`)

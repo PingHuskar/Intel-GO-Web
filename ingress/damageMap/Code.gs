@@ -23,9 +23,12 @@ function getUsers(sheet){
     var record = {};
     // Make Changes Here
     record['time'] = dataRow[0];
-    record['geo'] = dataRow[3];
-    record['agent'] = dataRow[4];
-    record['img'] = dataRow[5];
+    record['epoch'] = dataRow[3];
+    record['geo'] = dataRow[4];
+    record['agent'] = dataRow[5];
+    record['img'] = dataRow[6];
+    record['time'] = dataRow[7];
+    record['owner'] = dataRow[8];
     
     dataArray.push(record);
     
