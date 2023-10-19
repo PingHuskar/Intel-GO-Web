@@ -82,6 +82,8 @@ const imgpath = `https://lh3.googleusercontent.com/`
 const deployID = `AKfycbwl4KQXYWLBiGZbW3Jg4Y4pK-ZDxiTP8BMzsRWlH0wZBKI8oPlRzAoI3viswNb16jvr`
 const url = `https://script.google.com/macros/s/${deployID}/exec`
 
+const agents = []
+
 axios.get(url)
 .then(res => res.data.user)
 .then(data => {
@@ -90,6 +92,9 @@ axios.get(url)
     if (!damage.time) break
     if (!damage.epoch) continue
     if (damage.agent.match(agent)) {
+      if (!agents.includes(damage.agent)) {
+        agents.push(damage.agent)
+      }
       let [lat,lng] = damage.geo.split(`,`)
       L.marker([lat,lng])
       .bindPopup(`<h2>${damage.agent}</h2>
@@ -110,3 +115,12 @@ axios.get(url)
 // alert(RegExp(agentname,`i`))
 }
 )
+.then(() => {
+  let agentmenu = document.querySelector(`#agents`)
+  console.log(agents)
+  for (let ag of agents) {
+    let li = document.createElement('li')
+    li.appendChild(document.createTextNode(ag))
+    agentmenu.appendChild(li)
+  }
+})
