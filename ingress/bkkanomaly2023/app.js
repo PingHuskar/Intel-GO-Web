@@ -1,6 +1,6 @@
 const map = L.map(`mapdiv`, {
-    center: [13.744, 100.533142],
-    zoom: 15,
+    center: [13.749181,100.500956],
+    zoom: 16,
     zoomControl: false,
     // dragging:false,
     // minZoom:10,
@@ -10,8 +10,9 @@ const map = L.map(`mapdiv`, {
 let lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`);
 map.addLayer(lyrOSM);
 
+const ACTIONRADIUS = 40
 let c = 0
-let markers = L.markerClusterGroup()
+// let markers = L.markerClusterGroup()
 
 const gameEntitiesToMap = (gameEntities) => {
     for (let item of gameEntities) {
@@ -31,8 +32,7 @@ const gameEntitiesToMap = (gameEntities) => {
             let resonator_nums = detail.at(6)
             let picurl = detail.at(7)
             let name = detail.at(8)
-            map.panTo([lat,lng])
-            markers.addLayer(
+            // markers.addLayer(
             L.marker([lat,lng])
             .bindPopup(`<h2>${name}</h2>
             <h3>Faction: ${faction}</h3>
@@ -42,8 +42,13 @@ const gameEntitiesToMap = (gameEntities) => {
             <img src="${picurl}" />
             <img src="../../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${lat},${lng}', '_blank')">
             `).bindTooltip(`${name}`).openTooltip()
-            // .addTo(map)
-            )
+            .addTo(map)
+            // )
+            L.donut([lat,lng], {
+                radius: ACTIONRADIUS,
+                innerRadius: 0,
+                innerRadiusAsPercent: false,
+              }).addTo(map);
         } catch (e) {
             continue;
         }
@@ -61,5 +66,5 @@ axios.get(`data.json`)
     
 })
 .then(() => {
-    map.addLayer(markers)
+    // map.addLayer(markers)
 })
