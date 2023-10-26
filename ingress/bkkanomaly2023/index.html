@@ -6,8 +6,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BKK Anomaly 2023 #Discoverie</title>
     <style>
+        body {
+            display: flex;
+        }
         #mapdiv {
-            width: 80vw !important;
+            width: 75vw !important;
+        }
+        #menu {
+            width: 25vw;
+            display: flex;
+            flex-flow: column;
+            text-align: center;
+            align-items: center;
+        }
+        ol {
+            margin-left: 20px;
+        }
+        li {
+            cursor: pointer;
+            text-align: left;
+        }
+        li:hover {
+            font-weight: bold;
         }
     </style>
     <link rel="stylesheet" href="../../src/style.css">
@@ -17,6 +37,11 @@
 </head>
 <body>
     <div id="mapdiv"></div>
+    <div id="menu">
+        <h2>Portals</h2>
+        <ol id="portallist">
+        </ol>
+    </div>
     <script src="../../src/L.Donut.js"></script>
     <script src="../../src/Leaflet.Marker.Parallax.js"></script>
     <script src="../../moment.js"></script>
