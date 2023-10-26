@@ -6,7 +6,8 @@ const map = L.map(`mapdiv`, {
     // minZoom:10,
     // maxZoom:14
     attributionControl: false,
-  });
+});
+L.control.polylineMeasure().addTo(map);
 let lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`);
 map.addLayer(lyrOSM);
 
@@ -92,8 +93,38 @@ axios.get(`clean.json`)
             innerRadius: 0,
             innerRadiusAsPercent: false,
         }).addTo(map);
-        portallist.innerHTML += `<li onclick="map.flyTo([${portal.geo}],18);">
+        portallist.innerHTML += `<li class="portalname" id="p${portal.c}" geo="${portal.geo}" onclick="scorllTop();map.flyTo([${portal.geo}],18);">
         ${portal.name}
         </li>`
     }
 })
+
+const scorllTop = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+const filterportalname = (filtervalue) => {
+    const re = new RegExp(filtervalue, "gi")
+    const portalnames = document.querySelectorAll(`.portalname`)
+    let f = 0
+    for (let portalname of portalnames) {
+        if (filtervalue != portalname.innerText) {
+            portalname.classList.remove(`hide`)
+        }
+    }
+    if (filtervalue){
+        for (let portalname of portalnames) {
+            if (!portalname.innerText.match(re)) {
+                // console.log(portalname.innerText)
+                portalname.classList.add(`hide`)
+            } else {
+                if (!f) {
+                    f++
+                    console.log(portalname.attributes.geo.value)
+                    let [lat,lng] = portalname.attributes.geo.value.split(',')
+                    map.flyTo([lat,lng],18)
+                }
+            }
+        }
+    }
+}
