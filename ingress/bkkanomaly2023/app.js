@@ -114,7 +114,7 @@ const portalsToMap = (portals) => {
         console.log(`if`)
       L.marker([lat,lng], {
         // icon: new LeafIcon({ iconUrl: `${picurl}` }),
-        icon: new LeafIcon({ iconUrl: greenIcon }),
+        icon: greenIcon,
       })
         .bindPopup(
           `
