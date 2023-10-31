@@ -11,6 +11,16 @@ L.control.polylineMeasure().addTo(map);
 let lyrOSM = L.tileLayer(`http://{s}.tile.osm.org/{z}/{x}/{y}.png`);
 map.addLayer(lyrOSM);
 
+var LeafIcon = L.Icon.extend({
+    options: {
+      // shadowUrl: 'leaf-shadow.png',
+      iconSize: [50, 50],
+      shadowSize: [50, 64],
+      iconAnchor: [22, 94],
+      popupAnchor: [-3, -76],
+    },
+  });
+
 const ACTIONRADIUS = 40
 let c = 0
 // let markers = L.markerClusterGroup()
@@ -76,28 +86,86 @@ const gameEntitiesToMap = (gameEntities) => {
 //     // map.addLayer(markers)
 // })
 
+var greenIcon = new L.Icon({
+    iconUrl: 'https://lustrous-muffin-830396.netlify.app/ingress/marker-icon-2x-green.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+  });
+  
+
+const updateInput = (value) => {
+    document.querySelector("input").value= value
+    document.querySelector("input").blur()
+}
+
 const portallist = document.querySelector(`#portallist`)
 
-axios.get(`clean.json`)
-.then(res => res.data)
-.then(portals => {
-    for (let portal of portals) {
-        L.marker(portal.geo)
-            .bindPopup(`<h2>${portal.name}</h2>
-            <img src="${portal.picurl}" />
-            <img src="../../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${portal.geo.at(0)},${portal.geo.at(1)}', '_blank')">
-            `).bindTooltip(`${portal.name}`).openTooltip()
-            .addTo(map)
-        L.donut(portal.geo, {
+const portalsToMap = (portals) => {
+  for (let portal of portals) {
+    let detail = portal.at(2)
+    let lat = detail.at(2)/10**6
+    let lng = detail.at(3) / 10 ** 6;
+    let picurl = detail.at(7);
+    let name = detail.at(8)
+    console.log(detail.at(9))
+    if (detail.at(9) !== undefined && detail.at(9).at(0) === `ap1`) {
+        console.log(`if`)
+      L.marker([lat,lng], {
+        // icon: new LeafIcon({ iconUrl: `${picurl}` }),
+        icon: new LeafIcon({ iconUrl: greenIcon }),
+      })
+        .bindPopup(
+          `
+                    <h2>${name}</h2>
+                    <a href="https://intel.ingress.com/intel?ll=${lat},${lng}&z=18&pll=${lat},${lng}" target="_blank">
+                        intel
+                    </a>`
+        )
+        .bindTooltip(`${name}`)
+        .openTooltip()
+        .addTo(map);
+        L.donut([lat,lng], {
             radius: ACTIONRADIUS,
             innerRadius: 0,
             innerRadiusAsPercent: false,
         }).addTo(map);
-        portallist.innerHTML += `<li class="portalname" id="p${portal.c}" geo="${portal.geo}" onclick="scorllTop();map.flyTo([${portal.geo}],18);">
-        ${portal.name}
-        </li>`
+        portallist.innerHTML += `<li class="portalname" id="p${detail.c}" geo="${lat},${lng}" onclick="updateInput('${name}');scorllTop();map.flyTo([${lat},${lng}],18);">
+        ${name}
+        </li>`;
+    } else {
+        console.log(`else`)
+        // console.log(portal)
+        try {
+            L.marker([lat,lng])
+            .bindPopup(
+                `<h2>${name}</h2>
+                <img src="${picurl}" />
+                <img src="../../src/images/googlemaps.png" onclick="window.open('https://www.google.com/maps?daddr=${lat},${lng}', '_blank')">
+                `
+                )
+                .bindTooltip(`${name}`)
+                .openTooltip()
+                .addTo(map);
+                
+            } catch (e) {
+                console.log(e)
+            }
+        }
+  }
+};
+
+axios.get(`data.json`)
+// .then(res => res.data)
+.then(res => res.data.result.map)
+.then(map => {
+    // console.log(map)
+    for (const [key, value] of Object.entries(map)) {
+        portalsToMap(map[key].gameEntities)
     }
 })
+
 
 const scorllTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
