@@ -1,4 +1,6 @@
 // "use strict";
+const searchParam = new URLSearchParams(location.search);
+const STADIAMAPSKEY = searchParam.get(`stadiamaps`) || localStorage.getItem(`stadiamaps`)
 let responseFromIntel = ``
 let inventorySpace = 2500
 const responsePattern = /^{"result"\:\[\[".+\]\]}$/
@@ -12,6 +14,7 @@ var map = L.map('map').setView([13.697683, 100.491943], 5)
 
 L.tileLayer('https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png', {
     maxZoom: 20,
+    api_key: STADIAMAPSKEY,
     attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
 }).addTo(map)
 
