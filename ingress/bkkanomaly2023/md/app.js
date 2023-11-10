@@ -27,10 +27,10 @@ axios
       .then((missions) => {
         for (let iMission = 0; iMission < missions.length; iMission++) {
             let ulStr = ``
-            ulStr += `<ul>${iMission+1}. ${missions.name}`
+            ulStr += `<ul>${iMission+1}. ${missions.at(iMission).name}`
             for (let portal of portals.slice(iMission*6,(iMission+1)*6)) {
-                console.log(`${iMission}`)
-                console.log(portal)
+                // console.log(`${iMission}`)
+                // console.log(portal)
                 let marker = L.marker(portal.geo)
                   .bindPopup(
                     `<h3>${portal.name}</h3>
