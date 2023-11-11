@@ -1,5 +1,5 @@
 const map = L.map(`mapdiv`, {
-  center: [13.749181, 100.500956],
+  center: [13.749181, 100.5],
   zoom: 16,
   zoomControl: false,
   // dragging:false,
@@ -34,6 +34,7 @@ axios
                 let marker = L.marker(portal.geo)
                   .bindPopup(
                     `<h3>${portal.name}</h3>
+                    <h4>${iMission+1}. ${missions.at(iMission).name}</h4>
                     <h4>
                         >>${portal.objective}<<
                     </h4>
@@ -48,7 +49,7 @@ axios
                   innerRadius: 0,
                   innerRadiusAsPercent: false,
                 }).addTo(map);
-                map.flyTo(portal.geo);
+                // map.flyTo(portal.geo);
                 ulStr += `<li class="portalname" id="p${portal.name}" geo="${portal.geo}" onclick="updateInput('${portal.name}');scorllTop();map.flyTo([${portal.geo}],18);">
             ${portal.name}
             </li>`;
