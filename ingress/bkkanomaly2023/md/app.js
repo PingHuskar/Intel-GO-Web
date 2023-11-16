@@ -28,6 +28,7 @@ axios
         for (let iMission = 0; iMission < missions.length; iMission++) {
             let ulStr = ``
             ulStr += `<ul>${iMission+1}. ${missions.at(iMission).name}`
+            console.log(`{ "index": "${iMission+1}", "missionName": "${missions.at(iMission).name}", "portals": [`)
             for (let portal of portals.slice(iMission*6,(iMission+1)*6)) {
                 // console.log(`${iMission}`)
                 // console.log(portal)
@@ -53,7 +54,9 @@ axios
                 ulStr += `<li class="portalname" id="p${portal.name}" geo="${portal.geo}" onclick="updateInput('${portal.name}');scorllTop();map.flyTo([${portal.geo}],18);">
             ${portal.name}
             </li>`;
+                console.log(`{"portalName": "${portal.name}", "geo": [${portal.geo}] },`)
             }
+            console.log(`]},`)
             ulStr += `</ul>`
             portallist.innerHTML += ulStr
         }
