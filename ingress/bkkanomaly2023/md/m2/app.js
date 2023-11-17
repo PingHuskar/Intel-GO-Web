@@ -1,5 +1,5 @@
 const searchParam = new URLSearchParams(location.search);
-const dfaultm = `1`
+const dfaultm = `11`
 
 const map = L.map(`mapdiv`, {
   center: [13.749181, 100.5],
@@ -16,8 +16,6 @@ map.addLayer(lyrOSM);
 let icon = new L.Icon.Default();
 icon.options.shadowSize = [0,0];
 
-let layerGroup
-
 const clearallmarker = () => map._panes.markerPane.remove();
 
 const plotportals = () => {
@@ -26,18 +24,15 @@ const plotportals = () => {
   .then((res) => res.data)
   .then((missions) => {
     for (let mission of missions) {
-      let ps = []
       for (portal of mission.portals) {
         let marker = L.marker(portal.geo
-          ,{icon : icon}
+          // ,{icon : icon}
           )
         .bindTooltip(`${portal.portalName}`)
         .openTooltip()
-        ps.push(marker)
+        .addTo(map)
+        L.DomUtil.addClass(marker._icon, `m${18-mission.index}`);
       }
-      layerGroup = L.layerGroup(ps)
-      .addLayer(lyrOSM)
-      .addTo(map);
     }
   }
   );
@@ -67,8 +62,13 @@ const updateM = (m) => {
     url.searchParams.set('m', m);
     window.history.pushState(null, '', url.toString());
 }
+let line
 
 const linemission = () => {
+  try {
+    line.remove()
+  } catch (e) {
+  }
   let m = getM()
   axios
   .get(`../mobile/data.json`)
@@ -79,7 +79,7 @@ const linemission = () => {
     for (let portal of mission.portals) {
       ps.push(portal.geo)
     }
-    L.polyline(ps, {color: 'red'}).addTo(map)
+    line = L.polyline(ps, {color: mission.polylineColor || `red`}).addTo(map)
     map.flyTo(mission.center, 17)
   })
 }
