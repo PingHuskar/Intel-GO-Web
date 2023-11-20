@@ -28,7 +28,11 @@ const plotportals = () => {
         let marker = L.marker(portal.geo
           // ,{icon : icon}
           )
-        .bindTooltip(`${portal.portalName}`)
+        .bindPopup(`
+        <h2>${missions.indexOf(mission) + 1}: ${mission.missionName} / ${mission.missionNameEN}</h2>
+        <a href="https://intel.ingress.com/mission/${mission.mid}.1c" target="_blank">Intel</a>
+        `)
+        .bindTooltip(`${mission.missionNameEN} #${mission.portals.indexOf(portal) + 1} ${portal.portalName}`)
         .openTooltip()
         .addTo(map)
         L.DomUtil.addClass(marker._icon, `m${18-mission.index}`);
