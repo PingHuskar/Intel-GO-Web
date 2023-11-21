@@ -12,7 +12,6 @@ const iconProps = {
   iconSize: [38, 95],
   iconAnchor: [22, 94],
   popupAnchor: [-3, -76],
-  // shadowUrl: 'my-icon-shadow.png',
   shadowSize: [68, 95],
   shadowAnchor: [22, 94],
 };
@@ -79,10 +78,15 @@ var LeafIcon = L.Icon.extend({
 });
 
 let delay = 300
+let c = []
 
 axios.get(`data.json`)
 .then(res => res.data)
 .then((missions) => {
+  for (const m of missions) {
+    // console.log(m)
+    c.push(m.CompletedOrder)
+  }
   for (const mission of missions) {
     let missionfilter = filter == `done` ? mission.CompletedOrder > 0 : mission.CompletedOrder == -1
     if (missionfilter) {
@@ -100,8 +104,10 @@ axios.get(`data.json`)
       `)
       .bindTooltip(`${mission.Name} - ${mission.Author}`)
       .openTooltip()
-      .addTo(map)
-      // map.flyTo(mission.Geo,17)
+      .addTo(map)      
+      if (mission.CompletedOrder == Math.max(...c)) {
+        map.flyTo(mission.Geo,17)
+      }
     }
   }
 })
