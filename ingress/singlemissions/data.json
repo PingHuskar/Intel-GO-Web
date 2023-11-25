@@ -1,5 +1,41 @@
 [
   {
+    "Name": "วัดใหญ่จอมปราสาท",
+    "Desc": "วัดที่มีอายุเก่าแก่กว่า 400 ปีแห่งนี้ สันนิษฐานว่าสร้างขึ้นมาตั้งแต่สมัยกรุงศรีอยุธยา",
+    "Intel": "644809d4ddf74fc491ce8c9576fe1c3a",
+    "AvgTime": 15,
+    "CompletedOrder": -1,
+    "Updated": "25/11/2023",
+    "Status": "Online",
+    "Geo": [13.540906,100.247957],
+    "Prov": "",
+    "Author": "E29DLR"
+  },
+  {
+    "Name": "วัดเขายี่สาร",
+    "Desc": "เป็นวัดที่อยู่ยนภูเขาหินที่เป็นภูเขาลูกเดียวของสมุทรสงคราม ... ตัวพิพิธภัณฑ์สร้างจากไม้สักดูเป็นเรือนไทยขนาดใหญ่",
+    "Intel": "a6222c2fab7f4cfdb293585af3a0f0f1",
+    "AvgTime": 15,
+    "CompletedOrder": -1,
+    "Updated": "25/11/2023",
+    "Status": "Online",
+    "Geo": [13.300606,99.902743],
+    "Prov": "",
+    "Author": "E29DLR"
+  },
+  {
+    "Name": "ศาลเจ้าพ่อหลักเมืองสมุทรสาคร",
+    "Desc": "ตั้งอยู่ใกล้ ๆ กับป้อมวิเชียรโชฎก เป็นสถานที่ศักดิ์สิทธิ์ซึ่งประชาชนเคารพนับถือ",
+    "Intel": "669722dd2237496ca08640eb8e3b7075",
+    "AvgTime": 30,
+    "CompletedOrder": -1,
+    "Updated": "25/11/2023",
+    "Status": "Online",
+    "Geo": [13.544037,100.274062],
+    "Prov": "",
+    "Author": "E29DLR"
+  },
+  {
     "Name": "เทวสถานโบสถ์พราหมณ์",
     "Desc": "รัชกาลที่ ๑ โปรดเกล้าฯ ให้สร้าง เมื่อ ๒๓๒๗ แล้วโปรดให้พราหมณ์ประกอบพระราชพิธีสำหรับพระองค์ และราชอาณาจักร ภายในเทวสถานมีโบสถ์ทั้งหมด ๓ หลัง สถานพระอิศวร สถานพระพิฆเนศวร และสถานพระนารายณ์",
     "Intel": "00d3b463960948e3a972e487ba437ac7",
@@ -1626,7 +1662,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "04/02/2020",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [16.778557, 101.244867],
     "Prov": "เพชรบูรณ์",
     "Author": "beerkub51"
@@ -7048,30 +7084,6 @@
     "Author": "Hanamaru"
   },
   {
-    "Name": "14 วัดพระเชตุพนวิมลฯ - ลิง18มงกุฏ มาลุนทเกสร",
-    "Desc": "วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหารหรือ วัดโพธิ์ เป็นพระอารามหลวงชั้นเอก ชนิดราชวรมหาวิหาร[3] และเป็นวัดประจำรัชกาลพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช",
-    "Intel": "efed064739e7446c94c10e430c476e34",
-    "AvgTime": 15,
-    "CompletedOrder": -1,
-    "Updated": "09/07/2019",
-    "Status": "Terminate",
-    "Geo": [13.751439, 100.500682],
-    "Prov": "กรุงเทพมหานคร",
-    "Author": "HAO65"
-  },
-  {
-    "Name": "16 วัดสุทัศนเทพวรารามฯ-ลิง18มงกุฏ สัตพลี",
-    "Desc": "วัดสุทัศนเทพวรารามราชวรมหาวิหารเป็นพระอารามหลวงชั้นเอก ชนิดราชวรมหาวิหาร ที่มีอยู่เพียงไม่กี่แห่งของประเทศไทย และถือเป็นวัดประจำรัชกาลของพระบาทสมเด็จพระปรเมนทรมหาอานันทมหิดล พระอัฐมรามาธิบดินทร",
-    "Intel": "200062b70ef64f5eb5c16671e703f7c3",
-    "AvgTime": 0,
-    "CompletedOrder": -1,
-    "Updated": "09/07/2019",
-    "Status": "Terminate",
-    "Geo": [13.745888, 100.492254],
-    "Prov": "กรุงเทพมหานคร",
-    "Author": "HAO65"
-  },
-  {
     "Name": "166",
     "Desc": "Victory Monument - Pakkred - Muangthong (Expressway)",
     "Intel": "9604ad19f1b94bd59b1f1763eb205ecc",
@@ -9684,7 +9696,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "30/07/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [14.798875, 100.621991],
     "Prov": "ลพบุรี",
     "Author": "Kanuch"
@@ -9984,7 +9996,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "01/08/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [12.459098, 102.229444],
     "Prov": "จันทบุรี",
     "Author": "khlungcenter"
@@ -10369,7 +10381,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "23/07/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [14.356361, 100.568594],
     "Prov": "พระนครศรีอยุธยา",
     "Author": "lingski"
@@ -15817,7 +15829,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "30/12/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [15.228613, 104.855333],
     "Prov": "อุบลราชธานี",
     "Author": "Pnz"
@@ -15961,7 +15973,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "30/12/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [14.974125, 102.110821],
     "Prov": "นครราชสีมา",
     "Author": "rabbitdee"
@@ -15985,7 +15997,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "30/12/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [14.978611, 102.098333],
     "Prov": "นครราชสีมา",
     "Author": "rabbitdee"
@@ -16009,7 +16021,7 @@
     "AvgTime": 30,
     "CompletedOrder": -1,
     "Updated": "30/12/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [14.976372, 102.097613],
     "Prov": "นครราชสีมา",
     "Author": "rabbitdee"
@@ -16057,7 +16069,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "30/12/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [14.97616, 102.090911],
     "Prov": "นครราชสีมา",
     "Author": "rabbitdee"
@@ -16069,7 +16081,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "30/12/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [14.974029, 102.100645],
     "Prov": "นครราชสีมา",
     "Author": "rabbitdee"
@@ -16117,7 +16129,7 @@
     "AvgTime": 30,
     "CompletedOrder": -1,
     "Updated": "30/12/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [14.975109, 102.093345],
     "Prov": "นครราชสีมา",
     "Author": "rabbitdee"
@@ -16477,7 +16489,7 @@
     "AvgTime": 15,
     "CompletedOrder": -1,
     "Updated": "30/07/2019",
-    "Status": "Terminate",
+    "Status": "Online",
     "Geo": [13.993678, 100.550768],
     "Prov": "ปทุมธานี",
     "Author": "Sanamnai"

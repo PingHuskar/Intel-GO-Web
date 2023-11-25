@@ -91,6 +91,7 @@ axios.get(`data.json`)
     let missionfilter = filter == `done` ? mission.CompletedOrder > 0 : mission.CompletedOrder == -1
     if (missionfilter) {
       if (!mission.Name) continue
+      if (mission.Status == "Terminate") continue
       L.marker(mission.Geo)
       .bindPopup(`<h3>${mission.Name}</h3>
       <p>
