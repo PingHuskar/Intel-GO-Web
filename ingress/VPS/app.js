@@ -96,7 +96,7 @@ const readJson500 = (filename) => {
       // console.log(poi)
       L.marker([poi.lat,poi.lng])
       .bindPopup(poi.title)
-      .bindTooltip(poi.title)
+      .bindTooltip(`${filename}, ${poi.title}`)
       .addTo(map)
     }
   })
