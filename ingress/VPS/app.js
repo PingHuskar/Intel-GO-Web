@@ -80,22 +80,34 @@ var LeafIcon = L.Icon.extend({
 let delay = 300
 let c = []
 
+let err = ''
+
 const readJson500 = (filename) => {
   axios.get(`data/${filename}.json`)
-  .then(res => res.data.pois)
+  .then(res => res.data)
+  .then((data) => {
+    if (data.pois) return data.pois
+    return data
+  })
   .then((pois) => {
     // console.log(pois)
     for (const poi of pois) {
-      if (poi.state != `LIVE`) continue
-      console.log(poi)
+      if (!poi.vpsActivated) continue
+      // console.log(poi)
       L.marker([poi.lat,poi.lng])
       .bindPopup(poi.title)
       .bindTooltip(poi.title)
       .addTo(map)
     }
   })
+  .then(() => {
+    readJson500(filename + 1)
+  })
+  .catch((e) => {
+    err = e
+    console.log(err)
+  })
 }
 
-for (let i = 1; i < 10; i++) {
-  readJson500(i)
-}
+
+readJson500(1)
