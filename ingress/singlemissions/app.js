@@ -79,6 +79,7 @@ var LeafIcon = L.Icon.extend({
 
 let delay = 300
 let c = []
+let MaxC
 
 axios.get(`data.json`)
 .then(res => res.data)
@@ -87,13 +88,14 @@ axios.get(`data.json`)
     // console.log(m)
     c.push(m.CompletedOrder)
   }
+  MaxC = Math.max(...c)
   for (const mission of missions) {
     let missionfilter = filter == `done` ? mission.CompletedOrder > 0 : mission.CompletedOrder == -1
     if (missionfilter) {
       if (!mission.Name) continue
       if (mission.Status == "Terminate") continue
       L.marker(mission.Geo)
-      .bindPopup(`<h3>${mission.Name}</h3>
+      .bindPopup(`<h3>#${mission.CompletedOrder} | ${mission.Name}</h3>
       <p>
         ${mission.Desc}
       </p>
@@ -104,10 +106,10 @@ axios.get(`data.json`)
         Completed: ${mission.CompletedOrder != -1 ? `Completed #${mission.CompletedOrder}` : `Not Completed`}
       </p>
       `)
-      .bindTooltip(`${mission.Name} - ${mission.Author}`)
+      .bindTooltip(`#${mission.CompletedOrder} | ${mission.Name} - ${mission.Author}`)
       .openTooltip()
-      .addTo(map)      
-      if (mission.CompletedOrder == Math.max(...c)) {
+      .addTo(map)
+      if (mission.CompletedOrder == MaxC) {
         map.flyTo(mission.Geo,17)
       }
     }
