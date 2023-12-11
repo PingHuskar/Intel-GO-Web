@@ -1,0 +1,3143 @@
+{
+    "pois": [
+        {
+            "id": "0ccaa75c09de46df96bd9930fd19695b.16",
+            "hashedId": "29ec695b8386f2ee5f13e934048f2e3a847cc3e5",
+            "title": "MRT ลาดพร้าว Lat Phrao Station",
+            "state": "RETIRED",
+            "lat": 13.805696,
+            "lng": 100.574041,
+            "lastUpdateTimestampMs": "1501109744333",
+            "description": "Underground Subway Gate 1",
+            "images": [
+                {
+                    "id": "3a495830b25441b9b9597435a6846f6a.17",
+                    "url": "https://lh3.googleusercontent.com/9dilGA-7IzOdp1ytAzCzpWFrvDZgTFD-I_z92yvApph9Pu1neGjI6u0G-A8n2D8EoKPHBK4NHXSeeTJRw1hsWsPUBiU"
+                },
+                {
+                    "id": "27667c8e7fd04aa8a6bdbd635774ff86.17",
+                    "url": "https://lh3.googleusercontent.com/ot1VJ14qmFTt-Omu9WdIpzmt14e4me55tp1jOz6rEAIj_Dvn_CFJkkhEhQwCamC3QOkzcZS1d3x6atVTkNJmU0dF-g"
+                }
+            ],
+            "address": "Lat Phrao Road, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1545fc75956945bb822f4d1e2ead3b40.16",
+            "hashedId": "24b53b662cc4ea9592894026a86f9422273cbe06",
+            "title": "Shrine KWE",
+            "state": "LIVE",
+            "lat": 13.802748,
+            "lng": 100.575122,
+            "lastUpdateTimestampMs": "1501109317478",
+            "images": [
+                {
+                    "id": "132d9bd4cc53456f845c7f09fd66f398.17",
+                    "url": "https://lh3.googleusercontent.com/dcDSIqMwNFw3Z52sOiyvMdFlSIbVC7Td2j9EgSLoph-7PoNADtQXfrFm-1bzsmkc9UPl0D6iSmIUxPGYc1ATTwuOTxw"
+                }
+            ],
+            "address": "10/8,10/33 Ratchadaphisek Road, Khwaeng Chan Kasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.319
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.319
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.182
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.171
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "16d3c1a683ce4d38b64243a459dcd038.16",
+            "hashedId": "673e5699022407d805a3ee2d40287112ac4c896c",
+            "title": "Sarn phra poom",
+            "state": "LIVE",
+            "lat": 13.806436,
+            "lng": 100.57342799999999,
+            "lastUpdateTimestampMs": "1619344601500",
+            "description": "Spirit House",
+            "images": [
+                {
+                    "id": "4ee65a29f17e4267b8e0b16ee15b6509.17",
+                    "url": "https://lh3.googleusercontent.com/AqH8qTSnhPpfs-jvdsck35-DrfEnAFOlfKsxltIzgP29LrPS10eiKQH1BXDMax39Rc-HY-48aJjBUG2S8GOHkYZHyQdE"
+                },
+                {
+                    "id": "c3bed27f980341a5bc8590f18d20218a.17",
+                    "url": "https://lh3.googleusercontent.com/JCQVEDvsEOSBsCJxzaMZgHThtX6lkhWzITX4V7MdoMJIIBce2be_HhHAyxOFX7888Z_6b0p_ZfZezbfIf0HS2IJ5XrQ"
+                },
+                {
+                    "id": "1dd3f99f9c7445a3846744ec76889bf9.17",
+                    "url": "https://lh3.googleusercontent.com/WLNBg0v3teZNJwoM7QDPPI_APQ-vkPZBuQcXaHX7CAPp28Aco16vVebC_ujzANCX-yWms9U95cCi5zvn6gSc6ckOhLDk"
+                }
+            ],
+            "address": "Lat Phrao 21 Alley, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.242
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.242
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.171
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.138
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660134139427"
+        },
+        {
+            "id": "1807e0e3e73e433a942d61edbcb13cbd.16",
+            "hashedId": "79fefba4a94e15e4c81689514785cb766e3c9fb5",
+            "title": "M Fountain",
+            "state": "LIVE",
+            "lat": 13.805643,
+            "lng": 100.575164,
+            "lastUpdateTimestampMs": "1501110100280",
+            "images": [
+                {
+                    "id": "02c06598c1144b64adebb99d523b55e3.17",
+                    "url": "https://lh3.googleusercontent.com/1BNXlqbcSHAMy7MREXFfC9i2ibbY7IqtNvq37ZXavbyT-hHJrqw18auj4v7baQSc8jp4NE4A7NmhV6SFKdJNGdyQPw"
+                }
+            ],
+            "address": "Ratchadaphisek Road, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.923
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.057
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.085
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.923
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1b67bac99f333b68bb9f046e0671f9c1.16",
+            "hashedId": "fdeb1cf894f1f561352d3f758235305ccc391c1e",
+            "title": "chapter one midtown ladprao no24",
+            "state": "LIVE",
+            "lat": 13.806424,
+            "lng": 100.572645,
+            "description": "Sign Condo chapter one midtown ladprao no24",
+            "images": [
+                {
+                    "id": "c01324e2c92b368bba444c6267baf84d.17",
+                    "url": "https://lh3.googleusercontent.com/XgqCdqnDb_dJVh0UPOR0Q_cas8S3lEWaTZs6D84N18zsHrPDruq1M5roUVocBbLpyulFvfEOBbwRlE3tvhokXHdFz7BrfM3E5Oc3Pmk"
+                }
+            ],
+            "address": "101, 432/218 Lat Phrao Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "074e62624e5af37799c3d3e98593e33f",
+                "name": "Apartment/Condo"
+            },
+            "qualityScore": 73.94683,
+            "categories": [
+                {
+                    "id": "074e62624e5af37799c3d3e98593e33f",
+                    "name": "Apartment/Condo"
+                },
+                {
+                    "id": "2850183df9fa37e40f51f09f2ad22839",
+                    "name": "Dessert Shop"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "564c6356c0bb9a0d33823ba6c79c9851",
+                    "name": "Beauty Salon"
+                },
+                {
+                    "id": "9bad4f33027ca1d80109986e055488fb",
+                    "name": "City Hall"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1696567212324"
+        },
+        {
+            "id": "1e2cb2e07fe1314e89dee134d960955f.16",
+            "hashedId": "753f3b0ae8db9019ddc2e115a1b67888381c5c1f",
+            "title": "Iron Rhino",
+            "state": "LIVE",
+            "lat": 13.803201999999999,
+            "lng": 100.574432,
+            "description": "Metal Sculpture",
+            "images": [
+                {
+                    "id": "87fc14944be930359fad71beb5edbc09.17",
+                    "url": "https://lh3.googleusercontent.com/yT5ZemXXrnCC5vQj6UA1X9Sx0Dm6S_DsKYiITmxXUUdzdxa-bQNUDAphV2ZZTSrEyqg5tfhTFTmQ23_xtrTp531cHko"
+                }
+            ],
+            "address": "103/7 Lat Phrao 26 Alley, Lane 1-1, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1655181822971"
+        },
+        {
+            "id": "1e877837893d4879bcea98a23d3e37a7.16",
+            "hashedId": "4672b5ae1fd1218b3606d9404252a9d3c1081adc",
+            "title": "Eton",
+            "state": "LIVE",
+            "lat": 13.802505,
+            "lng": 100.575032,
+            "lastUpdateTimestampMs": "1501109506614",
+            "images": [
+                {
+                    "id": "54f15c2ab90f42fcac7c18c8e04030ec.17",
+                    "url": "https://lh3.googleusercontent.com/9cmfJK18AtwDhEspc_YFel75fPzDcYFPq7BwHA8-PKnIYbrHIofbtJq9R0SYKAkOsV8DA1450QavliQaW9tLolfgaA"
+                }
+            ],
+            "address": "10/8,10/33 Ratchadaphisek, Chan Kasem, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.267
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.267
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.179
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.207
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "256d1185558c361d9973af07e3ed326d.16",
+            "hashedId": "aa493e897092034c688b5e1c53fcce5c9ad32034",
+            "title": "Parasaurolophus",
+            "state": "LIVE",
+            "lat": 13.801475,
+            "lng": 100.57446399999999,
+            "images": [
+                {
+                    "id": "65e6deac609e3020aa315fd834394d96.17",
+                    "url": "https://lh3.googleusercontent.com/JuhzjIqncy7uLMTnfMSnjiZJiW01rRxHyAmZL2rVbMiXJyBnx5ULkfvcroIt_CSxnVxZFBdz7RDCC8O-V48"
+                },
+                {
+                    "id": "868dba5338d63e0092c1a2ca73272ab7.17",
+                    "url": "https://lh3.googleusercontent.com/-NM9aBEAUA7P60l5jHCEG2mSCYYHY_8c72NguRF2L27gsGmAV0F8AyrJVAB99kBSa02B3hnLdNcBq--mXeo0"
+                }
+            ],
+            "address": "532 Thanon Ratchadaphisek, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638172605973"
+        },
+        {
+            "id": "25a80023880c4821a1e7deb5947edb96.16",
+            "hashedId": "67370bc8e903f67af64a6432f652f5c76d040d34",
+            "title": "Bronze Lion Yellow Mama",
+            "state": "LIVE",
+            "lat": 13.803033,
+            "lng": 100.569183,
+            "lastUpdateTimestampMs": "1501109484412",
+            "images": [
+                {
+                    "id": "79b6610ee1c54cc7a28fcacd8ee460d7.17",
+                    "url": "https://lh3.googleusercontent.com/DhR6RcQtE9RlDzLKWcbaN1ciAxJyjA4PGkWOwhLRy20EVuNeRMIvxyzff85hRfU_H-IlvtPJjv3Nh2AT1Sk51hu3bX2Q"
+                }
+            ],
+            "address": "Lat Phrao 18 Alley, Lane 10, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.657
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.086
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.657
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.257
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2a0489037889448ab539076d887f172c.16",
+            "hashedId": "67b1f5bc32f162f2f061fa74f7ed2bea5a5957b1",
+            "title": "ศาลพระภูมิ Blocs at 18",
+            "state": "LIVE",
+            "lat": 13.806633,
+            "lng": 100.569919,
+            "lastUpdateTimestampMs": "1501109118365",
+            "images": [
+                {
+                    "id": "9bbf92ac517a4cfca30faab41b890c32.17",
+                    "url": "https://lh3.googleusercontent.com/RUpZkCdbYSZI7mZeRjgS9m_BaUXFIO4Q_snplsj2muLwSqMvf_Aj6olec6xfpaDkzCbHco6449bT6HlMXUt-kjw8pF0"
+                }
+            ],
+            "address": "Lat Phrao 18, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.144
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.059
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.144
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.127
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2a59d7e9918f3b60b83e66575d185750.16",
+            "hashedId": "9002a1cda519621978f4b831edfd532eafde6640",
+            "title": "The Maple @รัชดา ลาดพร้าว",
+            "state": "LIVE",
+            "lat": 13.80256,
+            "lng": 100.572402,
+            "description": "Condo The Maple @รัชดา ลาดพร้าว",
+            "images": [
+                {
+                    "id": "c75db93aba4231f885b163febe7ff82f.17",
+                    "url": "https://lh3.googleusercontent.com/o6zTL7_1zuXiu4ZWjaZendYYRZfIIVoszLRSx11TUTtbQ7z9xNL85kxQ_YCaCXseoGtWG3R0d4i7X_1VRS1HJ7zhWP8Iktvl-TTyC-aAuA"
+                },
+                {
+                    "id": "37c5a6b1442432b8b55aa548b572170b.17",
+                    "url": "https://lh3.googleusercontent.com/n8phCLZhQ3Pm9FgZKyCBX7FI6nr9_Ta45bKx2IEv7BLfXjfUsIe9S-JW0o7DFKeTMmBBcNpVrJJM7QVPjQk9x7IOk-puD4rnhirYkwQ"
+                }
+            ],
+            "address": "135 Lat Phrao 26 Alley, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "c679008bdc771f9cd49db695ced53f8f",
+                "name": "Map"
+            },
+            "categories": [
+                {
+                    "id": "c679008bdc771f9cd49db695ced53f8f",
+                    "name": "Map"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1683801388123"
+        },
+        {
+            "id": "2b275ef9b6103bf38edfd921e12a92fd.16",
+            "hashedId": "a8b0085cceb20a1f88e37a2106546547ae29b7e4",
+            "title": "Ruam Aroi Shrimp&Crab",
+            "state": "LIVE",
+            "lat": 13.801858,
+            "lng": 100.57450299999999,
+            "images": [
+                {
+                    "id": "f1f688280e2230c4acaf7c992e6ea7c5.17",
+                    "url": "https://lh3.googleusercontent.com/YKBucDbDDIPv6Q-oxq-FbbaS7DGAlURD0d_U2RfSM2fqmpqnEm0XBgIHXKcMTxM-Xu9JOzP7l0jp3VImLeI"
+                }
+            ],
+            "address": "43 Ratchadaphisek Road, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638172460864"
+        },
+        {
+            "id": "2e13dfe254b83643bc0faef7997927be.16",
+            "hashedId": "ade58c04d7958cfd9d8b60de17f328bffd4e58b4",
+            "title": "landy home shrine",
+            "state": "LIVE",
+            "lat": 13.807036,
+            "lng": 100.57293299999999,
+            "description": "lad phrao 19",
+            "images": [
+                {
+                    "id": "b46bf9a3e3943cffa53ff68bb2a4c25a.17",
+                    "url": "https://lh3.googleusercontent.com/xVCNajInMulgvWdkPx9ioBskey4CHScTrBs62gHulhnKTRY3e6yQpihaT0KAsjot9lmrbOFDAfNH5DEWvKX8SXLZPug"
+                },
+                {
+                    "id": "9ced003613d833308dcac69198c85847.17",
+                    "url": "https://lh3.googleusercontent.com/12PbqQKP30jQ2S7SFsIUtNV92zsQ8cdU1Fd_kVeD9-FsTteFPeUv7VTrjcQzlHf8-6_zOcAOF2PBAzKGV-o4v-a4IQ"
+                },
+                {
+                    "id": "7641a7e5fe8e3ab7a4f26aa16ad36529.17",
+                    "url": "https://lh3.googleusercontent.com/G9bBD1pArj_C77p1UgHpyz3GgwwmpISNkXunStx8IAAgF9ohDTPd0_IBLjtDtp_-9OFwPTPkwMJRJsTfyi_4zkzVC2U"
+                },
+                {
+                    "id": "25aa775682123bfdb94731040764d8b9.17",
+                    "url": "https://lh3.googleusercontent.com/qnDdUNCJ-rKiACRMqLRjPCVMy_qAKYzco2r3Iimx2TvqsJU6XRj40bI-WmaMxvuLGAdIUMREafj4GjCwGF4xSrJQB4umpX2gpqOa_FSm"
+                }
+            ],
+            "address": "1 อาคาร เก้าพูลทรัพย์ ซอย ลาดพร้าว 19 ซอย ลาดพร้าว 101 Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1653908127667"
+        },
+        {
+            "id": "301aca8274c746debfccd5505f55de0c.16",
+            "hashedId": "7749ccd2c1099d8143961912f8a0b84e9d2c33da",
+            "title": "The Room Ratchada-Ladprao",
+            "state": "LIVE",
+            "lat": 13.804475,
+            "lng": 100.576169,
+            "lastUpdateTimestampMs": "1501109563237",
+            "images": [
+                {
+                    "id": "513dfcab7000472f8081c87a276f00b2.17",
+                    "url": "https://lh3.googleusercontent.com/JyroLleNPWQqnf15urnchOYNKJv0HnvgTYX_Prb89y3S0nmMYQGEGIHs3k4T2FlX2oEoaqO518XAH34n8hRWp5RdiJ4"
+                }
+            ],
+            "address": "336, Chan Kasem, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.291
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.291
+                },
+                {
+                    "id": "79081d968619d816177a1f42e84f0168",
+                    "name": "Gurdwara",
+                    "score": 0.112
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.161
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3279dc980c9b46bd88e9359e1b3655d8.16",
+            "hashedId": "05eca38d3873c83a1a49293c502f38fa9b5eab5c",
+            "title": "Shrine of Bangkok Bank Ratchada",
+            "state": "LIVE",
+            "lat": 13.808432,
+            "lng": 100.57539799999999,
+            "lastUpdateTimestampMs": "1501110227559",
+            "description": "(MPS-01)",
+            "images": [
+                {
+                    "id": "e45c4777e9574089925edd9e454fa033.17",
+                    "url": "https://lh3.googleusercontent.com/ubb29auwc-q7PcykdZ1CVx_hZJKmmfM_aM_9hTxWEU90BcfeCTMAMnaLFq0UZzcnhD47wJx0PQNHhxKDkGht4xTt0Q"
+                }
+            ],
+            "address": "9/8 Ratchadaphisek Road, Khwaeng Chan Kasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.412
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.159
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.148
+                },
+                {
+                    "id": "7ba3b459772ebc9899ce25a385885e42",
+                    "name": "Bank"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.412
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "355c1118d7a4304fbc691fc73712b0a0.16",
+            "hashedId": "f5ff13a14f6be0a5d741738acc7df448dd1eeebf",
+            "title": "ศาลพระภูมิลาดพร้าว 22",
+            "state": "LIVE",
+            "lat": 13.806994999999999,
+            "lng": 100.57126799999999,
+            "description": "ศาลพระภูมิแถวซอยลาดพร้าว 22",
+            "images": [
+                {
+                    "id": "52295acb840439da871b03694c2359c5.17",
+                    "url": "https://lh3.googleusercontent.com/S44mDUZhmW9FAxtrbORA8z19x_KxTbjzyyiCZZ3cVaLW4AU1MCMVWuEWcLDlEnt97gJ-BmM9GOAgxG8amO-DQBVIHUA"
+                }
+            ],
+            "address": "2,2/1,2/2 Lat Phrao Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648219230437"
+        },
+        {
+            "id": "36fd7018a96d4130941ce304bddeb86b.16",
+            "hashedId": "5a8398b33264e0bf8f9e87bc584d939a5cf0ad69",
+            "title": "Pra Phom at Ake Bordin",
+            "state": "LIVE",
+            "lat": 13.807796,
+            "lng": 100.57217999999999,
+            "lastUpdateTimestampMs": "1501109306106",
+            "images": [
+                {
+                    "id": "87bb539b64c14bc4a1c5f0a91b3393ce.17",
+                    "url": "https://lh3.googleusercontent.com/86DB575WIFc-Qv0ZpUVVLutjMNi9IeIc7eHDiDT2UWPgQELhRYxU7gqQW6KGItfpmOxvAtKI-12uiEzrHRcnYPxJC7w"
+                }
+            ],
+            "address": "Lat Phrao 17 Alley, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.3
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.132
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.3
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.192
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "370bab58906539079e7ac182c25c6adc.16",
+            "hashedId": "5bdd7a974e2e825c8ff540c6e3e0989861bdbae2",
+            "title": "White Horse Lamp",
+            "state": "LIVE",
+            "lat": 13.804808,
+            "lng": 100.574659,
+            "description": "โคมไฟม้าสีขาวหน้าทางเข้าโรงแรม The Bazaar",
+            "images": [
+                {
+                    "id": "d3f6da4f220b3edb9506e4359d02af24.17",
+                    "url": "https://lh3.googleusercontent.com/0q2MtR9biioOv5xcIOCnocvhSJ3h3jo6hxiO9djXyWfCb7qnaCQUu7ORm1Px65ZQR-b0ZtMDhWX7eX3hVpwd4A"
+                }
+            ],
+            "address": "5 Ratchadaphisek Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1640258117141"
+        },
+        {
+            "id": "3f214004ca6a34fbb3e15bc220327ae4.16",
+            "hashedId": "de61c53e26bf4740fff0bad6f7a76d56d81dd335",
+            "title": "ศาลสีทอง",
+            "state": "LIVE",
+            "lat": 13.804113,
+            "lng": 100.57082899999999,
+            "description": "สถานที่ที่เป็นจุดศักการะกราบไว้สิ่งศักดิ์สิทธิ์ ของอพาร์ทเม้นนันทวัฒน์ ซอยลาดพร้าว26 มีผู้คนมากมายผ่านไปผ่านมา",
+            "images": [
+                {
+                    "id": "df30e8ea07fa3ba89396486a30ccdc54.17",
+                    "url": "https://lh3.googleusercontent.com/idUlOuO5f_Pg6Wlv7OeAReS0rYfZFFb-5qlM9bVUTnb8dNG5j4FFLrY2LpNNk_vXrtUyqrx0Z_30I3gjpSUh1-QNPHS_mD90NhmTAkFVHA"
+                },
+                {
+                    "id": "1d2a4c38e8733b40ac9ff5327bf084ed.17",
+                    "url": "https://lh3.googleusercontent.com/trLHOvkc8kSzLOnTHr5yZ7JT2DlULpLzbXWiKMqMOMSLxccpo6WS73ZG32BYNSh-RcBcEx_56pNRDUMNj3vcWMTfnC7iwNUOF3MF3gP5tQ"
+                }
+            ],
+            "address": "88 Lat Phrao 26 Alley, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 78.30412,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1655641025132"
+        },
+        {
+            "id": "4611071125864fdf8fe2a52a6af3a9d9.16",
+            "hashedId": "3ada11701103309256a34a97b7ab16d7fd241162",
+            "title": "Sarn Phra Poom",
+            "state": "LIVE",
+            "lat": 13.806847,
+            "lng": 100.569904,
+            "lastUpdateTimestampMs": "1567727152000",
+            "description": "Shrine",
+            "images": [
+                {
+                    "id": "338e4944769443d298623c3538424da6.17",
+                    "url": "https://lh3.googleusercontent.com/Tb04dDPgyFDhdcNlh1uL0wx1n6HcoZ7nnjLINwiGBZWcL6OwIzQ-BUl3pzHzyTngRx2p9oM6c-jQDZYN5cV22mh8ExpR"
+                },
+                {
+                    "id": "92c479b0cff2494f9ec413f4cc53f5fa.17",
+                    "url": "https://lh3.googleusercontent.com/JQtOUelW1QdWlmWGBL00tpAX56Y03KbYie2e4QYHcWqoLiB3tXCUMvfmBi7blsTa66R9p6e6T6lcbHNc8wuqkyobSw"
+                }
+            ],
+            "address": "Lat Phrao 18, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.591
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.52
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.164
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.591
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "47f3e8f21ccb4a94b965294a97374374.16",
+            "hashedId": "4ebf5010d00d0e59919d819da97c7d56ba43f277",
+            "title": "Shrine With Flowers",
+            "state": "LIVE",
+            "lat": 13.808278999999999,
+            "lng": 100.56944399999999,
+            "lastUpdateTimestampMs": "1501109445334",
+            "images": [
+                {
+                    "id": "c6143a17e5af4d91a9e9a6068910a1cd.17",
+                    "url": "https://lh3.googleusercontent.com/dkT9Tvu4FdpONtrwbc0exyMyOMmHexhsja7bkY2qqSFScAK9uXH7f2oMkbU-hUgH51ISmMYLqs3dM_n466eFchAJCA8"
+                }
+            ],
+            "address": "2 Lat Phrao 16, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.292
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.292
+                },
+                {
+                    "id": "6ba15cdbde1b644ab4721bacbc780f4d",
+                    "name": "Flower",
+                    "score": 0.277
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.244
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4b4effa3ba984852a20841450c01e97a.16",
+            "hashedId": "420677f826780bf810ac30ca902230abc0d16402",
+            "title": "The Connecion",
+            "state": "LIVE",
+            "lat": 13.805990999999999,
+            "lng": 100.57467,
+            "lastUpdateTimestampMs": "1570710955568",
+            "images": [
+                {
+                    "id": "25c717f4748f4e0dabb855e162f19680.17",
+                    "url": "https://lh3.googleusercontent.com/OR0FXoPY8U2PNdMd3sOuSTCyG-reKKGuSRzHn5wIA0KV-1LW1SbxSdWCLV88MF6tSjyj4aXKquaf9O_pGYrPp5DZoHg"
+                },
+                {
+                    "id": "f118d157eaac434f942a6497a9de4ede.17",
+                    "url": "https://lh3.googleusercontent.com/4WE4jG12ZQs-1a5Z5IUqXyGvh5e2c6UDxOQJiMWuGsPKG-cGlIybcdKcQ5KWCgCnz9XX-lX2AV5a-uGIglk24JLUrA"
+                }
+            ],
+            "address": "Ratchadaphisek, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.391
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.391
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.177
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.194
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "51f08dbf162a47ea81c44800638af18c.16",
+            "hashedId": "07eccfd97d3de39edac836129bd5a51842c65a9a",
+            "title": "ซุ้มน้ำตก",
+            "state": "LIVE",
+            "lat": 13.804984999999999,
+            "lng": 100.576043,
+            "lastUpdateTimestampMs": "1501109720014",
+            "description": "ซุ้มน้ำตก",
+            "images": [
+                {
+                    "id": "556cbf128603436382ab5b05850b1a93.17",
+                    "url": "https://lh6.ggpht.com/8pTuovSzPpBHzLc6wxp2rYGC6ebgSiRU6vEXa_8j5PQMCpL5cDP9sl7DwUByyJdW3-vJ-gah7E-lYC9O0w0"
+                },
+                {
+                    "id": "b5d2c26f8ce14bb88c4e6919f14faad2.17",
+                    "url": "https://lh3.googleusercontent.com/mZ7Liay2xSj2RjIf_glgiKdIgUsrycHFxqLtiaNJmy_Tp3e2CMhXyd-taQQkFSs2wQB2LMI8Xbt805D7Ue7kfxxqcSA"
+                }
+            ],
+            "address": "995 Lat Phrao, Khwaeng Chan Kasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                "name": "Water Tower"
+            },
+            "categories": [
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.056
+                },
+                {
+                    "id": "679f6d7db0ea1baab169927ad223186c",
+                    "name": "Waterfall",
+                    "score": 0.992
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.094
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5a883fbe308c3526be9d5bf84df494f9.16",
+            "hashedId": "637d6932cb804625ae1ed26d49f327cd89a1d076",
+            "title": "สิงห์ชำรุด",
+            "state": "RETIRED",
+            "lat": 13.804998,
+            "lng": 100.575755,
+            "lastUpdateTimestampMs": "1645413195616",
+            "images": [
+                {
+                    "id": "5db25f87196e3e1db6d064bea8b39018.17",
+                    "url": "https://lh3.googleusercontent.com/a8TDDrIlt2YuAnm82jDucZOoGVA2eCLT4Lobi3HIsqra5P78NbqmNUVPsdDlaE7LuD0iBClUmDHW0od6YFQ"
+                }
+            ],
+            "address": "957 Lat Phrao 23 Alley, Khwaeng Chan Kasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1637552656631"
+        },
+        {
+            "id": "5a9fef8f92f54909a2ce243e6e0ab15a.16",
+            "hashedId": "3c0e6f315848079d38a58428910670de524b2726",
+            "title": "C Place Shrine",
+            "state": "LIVE",
+            "lat": 13.802913,
+            "lng": 100.570094,
+            "lastUpdateTimestampMs": "1501109683809",
+            "description": "The sacred shrine.",
+            "images": [
+                {
+                    "id": "efaad57bde884a8ab82e47860f73a089.17",
+                    "url": "https://lh3.googleusercontent.com/MGgIez5pIUWtXsbSnhaF2-m84PqtDCKKUs0AVZ2VQk5uVzTZgIsW2geHtEqGjGTEEazXzzcbXRYDO-gd6fTfnwwlxw"
+                }
+            ],
+            "address": "Lat Phrao 18, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.765
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.765
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.133
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.234
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5d7feb66139a437da016c4ba98545047.16",
+            "hashedId": "518d5c9cb47f7e919f4a4e66b114d13eb2bcc328",
+            "title": "Sanpapum Shrine",
+            "state": "LIVE",
+            "lat": 13.810559999999999,
+            "lng": 100.57198199999999,
+            "images": [
+                {
+                    "id": "0cd441efb18b4c8e9040895feea030b3.17",
+                    "url": "https://lh3.googleusercontent.com/sv9C9ziM36crF2QLmsgLZxdpm9HATUaClmeCCcf3dQpWb3aodlfLEnVHcPcdE50cp-sQEI743-l0YdXDwOYKZOP4Sg"
+                }
+            ],
+            "address": "Lat Phrao 15 Yaek 2, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5f318dfb5d0938b8a0e7fd23310988bd.16",
+            "hashedId": "3aba09aa406a1596e61fd200ab24b391c5fc717a",
+            "title": "The Point Shrine",
+            "state": "LIVE",
+            "lat": 13.808024999999999,
+            "lng": 100.572711,
+            "description": "ศาลพระภูมิอาคารชุดเดอะพอยท์ มีคนผ่านไปมาจำนวนมาก และมีคนมากราบไหว้",
+            "images": [
+                {
+                    "id": "30706129ff5f38979d7c4addeed9b499.17",
+                    "url": "https://lh3.googleusercontent.com/j0CI1z5wG8ATHgIhxamRvlo_3GnlUC3zcdpHOeQgwlrYUlPaQ1JOxBMmfYpDq3pVEPs5Bsy1I9TQ3KCUVRYQC0V9vWc"
+                }
+            ],
+            "address": "8 Lat Phrao 19 Alley, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 71.41469,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1659250840140"
+        },
+        {
+            "id": "6b0145c29a624a30bb8c77fac8d60622.16",
+            "hashedId": "22dd4ab202bc47f9d4e54ea6ca6db6d06eb5c5e5",
+            "title": "Shrine",
+            "state": "LIVE",
+            "lat": 13.804627,
+            "lng": 100.57352999999999,
+            "lastUpdateTimestampMs": "1501109051244",
+            "images": [
+                {
+                    "id": "91d992dc6fb9458d8e5f249399f35d9e.17",
+                    "url": "https://lh3.googleusercontent.com/JLEWIwOuR906xmdFuckj8uM339HEP8FPYff673XOUx_T0mn0O6-XsA29Ru3ld0iNHo35uJ4IhYWBdb2Dp_a-dZEg6G4"
+                }
+            ],
+            "address": "Soi Lat Phrao 26, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.687
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.687
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.177
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.126
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6cbc94e683173320a1633cdd72b8d902.16",
+            "hashedId": "ba446c6461cdfa059eff673007ca38f6d34b61da",
+            "title": "ศาลพระพรหม วิสซ์ดอม รัชดา-ลาดพร้าว",
+            "state": "LIVE",
+            "lat": 13.805231,
+            "lng": 100.573894,
+            "description": "ศาลพระพรหมหน้าคอนโดมิเนียมวิสซ์ดอม รัชดา ลาดพร้าว สร้างขึ้นเพื่อเป็นสิริมงคลกับผู้อยู่อาศัย",
+            "images": [
+                {
+                    "id": "ce95be5e517d367b80fd735e2ae2fdc0.17",
+                    "url": "https://lh3.googleusercontent.com/35qec_jARZVGWjdy0aNFK2jhkmsk4TNEDpGZmDgnOsHudjX0OzRYCOA5RGApDxAzKtaUAX2jRzA-EXj5BFgyk3ralBrTny_vmR7qv-NU1w"
+                }
+            ],
+            "address": "448/1 ซอย ลาดพร้าว 101 Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1681976031084"
+        },
+        {
+            "id": "703171aae5ae4f5b870ebf019642c4b3.16",
+            "hashedId": "b0ca4c65e9578ce610111685fed4223e37eb9ddf",
+            "title": "White Shrine",
+            "state": "RETIRED",
+            "lat": 13.803327999999999,
+            "lng": 100.568562,
+            "lastUpdateTimestampMs": "1667382197135",
+            "images": [
+                {
+                    "id": "25a7ef6ec38d4d6dba1da16598bd8123.17",
+                    "url": "https://lh3.googleusercontent.com/z3WRoyhwrxJ0NwyHv-UCqziGOmT0A5Ja9HsluPvWuG9FFsXkDCHOvPrkaaaj--GrbcCFoHxseEott_btsG7IDahsELJz"
+                },
+                {
+                    "id": "845ef1379ad54b538532106db084ebd5.17",
+                    "url": "https://lh3.googleusercontent.com/MkirgHSmkp00_ucQf86LbqztyC1HRtqV2D1RL1Lm9YJ9uZGQ5zFByn-O5cAl9igll9vFS5AFlL6LeQhkCjaqQH5Bcw"
+                }
+            ],
+            "address": "Lat Phrao 18 Yaek 10, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "70b43a8263f73b028e97e4c6ad19f18f.16",
+            "hashedId": "d630446a428a932d331f6368e18b9ecf0ff12370",
+            "title": "Wattana HP Shrine",
+            "state": "LIVE",
+            "lat": 13.806942999999999,
+            "lng": 100.567853,
+            "description": "สถานที่ของเทพารักษ์ที่คอยคุ้มครองบ้านเรือน เชื่อว่า หากได้กราบไหว้ศาลพระภูมิจะได้รับสิ่งดีๆ เข้ามาในชีวิตได้",
+            "images": [
+                {
+                    "id": "040bb7ce5658377e82263c9c05e7f357.17",
+                    "url": "https://lh3.googleusercontent.com/xXef3veWEGq05ZX5kdBgXkttOrC274Am2VxqyPfSUU_Ry47WQJmNcEkEl44n3lCMM0H7M8M_MsuZGjLNTD30ohZ2ZlKp3OdTDOC8axa0"
+                }
+            ],
+            "address": "57 Lat Phrao 18 Alley, Lane 2, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 89.925316,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1661837196722"
+        },
+        {
+            "id": "72232d4908b8474eb10a8e493d06aa2e.16",
+            "hashedId": "9d71a3c4be4bd14b983b1932d97ac2346693f114",
+            "title": "Lively Residence Shire",
+            "state": "LIVE",
+            "lat": 13.806866,
+            "lng": 100.570523,
+            "lastUpdateTimestampMs": "1501109672687",
+            "images": [
+                {
+                    "id": "e2088b4bc31f4c92a6ea745eedc9802d.17",
+                    "url": "https://lh3.googleusercontent.com/1MsMUeHSKn3cm741kmzFLiY1Hqf284c4d7ze0X3_VZ_n2-jUlhjFjL1jJ9SSqwxPsR638SFMPx_miU2HOtf1BEZ3Yw"
+                }
+            ],
+            "address": "Soi Loetchaiphat, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.268
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.268
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.129
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.142
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7683fa25b3273f4e9b751e65fdbfcfb3.16",
+            "hashedId": "b6057a7ba8047a20f8137b797f3231a5ab0f115a",
+            "title": "ลายเป็ดข้างกำแพง ",
+            "state": "LIVE",
+            "lat": 13.807518,
+            "lng": 100.57053499999999,
+            "description": "ลายเป็ดน้อยข้างกำแพง ปากซอยลาดพร้าว20",
+            "images": [
+                {
+                    "id": "f1c8f948cfd83c3182b4766390d34169.17",
+                    "url": "https://lh3.googleusercontent.com/ygY1EXshUnd2SOZ9ueuY6ZG1Mf5ILOESrNy3ylGeHpvF4UGLKHVZasYdTux2avn8hTBZdTSlHQ-JJ26UR2Wa"
+                },
+                {
+                    "id": "72bf39988ca23cea964a452a4e53f449.17",
+                    "url": "https://lh3.googleusercontent.com/odTdON0zcMvfxRCwGZzWtOBJgWG9h1SiV7NJyyzABT5N5rdrDw_GQPaYN_VKCutwj5aCY30lFjX3qDBwP_pV"
+                }
+            ],
+            "address": "ลาดพร้าว ซอย 20 Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638938163732"
+        },
+        {
+            "id": "76b961793e9249648af05a9b07185007.16",
+            "hashedId": "e64fbd92c0e41cd6372d984a09f3f0f29f663fb0",
+            "title": "Pipat Shrine",
+            "state": "LIVE",
+            "lat": 13.808029,
+            "lng": 100.570959,
+            "lastUpdateTimestampMs": "1501109378501",
+            "description": "พระพิฒเนศ",
+            "images": [
+                {
+                    "id": "05767c8ae8364a168db6edf79414b942.17",
+                    "url": "https://lh3.googleusercontent.com/JtW6lv2s00UbT2-m6-dCyL8_E5CvAWdj5KLG1IMzfT-G0mTJcJPZSM_GScf5TnFORouwUjiVNoOoBXE2JCMC3q9xZgMM"
+                }
+            ],
+            "address": "2,2/1 Lat Phrao, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.57
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.57
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.166
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.335
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "78136b1c295433d19d506073ec153702.16",
+            "hashedId": "9f0ccc23a8b29f65081f6819dc11366d04590de2",
+            "title": "Sheep in the city",
+            "state": "LIVE",
+            "lat": 13.806479999999999,
+            "lng": 100.57261799999999,
+            "description": "cafe sheep in the city and Apple Sheep",
+            "images": [
+                {
+                    "id": "6bf216e77da438eabfe88860c427652e.17",
+                    "url": "https://lh3.googleusercontent.com/Kbwy0jQnYpngKkgUs5nJx3ohaJq55RoosNO-3MTdj78vDAV3eHP6zgqh6xCFRF05iVCwuZWJCO2PUje6gEgwXxVGXczTfITM6tF-zgkuBQ"
+                }
+            ],
+            "address": "438/8 ซอย ลาดพร้าว 101 Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "48f4dd707245fd8997937a4e76886782",
+                "name": "Electronics Store"
+            },
+            "qualityScore": 75.89907,
+            "categories": [
+                {
+                    "id": "48f4dd707245fd8997937a4e76886782",
+                    "name": "Electronics Store"
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee Place"
+                },
+                {
+                    "id": "a94b9f947d816b78104a0aab660e1d5d",
+                    "name": "Coffee Roaster"
+                },
+                {
+                    "id": "e9b696177b0d2a6291e5d50cf2e3443d",
+                    "name": "Gift Store"
+                },
+                {
+                    "id": "f052fae5c3cfb8e7eb1c4ce5e5bd4e75",
+                    "name": "Cafeteria"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1696573152892"
+        },
+        {
+            "id": "78c408a3b9693333b695d709fb0200ab.16",
+            "hashedId": "df0fb3e6a02a98571e7980c5948a25810f4b11a9",
+            "title": "The Bazaar Hotel Main Fountain",
+            "state": "LIVE",
+            "lat": 13.804767,
+            "lng": 100.574595,
+            "description": "น้ำพุหน้าทางเข้าโรงแรม The Bazaar",
+            "images": [
+                {
+                    "id": "fcfefa45084d38bc96e8c7ffc794ac6d.17",
+                    "url": "https://lh3.googleusercontent.com/nLcAydxTUCXVbBk0bd5WBYGJPsODSi68oHhRNU8tk_H55EYhFXDdxMLSa6o5EqTeIcWVbJ42YZkNeBj_RUo"
+                },
+                {
+                    "id": "025f62ca94d53faca3873ec3eb99d104.17",
+                    "url": "https://lh3.googleusercontent.com/Ivl9U5j1CNy42SDLSBi3nyrN3z28DsERMKc-Kd8OB1R8FMN1K49dYXorQI-wV8B0XCyTMyk1ATT5ZFbACyWYUmq-ZT0M"
+                },
+                {
+                    "id": "e97835c132443f47ad88c6370e0ef829.17",
+                    "url": "https://lh3.googleusercontent.com/uHQVe3sYrKVTnJMa4PbItsohWKZHvloRW9R-eoX3IG_JLrAy-bUplfsRpDmFQW8d41k7M12Mm4XpBBppw9l5"
+                }
+            ],
+            "address": "49 Ratchadaphisek Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel"
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1640257938320"
+        },
+        {
+            "id": "7946fc8b6e173b09b63171dbcd753fb0.16",
+            "hashedId": "12e7076d375bd119447463cf160bc62a2e1c2c85",
+            "title": "ChowCher Cof",
+            "state": "LIVE",
+            "lat": 13.807663999999999,
+            "lng": 100.56853199999999,
+            "description": "ฌ ฌอเฌอ คอฟ",
+            "images": [
+                {
+                    "id": "9b8152feb4713641a9d290bf772d8910.17",
+                    "url": "https://lh3.googleusercontent.com/57NFUHMm7MBRaalfkQgfoug8QcbVmiJckcdej3xgvE2T5ZmSlFOQgJE3PvhYHZtbZasiq6C8AjzyyLIiP4FUurfLbiTxB5rCxsCagYjttg"
+                }
+            ],
+            "address": "66 Lat Phrao 16 Alley, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                "name": "Cafe/Coffee Place"
+            },
+            "qualityScore": 80.77644,
+            "categories": [
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee Place"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1662095016610"
+        },
+        {
+            "id": "7d2a2a8083c642f9ad10d4a944ef47c2.16",
+            "hashedId": "5031313b4b4a0341e5c77a528f9663a24c132cbc",
+            "title": "Ladprao MRT Shrine",
+            "state": "LIVE",
+            "lat": 13.806166999999999,
+            "lng": 100.57390799999999,
+            "lastUpdateTimestampMs": "1501111310202",
+            "images": [
+                {
+                    "id": "43595ce8948a410abacc2f5cbcec6404.17",
+                    "url": "https://lh3.googleusercontent.com/GhQlIP54P47-WmV5HeNylyJILlJmKWJhxnd6yFyzJJdpaOuREa-tCwQA2kE5pRWnN8ZrQKqHx4hraKBOy6Txq7vTs5qs"
+                },
+                {
+                    "id": "26e9fa7c2d974440950e878729526e96.17",
+                    "url": "https://lh3.googleusercontent.com/M4h56pDahAZ8QZA6d3VmU_YLi0260VresuPaEh7KXQxGAHt9o6yCnAQpRXQENqoUURdKh2wof6ztqh-NFnDvhUiIEpig"
+                }
+            ],
+            "address": "Lat Phrao Road, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.188
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.16
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.113
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8429e73045e449d4bbebf0c4ee64bdc8.16",
+            "hashedId": "c049e9bf1bde6d40a5d7e629a1a6372efac84873",
+            "title": "The Three Shrines of Life",
+            "state": "LIVE",
+            "lat": 13.807805,
+            "lng": 100.570073,
+            "lastUpdateTimestampMs": "1501109228091",
+            "images": [
+                {
+                    "id": "befe895304e54b1e99b8670ccd77a694.17",
+                    "url": "https://lh3.googleusercontent.com/6iHOaw8LHpFo3JR_aFYUspOFxLy1qWkJOTr5qIYuKDVQOM0Yt7Z3xMQDmzKxtsZcYLaJ_Q4WGm_nT6RrRIKR2fZVTPk"
+                }
+            ],
+            "address": "382 ลาดพร้าว Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.156
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.205
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.123
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1660210267118"
+        },
+        {
+            "id": "8479a3396c0b35c5be4f7a51e9591c40.16",
+            "hashedId": "1878fb3b6e36ca7aaed221244229ac0ca2820605",
+            "title": "spirit House Place",
+            "state": "LIVE",
+            "lat": 13.804181999999999,
+            "lng": 100.570545,
+            "description": "White spirit House ",
+            "images": [
+                {
+                    "id": "fb746df14843342eba326db46830a5c6.17",
+                    "url": "https://lh3.googleusercontent.com/kLQlmzbjr5bD1bqJ9rVxzpqWOCnSjxIxksX1MHDPJoXe4BZD6RMvaHA7f1D-zy3IcILEVTUYXoac_10GJtw"
+                },
+                {
+                    "id": "c6296565fae4316da6ac719496eebebb.17",
+                    "url": "https://lh3.googleusercontent.com/VWOgTpXayLWSbtaGE7IWWYAiJ6FJjCsCNQSBG6hLDP6J-nwTG6AmWJRdkln03Y-NWf3jINh33fh5XfRFXZfepcPuzw"
+                },
+                {
+                    "id": "8959b950b4973121be823bb467a7e5bb.17",
+                    "url": "https://lh3.googleusercontent.com/n2MxxZ6XAZjxNiyZrN9cn_PuoqH7RaWL2M3S0FnkU3Qvjvkl9vrPKEGMOGaatuIpKZjjsUp_zV8_jTWdm4Ha"
+                }
+            ],
+            "address": "168 Lat Phrao 26 Alley, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638939734117"
+        },
+        {
+            "id": "85792226f0af4e1a82f2120390f69965.16",
+            "hashedId": "c2e6bd9b42f77f9c81dbc2fd0d564963c5f518ab",
+            "title": "Condo One Ladprao Shrine",
+            "state": "LIVE",
+            "lat": 13.804879,
+            "lng": 100.569981,
+            "lastUpdateTimestampMs": "1501109594046",
+            "images": [
+                {
+                    "id": "9476217dc25e4aeab36d41a136576aa1.17",
+                    "url": "https://lh3.googleusercontent.com/0peTiur91TkfkKnM0rV5Ij3NZh7WypTds6Fk1FeLhMsX3Sx7u5UM-0IQcDyyPn18GGTHYDFWytvyNKhRiwD8SgqIiA"
+                }
+            ],
+            "address": "Lat Phrao 18, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.242
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.242
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.181
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.201
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "88428355efa73761b3f47951ad130ee1.16",
+            "hashedId": "2be225dbe7e796dcb2798b5591960f7e029f559b",
+            "title": "สิ่งศักดิ์สิทธิ์แห่งสวนลุมไนท์บาซ่ารัชดา",
+            "state": "LIVE",
+            "lat": 13.805212,
+            "lng": 100.574429,
+            "lastUpdateTimestampMs": "1627392383149",
+            "description": "จากซ้ายมาขวา: กรมหลวงชุมพร(เสด็จเตี่ย), พระพิฆเนศ, พระพรหม, พระนารายณ์ทรงครุฑประทับพระราหู, และ พระปิยมหาราช(ร.5)",
+            "images": [
+                {
+                    "id": "95f32ecf06933f339c1ce42e06e97940.17",
+                    "url": "https://lh3.googleusercontent.com/Yl1EBbz736zz4rfgVVwJL9-w7OZGdlrMoCxq5P6rXZy-88yK3t0yW_oEvf63zctJFMp-8ItYadDxjKdrVEur"
+                },
+                {
+                    "id": "b3506038be543ade8f0dc84c351f8de1.17",
+                    "url": "https://lh3.googleusercontent.com/1JPifusE63Ddygqew4KqRq_Mo6SWfIqyLtyrIy7lUbXyPOhJNZpXoWJ2EiHXKjlctKdrkQyg29eHFkAG1joXjA"
+                },
+                {
+                    "id": "13c73463aaba3fd28f607b8716504c62.17",
+                    "url": "https://lh3.googleusercontent.com/iWVjFObN0xiJPxU4CIL3DLu3JaOi-om9xG3wxT7CIXpH17asMD0vmn4lr9YviSrP5HTob5ZAKXSi1I1AdkScjKkkTa0"
+                }
+            ],
+            "address": "428 Lat Phrao Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1627354686308"
+        },
+        {
+            "id": "8db822645b3942d88a8b2aa3ffc74ce9.16",
+            "hashedId": "8054f1931548548c40c35125cf816b9250a665fe",
+            "title": "พระภูมิ ปตท. รัชดา-ลาดพร้าว",
+            "state": "GAME_REJECTED",
+            "lat": 13.804891,
+            "lng": 100.576089,
+            "lastUpdateTimestampMs": "1598966431235",
+            "images": [
+                {
+                    "id": "66dad1d3836648feb133755d96e66d45.17",
+                    "url": "https://lh4.ggpht.com/NPWNMJOg1MnGBZCfah_NgQRTb2mrrt6dJWiBCwsJ4UbDdsr6CYe_QNpuWEM-vKIob-8B-rAHtJqBvvkfRljh"
+                }
+            ],
+            "address": "997 ซอย ลาดพร้าว 101 Khwaeng Chan Kasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "qualityScore": 89.30278330019883,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1598589996946"
+        },
+        {
+            "id": "902257d5a1cb4383b5fbc4b5bda5087b.16",
+            "hashedId": "aef9cd3c33e5f2c38dcffc63ae21a45e3f4c4405",
+            "title": "เทพราหูทรงครุฑ และ ศิวะนาฏราช",
+            "state": "LIVE",
+            "lat": 13.804974,
+            "lng": 100.574552,
+            "lastUpdateTimestampMs": "1589895168951",
+            "description": "สิ่งศักดิ์สิทธิ์ประจำ เดอะบาซาร์ รัชดาภิเษก",
+            "images": [
+                {
+                    "id": "416da2ab7901438d9a1c241dfbc34740.17",
+                    "url": "https://lh3.googleusercontent.com/xODjZCOFop1-Sq18pfsy_pTLgDX1_--2lGBZbhp6lV4wO99TPp5Cy1prulBBCjHgiK1RYaW5SO1OxMYEvnmO6FxE5dtJ"
+                },
+                {
+                    "id": "7d7759233dcf3524ae557e19d87d5012.17",
+                    "url": "https://lh3.googleusercontent.com/T6ws79RPwblcGLjVV2_mHvvjbUPiLCLiGaIzug3zrh4z2aVu-K0fRKDOIGMwH77UzM3-S6XryeKClsiiDwQL5G_c3g"
+                },
+                {
+                    "id": "b4aa2e3fb7b931e28c211a9f2c636035.17",
+                    "url": "https://lh3.googleusercontent.com/DrMaF0fj05cP7MNih1VGrRGLI6urkvSx52cNLiSPEI_H8m8vh8G-zqKx6_PSJwQ6UsuYseg6aSYyCXFdasKJbA"
+                },
+                {
+                    "id": "1f70c6d62f44304f81772630266fc793.17",
+                    "url": "https://lh3.googleusercontent.com/vTE_Iy62zqWKMMDOcno5RYt7NCJxeD8i6jwqLGWO4_kyzkkB-t1yYcgQeIvt1mdLRZ0BS2oljif2wELSmyg"
+                },
+                {
+                    "id": "fa4e5298a4d836288520410e88a06111.17",
+                    "url": "https://lh3.googleusercontent.com/b8YwDUCR0Jvt3jNPgaI_kaiDR4S08PCQpt7FkGEHhkyL9alMzP9JjOssdgYptXZGvwPKJ5Zo1kTB-u00TdEJI2UX1uA"
+                }
+            ],
+            "address": "49 Ratchadaphisek Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.535
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.535
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.283
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.23
+                },
+                {
+                    "id": "f86a7120d9a9587aa2d7afc77eeb1d58",
+                    "name": "Landscape"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1575063219455",
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660159167419"
+        },
+        {
+            "id": "962c8a040ed9359cb83a4121e51e3d66.16",
+            "hashedId": "4f950290b9130b7db9067aa2be704f3743f7abaf",
+            "title": "Kabocha Sushi Shine",
+            "state": "LIVE",
+            "lat": 13.80669,
+            "lng": 100.572958,
+            "lastUpdateTimestampMs": "1627391860833",
+            "images": [
+                {
+                    "id": "645454d9b52c3be39e8ea75d3a1dd3c0.17",
+                    "url": "https://lh3.googleusercontent.com/GqoD1lyqlzTyjjvQqzzH7H0OiIc-JH6MWtVZB13towp09qziVR708qpq2Pl37itCjgJygdsLYM5oxoA0EzLR"
+                }
+            ],
+            "address": "25 Lat Phrao 19 Alley, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1626850574279"
+        },
+        {
+            "id": "9c0c5805544b4d2189c06eb736a5ee2b.16",
+            "hashedId": "57b2a8bcd8d679354d693be66847c54bd78e4ab9",
+            "title": "Netprasom Shrine",
+            "state": "LIVE",
+            "lat": 13.807081,
+            "lng": 100.56956799999999,
+            "lastUpdateTimestampMs": "1501109978498",
+            "images": [
+                {
+                    "id": "ace3afca80304a998212a3f197b5a6dc.17",
+                    "url": "https://lh3.googleusercontent.com/zA1N0acxRGvKt9nddCV7rryXcYCewNzdeKeB8MlVDEsMxl_0qwBkMRvHkvbqB8-K8gbE1Z0xxnSrJzRNcQwolYozk-U"
+                },
+                {
+                    "id": "0df24c29cce640f38fe6c2d07633f4d2.17",
+                    "url": "https://lh3.googleusercontent.com/u5PuiwNsVTyMU7E9xVeCcyxpa6Cognb4WINNqCesdhr8xc6MeXkNk5Cbe5a0AuroWAAO4LvyJ9luIy7dWApMOOeiUTE"
+                }
+            ],
+            "address": "Lat Phrao 18 Yaek 2, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.387
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.387
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.167
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.169
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a07d9c7db0624939af3193534f08efd0.16",
+            "hashedId": "8186d2253c8eef2db5cdea30fc50d5e29eddabdf",
+            "title": "Shrine",
+            "state": "LIVE",
+            "lat": 13.804437,
+            "lng": 100.573617,
+            "lastUpdateTimestampMs": "1501109405814",
+            "images": [
+                {
+                    "id": "7603e3c6c5074859bc91d8870fdc52d4.17",
+                    "url": "https://lh3.googleusercontent.com/YjD7_pf-KF5Aufbj6r4HmnzEqszjYknnZAyUP3Wk-BHi0kDDt7UA2iS42sivfULA3uN9R9a3Z1YCDTWWnu7d5WbCcg"
+                }
+            ],
+            "address": "Soi Lat Phrao 26, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.687
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.687
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.177
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.126
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a21a41d273844be9a83592c1afc9f52a.16",
+            "hashedId": "c5d9669f583f8e927bf5863a76de20acfdf306a4",
+            "title": "Terracotta Cowboy",
+            "state": "LIVE",
+            "lat": 13.805216,
+            "lng": 100.575407,
+            "lastUpdateTimestampMs": "1588781625878",
+            "images": [
+                {
+                    "id": "c5559542fde64bbfbfcfe00307322398.17",
+                    "url": "https://lh3.googleusercontent.com/MwwMehvWVfqUe8VCKKMh6JHPWMrxCDMUgjxrIOUqvlDhAA7Vxh4vYY_6vpU1czSZwgI0UnXxaBvuD-xft6ai4kbdKq8"
+                }
+            ],
+            "address": "Yaek Lat Phrao - Rat Da, Chan Kasem, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.627
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.099
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.627
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.307
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a2e769dcb06c372788a7cbb749cffddc.16",
+            "hashedId": "a4774a0ef5c94e7bfad18168e920aa61abf6a661",
+            "title": "พระภูมิทองภัทร",
+            "state": "LIVE",
+            "lat": 13.809021999999999,
+            "lng": 100.57081799999999,
+            "description": "พระภูมิเจ้าที่ประจำบ้านทองภัทร อยู่ริมถนน ปลอดภัย",
+            "images": [
+                {
+                    "id": "7cd29ef0af5b3c3ba3c7622735b78a9d.17",
+                    "url": "https://lh3.googleusercontent.com/wZiIjMRT8Tg15swDcoLBZu9TG0cwktzuBkJzLcIOXLR9A1KQC0dH4GSdDVjJuVXrq6wI6zvfrRmKthbZnOx9ntagBWw"
+                }
+            ],
+            "address": "5 Lat Phrao Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646653575543"
+        },
+        {
+            "id": "a4a6a613cc0039ca96175a4a17f81df4.16",
+            "hashedId": "d3f3545d4f43f8d591b59b15b7fb1b4d5977b82f",
+            "title": "Coffee Shop",
+            "state": "LIVE",
+            "lat": 13.804692,
+            "lng": 100.5765,
+            "lastUpdateTimestampMs": "1625577879075",
+            "images": [
+                {
+                    "id": "66b258e868213e738b74e854fcf9893a.17",
+                    "url": "https://lh3.ggpht.com/kAv174cXIARUhoichMu_1HpeP3Y8DQTiClT1-dRpwBzVobouNkCZFxgc7fwQPJ1aMeNu5k4ONFnTJh1LWA1H"
+                }
+            ],
+            "address": "1001 Lat Phrao Rd, Khwaeng Chan Kasem, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                "name": "Cafe/Coffee",
+                "score": 0.436
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.379
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.307
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee",
+                    "score": 0.436
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1625056620969"
+        },
+        {
+            "id": "a57cc9f30dbb47b6a0e93c10a2775e22.16",
+            "hashedId": "e43b3d8f1a334be27d69049c75eeb0386794f1f4",
+            "title": "รูปปั้น",
+            "state": "LIVE",
+            "lat": 13.80762,
+            "lng": 100.570275,
+            "lastUpdateTimestampMs": "1501110055638",
+            "images": [
+                {
+                    "id": "1b5a3b25c6c948a39218d88d5d65b777.17",
+                    "url": "https://lh3.googleusercontent.com/yKqyr6VPBZraUhLxOBGcpZ8HOJCcF3EsSs0OiL7LSqIoaIoHEqHoW5ReyQ8_gD42vHTGd2FPygNpCRYBrX44pghyMw"
+                }
+            ],
+            "address": "31 ลาดพร้าว 20 Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.93
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.051
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.733
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.93
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "af39a79c765245009d874891b621444d.16",
+            "hashedId": "1e8030c0203082538befdcdf382266b563d34b3d",
+            "title": "ไทรเซราทอปส์",
+            "state": "LIVE",
+            "lat": 13.804385,
+            "lng": 100.574631,
+            "lastUpdateTimestampMs": "1589895239540",
+            "images": [
+                {
+                    "id": "a7217ccaccbc3f9fa95edc7910ceb996.17",
+                    "url": "https://lh3.googleusercontent.com/-E2OS0Lt9eMEgStJSytB2MzmUgKiCph0U3iYfyV_rhWFRDCjnqby4wBsdJMnh4ZGCdSAaPBC9vmtVAxWoPDzTQ"
+                },
+                {
+                    "id": "4f3ea754e8794c5b8ac8e5d781392319.17",
+                    "url": "https://lh3.googleusercontent.com/gr66HY1o77QHr_DO8RquBPYprynkLLFU2fEQWH1LhC-yDzGTTJrThL-C2-CTZ4-C0wB0LyiPrBvzRQn4XFo"
+                },
+                {
+                    "id": "d03dd00297a9327fa4e97b8f4a9f17a9.17",
+                    "url": "https://lh3.googleusercontent.com/L9lpjest9W4UGN8sgX86OIee8WC1TZAq9jhczo5-WJWRkfV-hcE6iIftRDLQlRGeeltztbsfzdJVFDIzQpmXmYqoc4dogg"
+                }
+            ],
+            "address": "49 Ratchadaphisek Road, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.229
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.229
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.165
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.143
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586583448349"
+        },
+        {
+            "id": "b028d7b24378451eb3e8a9a31201a83d.11",
+            "hashedId": "417cf98b16ef47532aec4255b358fca3a5068345",
+            "title": "MRT Lat Phrao LAT",
+            "state": "LIVE",
+            "lat": 13.806111,
+            "lng": 100.57416599999999,
+            "lastUpdateTimestampMs": "1501109254350",
+            "description": "ลาดพร้าว",
+            "images": [
+                {
+                    "id": "c9172218ba66422bb91d22b1d8e199a2.17",
+                    "url": "https://lh3.googleusercontent.com/9OYT6OZgcgVx2YJSNVOBN9RcGmTBJTABiaejISFivJjBlUlFfrSSXlZLtN4kvOzOatMnmsVbe0AGyzQ0kELVnNoB2Kc"
+                },
+                {
+                    "id": "99a10cb8d28b41338e145d7dae1cd654.17",
+                    "url": "https://lh3.googleusercontent.com/iJBddPh1cQOoUDv_wXinp-53lhwqAPEJGM7nc8ebRPYT6IFOxH4QoSXDFyP3uFUYKAMuv7h2PiZcOrEZ0wua8G1AOQ"
+                },
+                {
+                    "id": "18fd5d41423b4631a68be6b8ecc09849.17",
+                    "url": "https://lh3.googleusercontent.com/Sf1384u9mNrAyDMAcvX7CpVTClexwEqFz8pebFXQmfSE4t9O-5x1wT9o_WbU_NE-VLNpGRAdPjdD5E59e8vgCSTxUvQ"
+                },
+                {
+                    "id": "4f14c3b2a82e375cbfb66bed093e2439.17",
+                    "url": "https://lh3.googleusercontent.com/DHflz_DWTSo1_fRG1kkclFq6UEQsWziiR_i99Dl70Up01-duz6ZnVAIBXPwvkjJelLqx4Yxgta78VXCJW3VaMhKib_s"
+                }
+            ],
+            "address": "Lat Phrao Road, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.256
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.256
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.091
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.067
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b7b8fa63d1084be3b076e9c941f49dac.16",
+            "hashedId": "6c7f74de06aacd2927634456219a04391a0237b5",
+            "title": "Dog Graffiti",
+            "state": "LIVE",
+            "lat": 13.80735,
+            "lng": 100.574598,
+            "lastUpdateTimestampMs": "1501109349110",
+            "images": [
+                {
+                    "id": "97a489a64a7a450d8f79684ce067164c.17",
+                    "url": "https://lh3.googleusercontent.com/pqWTA7dArK_WpCHonzp89OEFptEvsQe3xdKRi_OpeU_XMDOU22oZfivJ1JF0kBoLzA3-eJzA4xQpMOwSIqEYUXugdjw"
+                }
+            ],
+            "address": "24 Lat Phrao, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                "name": "Graffiti",
+                "score": 0.865
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.399
+                },
+                {
+                    "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                    "name": "Graffiti",
+                    "score": 0.865
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.327
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "bb7995e96f8746c8b26ce3ec29c42f5e.16",
+            "hashedId": "b2ba3d479aedb398b6cd9495a2e2ebd12f26619d",
+            "title": "ช่อง2",
+            "state": "LIVE",
+            "lat": 13.808435,
+            "lng": 100.570917,
+            "lastUpdateTimestampMs": "1501109959591",
+            "description": "Bangkok",
+            "images": [
+                {
+                    "id": "2eb85e1ddf4846a3bb4fd4c9ecea5b46.17",
+                    "url": "https://lh3.googleusercontent.com/VTIRLEEUBqRFM6GsIcMrOHKhZRLXNuiF6_knDNj9V22J_pWW9RlQXpzmY0tWaxJU4aBDTOyZ-s1nfQPoei4NmJNBRA"
+                },
+                {
+                    "id": "b15a37c2af9342a09b52908a0c6a1f90.17",
+                    "url": "https://lh6.ggpht.com/e5YZOlreB8NW4UQYB7eu-WA8MvUosKelZHd-xqREnIv58Nwd4K__MecerCrNV5zmzNhIeSb86XTywOSe2MeZ1A"
+                },
+                {
+                    "id": "5de45447b46f39c18d1f82849ee2a2dc.17",
+                    "url": "https://lh3.googleusercontent.com/EHJAJK6Jz_ckbkHa__OSXPrBsBnhLH0kBtsq41IbuMDMnWnGCAdJhwZ8Ib6Rmx_Q5wS4r62r9nTTAzRG7LcW"
+                },
+                {
+                    "id": "96cddc9a634f30fd9ad8ec1a211f8ce7.17",
+                    "url": "https://lh3.googleusercontent.com/0QSzlPdxW30x82um1x3XO6GNdMqrfcqIWt1NQtnAfK40JESowoFcmIVFvcpTo7ron5KRHCX8xWYcsltCydL0oup0wtY"
+                },
+                {
+                    "id": "80a0e113ce1c347fb1a7d0d7d52b3f09.17",
+                    "url": "https://lh3.googleusercontent.com/DdGduVm8QG0Db8W_gf2-AGJJDukXidOBmOzxGfsMkZDCrQzr5J5nIgGMVpvtbShv1d8tz9yivpuiyOFpaQeAlukCseA"
+                }
+            ],
+            "address": "Soi Chom Phon, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.336
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.195
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.029
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c1fa7429acc53868aaca2341fbcd031a.16",
+            "hashedId": "ba91b470b4c21d9fc0b2026d6ccd75a497d81266",
+            "title": "MRT Lat Phrap station exit 1",
+            "state": "LIVE",
+            "lat": 13.805594999999999,
+            "lng": 100.57406399999999,
+            "description": "The MRT Lat Phrao station exit 1 is entry-exit terminal for undergeound train MRT",
+            "images": [
+                {
+                    "id": "fc2fffde71f4395289107005ba747f8d.17",
+                    "url": "https://lh3.googleusercontent.com/iUGE3dWWWJkXPqY5lVrQHNTCI0ngx_P4HkGaa2X7Ri7FTbXptTjPE7AW2EshluXe5zv9no8T0gYP6rj1imy5WOcqow8_"
+                }
+            ],
+            "address": "Lat Phrao, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1671104878814"
+        },
+        {
+            "id": "c301635555f040f89f8df0f3aa68004c.16",
+            "hashedId": "e399a9f25d515d2b64851eec1b26ae29acdda2fb",
+            "title": "พระพรหม",
+            "state": "LIVE",
+            "lat": 13.807103999999999,
+            "lng": 100.568547,
+            "lastUpdateTimestampMs": "1572069843415",
+            "images": [
+                {
+                    "id": "f8a19e5a2af248ac93c685485290618b.17",
+                    "url": "https://lh3.googleusercontent.com/7_YSU5lVSfqyCerCl5YVvIqtIGHcdJum4uys6D4LGh_epVGkM5_TajYsW8hJaWzj8TJh-XRzIRD5xXLpvD4KnvQi9G4"
+                }
+            ],
+            "address": "Lat Phrao 18 Alley, Lane 2, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.175
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.164
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.146
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.175
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c583a1adaa204002b63095f6aba9988d.16",
+            "hashedId": "0549a2d22287c688eaac403c4b78dd156e7dae14",
+            "title": "Shrine of 222",
+            "state": "LIVE",
+            "lat": 13.804298999999999,
+            "lng": 100.571739,
+            "lastUpdateTimestampMs": "1566197644880",
+            "description": "222 ladprow 26.",
+            "images": [
+                {
+                    "id": "b534982c21be479d9b9527cdb4141497.17",
+                    "url": "https://lh3.googleusercontent.com/6SYJM6mXCA51NZ6plk26yJX1vZe68efampPU-5m1478aj3iw_eWadfum2bDH5LS7bosUa-fen8YI8XsOGHOx-jeXrow"
+                }
+            ],
+            "address": "103/20 Lat Phrao 26, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.169
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.169
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.133
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.101
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c61959d7db224de1a88cc41480b0cf90.16",
+            "hashedId": "3160ffb8b0c51b0830ba4cc13a9d65e1bc2e5529",
+            "title": "ทองทิพเพลซ",
+            "state": "LIVE",
+            "lat": 13.804108999999999,
+            "lng": 100.57301199999999,
+            "lastUpdateTimestampMs": "1567727005045",
+            "images": [
+                {
+                    "id": "2b107f1a62ee4a258a404f7515f9e899.17",
+                    "url": "https://lh3.googleusercontent.com/UmYO3_FBL_bchG9G-ok2ZoVJw5v45ibZTC7w3dfB3R3DeRDHGt7G2H21h5Bn5mp3slZBT-LDnlOdXTnfaR6VeKBBbA"
+                }
+            ],
+            "address": "Soi Lat Phrao 26, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.244
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.166
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.244
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.15
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "cdd38098c4833a41b7e10ad2c61229a3.16",
+            "hashedId": "52e341bb5a733f0e323a4b24ee5a0067c18be905",
+            "title": "Ladprao 18 Yeak 2 Shrine",
+            "state": "LIVE",
+            "lat": 13.807513,
+            "lng": 100.569062,
+            "description": "Holy shrine for community",
+            "images": [
+                {
+                    "id": "d270563168693bac83fa598a619344d7.17",
+                    "url": "https://lh3.googleusercontent.com/UyyxW6FPvkrtM-sN9dy_OzF3aM3goPVG2Ad_o09st_Q3SoIC1tMdu_18XYGGqyLkvJqG-olCKtNOVbRm-ulzKvhBXCUg1g"
+                }
+            ],
+            "address": "56/167 Lat Phrao Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646382662668"
+        },
+        {
+            "id": "d3aa092121de48bf8a9ccf4bd9bd2818.16",
+            "hashedId": "897c777f64e23696cb5d0ddc01005ca414b6ccf0",
+            "title": "โรงรับจำนำ ลาดพร้าว 14",
+            "state": "LIVE",
+            "lat": 13.808634,
+            "lng": 100.56874499999999,
+            "lastUpdateTimestampMs": "1501109673361",
+            "images": [
+                {
+                    "id": "c66cfea130fe48d483cfe7322536a5cd.17",
+                    "url": "https://lh3.googleusercontent.com/bPJqR7LluQLVpbDvxtRNBuEcwIEnPJ13sxd-UzRFEm4DUOwh5ott3N7G04A5drNnZn0CsPXGUVTpUjIxBgkQHrwUvw"
+                }
+            ],
+            "address": "320 ลาดพร้าว Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.282
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.282
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.131
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.214
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d5d274c4842e32e8913a9637ec0beb62.16",
+            "hashedId": "78df50c94e7299b1860703eefce064590efa6092",
+            "title": "ศาลพระภูมิหอพักสิริดา",
+            "state": "LIVE",
+            "lat": 13.803699,
+            "lng": 100.571007,
+            "description": "เป็นศาลที่มีคนในหอพักเข้ามาสักการะบูชาเป็นจำนวนมาก",
+            "images": [
+                {
+                    "id": "20e34a8504d1323e92c2e8e92af7d07b.17",
+                    "url": "https://lh3.googleusercontent.com/tpwHd2V_ER30pZEauf_C4NT6XJcjYBAVQbObKgVkAgVCW4GCbEOF3kmR3wPVaWpewDsD52lUki8Oqd1pUrM6uM9Sk_Hg9RX8JnABgnX9FA"
+                }
+            ],
+            "address": "92 Lat Phrao 26 Alley, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 88.500565,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "fbf264dceba337bf62c7b37c23021ab0",
+                    "name": "Iconic Architecture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1694079973594"
+        },
+        {
+            "id": "d75a4e7f631e3cabb90ccb19e3bf9a14.16",
+            "hashedId": "262b0417cc642c45519428c8f93e2a224b861236",
+            "title": "พระภูมิคอนโดวัน15",
+            "state": "LIVE",
+            "lat": 13.809114,
+            "lng": 100.570838,
+            "description": "ศาลพระภูมิที่เคารพบูชาของคอนโดวันลาดพร้าว15 ย่านชุมชนติดรถไฟฟ้าmrt",
+            "images": [
+                {
+                    "id": "704b5c315e6e3fe8b6b7d2bd11ceba85.17",
+                    "url": "https://lh3.googleusercontent.com/KKRO036UUjALCtwvTQK63VU7sFYg1l2QNUdEnSPN3fP1e-Xwwa4bsFuKqIr37hhdsN5O7pXYCNkds_Y00J_NzIWN1Cc"
+                }
+            ],
+            "address": "9 Lat Phrao Rd, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1649146617766"
+        },
+        {
+            "id": "da91215cb8084beaa9a3fd9a72ba313b.11",
+            "hashedId": "e78f2986bf0966dd368243c45c7b28aaaf1d8a63",
+            "title": "MRT Lat Phrao Station",
+            "state": "LIVE",
+            "lat": 13.807022,
+            "lng": 100.57158,
+            "lastUpdateTimestampMs": "1501109353966",
+            "description": "MRT ลาดพร้าว",
+            "images": [
+                {
+                    "id": "e461a3a1e25143bfa53c2534bbf75656.17",
+                    "url": "https://lh3.googleusercontent.com/DrurSybl_HFilbX7Kp9uvIfVJ56cD8tnnWZGXQIuMH11YNd4jGB9F09x_2nFugXM4_XJ8S11NatOpESeEdy5yaya-Zw"
+                },
+                {
+                    "id": "13941918818f4162b674f003e064ad26.17",
+                    "url": "https://lh3.googleusercontent.com/3YpJWvionqLs3n-xADmm-XIeMKmm38kjyNnSPrAklZzPZ1AJ5YfxAGXQ9xMSpIzZyWFGd_EdcmAP5KdjlpthlRtUbsA"
+                },
+                {
+                    "id": "6996a8599dc04a77a77f7c6b6b00bbe8.17",
+                    "url": "https://lh3.googleusercontent.com/ltvAqO7Cq_vaf1Z_2ngCo0UgH_mPVbsUPwam-cC5gyfZdQzno1YQ36CnEP0CHa3SDGS3AmHbUePF7zMD8uMro2lG7OM"
+                },
+                {
+                    "id": "27a8692dba444926bd88d5311703514e.17",
+                    "url": "https://lh3.googleusercontent.com/KPHknm5buUrUghKsF-e7J_yEVbbfZNsh2R-hoszfced6kQCx_pz1dJwPP7cJfCIN0Bi_R-x5VdAhv1sxb5QavSqUmA"
+                }
+            ],
+            "address": "Lat Phrao Road, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "db55bc74a2fbefe1b15371ade71559b4",
+                "name": "Train Station",
+                "score": 0.848
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.369
+                },
+                {
+                    "id": "d35793f0bad09c8d77b0566efe9396a1",
+                    "name": "Bus Terminal",
+                    "score": 0.27
+                },
+                {
+                    "id": "db55bc74a2fbefe1b15371ade71559b4",
+                    "name": "Train Station",
+                    "score": 0.848
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "de0f99b5b0384a0eb3c48d4806f7acc3.16",
+            "hashedId": "c5071cb0daac8d6a82bcd7eb3b50a2b37049e462",
+            "title": "The Lion",
+            "state": "LIVE",
+            "lat": 13.806065,
+            "lng": 100.577012,
+            "lastUpdateTimestampMs": "1501109694555",
+            "description": "One of the lion that protect house gate from the bad things",
+            "images": [
+                {
+                    "id": "629e90e2b5d646ad886917f7d5cd2ec4.17",
+                    "url": "https://lh3.googleusercontent.com/kpgkoUPG1C2LVEw6yOzOMYbhbaO4c25c-pEkBEIz8aIR8PkTBRzYUBkxw_g11S0JHcQxKQ95FtojZmFNaANOy5nzzYsf"
+                }
+            ],
+            "address": "Soi Ban Klang Mueang Yaek Ratchada-lat Phrao 5, Chan Kasem, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.8
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.617
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.8
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.2
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e0bf9785ac8338a691de9a36a488b59e.16",
+            "hashedId": "76684ab5083367b76014fe433647b98f6ca81590",
+            "title": "Crc cort msnsion statue",
+            "state": "LIVE",
+            "lat": 13.805278,
+            "lng": 100.56890899999999,
+            "description": "Open place,many people stay here,inside it village",
+            "images": [
+                {
+                    "id": "a8a5c342a44436f6b63dda38fa5776c4.17",
+                    "url": "https://lh3.googleusercontent.com/_rNWRI6OwFt_YJjA-r3BpBQN4EHEBCsDg-gtaXnG9Cbn5vwS_nURfk6HS_UqPYCZi6CQwycrHYUrrHrDu6Uq8ylZVz8"
+                }
+            ],
+            "address": "99/130 ลาดพร้าว Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue"
+            },
+            "categories": [
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1647426883244"
+        },
+        {
+            "id": "e3aaf496939f3bc5bd80542d9a839070.16",
+            "hashedId": "9d1918908d8b55c4b151512ec4b58f80d713e4f8",
+            "title": "The Bazaar Hotel",
+            "state": "LIVE",
+            "lat": 13.80412,
+            "lng": 100.57450399999999,
+            "images": [
+                {
+                    "id": "b135bf561dec39a9844c4c382bda85bb.17",
+                    "url": "https://lh3.googleusercontent.com/fpL8HXrOIDODeaCmkIGq-W7l88hUUDPuLA3Ynx82R0vERjwd1ZdD8sgR6zuj5j4knv1wM5kowetOayqzCRE"
+                }
+            ],
+            "address": "49 Ratchadaphisek Road, Khwaeng Chom Phon, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel"
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638181726853"
+        },
+        {
+            "id": "f845a0b774b14cfda4fd53e266ef4304.16",
+            "hashedId": "ffd24dd72f14874765cae283304cd475d15ce7e7",
+            "title": "Ideo Ladprao 17",
+            "state": "LIVE",
+            "lat": 13.806795,
+            "lng": 100.572716,
+            "lastUpdateTimestampMs": "1501110206168",
+            "images": [
+                {
+                    "id": "8e4376a2a9c04c78899afb506ec3465f.17",
+                    "url": "https://lh3.googleusercontent.com/1Zl71UqJ1H8IFunJ5_hlnC4Ir5e2lWY9J1pZq8W_ssUv61WGcaae1cLgri5PkF-yJZDSvHDhy5kwaQlzi11HRajKKT8"
+                }
+            ],
+            "address": "Lat Phrao Road, Chom Phon, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.181
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.181
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.167
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.162
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "fd4aadf566e5450694ea9d9807711857.16",
+            "hashedId": "47f13e5d9ce475e7366f6e9ca8691900a0b3349d",
+            "title": "Oldest Holy House",
+            "state": "LIVE",
+            "lat": 13.808085,
+            "lng": 100.575531,
+            "description": "Holy house at Ladprao 23 Rd.",
+            "images": [
+                {
+                    "id": "3d12b7e730d64cd6be05691b23f82f29.17",
+                    "url": "https://lh3.googleusercontent.com/RyRlndvVHv3n3Chuwwog9ZOiBhJDAAEcDrtf80qTukeKh0Dsxp95q_MhyQTpwC5P7-1LiBUujbuxmnK7qY7kBhm_YVw"
+                }
+            ],
+            "address": "Lat Phrao 23, Chan Kasem, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        }
+    ]
+}

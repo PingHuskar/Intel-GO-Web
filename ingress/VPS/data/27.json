@@ -1,0 +1,1995 @@
+{
+    "pois": [
+        {
+            "id": "1001334e9f74490aa356c0f6ab9e556d.16",
+            "hashedId": "822372f330f023c3c70f87a06478185217b59923",
+            "title": "Government Complex",
+            "state": "LIVE",
+            "lat": 13.882793,
+            "lng": 100.564365,
+            "lastUpdateTimestampMs": "1561285467139",
+            "description": "Tower B",
+            "images": [
+                {
+                    "id": "33006678b62740a493a44bbdd09c061f.17",
+                    "url": "https://lh3.googleusercontent.com/qPxVCC4Z5WPogLeTLG5xLdVcXV0bGZqsdKuOovwsLa1Tm6AKIo8MXTaNkwh5TA3Q1B-lfgvBc6H55w7pEd7WkKNsFQ"
+                },
+                {
+                    "id": "cd750ec3db8143bc83634b52268768be.17",
+                    "url": "https://lh3.googleusercontent.com/NZTR0xLQ2mnO0mu2Qwmrber194J9T5ERDlcKaPslKJoI3XQPLjSai_7VNFixObU8IjuXsKwe060GmTGNnNXSF1PEzg1C"
+                },
+                {
+                    "id": "78b52a74e27b4039999bf60e34c26811.17",
+                    "url": "https://lh3.googleusercontent.com/QngPHavkuBEOdEwwar44vLH0Twsce3RjHkAhJP7TvHm3mnXf2s8T7VR7gN7AxJydkpS2rUeV6CknFhZB5hK2UcGOXsI"
+                },
+                {
+                    "id": "c9427477c1994d86800758a4f8a085f4.17",
+                    "url": "https://lh3.googleusercontent.com/eHcvt-YrnpUpkI_wR_PuTwDSdTr-Dk1nToJk_wCxDsXcZv6qiR0XygHFyDxbhQe3HeKf7NDndp4NAmsFFqWsvXRt1mI"
+                }
+            ],
+            "address": "108 แจ้งวัฒนะ Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                "name": "Tower",
+                "score": 0.256
+            },
+            "categories": [
+                {
+                    "id": "33152bd27aa505da5e6bbd85fc5fe4c6",
+                    "name": "Office Tower",
+                    "score": 0.095
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.144
+                },
+                {
+                    "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                    "name": "Tower",
+                    "score": 0.256
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2c8c3321b5fe4ad39b12f5b8a5534ad0.16",
+            "hashedId": "341047c3d4fed8571c5aacd426c5028ba60deb2d",
+            "title": "CAT Fountain",
+            "state": "LIVE",
+            "lat": 13.884599999999999,
+            "lng": 100.57001299999999,
+            "lastUpdateTimestampMs": "1557331838482",
+            "images": [
+                {
+                    "id": "5e654ee3cf7044e4a41e0f7abb98c621.17",
+                    "url": "https://lh3.googleusercontent.com/gurDZxu0nkK0fiDvRPfDJY3VgpKWBirJGY9ttvHiXvykhUSW0tYO4Z3qJPIyj5xbG00XshfVOePfL246mp0uuugSVg"
+                },
+                {
+                    "id": "7a50108995f8492b9737b9a7f6e92ca0.17",
+                    "url": "https://lh3.googleusercontent.com/fA-Zp1d0wr9Y8YdGItEIYeQZoOd21kRKiO4NmlzDrBVjocqT4cH32ArOSTE5MxJ6qq3dFoSqopIqnsAmBdv0gwn2LHnq"
+                },
+                {
+                    "id": "6107d48a1f2f4271a403b1e1e58bfc7b.17",
+                    "url": "https://lh5.ggpht.com/SO1H3ExB-uvqGxBd8zJMH2zMe3jo0HfyhSnDVdbaU4nOsAZ6hM_YRaxqrPvR3ZKsOC9DucYpF3CrM-1FRM2z"
+                },
+                {
+                    "id": "f418223f078c4b2eb8f4907f970f7c8a.17",
+                    "url": "https://lh6.ggpht.com/NulP1_YPe60QmgT9EGy7qvi156N2RNtkdKf_soyq3ZE9HaaahANTEeUjls6KyBq6d2CO6azyG1e0h6NOl6EybQ"
+                }
+            ],
+            "address": "99 Chaeng Watthana, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.922
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.066
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.268
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.922
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "36189e03ac924c8d842feb8367547d65.16",
+            "hashedId": "347c88650da134395a7efbe75e304f4d6209a2b8",
+            "title": "Sign of the Digital Economy and Society Ministry",
+            "state": "LIVE",
+            "lat": 13.882506999999999,
+            "lng": 100.56530699999999,
+            "lastUpdateTimestampMs": "1589910442297",
+            "description": "Newly establidhed ministry located in the Government Complex building B and working population here is around 20,000.",
+            "images": [
+                {
+                    "id": "1b2a51fd940b4c3093634952fb84cc29.17",
+                    "url": "https://lh3.googleusercontent.com/3kSLGk6Aqo9X5BCC4O-k7d_WNhBipE3ZsL_bKQG09xU-ZPXPGC3o2DCuqUPiwcgh6dav_3dl2oU8jt5E27aDMDeiZNw"
+                }
+            ],
+            "address": "Unnamed Road, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.298
+            },
+            "categories": [
+                {
+                    "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                    "name": "Post Office",
+                    "score": 0.292
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.298
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office",
+                    "score": 0.231
+                },
+                {
+                    "id": "d129e72664470c55acaea6ae18983a3a",
+                    "name": "Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586604088618",
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1688702829330"
+        },
+        {
+            "id": "453464291cbb3018a11844ba913ab767.16",
+            "hashedId": "016a246bd23ac2eadbd4463e7c12d8b6f7edd4a1",
+            "title": "สำนักงานประเมินราคาทรัพย์สิน กรมธนารักษ์",
+            "state": "LIVE",
+            "lat": 13.880654999999999,
+            "lng": 100.563829,
+            "description": "Bureau of property valuation",
+            "images": [
+                {
+                    "id": "199e4ec35c8c34ed85170bcddf355c97.17",
+                    "url": "https://lh3.googleusercontent.com/RSpu7VjVQyrzTxGmGBDQytp95-5GvNTFvJcpLvhTsCYmAMRF9kvIFOfmlLA4RcWX9hnNTKInRIq41-vD1qEiK6OVU9k"
+                }
+            ],
+            "address": "เลขที่ 120 ห้อง BM1 019/7 ชั้น1 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                "name": "Post Office"
+            },
+            "categories": [
+                {
+                    "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                    "name": "Post Office"
+                },
+                {
+                    "id": "9763ee340aaaba6a4ac1f51660a0aece",
+                    "name": "Customs Office"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1630075532824"
+        },
+        {
+            "id": "46036f718f2a45768df700a8733ce986.16",
+            "hashedId": "2dd03de5c93a4fe9c9d5726585f607a90b39e07d",
+            "title": "Joss House for Thailand Post.",
+            "state": "LIVE",
+            "lat": 13.880771,
+            "lng": 100.565806,
+            "lastUpdateTimestampMs": "1501109675199",
+            "images": [
+                {
+                    "id": "a473e5c3eded417fb9055c8a9dea52e3.17",
+                    "url": "https://lh3.googleusercontent.com/oPXM0FnG8--qleE-W7v4qVGM7osieYH9a57klb42wAdjBl5fSfDW-4i5dXRV4JEl9SEJA9wWl2vswvU1_lhb-WfVR4A"
+                }
+            ],
+            "address": "Chang Watthana 7, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.209
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.209
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.108
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.151
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "463d49c7b9293a369bd3fce3496421de.16",
+            "hashedId": "2088af977ecf1596d039b89e82f29990aa313fd7",
+            "title": "น้ำพุมั่งคั่ง",
+            "state": "LIVE",
+            "lat": 13.882577999999999,
+            "lng": 100.568513,
+            "description": "น้ำพุแห่งความมั่งคั้ง หน้าตึก บริษัท กสท จำกัด (มหาชน)",
+            "images": [
+                {
+                    "id": "42b4b893aef0365ab00e37f6b0efc3b3.17",
+                    "url": "https://lh3.googleusercontent.com/pHARqxR-e3BZt41yYiexm6tmv4If7eN1npv6Pvgy991vas-7nhKC6uxa9TU1QIP56wZpml3RPEc_yIOcoqPPFbIDpYAhmD4iNJ9SmaYz"
+                }
+            ],
+            "address": "99 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain"
+            },
+            "qualityScore": 73.40794,
+            "categories": [
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1637044391557"
+        },
+        {
+            "id": "48002ecfb6c44f6fab7471dbf2524e15.16",
+            "hashedId": "d156f09e76b35a75297ae7cecfbbc2dfb644d161",
+            "title": "Thai Flagpole-Goverment Complex",
+            "state": "LIVE",
+            "lat": 13.880730999999999,
+            "lng": 100.567089,
+            "lastUpdateTimestampMs": "1520487910817",
+            "description": "Flagpole and Pyramids.",
+            "images": [
+                {
+                    "id": "c948a8fa2f2946b3bb62fc27fc8d4113.17",
+                    "url": "https://lh3.googleusercontent.com/y2fQYdWERlm2l-r1XaoawPWNxis5TYZN7PdlMij0zEvZP_wafD5C-sMvldrJtP-4mXgwRQnXbl2waKLXsJwNpSMJtQ"
+                }
+            ],
+            "address": "Chang Watthana 7, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "e246b9a08c64572cf23db540e3fc9600",
+                "name": "Flagpole",
+                "score": 0.543
+            },
+            "categories": [
+                {
+                    "id": "22d5224ca0d7eafd78d83afc36d0ad0b",
+                    "name": "Monument Object",
+                    "score": 0.159
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.088
+                },
+                {
+                    "id": "e246b9a08c64572cf23db540e3fc9600",
+                    "name": "Flagpole",
+                    "score": 0.543
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4861738d6fff3b609e84457a72b175b1.16",
+            "hashedId": "7598f5474304087a8ce1b908d85b6271a9439d5b",
+            "title": "ทางเข้าอาคารรัฐประศาสนภักดี ประตู 3",
+            "state": "LIVE",
+            "lat": 13.881618999999999,
+            "lng": 100.564,
+            "lastUpdateTimestampMs": "1621949059540",
+            "description": "ทางเข้าอาคารรัฐประศาสนภักดี ประตู 3",
+            "images": [
+                {
+                    "id": "0a292c5b3ce7370ca415fd2b4e709175.17",
+                    "url": "https://lh3.googleusercontent.com/BdrQryyTjOkyT-Wd1LWPu6fRpR4eZHPOMFzH9EZNKRXZJPLqQQUVVEg7EcFYYb8-w2HMR5hpLh3N256pwRBt2OHeItfW92wiFIIzQ-em"
+                }
+            ],
+            "address": "Government Complex Bus Terminal, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "99cdfc5b63c22f6ce6707865db95afe3",
+                "name": "Gateway",
+                "score": 0.675
+            },
+            "qualityScore": 73.1157957798043,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.101
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.232
+                },
+                {
+                    "id": "99cdfc5b63c22f6ce6707865db95afe3",
+                    "name": "Gateway",
+                    "score": 0.675
+                },
+                {
+                    "id": "d34e5713850d31ffab275cecd6b6dcbb",
+                    "name": "Doorway"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1621754435621"
+        },
+        {
+            "id": "5459a66768fb4696b31427e654ab4057.16",
+            "hashedId": "57deb907ae6dea0af807e04c12b38184318522b2",
+            "title": "Golden Place",
+            "state": "LIVE",
+            "lat": 13.878782999999999,
+            "lng": 100.566836,
+            "lastUpdateTimestampMs": "1560907992354",
+            "images": [
+                {
+                    "id": "901a6274d5cd42c78fde1e17694c2cd5.17",
+                    "url": "https://lh3.googleusercontent.com/UX8N0-yFQ7ekChxbFqXfKgmS9HjFI2H4mIAQOX5Z84P0GI6e7Rz6qo-LAVhuZAYuIy4Bpf23sURCgRlXE8_E1Rf1pfKX"
+                },
+                {
+                    "id": "0f0bf0aabf7a48a09779fdc3df35bbfe.17",
+                    "url": "https://lh3.googleusercontent.com/Ox85qdKaXQWn4zviHEbOzf5sXlL8W4-CSEeoVBLMZR0IbU9myU_qr2R0NyJumRvy0TE04rxVHZw6lBWHgHuhQoQ3XIM"
+                },
+                {
+                    "id": "3241ad7c00d047f0a66ae60793cf5764.17",
+                    "url": "https://lh3.googleusercontent.com/k33zHn0XtvHgbGAqOPYU24UL7KTRwDEAGJ15SF4Al2DAlU3DWIN_NkUMXQDLjyFpPNnUljBfZsLqC3Q2eGIFe4V6T9Y"
+                }
+            ],
+            "address": "111 Soi Chang Watthana 7, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.303
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.303
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.143
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.133
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6c1b61afebff4cd689e92a07c40850fe.16",
+            "hashedId": "3855627fa94bd7ff64b40db909e31c13769693d4",
+            "title": "Pra Si Wa",
+            "state": "LIVE",
+            "lat": 13.878212,
+            "lng": 100.567213,
+            "lastUpdateTimestampMs": "1514537290450",
+            "images": [
+                {
+                    "id": "44d6cbf06ce0460380a22d13051ee008.17",
+                    "url": "https://lh3.googleusercontent.com/rA0Vj6oUBWyeqQGoYMH7ZB0cXOdW7nNkF1_3WomnwkVyYc7bWoOGwNqJvJK3-JvJwxlk0RGK27Y96yX4I7JrLC142r4"
+                }
+            ],
+            "address": "99 วิภาวดีรังสิต Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.271
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.207
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.271
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.125
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "70e0925470964a58a755c52fbb8d9aca.16",
+            "hashedId": "36bd760112608991c3ea4644c6e7077a503c8b8b",
+            "title": "ประติมากรรม CAT Telecom",
+            "state": "LIVE",
+            "lat": 13.882461,
+            "lng": 100.568658,
+            "lastUpdateTimestampMs": "1589894658992",
+            "description": "ประติมากรรม CAT Telecom",
+            "images": [
+                {
+                    "id": "d9c9f2701dc4479ba8f70941fec7d2ed.17",
+                    "url": "https://lh3.googleusercontent.com/riNuIoSS39T_uJQwKRtiLZA08S9HYzlRy-ZUZtNLeqwWcXBvlogQaXBqwTN3BGwKEEz9ubunaXJVedGmtKTk5TnjSHk"
+                },
+                {
+                    "id": "0e9ad19e2de045448a060d6e6a0ed877.17",
+                    "url": "https://lh3.googleusercontent.com/Ff-sqZRUkl4vEzAfCnb5wSfeZlqYqRSIKaeKcflV4mdvgGkp-qEWKv79Oe6iqZgAdebdMnuC1z7VZuuPQUBkFYDDg3ef"
+                }
+            ],
+            "address": "99 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.921
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.921
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.248
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.033
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586676026713"
+        },
+        {
+            "id": "840bfbdd57454e07a7061d3bf70019fa.16",
+            "hashedId": "a04a3f125b9afe8b8d107f3ec5cf5b36d7160086",
+            "title": "Step fall",
+            "state": "LIVE",
+            "lat": 13.882518,
+            "lng": 100.566859,
+            "lastUpdateTimestampMs": "1501109194873",
+            "images": [
+                {
+                    "id": "8035916261c54c7195e9a57fa934dd43.17",
+                    "url": "https://lh3.googleusercontent.com/LewhVWTgrydcH8AevEyIw5L1_I47z_gPhDELuF5mNaSruGQIy2lA03ODlWhSJ_p5B_sEC3aTNjpr1PSHP9w9PuAOvw"
+                },
+                {
+                    "id": "7b31889e2d134aca928b1415ba58d0af.17",
+                    "url": "https://lh3.googleusercontent.com/G8iQvs0Qn_0ZoZOGRPqDeF67N_bkDyBbM8D6jKyT6VSQFMgwdbTT7JpYpRrzqIUjwUzTzWCCz7EoOFyeeV0jjPZxs3qD"
+                }
+            ],
+            "address": "111 Soi Chang Watthana 7, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.205
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.116
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.205
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.107
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "867f1e0580734ad0b1bae5263e336a44.16",
+            "hashedId": "27fc43dd9e8b4dc295e55e3df1b74dd21031e805",
+            "title": "Elephant Sculpture",
+            "state": "LIVE",
+            "lat": 13.883569999999999,
+            "lng": 100.567342,
+            "lastUpdateTimestampMs": "1501109876571",
+            "images": [
+                {
+                    "id": "ca013f2d1d06420eb4b1b8475fedba62.17",
+                    "url": "https://lh3.googleusercontent.com/swzQ0vqrVtdjiQQBsQ5pJY83H0GZIgNvTaCB5E3x84979VZIDJvUK9x_1fN6DmxNjojW5G32-YXPMC7oS8WvrA04OPd6"
+                },
+                {
+                    "id": "57527a1e0eff45c982e1b4f631632cdc.17",
+                    "url": "https://lh3.googleusercontent.com/YVJdbaX1vGF2WjsgEn1QEGCGsxpwEDdrWcSP4Q7lfU4rx-5lakTpS5Jwir9nn-NjyYd0VNVo0g1qAiHyd7AVLCVHqEQ"
+                },
+                {
+                    "id": "286089b403e14e4a805b126590bc33b7.17",
+                    "url": "https://lh3.googleusercontent.com/4xElEGN3LOrajbiaqJOr3EgRDdwupE5XtpWWWZNFoj0CKrh-XmnKZ-BkSRQ-nXFwtrHkeESvmdAYqchXeV4TxZRbnX4"
+                },
+                {
+                    "id": "4e94c3e20b2a45028f6747ab4fd81543.17",
+                    "url": "https://lh3.googleusercontent.com/hki3hTwWDJq5hNhkYdAeSdpbxSHV4Sv78lHQf4jvuRfprAhKna7fMCGCLDxzyRVJGJe6WzIcxJybm9Dp_y6fsye6R5A"
+                }
+            ],
+            "address": "Chang Watthana 7 Alley, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.915
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.915
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.39
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.097
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8a5cd443388a4aad97b8747b2b14379c.16",
+            "hashedId": "c397a69d0a6f9eaff121975e00def79be75d28a9",
+            "title": "Long Live The King Board",
+            "state": "LIVE",
+            "lat": 13.885508999999999,
+            "lng": 100.56778,
+            "lastUpdateTimestampMs": "1501109171124",
+            "images": [
+                {
+                    "id": "fd29b36991fc4f06acdbbb5f86c5f4b6.17",
+                    "url": "https://lh3.googleusercontent.com/P4alquronB1YJuuY3tkDVP430y3otpgzOsYreUW9hj5ClnVWmZqeLRXokHE4OT4MvVp5TVDF96E-TXthxTdwo4g62g"
+                }
+            ],
+            "address": "Chang Watthana 7 Alley, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "ce64859076051dec2b34827e1b0bd37f",
+                "name": "Informational Sign",
+                "score": 0.239
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.201
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.197
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.239
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "913fe90e138a43529058a2d407f6eebd.16",
+            "hashedId": "8403e662f1e5a8b4fd731749e9dd8f50cb774db7",
+            "title": "จอมพล สมเด็จพนะราชปิตุลา",
+            "state": "LIVE",
+            "lat": 13.885765999999998,
+            "lng": 100.568929,
+            "lastUpdateTimestampMs": "1561550478926",
+            "images": [
+                {
+                    "id": "a3b8eae631c847c79ae1a96a7a50117d.17",
+                    "url": "https://lh3.googleusercontent.com/upIU2Z1Bcu9AjZQXctlKO9_dZj-4761_r0x39bM1GCuDZZxNS35ppmwVfeKfhH5--51wEHpznyGAewyI8ucPUmu_aEQ"
+                },
+                {
+                    "id": "aa7b2e20f9164cbb8a17bae6d30fc248.17",
+                    "url": "https://lh3.googleusercontent.com/4MX1p-YJ9K48foh9KaGS-ap3OitnQ4JkVGwmuJpLc1HEdSXhlWsMasqmQcVxo3rJk6cdyUuVNrYYMAmPmN0JALPcWQ"
+                },
+                {
+                    "id": "1d26105a2848425fb8dca2b8a2603667.17",
+                    "url": "https://lh3.googleusercontent.com/Ql6VeyTGyGpMIV6p_Uktfprf-ahyZktjaqpH6FK9EX6HgT3qUyiKbMSXXa4Rc0sPOQajm16wZ_0bDpwhjePEqey9Yz4"
+                },
+                {
+                    "id": "18b01b9fc0a94668a13ad3045c1b39cc.17",
+                    "url": "https://lh3.googleusercontent.com/2Z_ys-4hWr-DHWgm-kwWZgAXOGBpDduAqzNKxcqO_ht92vzUmdHSSgudbi6kLelw45ncwj4E1aKSW57-8q76UQYLnn4"
+                }
+            ],
+            "address": "Chang Watthana 7, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.437
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.118
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.216
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.437
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "96efa766fa034adba7c66c868b328920.11",
+            "hashedId": "4ef2603da96fac0db517e1dab3acf50864f10114",
+            "title": "Pyramids",
+            "state": "LIVE",
+            "lat": 13.880925,
+            "lng": 100.566425,
+            "lastUpdateTimestampMs": "1530871230060",
+            "images": [
+                {
+                    "id": "521cb0b55ef947a0ab0ec69f5cf94590.17",
+                    "url": "https://lh3.googleusercontent.com/hQ42et18DovW5T6Jf2J-7xbGZB6DgaV6je-xosJJwZkYlnRVaG_9fGaiA3fwLu2XF8eKs-4HWCRHuchh3pY1xeW0WA"
+                },
+                {
+                    "id": "545590bd212a42eb8b9dc9f9c58dc3bb.17",
+                    "url": "https://lh3.googleusercontent.com/4yb7DcU2QFy4wCrxOGdQv5IkMZdvSZkGPwhms2WJOQjoTJEkZdjNe5xKkyDCVsN-T_u2abx7h9gAyfml7asd3YIivw"
+                },
+                {
+                    "id": "7abe1362596c4cf7a094721b21da091f.17",
+                    "url": "https://lh3.googleusercontent.com/tYBP_WMmtIurawybaQVbwybOPlttbHY1_h4wXzT7zZGhmvLl2x_n7GKLB2MfoAk07FTG816uxcTs_Y8qYHd3ux2Z1fo"
+                }
+            ],
+            "address": "Chang Watthana 7, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.251
+            },
+            "categories": [
+                {
+                    "id": "684d870519d6d2182ece697b680e5c22",
+                    "name": "Pyramid",
+                    "score": 0.164
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.251
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.124
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1688694959564"
+        },
+        {
+            "id": "a10f476ada604e12ad46388d4e310d20.11",
+            "hashedId": "cec902da48e4a6c70d1ec01123e2eff5e5133a2b",
+            "title": "Praprom Shrine",
+            "state": "LIVE",
+            "lat": 13.883478,
+            "lng": 100.567145,
+            "lastUpdateTimestampMs": "1501109574513",
+            "images": [
+                {
+                    "id": "23cb2df40937452682188d44bc2ae75a.17",
+                    "url": "https://lh3.googleusercontent.com/an5o7eMd0kFv1ES3rgDtN43WpViv0P9_ueEhrHWwktdntkzqhcSanp4HUUPL90WWPynLmTuLVda5CHbcTuZ6jz3diw"
+                },
+                {
+                    "id": "7f106d8f575b32cdb978398a1d02fbe8.17",
+                    "url": "https://lh3.googleusercontent.com/PC7ediZsGbe5zQJe-1bT08Sa1dniE_ebCUIBzLAdsG9Nz7iccIaLNG8RhkDSzBVEJKFqggPwGhdFlhx-hPWrVa3_aJgkE6gGZ2D2Ua4Z"
+                },
+                {
+                    "id": "547e7c92df9f457d82d1bd019d67be5c.17",
+                    "url": "https://lh3.googleusercontent.com/33xl6cQPF_fml6JDtvloIZKxAfbXdi8ZSVnJJrWuj_j3AFZYbNgWOw0peZ1ecOV9bqzIp4b0sWheAyfbkBqkHBP-bw"
+                },
+                {
+                    "id": "b4a4e9581e434136bd235e946fc80839.17",
+                    "url": "https://lh3.googleusercontent.com/qGjdVi5gGN0oRzLLqDFsVZ5-RnFZ-iHZGIYLrHDg2ZMp7ItdCh95UvKkRxX93SsYKTkD6jvdGvwdNr5cD6pf2eg1AA"
+                },
+                {
+                    "id": "3ce9bd876eb2421286f1016727bd5bb7.17",
+                    "url": "https://lh3.googleusercontent.com/33kIuJGIBmA8OlHvSmvoj9dftxnnELIVKxN1pdpPpqsReY9RY9UAPHdGY1mpuBIBIFS95u6Mwt6Ua0-FcyzEL3lrQ6E"
+                }
+            ],
+            "address": "Chang Watthana 7, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.218
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.218
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.142
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.142
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a29187deb74f43e488942aaae6130f71.16",
+            "hashedId": "865ac3f501bffea653b4e443893487811ae7e9c3",
+            "title": "กนกทอง",
+            "state": "LIVE",
+            "lat": 13.883113,
+            "lng": 100.568011,
+            "lastUpdateTimestampMs": "1558080036496",
+            "images": [
+                {
+                    "id": "680028757097452ea53baed03821dd6e.17",
+                    "url": "https://lh3.googleusercontent.com/kiAL9WIw6vK4enY-eGwyHGdyc87ZoCEoWo7JRMXfsbsDFopjsyi__WseGbXctJs4iGuLW4lXmiGv1sWWUgRv6YOIlH8"
+                }
+            ],
+            "address": "111 Soi Chang Watthana 7, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.602
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.091
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.602
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.227
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a36d47ad1dd84e589816473d6475b39f.16",
+            "hashedId": "e437a7cca2ebe403b88f09b2db558a5dc5ad0ce1",
+            "title": "สนามเด็กเล่น",
+            "state": "LIVE",
+            "lat": 13.882731,
+            "lng": 100.56936499999999,
+            "lastUpdateTimestampMs": "1600176502499",
+            "description": "สนามเด็กเล่น กสท.",
+            "images": [
+                {
+                    "id": "31bb7436a7424fe8b94468a699a97287.17",
+                    "url": "https://lh3.googleusercontent.com/U-S_kN98lpXRwa8AqBXDCbpjjTMFVouOgR3RoCWvpwaNNlQ96-FKkZb5WfSutCltrb-ci_81L8gr1zTGOLy-gn3T3Q"
+                }
+            ],
+            "address": "99 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.996
+            },
+            "qualityScore": 76.29890131775485,
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.996
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.103
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.702
+                },
+                {
+                    "id": "e117ee4f06266ce18d4e6b8c42fd4227",
+                    "name": "Recreation Center"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1599617139308"
+        },
+        {
+            "id": "a5747abbb1fb4091a9b8f0103868f476.16",
+            "hashedId": "52e4aa6f27895f75ed1ac0fbd272022ef087b98c",
+            "title": "RajPruek Club",
+            "state": "LIVE",
+            "lat": 13.877768,
+            "lng": 100.567111,
+            "lastUpdateTimestampMs": "1513761337918",
+            "images": [
+                {
+                    "id": "0b70c31542de4bc495f3748abfc3e54a.17",
+                    "url": "https://lh3.googleusercontent.com/QVgxw58-2TTLR_uEVYCqi0UFI-khWi18PWbIFlaFJzW-Nvwhhv8l7Pngfl5_8fyO8k_lj0l4PbhgG8NY1KpEnguxHJs"
+                }
+            ],
+            "address": "100 วิภาวดีรังสิต Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.608
+            },
+            "categories": [
+                {
+                    "id": "3f961b2a437b5defa434b4b9b770a551",
+                    "name": "Sport Club",
+                    "score": 0.233
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.608
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.125
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "adfb5ea65a273290874ade0fb47e9743.16",
+            "hashedId": "790acd0ee870700aa60592f54ed16e4139965abe",
+            "title": "Department of Tourism",
+            "state": "LIVE",
+            "lat": 13.880663,
+            "lng": 100.56440599999999,
+            "description": "กรมการท่องเที่ยว",
+            "images": [
+                {
+                    "id": "81ea80b9ec4e304fab8331e772e2998d.17",
+                    "url": "https://lh3.googleusercontent.com/IMIqjNy06KTHrGS7sTqftfjKY3OHxGIuxfJH5EoLIertUrBVQEMUykqDCJ47BEKEE3GyHc4u984NJm4JIo_qo_TN4Kj1atrB5c1xYD-S"
+                }
+            ],
+            "address": "ศูนย์ ราชการ เฉลิมพระเกียรติ 80 พรรษา ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "551636aeb6e23df07c0718884904c197",
+                "name": "Art"
+            },
+            "categories": [
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1665223314583"
+        },
+        {
+            "id": "b3577ffd1f434637b7567b6f98f1d56f.16",
+            "hashedId": "221cf4b5b372b16a9e05efe6f525102ea2a2122e",
+            "title": "ลายศิลป์ไทย",
+            "state": "LIVE",
+            "lat": 13.881561,
+            "lng": 100.565114,
+            "lastUpdateTimestampMs": "1501109323865",
+            "images": [
+                {
+                    "id": "02c726586ca541c6a3198a5807e2f8ac.17",
+                    "url": "https://lh3.googleusercontent.com/9Sds3VBlOGaJc7A-YjM_hsjs5S59mvFrXxH_VFSSmjmk6DCCvixA1bUBpA7w5BzAoG64j8Hw7dYh4TPqafx9TBN7EA"
+                },
+                {
+                    "id": "51a36a02334545d5b89e9bb8dcb7f39b.17",
+                    "url": "https://lh3.googleusercontent.com/bbcCEUr6TVwjKiFqdX7EHE_IeOlw_qCyoYFkqx8fBog-1I8sytGBjwFBeuW8HKNNLGQzmJ1FUUfAjmkfi-XM8xi-Bg"
+                },
+                {
+                    "id": "78e00206791742eebf8ad49a2a477ef0.17",
+                    "url": "https://lh3.googleusercontent.com/gslv2CR0exUNdZT_XxhuFkjtV0Vi2gkUv0v63_NcMeppUh3FX2c0d2OYkUzqR2yKoGjsDxtaxX0DoOHcBTRy46Po_LA"
+                },
+                {
+                    "id": "23f985b4d9da4e9fb5e7c24f89e6e8f8.17",
+                    "url": "https://lh3.googleusercontent.com/E90D_poOde_xxiZnqX4tFwMBb6snppvwDA2uOXEiUnPAfm_we30ZcHmNsSNnkPwcieRt6YhCVlaq_e8cr58ui8Db5FyG7gcWdUysvE0d"
+                },
+                {
+                    "id": "e6935a7f5919388a93a72d8cc7c1a7c8.17",
+                    "url": "https://lh3.googleusercontent.com/mP_CxZpT57EmrEhYAEEBu-OrKU8vbnqan5850BQ7c7R3KL8VvNjNsbkxeUsqe9ZblKmUBo1sbWHgIKk39P-QDSlJkKtg5sDpvBR0VMH-"
+                },
+                {
+                    "id": "112a045b4759380d874db47851d276e4.17",
+                    "url": "https://lh3.googleusercontent.com/FFTyn8L-p3CjapiXoec9Ui9p96t7Md8rSEAhXpPUfnFLOXA-EcwgB_NLKTFiCKco2I6gOHOUXHKfUqWCVkKzupRrtv23ZU0PwGOlUR95"
+                }
+            ],
+            "address": "Chang Watthana 7 Alley, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.512
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.274
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.512
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.237
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1693384800855"
+        },
+        {
+            "id": "b659317940b6433c957900758eb895b6.16",
+            "hashedId": "63c34372a44342064086179e3b44b069851c0dba",
+            "title": "MICT Welcome Post",
+            "state": "LIVE",
+            "lat": 13.881687,
+            "lng": 100.564645,
+            "lastUpdateTimestampMs": "1608370967560",
+            "images": [
+                {
+                    "id": "867a9ba24fd349d3915efb0c80134e47.17",
+                    "url": "https://lh3.googleusercontent.com/zPjmlOXEANqJv_SumpM-npZNWiw3IjO6UgckyEuVgDA6MKtK6j_nqzKppDVqKhlt6MXgcwTgOVnOdxCOnBQYlHXqsQA"
+                }
+            ],
+            "address": "108 Chaeng Watthana, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1688694959564"
+        },
+        {
+            "id": "bac173b1d6493075abcd1c60b2787e57.16",
+            "hashedId": "96f52478a463dde24520efb35fcc8fa752c0e63c",
+            "title": "สปสช.กทม.",
+            "state": "LIVE",
+            "lat": 13.881933,
+            "lng": 100.564275,
+            "description": "สำนักงานหลักประกันสุขภาพแห่งชาติ เขตกรุงเทพมหานคร",
+            "images": [
+                {
+                    "id": "627333dd6ac33cd39ab266261f5291f9.17",
+                    "url": "https://lh3.googleusercontent.com/6aUBdHuZVseEYN82kElM7YPz5PqJ3yyMpNeWRDqW7thHgoy7dj_nX6i5nnlL8oUDEaQTxmq7ZH4i4n0v16ieu_5j2RJUWTibIpxNmaK0fQ"
+                }
+            ],
+            "address": "108 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1628824878220",
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1688694959564"
+        },
+        {
+            "id": "bceb56f14ba13fea8a3e3ec6fb47c449.16",
+            "hashedId": "ece1cf577c2ed1b6fe7b0afd49bd6ce2b0d06845",
+            "title": "ศูนย์ประชุมวายุภักษ์",
+            "state": "LIVE",
+            "lat": 13.883837,
+            "lng": 100.56640499999999,
+            "description": "ป้ายศูนย์ประชุมวายุภักษ์",
+            "images": [
+                {
+                    "id": "35bf745bb8ca3ff9af80479b9662cb35.17",
+                    "url": "https://lh3.googleusercontent.com/QrcB1HsHIEehBySA4E3gIzZFKZyyCbhk0WXAdpGjYyDy_ldiusFkyFY6Jj6JkU9T8QOwTG6i93SEPtdmIdb08SCsp03nQIjZkvnPByU"
+                }
+            ],
+            "address": "99 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 91.87122,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "7c9fe0d6d618b243ebc0874c3619867a",
+                    "name": "Convention Center"
+                },
+                {
+                    "id": "84e574daec6b8d56073510921571bbcb",
+                    "name": "Community Center"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1632908029670"
+        },
+        {
+            "id": "ca8e44365189404798352a1872d6c8d3.16",
+            "hashedId": "287015e365f789c95e93bcd0f4625236c41cd576",
+            "title": "Auditorium",
+            "state": "LIVE",
+            "lat": 13.883496,
+            "lng": 100.56617,
+            "lastUpdateTimestampMs": "1501110221852",
+            "images": [
+                {
+                    "id": "58bacdcd0bea4b40943b55ba668ac0b5.17",
+                    "url": "https://lh3.googleusercontent.com/BhE0wer4ffYH7uus7G34bnmYQiAgVUJkfTekdbUHKmUr9pzvYAajy310mpGqOGbCeQ0dnj1AFLcHe6NA6DBFPpEKqA"
+                },
+                {
+                    "id": "ed1bd1200e5c481789ca66ceb64bec71.17",
+                    "url": "https://lh3.googleusercontent.com/sCIBiNgGRIRem-Sts9C8PV4F1hTkBaMHwZRdx7ZhXgEeIdFhkwiAj9jRiLcPeSik0pqhNMSnC-5mI7WHQzmUe_xeJg"
+                },
+                {
+                    "id": "04afdf74c6f8418f97306ac8724cc2a4.17",
+                    "url": "https://lh3.googleusercontent.com/0Npv9dMyfMiBR_aaBghrmiTIPdyz8zJYNLguw81nggUFWOslnPurbuadg78cnrf_iRcy_mLsY7eV_IB4I0jos8c8Hg"
+                }
+            ],
+            "address": "99 แจ้งวัฒนะ Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "32ad7a23cea2a19c336d9be82fc8d3bd",
+                "name": "Auditorium"
+            },
+            "categories": [
+                {
+                    "id": "32ad7a23cea2a19c336d9be82fc8d3bd",
+                    "name": "Auditorium"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.21
+                },
+                {
+                    "id": "5539e5d8eda9b7ff5f9aba5db457cf47",
+                    "name": "Theater",
+                    "score": 0.136
+                },
+                {
+                    "id": "9c7ac0bcc27549bcdc56088791be8ed4",
+                    "name": "Performance Hall",
+                    "score": 0.239
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "cfee794edfaf4d118b6a43c8d3908453.16",
+            "hashedId": "59148c892b2471be8307913350e15536cb4c906b",
+            "title": "Infinity On Rooftop",
+            "state": "LIVE",
+            "lat": 13.883683,
+            "lng": 100.56504699999999,
+            "lastUpdateTimestampMs": "1501109628067",
+            "description": "Centra Chaengwattana",
+            "images": [
+                {
+                    "id": "577476ff75684928a385f750f42f54de.17",
+                    "url": "https://lh3.googleusercontent.com/0EA8p9JeByIzGT6k9sxUTuMQrHYJQz4NPCxwdndYtYHeoahQ_Nbl4UdCFfmktd2dd4KKPex-2FpUROYGK-kyJv6l9yA"
+                }
+            ],
+            "address": "120 Chaeng Wattana Road, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                "name": "Rest Area",
+                "score": 0.165
+            },
+            "categories": [
+                {
+                    "id": "14f7dfc6568e3e21265ad27cd2e5308d",
+                    "name": "Pavillion",
+                    "score": 0.099
+                },
+                {
+                    "id": "71eaa9e69b8a8ece009f8620d18d59ce",
+                    "name": "Other",
+                    "score": 0.09
+                },
+                {
+                    "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                    "name": "Rest Area",
+                    "score": 0.165
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d62393f4ff28322089b680c6ebb21d46.16",
+            "hashedId": "6f55de1bdb58d11b16b79d8a1e569261a50066bf",
+            "title": "gold egg",
+            "state": "LIVE",
+            "lat": 13.881922999999999,
+            "lng": 100.56902199999999,
+            "description": "ปฏิมากรรมทรงกลมหน้าสำนักงานใหญ่ กสท.",
+            "images": [
+                {
+                    "id": "d1755de0fd63322b989c7c14c6e801ae.17",
+                    "url": "https://lh3.googleusercontent.com/KBvJq867AB2GuMGbQOrEiDROL_exFSXDnNo7tzg3V-FmVu6h5kWxnDeRYdd9yzf16LhUwXAB3HEhuv_3t5Mc2jCodMwGJ6UXn1sLRD8c"
+                },
+                {
+                    "id": "7e9e1b23de0931ccaa4afdc33d505874.17",
+                    "url": "https://lh3.googleusercontent.com/X1QFU_EOvSrhH-C5x2gj0fOMZ6yo2R7siDHv7lPxYxrVjayxFvy-XCyYdQ6JGc5-XX3G0jCmjWKDhQYlZrkFJ5L8QQ"
+                }
+            ],
+            "address": "99 หมู่ 3 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 83.464714,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1635933930991"
+        },
+        {
+            "id": "d65e8445d5d14fe38b8291e24639c445.16",
+            "hashedId": "6fabbbd06021a03f5b009dc817de678e43a15737",
+            "title": "รูปปั้น สมเด็จพระนเรศวร มหาราช",
+            "state": "LIVE",
+            "lat": 13.885824,
+            "lng": 100.566841,
+            "lastUpdateTimestampMs": "1514267101595",
+            "description": "รูปปั้นกลาง กองบัญชาการกองทัพไทย",
+            "images": [
+                {
+                    "id": "5e58fd7f108748cea8bb38412be473aa.17",
+                    "url": "https://lh3.googleusercontent.com/bCtoGk-bWyR7a6OcgLdOl9YEz9gxxVecNhceN8lEo-t6gOY7-m7SkOVY1zCbZXqPH-jm9a-sa7a-4342UxsuhnfuHg"
+                },
+                {
+                    "id": "15d00a202af536adbef4a9ab3a2795e1.17",
+                    "url": "https://lh3.googleusercontent.com/l7QSZc4Lmkm9MVNw9uhgLm73Nvq-qQYZfQpdcwQlRjjLdedNYGZ5IdG_nS2U6PYOa4h1mMT4kQvFvOSXc1shqqEmSPxTCCX6MxitQqQ"
+                },
+                {
+                    "id": "2f6cf2d6fbec494c90967ed5c918c8bb.17",
+                    "url": "https://lh3.googleusercontent.com/e_kG87EpL-sxHwRDoGpZQ1l_NMPAN64iX4gUdcVBl_JWfQm9oSyM8qR1M4ftPdLuZNHsNUgOr-KJBuvSKcS_XjK9bC_B"
+                },
+                {
+                    "id": "9ff755f1ef594ce48d6bc8dd414fb188.17",
+                    "url": "https://lh3.googleusercontent.com/giQ39vUNmw0kj8ISVNLQqUVcrIZR2jFZG4pfWpwDZf9C1dB352ljEpHJ-JqUUm9LTRFIl7_MSw_BtWwCB3jkaby_Mw"
+                },
+                {
+                    "id": "38b9d5df7c1240a6979a76bb9caff491.17",
+                    "url": "https://lh3.googleusercontent.com/Ff82iYDSqoRVgaJcwQ268Y2YvFqIuVaIfhkZJ4ejgbxm_-NcvYa2SIc8iOO_3v25zbj9hIn_tsHRRsmtMegOLMLEBg"
+                }
+            ],
+            "address": "Soi, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.993
+            },
+            "categories": [
+                {
+                    "id": "7ac387dc5b896116bd3a881e4fcbd867",
+                    "name": "Bust",
+                    "score": 0.148
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.493
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.993
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660184370113"
+        },
+        {
+            "id": "d884827e2f2c3d61bf47144610e0b00b.16",
+            "hashedId": "509fe9c75de7d6bd7e3f017cefce914b7f261c0b",
+            "title": "โรงแรมเซ็นทรา บายเซ็นทารา",
+            "state": "LIVE",
+            "lat": 13.88424,
+            "lng": 100.56499,
+            "description": "โรงแรมเซ็นทรา บายเซ็นทารา",
+            "images": [
+                {
+                    "id": "f5c8f32e53753f8ab896efc0c5d25826.17",
+                    "url": "https://lh3.googleusercontent.com/iF1sg4aJylm7544EBqZyoAZuWPFsRpj3hqPB94y48A2bXNOYP3CLBeAgGF-1IxuKza-jTpPyErT0sXMX588yInQg4o_nlsFj8MvmToECuQ"
+                }
+            ],
+            "address": "99 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel"
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1631443900662"
+        },
+        {
+            "id": "dfc624918d8343f7a166fad80ad4a97d.16",
+            "hashedId": "fe6dc377f2c1e804e5c4722c0ef30d3657d11448",
+            "title": "สถาบันพระปกเกล้า",
+            "state": "LIVE",
+            "lat": 13.880998,
+            "lng": 100.564807,
+            "lastUpdateTimestampMs": "1608265187279",
+            "description": "for somebody meeting, learning and others",
+            "images": [
+                {
+                    "id": "993fe93d61484708ab256cfcfde363da.17",
+                    "url": "https://lh3.googleusercontent.com/El1H6FS_fLpE7Z_gH3cKIr8bhNFp8ExtxdFmpq-0tp5879vWEMwoiwP0L8-XtY3NXCiYJoWojXI0Tnfam1Ek9e8qc6-y"
+                },
+                {
+                    "id": "8bfcc749b7b242ecbae4e9ec1b2b1e27.17",
+                    "url": "https://lh3.googleusercontent.com/si40TlDM1YQmOyvKaUgPtj6PBgJ9bdEi8XQz9c7l1e2hkpJNiw_X_lQsHDnaOdi0jHR8bQsIOJQzxMS7CXFRmHpMGEM"
+                },
+                {
+                    "id": "b38e9ffc9d4b49258717e2942bddadc9.17",
+                    "url": "https://lh3.googleusercontent.com/qUD38USfnSHE66eR9FWJyJxfjJvtHSz6iyhPRkO6KsBy8ugrjsw-8kEGEbTYOo_2omqWsckoUOtl0j-qh1yDW5Hqm5xJ8A"
+                },
+                {
+                    "id": "644279b47ab3308f8a943bf37808e304.17",
+                    "url": "https://lh3.googleusercontent.com/uCIi3kTt1OyIw0BtPjuVABi-sMO52wm9erEV1E-sXgu3N04of4sUMvEWaMIZu_nuO-5DUde92-p3cwQyGqsyS2sIBn0-n__YVTuA4Kw"
+                }
+            ],
+            "address": "120 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "qualityScore": 71.35724721786032,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1587046717582",
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1688694959564"
+        },
+        {
+            "id": "e7951f32df833485b988d8789644fcf5.16",
+            "hashedId": "2aabd9c6800c526986fbc712d2ec7a05dc1a1165",
+            "title": "พลวงพ่อโสธร",
+            "state": "LIVE",
+            "lat": 13.884174,
+            "lng": 100.569324,
+            "description": "ศาลาหลวงพ่อโสธร",
+            "images": [
+                {
+                    "id": "202d8d327b5b36d6b865ff1c3bdf2691.17",
+                    "url": "https://lh3.googleusercontent.com/rRnUvOKAjpdOtkiYXIrZMLJnc1nZrSPyhbi_Or-SIK7a-0D57tgSuvOX5SagifhunqzjOciPTnfz31fKlmmRVgOuouM5"
+                },
+                {
+                    "id": "eefe3e5f8f64340abffb63199b08354f.17",
+                    "url": "https://lh3.googleusercontent.com/7mW4TgN9v_3PO_6_Li8Bl6CmX2dpcjGkS1gklLRzQqUJlTmp9i_ZNymSbTofidQeeL4LOpbGjQuQ8R88N2zVuts0dId4KK1mfCiZZg08"
+                }
+            ],
+            "address": "99 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "b962c8dc17b777624defd08a7f66a247",
+                    "name": "Historical Sign"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                },
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1629686792813"
+        },
+        {
+            "id": "e8a50bd6987544fda6b46dbb75b7cabf.16",
+            "hashedId": "0a81700b23badec2a3f93d682fdb2c8996ccdfb7",
+            "title": "Water Tube",
+            "state": "LIVE",
+            "lat": 13.883324,
+            "lng": 100.564264,
+            "lastUpdateTimestampMs": "1501109347263",
+            "images": [
+                {
+                    "id": "3e12a09551c2437e804638b9dcbb79cb.17",
+                    "url": "https://lh3.googleusercontent.com/Ztn1cT-3AyHWdGY4RKFIAzi4apoNyHcEbtblrKola8GWFHCguuUuEwuOQB2wT8jBvNeOUaXQkTbsWdixB7JZxlwLG6iX"
+                }
+            ],
+            "address": "108 แจ้งวัฒนะ Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                "name": "Water Tower",
+                "score": 0.36
+            },
+            "categories": [
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower",
+                    "score": 0.36
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.053
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.213
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e903955fb2b53bacb3ad065bcdc7f528.16",
+            "hashedId": "197a5909824aa25d3562f6374ac4cd582e162d83",
+            "title": "Dhanaphiphat",
+            "state": "LIVE",
+            "lat": 13.883272,
+            "lng": 100.564798,
+            "description": "DAD Headquarter",
+            "images": [
+                {
+                    "id": "9579a6a1bb18319ebdc4306c7ce2ea01.17",
+                    "url": "https://lh3.googleusercontent.com/ZXooTh-GTMg2mDLxjsE8gKFzRMsX7NBLVNacW05Rp8vTtNPfqhL2ad1Gerg2_Qo6kpfFN0vbj5zf0YUi4b_J_Kdy9Y9L2R-JYqqSLVKwLQ"
+                }
+            ],
+            "address": "120 อาคารธนพิพัฒน์ ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel"
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                },
+                {
+                    "id": "33152bd27aa505da5e6bbd85fc5fe4c6",
+                    "name": "Office Tower"
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1676709613513"
+        },
+        {
+            "id": "ea44f0f80e0a3a12957107dfcf7e6b52.16",
+            "hashedId": "0339dc36cbf3b31662bc011ad1c2b0230887a27b",
+            "title": "ศาลานั่งพัก",
+            "state": "LIVE",
+            "lat": 13.884055,
+            "lng": 100.56559399999999,
+            "description": "ศาลานั่งพักผ่อนคลายจากความเหนื่อย",
+            "images": [
+                {
+                    "id": "467a5ca3e438362cbb5ac0046b932ee3.17",
+                    "url": "https://lh3.googleusercontent.com/2fERywwFSf6JFaH1Duik_CVc5N2COFayPMA5-kawPzajg6Oma_3hnGQPo3A5G1TyaY8YBJkYRFtk45KkdSx6Ehpav18cCfhXzXcDZ9Z5"
+                }
+            ],
+            "address": "เลขที่ - หมู่บ้าน ศูนย์ราชการ ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1643717163242"
+        },
+        {
+            "id": "eb200671c2ce471b90b2310c8ff477e9.16",
+            "hashedId": "d655a0ccb0e065f9c08341e84988003fa4c1c89d",
+            "title": "Long Live the Queen Board",
+            "state": "LIVE",
+            "lat": 13.883909,
+            "lng": 100.569279,
+            "lastUpdateTimestampMs": "1501110151841",
+            "description": "Long Live the Queen Board at CAT Telecommunications.",
+            "images": [
+                {
+                    "id": "1633039b12874aebb64cae6d674b2ea5.17",
+                    "url": "https://lh3.googleusercontent.com/vVQU2cFRS34L8Xv6rZ9i-jCZJiN61d9EgcLKyJi3ZH9pRf8-2p_vtftVx2VFklzVMjYb8O7vyYE9dntX3eDgy9WLg4A"
+                }
+            ],
+            "address": "99 Chaeng Watthana, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.429
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.26
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.429
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.305
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f5419b7b07824e5da5d4566b91e92bac.16",
+            "hashedId": "fe45d7b404ed34ca6436fc9ff1d7827d9ca44c50",
+            "title": "Lotus Pond at South Gate Government Complex Building B",
+            "state": "LIVE",
+            "lat": 13.879764999999999,
+            "lng": 100.564444,
+            "lastUpdateTimestampMs": "1501109993800",
+            "images": [
+                {
+                    "id": "cca8fd556bde4406834f3c6a983bafbc.17",
+                    "url": "https://lh3.googleusercontent.com/8tG7u8FTaLp-IBQ2-Eu8rRvFX0I1VxO_w3OJegICUC0ejflfk_UA5dkHZT6MfF8t0r_tDFMTd8oWQxp4ZbJI3D011ZE"
+                }
+            ],
+            "address": "Chang Watthana 7, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.154
+            },
+            "categories": [
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower",
+                    "score": 0.093
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.154
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.088
+                },
+                {
+                    "id": "e9d467d62c80efa1f813d7a75547f298",
+                    "name": "Pond"
+                },
+                {
+                    "id": "eb6a935d6b62f1a033715156e12030e3",
+                    "name": "Building"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1688694959564"
+        },
+        {
+            "id": "f6154abe1f723b69b2cfa95eff432ed4.16",
+            "hashedId": "eba7c5cad14804b0c5f25d7968b59d79cd554f62",
+            "title": "ป้ายบมจ. กสท CAT telecom",
+            "state": "LIVE",
+            "lat": 13.88275,
+            "lng": 100.56811499999999,
+            "description": "ป้าย บริษัท กสท โทรคมนาคม จำกัด (มหาชน)",
+            "images": [
+                {
+                    "id": "92eb36dab6ef3354a245b3872ba38852.17",
+                    "url": "https://lh3.googleusercontent.com/7LxqVPOKn2JUc_VBAsnU6oIjmRfXcgd9VhVBp4-kqUXGlT7hL5-NGdITQxSv54pTW5i2iyxAN2pGY5UJYozH7Uo-CbuMcGGmzkTkPgA"
+                }
+            ],
+            "address": "99 ถนน แจ้งวัฒนะ Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1631662144204"
+        },
+        {
+            "id": "fc69b480d6e9462cb86713ce6f662ced.16",
+            "hashedId": "28af325aae3cc20205143af368a48ac999cf9f51",
+            "title": "น้ำพุของพระนเรศว",
+            "state": "LIVE",
+            "lat": 13.885804,
+            "lng": 100.566362,
+            "lastUpdateTimestampMs": "1514267175750",
+            "images": [
+                {
+                    "id": "a1e001c1a74544bebb799d23219ea109.17",
+                    "url": "https://lh3.googleusercontent.com/30XIaCMurE52EplyMilkj2i66e07LW9eIu-9xlx1SyREzF3RtIB6Tc0YtPU7KqGQ1o08t2lbEJnpNLhkbDDprFg7Hr1Y"
+                },
+                {
+                    "id": "bfbfb5db66c8376eaafb53387d221b5f.17",
+                    "url": "https://lh3.googleusercontent.com/rds8KVeM8Z48PtYXevWXRGZxcceMu8yxTUA_shSoQ_KqUlsnC0t_GmpDtNSt__VD0eK_k6VGpFmV-GhOdwpGiTvlPdjfOG6wBZ0QXDpg"
+                }
+            ],
+            "address": "Soi, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.908
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.137
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.908
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.183
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        }
+    ]
+}
