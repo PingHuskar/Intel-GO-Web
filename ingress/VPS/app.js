@@ -93,9 +93,13 @@ const readJson500 = (filename) => {
     // console.log(pois)
     for (const poi of pois) {
       if (!poi.vpsActivated) continue
+      if (poi.vpsLocalizability != `PRODUCTION`) continue
       // console.log(poi)
       L.marker([poi.lat,poi.lng])
-      .bindPopup(poi.title)
+      .bindPopup(`${poi.title}
+      <br />
+      ${HTMLQRPORTALID(poi.id)}
+      `)
       .bindTooltip(`${filename}, ${poi.title}`)
       .addTo(map)
     }
