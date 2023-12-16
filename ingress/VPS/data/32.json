@@ -1,0 +1,3173 @@
+{
+    "pois": [
+        {
+            "id": "0da5f8623d234b38abf0efa1a42b52a9.16",
+            "hashedId": "0873c69e7f5fcd9f5a6673ec76807615dcba7caa",
+            "title": "Shrine No. 58",
+            "state": "LIVE",
+            "lat": 13.813481999999999,
+            "lng": 100.618764,
+            "lastUpdateTimestampMs": "1548734488820",
+            "images": [
+                {
+                    "id": "0cccaeedd20d41f4a4edbe168beda5a2.17",
+                    "url": "https://lh3.googleusercontent.com/C9HDuYqwSo8eMueFsjCL_kUEryMXUZGKxtN5BBshqPMxEOUe8m1FSJLDCdmw-HaBApiLdSerI4lh1SjV6CwV5j557uA"
+                }
+            ],
+            "address": "37/58 Nak Niwat 48 Alley, Lane 14-13-4, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.194
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.194
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.18
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.137
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0e4c90bad56841a98609715944fe683c.16",
+            "hashedId": "8a4c820297726965f7778d403ff7b521f3bd81f1",
+            "title": "Deer State",
+            "state": "LIVE",
+            "lat": 13.811048,
+            "lng": 100.621725,
+            "lastUpdateTimestampMs": "1501109406923",
+            "images": [
+                {
+                    "id": "02142aaad5ab44adb4ec12de12135eff.17",
+                    "url": "https://lh3.googleusercontent.com/k7iIBpaZSvOlqG0yX-Mq5Mq5zmn-fANH3uDuGSLpNKgcSwsMXEES6IT9vhNO77GZC_E3asnT8xLplTjDlfRR1530Dw"
+                }
+            ],
+            "address": "97 Pradit Manutham, Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.281
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.117
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.194
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.281
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "11a8184792ef4bcb9945bfeca03904e1.16",
+            "hashedId": "30db4f8c5a8d036f13f2a862a571f0f8fc379359",
+            "title": "Pet Shop Giant Fire Hydrant",
+            "state": "LIVE",
+            "lat": 13.809645,
+            "lng": 100.621513,
+            "lastUpdateTimestampMs": "1501110377707",
+            "images": [
+                {
+                    "id": "78a9826e271c4a5c90a855113202b08e.17",
+                    "url": "https://lh3.googleusercontent.com/l5KVRdnidVNwQ4fjvkITo70It6mXIp8TnVmNrQwG3yQRIFux_HQHzccDCydPi9gldAyfOVKQGcxEDUaj8lO81SjIXbM"
+                }
+            ],
+            "address": "Yothin Phattana, Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "3ea42b3371b16b7284fdab51881d294f",
+                "name": "Fire Hydrant"
+            },
+            "categories": [
+                {
+                    "id": "3ea42b3371b16b7284fdab51881d294f",
+                    "name": "Fire Hydrant"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.054
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.37
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.056
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "126e2ee70081439a9c3f53c7c81f7a79.16",
+            "hashedId": "b0787dc7313f5528353b30556fa830ca1397fc09",
+            "title": "Scotland Yard Doll",
+            "state": "GAME_REJECTED",
+            "lat": 13.811107999999999,
+            "lng": 100.619073,
+            "lastUpdateTimestampMs": "1501110573733",
+            "description": "The crystal",
+            "images": [
+                {
+                    "id": "ad31f1e4b25541cab76e8400f8aa7e8e.17",
+                    "url": "https://lh3.googleusercontent.com/nnLSoVbQUXMmIfNbNCRNsfE2Jpqhl4pCeSFdfY75XQXCoCCJxGILWxmAjJU5bf0PH1l_RYPqfn8VcPFdidp5_nt_fwc"
+                }
+            ],
+            "address": "Pradist Manudharm, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1375ef9474f13e1aab8b864275cdc647.16",
+            "hashedId": "ff683d66aa1da84f353cdeef1420941a32ff73b1",
+            "title": "Double white shrine",
+            "state": "LIVE",
+            "lat": 13.815211999999999,
+            "lng": 100.622016,
+            "description": "ศาลพระภูมิสีขาว บริเวณลานจอดรถ ซูชิบ้านไข่หวาน",
+            "images": [
+                {
+                    "id": "0a244038833e35d2a2616c2e83a88a77.17",
+                    "url": "https://lh3.googleusercontent.com/KMLk1supUF6HIQFtWqgPIs7Cx21EZ9UZITgq27Y2b2oPo_qgY-fqxpUkLsT2gpYn0gt0IsCdiFEumHJ3IUWQngzu0erbzUEcvxt2pA8"
+                }
+            ],
+            "address": "267 Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 94.97059,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1662566315367"
+        },
+        {
+            "id": "1412695987953323b9b5721764116b1f.16",
+            "hashedId": "cee3ddd63e49e9a7eeb0c17bf2f7a62e5b5c5edd",
+            "title": "Cupid fountain",
+            "state": "LIVE",
+            "lat": 13.811784,
+            "lng": 100.618629,
+            "description": "Cupid",
+            "images": [
+                {
+                    "id": "a828ed41ed3a310784e9822e92963085.17",
+                    "url": "https://lh3.googleusercontent.com/EEfXFL5FrTtJqL5N2GRzfn2aNebPzG5gdCc0nA8a5Y7YHtMwsVQfuzyK5rPMEZ4P1O8NbsJd-Ig-uNKq2uceFz_YK4k"
+                }
+            ],
+            "address": "357 Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648468417895"
+        },
+        {
+            "id": "14b7e7c277dd4b8f82ea44c42ad3a8c1.16",
+            "hashedId": "aa23eef1f6c9893a49934ef24513396051f21f28",
+            "title": "Bangkok Karaoke City",
+            "state": "GAME_REJECTED",
+            "lat": 13.816284,
+            "lng": 100.62253299999999,
+            "lastUpdateTimestampMs": "1501109160323",
+            "images": [
+                {
+                    "id": "a7cfc0b4a92f4b259e9ecc61923f8f5a.17",
+                    "url": "https://lh3.googleusercontent.com/21b6nBM6HEF7b8-g4M16E4WJLTeLRHix2XT5R275A9aDG3fBJ0jErUEMyrAc3gdCQcCdrEXmZUS3HqC8iy8nCiwV1w"
+                }
+            ],
+            "address": "Pradist Manudharm, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "18bd6d4ab49e453ba3cab9b6dab26c2e.16",
+            "hashedId": "44408fa320bb17958b0b737bc2ec70e416653703",
+            "title": "Big Ball",
+            "state": "RETIRED",
+            "lat": 13.811710999999999,
+            "lng": 100.61883999999999,
+            "lastUpdateTimestampMs": "1576562142548",
+            "images": [
+                {
+                    "id": "9afc9cbf295e4e0f82eef684f2bf2d94.17",
+                    "url": "https://lh3.googleusercontent.com/DY8_5pp-XGZYpO5BE6Mw8480B1sPJhuUn9OBGhmRjbFRuhKd8NQhbjDiQNKwCrh_-O9BRu0yeDJQMTP8eC4T3Ae4fkSz"
+                },
+                {
+                    "id": "c0fdd6537b0e474a919e5bf9ae485420.17",
+                    "url": "https://lh3.googleusercontent.com/jBsFV7lAUTgXvZP8hRokuArKuQaIkTdN1G0IByCWy9xd9erhgB7u69eXzkz9s2H7wUTjD8pwSqM4GCla0_1VMK7j7g"
+                },
+                {
+                    "id": "2d0e1b026fcb4007ba5fb44e186d7ee0.17",
+                    "url": "https://lh3.googleusercontent.com/DSU-47ubLs0u17ahHhLSz0PxF_kUl_D_04mNJZQNtlCzEzTK56vJaVMqecn3GRg98IRkrR8JNbpSZVkA-yaXZgjZ42s"
+                }
+            ],
+            "address": "37/18 Nak Niwat 48 Alley, Lane 14-13-5, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "19ba2e59c8f14bd6a422b1a6883a0c1e.16",
+            "hashedId": "025353270e71a37b5f638afb52e30acfdca14a3d",
+            "title": "Godji Mascot",
+            "state": "LIVE",
+            "lat": 13.809961,
+            "lng": 100.620243,
+            "lastUpdateTimestampMs": "1618107307741",
+            "images": [
+                {
+                    "id": "2f730684063344ceac659ac736ea7ab0.17",
+                    "url": "https://lh3.googleusercontent.com/kHIYnVyKduARAtzGOlSAW9hcyk-oPgpa6miem8cIcauG2aZekoyXHQb52LLO4pFOwNIsTWhDkJOQkWyOA8Nt7JY02Q"
+                }
+            ],
+            "address": "87 Pradit Manutham, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "19c9243ffdc63080be49aae8d3546fba.16",
+            "hashedId": "9f607d37b22dc217690af96010477d2c9056649b",
+            "title": "Magical Crystal Chandelier",
+            "state": "LIVE",
+            "lat": 13.811798999999999,
+            "lng": 100.618273,
+            "description": "Gigantic Chandelier where magical things always happen.",
+            "images": [
+                {
+                    "id": "691df5b91afb381fb57413a33a3ca4a8.17",
+                    "url": "https://lh3.googleusercontent.com/Jwesg6hqNisfGDv0GIhT2qO7fG-ItlRhKDvf28FrLPaTXI8WUAVJ04ca02iCdxUbIhbIyjS1ieKoGSrINLm0QyMsSrk"
+                }
+            ],
+            "address": "357 Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1653978979222"
+        },
+        {
+            "id": "2149534df82a4f19bc1be9be162b7ec2.16",
+            "hashedId": "bed63a26d2c72c28515d0098fa6a932c4ad2be54",
+            "title": "Crystal Park the Luxury Living",
+            "state": "LIVE",
+            "lat": 13.810651,
+            "lng": 100.61943,
+            "lastUpdateTimestampMs": "1501110258944",
+            "images": [
+                {
+                    "id": "6cb2f5027ee44692bb7994c5c89ef5a3.17",
+                    "url": "https://lh3.googleusercontent.com/-lHqJuvy4fFuERbZZY3JRCwu28NqsMQ4Zq2KrFpGIIHgxrzVpu8W6YO9Q-EVv8kwUb-SCA6mpIFMtCBxc9SN_n1RJw"
+                }
+            ],
+            "address": "Pradist Manudharm, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.777
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.267
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.777
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.146
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "21a2377f09e946a5847b55db5af1173c.16",
+            "hashedId": "fa5e165363ffd63cfee28c7d53dcf234da9b42d1",
+            "title": "Line of Potalai Roof",
+            "state": "GAME_REJECTED",
+            "lat": 13.81251,
+            "lng": 100.62704099999999,
+            "lastUpdateTimestampMs": "1501109037702",
+            "images": [
+                {
+                    "id": "52781288b842443d9746c62849dc9ea3.17",
+                    "url": "https://lh3.googleusercontent.com/ZIpfk3jssRyHgK0vAum-r_yvm4uKk05GywJ-ArvO8Sxf0El3EbI2m_HfSdQULO2R4idaxI1DFDTSe3DXPPlmQ0tp5g_H"
+                }
+            ],
+            "address": "ซอย โยธินพัฒนา 3 แยก 2-2 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "28aeaa965d5c3311a99848f231009895.16",
+            "hashedId": "b64f753fb9e63addac139f77689eb77a51620b43",
+            "title": "Cross Roads Fountain",
+            "state": "LIVE",
+            "lat": 13.8119,
+            "lng": 100.618628,
+            "images": [
+                {
+                    "id": "a152411c18b5325aa285ca2f164e6c2e.17",
+                    "url": "https://lh3.googleusercontent.com/GetW0s4wg9dgHod2RyaUttd3R4IKy1lLqniaZu1KRLT_rv7k4gqdvFmrnhtOMjwKRkwM2UdSU5jixNjq6hQj"
+                },
+                {
+                    "id": "f5568dfcd1573c26840715518f1913c6.17",
+                    "url": "https://lh3.googleusercontent.com/7_uHMsFDOBWQNpe7Zm5vK3svsW--4Rujmv6CnWXGdJlFk3vRpRBc3VuIeQPhWmdSbTjVNsh55uuC7KCux0CjVw"
+                }
+            ],
+            "address": "357 Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "586ae608f905f3ad0e0c3a0b0f7f61bb",
+                "name": "Cross"
+            },
+            "categories": [
+                {
+                    "id": "586ae608f905f3ad0e0c3a0b0f7f61bb",
+                    "name": "Cross"
+                },
+                {
+                    "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                    "name": "Road"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1639133691593"
+        },
+        {
+            "id": "2b7d31fc348d3eba9f4cb2e09695c26d.16",
+            "hashedId": "6286c1f6ed39fd14a67c3c008c30526c134dd7ef",
+            "title": "ร้านอิสานลาวแลนด์",
+            "state": "LIVE",
+            "lat": 13.812261999999999,
+            "lng": 100.62278599999999,
+            "description": "ร้านอาหารไทยอีสาน รสแซ่บอร่อยถูกปาก",
+            "images": [
+                {
+                    "id": "126666019ae9360eb6ab7f86088e57ce.17",
+                    "url": "https://lh3.googleusercontent.com/gUpXI6mUjmvr8YUNNr7ahqx-Pn-EelwN9WFOcn1_8XNZmD4-enNdkIm50PFy12j22GCG1pwqy505WbJhB5_GK-ANieuSLfGS67iVgsCg"
+                }
+            ],
+            "address": "3591 ชื่อ ยโยธินพัฒนา 3 แยก 2-4 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 71.121155,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "72d95ece8aa84692af045849271fc7a9",
+                    "name": "Thai Restaurant"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1679411865114"
+        },
+        {
+            "id": "3835c00d3b224425ace07579ba6e3ac4.16",
+            "hashedId": "e7300b3c0573f5bd807f5b3af577789c93e78292",
+            "title": "Phothalai Waterfall",
+            "state": "LIVE",
+            "lat": 13.813571,
+            "lng": 100.624905,
+            "lastUpdateTimestampMs": "1501109667495",
+            "images": [
+                {
+                    "id": "71f1b88f2d4748e3852ac0773e8de605.17",
+                    "url": "https://lh3.googleusercontent.com/nxDkvttd_DAzRZ-KoCVo8qhDbruEF2ig2o_kPx4Kxas70_DuBQci9l1BZPeDtTRMEgBvwD8ypnXxGSdrIOt_QaaowQ"
+                }
+            ],
+            "address": "โยธินพัฒนา 3 แยก 2-2 Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "mainCategory": {
+                "id": "679f6d7db0ea1baab169927ad223186c",
+                "name": "Waterfall",
+                "score": 0.412
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.136
+                },
+                {
+                    "id": "679f6d7db0ea1baab169927ad223186c",
+                    "name": "Waterfall",
+                    "score": 0.412
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.126
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "39315240e6df4bd69c97f4bb3e134177.16",
+            "hashedId": "16ef091d2d4caedf45494723f20b4f292b1a4546",
+            "title": "Scotland Yard Doll2",
+            "state": "RETIRED",
+            "lat": 13.811542,
+            "lng": 100.619337,
+            "lastUpdateTimestampMs": "1576493210382",
+            "description": "The crystal",
+            "images": [
+                {
+                    "id": "422712f6dd1c41f0bfcc0d758088b915.17",
+                    "url": "https://lh3.googleusercontent.com/AboSGxl7B5fs0DuVXmT2y4T3fU3ZaRJvPS6o9TWvYY1VLPvfgKIv9zKeZBHxQ3J_3f2XD1R0tfLfKh6t5RU9CZ6Ob4vA"
+                }
+            ],
+            "address": "Pradist Manudharm, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3b52af0b7547367db41dde7628d4d7fe.16",
+            "hashedId": "40b6893f78731cf287f78f4a25df1b4e95e9321d",
+            "title": "สนุกนึก Restaurant",
+            "state": "LIVE",
+            "lat": 13.811949,
+            "lng": 100.622706,
+            "description": "ร้านอาหารสนุกนึก อาหารอร่อย ดนตรีเพราะ",
+            "images": [
+                {
+                    "id": "8b0d18289ab33c6b8a3cb5258144e3f2.17",
+                    "url": "https://lh3.googleusercontent.com/_zwnXoJi7OWw2RsbNDbrFth7JN90hum22fd-8eBM9K_dZlU7w5esHggUVFUQhLkBjo9xHeSMJj53o7Q4UniAonbxKcpLf3Wo0bq2JjU"
+                }
+            ],
+            "address": "18/1 Soi Yothin Phatthana 7, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "2cb2078a28859a376087bcfb909c374b",
+                "name": "Restaurant"
+            },
+            "qualityScore": 81.20424,
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "72d95ece8aa84692af045849271fc7a9",
+                    "name": "Thai Restaurant"
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee Place"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1680429631687"
+        },
+        {
+            "id": "3c8fe500e2344298997a14a2447aaab2.16",
+            "hashedId": "fffdfa801001a1215838705923808371e80eacd4",
+            "title": "Niche Beerville Ville",
+            "state": "LIVE",
+            "lat": 13.816626999999999,
+            "lng": 100.624361,
+            "lastUpdateTimestampMs": "1501109763078",
+            "images": [
+                {
+                    "id": "859ffc4e90fa4eedb33f31c144506b7f.17",
+                    "url": "https://lh3.googleusercontent.com/0hJYhjNqgagoIrMVxlMwplyJsKun4ocD-A7GCSVfBQdVW3rkGlLqUUUchMQnESkm16KAE76yPMuhTswOqjtQWp4FgrJa"
+                }
+            ],
+            "address": "Yothin Phattana 1 Alley, Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.315
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.315
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.184
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.11
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "40e91deb20874d268b9b61d263a7e1c3.16",
+            "hashedId": "d4ca2c0e060678b2523c69e8f70346b23d794ed5",
+            "title": "ศาลตายาย Dkbb",
+            "state": "LIVE",
+            "lat": 13.814644,
+            "lng": 100.622879,
+            "lastUpdateTimestampMs": "1501109498444",
+            "images": [
+                {
+                    "id": "5befaf328f174d549256e47dbe00c739.17",
+                    "url": "https://lh3.googleusercontent.com/Q37qCPVMTdDX0HskBYkdC3VfdJeMDoXt4XXOzn4DM62UpbHD9xrarXqrGrnpfvigip5_qJF2jPw5Xo9XsRDkphFFSEpM"
+                }
+            ],
+            "address": "N25B6 ถนน ประดิษฐมนูธรรม Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "5ac9de23416b18bb59a5e507de2bb536",
+                "name": "Athletic Field",
+                "score": 0.228
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.168
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.228
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.106
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "41de1cf41fe440cc8a9c6615455983b2.16",
+            "hashedId": "7c1bd57ffd69624d12ad2e08d7fcd047825a9366",
+            "title": "ปลาคราฟ",
+            "state": "LIVE",
+            "lat": 13.811332,
+            "lng": 100.62173299999999,
+            "lastUpdateTimestampMs": "1501109811920",
+            "images": [
+                {
+                    "id": "d99b184293cd4ae79437eabcde6d46b4.17",
+                    "url": "https://lh3.googleusercontent.com/h-ua3YrcU3qxnnpS3AsWjBfNWYvxtMVynZ8wm0swAUUw-qrTi5qHORZo9rqglCz0fPs5cRTOvG8FjxejJRw82bHGmV9s"
+                }
+            ],
+            "address": "16 Pradit Manutham, Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.511
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.511
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.133
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.072
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "446d95cd6bca45eebe27eeefed313134.16",
+            "hashedId": "0fadaa4ddda3831eaf6abda20ce64e9ac3031276",
+            "title": "Mushrooms Fountain",
+            "state": "LIVE",
+            "lat": 13.812085999999999,
+            "lng": 100.61927,
+            "lastUpdateTimestampMs": "1589895474067",
+            "description": "น้ำพุรูปทรงคล้ายเห็ดในห้าง The Crystal",
+            "images": [
+                {
+                    "id": "c5c610d4bf7743298995d0ede4421faa.17",
+                    "url": "https://lh3.googleusercontent.com/9M3-ndY4L7wldj3iBFKt5nHFhA36ng-Q-wAIzAlSRAwbqqEyuz5gRuWNc-yIjtc5a773Cj17ozK_gftDguxJbD0WAbo"
+                }
+            ],
+            "address": "205 Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.995
+            },
+            "categories": [
+                {
+                    "id": "0b5f589274539df5448573e8e11e5894",
+                    "name": "Lighting Art",
+                    "score": 0.051
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.143
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.995
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1579360926023"
+        },
+        {
+            "id": "462448d335644d469db36dcf801f6f70.16",
+            "hashedId": "1afa47f48809fa8777c24d006beda10781ccd835",
+            "title": "ศาลพระพรม บริษัท SPYDER",
+            "state": "LIVE",
+            "lat": 13.817469,
+            "lng": 100.624572,
+            "lastUpdateTimestampMs": "1601990551674",
+            "description": "ศาลพระพรมของบริษัท SPYDER",
+            "images": [
+                {
+                    "id": "fbd0b8f8b55d4ec0bdef2149cc7f59cd.17",
+                    "url": "https://lh3.googleusercontent.com/mimL4fYN0x1O-YG79pQYYNiB6bNINtHbCGcJfnhDp16PdoS0ozDdpmrjnn2_88Zsy0PRJa4757Kd9ZYqjbo3clV0qsV_"
+                }
+            ],
+            "address": "790 Pradit Manutham Road, Nawamin, Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 78.25208790488978,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.087
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.067
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.046
+                },
+                {
+                    "id": "fbf264dceba337bf62c7b37c23021ab0",
+                    "name": "Iconic Architecture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1601606519962"
+        },
+        {
+            "id": "4868d9066620484f9c0a3d8179d77e1a.16",
+            "hashedId": "5846095b9820be902fc0f13bf6cc4d3b6cbf01a8",
+            "title": "White Bicycle",
+            "state": "LIVE",
+            "lat": 13.811629,
+            "lng": 100.618664,
+            "lastUpdateTimestampMs": "1501109576667",
+            "images": [
+                {
+                    "id": "656ff80d839e4a24b8cc2cd376a8738e.17",
+                    "url": "https://lh3.googleusercontent.com/W5Aqk-mBJniu8dfPijbK7CdxR26f3udyDfjw4gvL2lH0ezB72iEeo_-GSWYUVTGWv9Zp6sTVYrEcGJl7pROJAnpWGO0"
+                }
+            ],
+            "address": "37/18 Nak Niwat 48 Alley, Lane 14-13-5, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.562
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.562
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.171
+                },
+                {
+                    "id": "cd3329146a341046813b604891a0d75b",
+                    "name": "Bicycle"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4c00738d160d46f08b350ee738e80067.16",
+            "hashedId": "2e2f8c57af81877dc9184107b0db94143c21e493",
+            "title": "Karaoke City",
+            "state": "LIVE",
+            "lat": 13.81645,
+            "lng": 100.622621,
+            "lastUpdateTimestampMs": "1501109752838",
+            "images": [
+                {
+                    "id": "1a7ad14aeb48417aa29bb8391d49f5c8.17",
+                    "url": "https://lh3.googleusercontent.com/W3pfwHnEsEXUYXb-3SgvvnzyoQJWtLIXEkP4e6ZgHlg-Bt5OGEmSNl0fRqBJdzUR3wwfHVw4SQFyZsMPCBZuC8KTYW-d"
+                }
+            ],
+            "address": "508 Pradit Manutham, Nawamin, Bueng Kum, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.309
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.309
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.088
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.098
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4d726df9624342d4be29d3c720c48474.11",
+            "hashedId": "17f104229dcb26019aad1c69d7d38e9223e8c1a1",
+            "title": "Angels Fountain in Crystal Park",
+            "state": "LIVE",
+            "lat": 13.811141,
+            "lng": 100.61917899999999,
+            "lastUpdateTimestampMs": "1501109233569",
+            "images": [
+                {
+                    "id": "59e5455ca99b4884b874a0f9b2722c54.17",
+                    "url": "https://lh3.googleusercontent.com/F9AEZb3ZEB_YwVt67jP79uuVuymBjE1gpQxZYtBhI9RmQXnYrDvxdrLAdnYL9764XBe-Iw_0nn2ATIC4SGW6tC9JySJc"
+                },
+                {
+                    "id": "1d64ec71673f49a987dab61946304c55.17",
+                    "url": "https://lh3.googleusercontent.com/YENpJXyssGJdQs6-zKlBS-sq5cJr-7mfRJhYn2ymn_A9U9YK1CmjNtfO-_OvUTr5T3F1if43sNPNX1JuhQnvKjJh-JI"
+                },
+                {
+                    "id": "451a43430f7949e2a625cfcaada665c9.17",
+                    "url": "https://lh3.googleusercontent.com/AYrM1Oq2v3f-fhmGSdr5zEIVWnWpuFq1P2VjtwAPGsSFK6qFyMk4fW27Ck3xJa0zh5VBxqlQ0CCDMr2jTeu4cLbdPfE"
+                },
+                {
+                    "id": "f91832edd51d4726a5d62e997c0d1fb1.17",
+                    "url": "https://lh3.googleusercontent.com/G7RWDTxPpQNm4G1phNcFk7Z7goayelhugUPGNJB_iVRF31Of9aeQDzouuHcF3F4l0HhDR8GP9Hf7ifKmTDQ7XVURx7I"
+                },
+                {
+                    "id": "2b6188f38e1c41d0a6c87fa5d4e9b567.17",
+                    "url": "https://lh3.googleusercontent.com/Kx2M4zlslftkgATDo-8eDIxF_IpAmCkVd_y1d52pZlqam5QR8dVmIBCSraW-bJfqDtHHr5K3qqAH61VIdezOS7lKqpA"
+                }
+            ],
+            "address": "Thanon Pradist Manudharm, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.687
+            },
+            "categories": [
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.687
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.626
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.225
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660202848546"
+        },
+        {
+            "id": "5569f0aaf9584eaf8602dbfb02d0bdbd.16",
+            "hashedId": "227ec015627ddca4bb34ba2115718f055d7cf830",
+            "title": "The Animals Playground",
+            "state": "LIVE",
+            "lat": 13.811359999999999,
+            "lng": 100.619419,
+            "lastUpdateTimestampMs": "1589896554144",
+            "description": "เครื่องเล่นม้าโยกรูปสัตว์ต่างๆ",
+            "images": [
+                {
+                    "id": "8e8a913a9dde43ba853d33964f5d00b8.17",
+                    "url": "https://lh3.googleusercontent.com/Whdfb-DvD5FXES4fgogVt1dcZTcqaEobUgityr9eR5jxnjombjMKSDuM4onp1a-uPnk3NWo3A74Wzclxq3Jslj3UroU"
+                }
+            ],
+            "address": "64/98-99 Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.728
+            },
+            "categories": [
+                {
+                    "id": "129136ba2bb5f8aab0ef0385a3a4720a",
+                    "name": "Zoo",
+                    "score": 0.499
+                },
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.728
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.238
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1583483501446"
+        },
+        {
+            "id": "564ad469b62548b58eed687062b941f7.16",
+            "hashedId": "8af9ddeb8974a12862b04f3a2980154c1fb1d74d",
+            "title": "Giant Ball",
+            "state": "GAME_REJECTED",
+            "lat": 13.811653,
+            "lng": 100.618759,
+            "lastUpdateTimestampMs": "1501109383820",
+            "images": [
+                {
+                    "id": "08b808253f274e1bbf7eae1520f13e1d.17",
+                    "url": "https://lh3.googleusercontent.com/TXF2iqWSowta0z2ja1G1d0VMVSyJORjs0Ua1hcht8znxNL7grX8rYzUiteDbGHJEmqvFjDPq_aL9VbxFJ1PR5bIsqNs"
+                }
+            ],
+            "address": "37/18 Nak Niwat 48 Alley, Lane 14-13-5, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "572de6e78812497eb24d3b191b70ffc1.11",
+            "hashedId": "46e2a7f782b6f239629756d2659280fc9f2b4a1b",
+            "title": "Cupid Trio",
+            "state": "LIVE",
+            "lat": 13.812161,
+            "lng": 100.61868199999999,
+            "lastUpdateTimestampMs": "1604065118297",
+            "description": "Fountain staues at The Crystal",
+            "images": [
+                {
+                    "id": "f1865575c11a46b2b8dc912836268c7a.17",
+                    "url": "https://lh3.googleusercontent.com/pHrIZPF312e8UyvfwmprnGSeItEK-v-sWCinkL4YmFF78CDZp9_KytefecMzU97xQJar72SL5Ox3hefagwPDKzgM74U"
+                },
+                {
+                    "id": "c79906e843744138bbac312dae3e2938.17",
+                    "url": "https://lh3.googleusercontent.com/-TNqzC0nwiwZ_vaHsU3a4XgEKe4DD-x5LeOGYGL7HxtkFetQlL8Ed2JQN_FBhO8QjfwXUU-2vd-FWOvclGHhZJSAhvc"
+                },
+                {
+                    "id": "4306df028953410b8c55695d89dbbd2d.17",
+                    "url": "https://lh3.googleusercontent.com/Rmfl5kG79TJb_wz4YxGnpAhamY7xswUFiTDm9lkOrzX00FFf_cnpDKUm1UvT2yBaKRuYUOT3BKhXj7tdxcqcDs1iCDg"
+                },
+                {
+                    "id": "d7bf4e4d00944ea4bdfbfe186bd5c54b.17",
+                    "url": "https://lh3.googleusercontent.com/xZltRjTZogtdPZTpEBVSphxQBoXdO0s9845a6MCHW9QdoOpn3EW8FDu-VtpgRA4dM0xj3QJ7WVjy-yGahp__Y2ZQng"
+                }
+            ],
+            "address": "Soi Munlanithi Phatthana Thi Din 2, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.552
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.07
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.552
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.401
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660162567565"
+        },
+        {
+            "id": "58a315308e5748868f0002b7f0ebc304.16",
+            "hashedId": "1931d87058bbbf7839a55782617f79b77e2b85f8",
+            "title": "Lady Statue",
+            "state": "LIVE",
+            "lat": 13.816400999999999,
+            "lng": 100.623847,
+            "lastUpdateTimestampMs": "1501110017663",
+            "images": [
+                {
+                    "id": "b6724bb3d8914b1aa947ac34e7ea7ae7.17",
+                    "url": "https://lh3.googleusercontent.com/m7hKxiqAJ0Mvr6VJtbo3JJQ_UsoP-zdmbnOd4dmJ6OYkJSnNNOhjed36G2Ihg8Es1QIVKJlOjRR5dX6HKFrZNgfLu80"
+                }
+            ],
+            "address": "Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.98
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.116
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.481
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.98
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "592e0d1412fe4ceab523fc65970c2509.16",
+            "hashedId": "fe613dbc229d12671ae26f6c2480433475756703",
+            "title": "Water Pavillion",
+            "state": "LIVE",
+            "lat": 13.813934,
+            "lng": 100.624718,
+            "lastUpdateTimestampMs": "1501110155336",
+            "images": [
+                {
+                    "id": "34f1c2ac22f54a69a0f20ceb17f487ab.17",
+                    "url": "https://lh3.googleusercontent.com/LmLz8sjCisA8ZHSwJJy64qdp82_Rk9GdOT_lyJTlzVfnjJZxZp6lKbqtDg9oyOz7F1hC7hMliueVmdnlvHmMFrqnxXI"
+                }
+            ],
+            "address": "ซอย โยธินพัฒนา 3 แยก 2-2 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "14f7dfc6568e3e21265ad27cd2e5308d",
+                "name": "Pavillion"
+            },
+            "categories": [
+                {
+                    "id": "14f7dfc6568e3e21265ad27cd2e5308d",
+                    "name": "Pavillion"
+                },
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower",
+                    "score": 0.078
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.093
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.109
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5b93d29ccccf4a168d4a1cb07e659e30.16",
+            "hashedId": "ea592fe7c256e6ff218fc25ca57b99470f570f6c",
+            "title": "Lotus in the pool",
+            "state": "LIVE",
+            "lat": 13.813658,
+            "lng": 100.62515499999999,
+            "lastUpdateTimestampMs": "1525181431590",
+            "images": [
+                {
+                    "id": "9bda286f7cf348089a3f4578ccc913ab.17",
+                    "url": "https://lh3.googleusercontent.com/_cnlpMJnZRUvgNyOGpXqxjsQkru4w4cedm8baYFiNKSPJ9YIetFls34RrQ9nbFlfuG6i4hfZmcseiRwNE71pmkwVlg"
+                }
+            ],
+            "address": "ซอย โยธินพัฒนา 3 แยก 2-2 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "b2352c8c78169e35ee3fea56d0e57c99",
+                "name": "Swimming Pool",
+                "score": 0.466
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.217
+                },
+                {
+                    "id": "b2352c8c78169e35ee3fea56d0e57c99",
+                    "name": "Swimming Pool",
+                    "score": 0.466
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.075
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "651416ad26d240ceb46827671449ed40.16",
+            "hashedId": "6e1c2b639efc3a604ecd89c995e235933a41ee40",
+            "title": "AW Pond",
+            "state": "LIVE",
+            "lat": 13.81515,
+            "lng": 100.62315799999999,
+            "lastUpdateTimestampMs": "1510911983871",
+            "images": [
+                {
+                    "id": "637be775455b4b60b5d8784011dd9a61.17",
+                    "url": "https://lh3.googleusercontent.com/btbmXygkk4T8UT3cKTKTYN_anETAIDHvHBKyNndaOoMASRjxW8qyBMgvI_hNQuSCo4B8ZwgZHGN7qfwhODLQ3jjW9Rw"
+                },
+                {
+                    "id": "0ec2ddf0f7614dfe8b434a7ff5c1444c.17",
+                    "url": "https://lh3.googleusercontent.com/kBpYfmGSKZBWolnQSNxSUZD0r1pQaGwIVprunw7cr8TswH5Cb8ko79Pg4WyNJgVrKl4i6S8P_hNrTBiGTfNVVXW5cD0"
+                },
+                {
+                    "id": "10f80b80474849e98b69a311e215c7bc.17",
+                    "url": "https://lh3.googleusercontent.com/__a4NkQ6zbuNBlSd1hFUsXkbjIM2hYPOnRX7OxRJf-Z-IdS1TyMaAy7kfLNf5GgxuBBtTzGr8eH0U_ZYnf_7jrVB9dM"
+                }
+            ],
+            "address": "N24B6 ถนน ประดิษฐมนูธรรม Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "e9d467d62c80efa1f813d7a75547f298",
+                "name": "Pond",
+                "score": 0.526
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.285
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.223
+                },
+                {
+                    "id": "e9d467d62c80efa1f813d7a75547f298",
+                    "name": "Pond",
+                    "score": 0.526
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6557f3aef5ef4eaea96c12488cd14075.16",
+            "hashedId": "0cc34be9ea0b89067e6140168469dcc52076aad0",
+            "title": "Ferris Wheel of Crystal Park",
+            "state": "RETIRED",
+            "lat": 13.811637999999999,
+            "lng": 100.619035,
+            "lastUpdateTimestampMs": "1613133721699",
+            "images": [
+                {
+                    "id": "92455dd2dbbb4c0aa8a2de1bcb9e8d23.17",
+                    "url": "https://lh3.googleusercontent.com/vqGlIK8koFaTgeQ7pKvHHmwyGvT8o1WgkGdJdB9cPANzMWye4zfdZhzM7X0JtkBb6MN8mmWxVmS8oDI5dP77UJn5KQ"
+                }
+            ],
+            "address": "Pradist Manudharm Road, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6634315291ee39eabc99d751bc27eee1.16",
+            "hashedId": "bf85659b935c13fea3b432601a10e7b9e823383f",
+            "title": "SNOG X X",
+            "state": "LIVE",
+            "lat": 13.810502999999999,
+            "lng": 100.622446,
+            "lastUpdateTimestampMs": "1626787350277",
+            "description": "snog x x caffeine dealer restaurant",
+            "images": [
+                {
+                    "id": "e3f60ea2327a3cf4bd29cb5d8686a5c1.17",
+                    "url": "https://lh3.googleusercontent.com/AtDpue7rrEprLbGh5aHMVZfyIDElncuNy0QZp58eFAeOlklub-sPM47flNfbhvx3QOhsw9IcaFAE7g-bElL6tytxUFfBZv03gSQMXEt0"
+                }
+            ],
+            "address": "97 ซ. ประดิษฐ์มนูธรรม 19 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "2cb2078a28859a376087bcfb909c374b",
+                "name": "Restaurant",
+                "score": 0.715
+            },
+            "qualityScore": 94.86982562080229,
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.715
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.378
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee Place"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.15
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1626476880426"
+        },
+        {
+            "id": "6a65b15e452e4e22939bb9cd613dabb0.16",
+            "hashedId": "2c0c1cf2bc02c58462b151c9a1ead06268698060",
+            "title": "Crystal Park - Gold And Silver Ball",
+            "state": "RETIRED",
+            "lat": 13.811010999999999,
+            "lng": 100.618646,
+            "lastUpdateTimestampMs": "1571978670957",
+            "images": [
+                {
+                    "id": "10d754df969f48478f646f775c745fe0.17",
+                    "url": "https://lh3.googleusercontent.com/wyFdp27-op_iIHjRRQwTbdZsgMBJnqscLVsgKe5zK4fQxSBST6IWq2fEnqsRHT95oVieLKk4HdaBFy8GDrutmKf13cQ"
+                }
+            ],
+            "address": "Soi Mu Ban Crystal Park The Luxury Living, Lat Phrao, Bangkok 10230, Thailand.",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6b0ab23a93304f1d8eee1005af208642.16",
+            "hashedId": "3ec864559f3db5c13ee80c16464f2e813fbec3f5",
+            "title": "Penguin Sisters",
+            "state": "GAME_REJECTED",
+            "lat": 13.811706,
+            "lng": 100.618709,
+            "lastUpdateTimestampMs": "1501109060920",
+            "images": [
+                {
+                    "id": "0b19fdaba48f4223b00f6d6662978a9b.17",
+                    "url": "https://lh3.googleusercontent.com/Kh8FO-2NFj63Lqamkv1BIDQ95ryLfJeNDpFdHumi1Sm8ROLqGQP1uORFd3L3G5BzCJ-jtzaa-cV14l5wPPtdNQtWHA"
+                }
+            ],
+            "address": "37/18 Nak Niwat 48 Alley, Lane 14-13-5, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6edb25e8a92a4ee4b98daf5ffe1210a9.16",
+            "hashedId": "cb815f0de561f534c0f93293198fab2494972f8a",
+            "title": "Yothinpattana 7 's Shrine !!!",
+            "state": "LIVE",
+            "lat": 13.809434,
+            "lng": 100.622438,
+            "lastUpdateTimestampMs": "1501109555567",
+            "description": "Keep Going !!!",
+            "images": [
+                {
+                    "id": "71d1baa1ff7e406f8e8458ef7330ad56.17",
+                    "url": "https://lh3.googleusercontent.com/yV3SaD41j9jpb4AnF6nLReHN5pDUrsjvXxAtPFUPGQLZd0wCPH_N7ZIc1e0eHCxuQp7nSEJSeWdysrh18D2XEG22YGI"
+                }
+            ],
+            "address": "174-176 Pradit Manutham, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.13
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.138
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.177
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7f88aa4d125e40ddb765b44056e8fd71.16",
+            "hashedId": "1a090b9c299fcc9c146761343af9403e7553f311",
+            "title": "Alahcus 2",
+            "state": "LIVE",
+            "lat": 13.811079999999999,
+            "lng": 100.62257299999999,
+            "lastUpdateTimestampMs": "1626691437280",
+            "images": [
+                {
+                    "id": "067133ada2d344348aad5c8ead19b46d.17",
+                    "url": "https://lh3.googleusercontent.com/317WxOZEQ5ZiHAcGlx3gpAmrcNyZrLix0OPvB2BreDqUINoiIdTI9jwVvmUakN4vhmwKbvDIm40-7Fqa3XwIbcdd1dQl"
+                }
+            ],
+            "address": "228/1 Pradit Manutham, Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.309
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.309
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.195
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.129
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8025b881e3c944c59768832faba07f8d.16",
+            "hashedId": "c843995f1e8e0d166ef729d2ddbb5363dde13db1",
+            "title": "Alahcus Dolls",
+            "state": "LIVE",
+            "lat": 13.810988,
+            "lng": 100.62253899999999,
+            "lastUpdateTimestampMs": "1501110019890",
+            "images": [
+                {
+                    "id": "7b4c0a158826438f937252ff9a7004b2.17",
+                    "url": "https://lh3.googleusercontent.com/HScjg41jGBeHlsk3sR24MOYSPfhX5rReCNlTwNzU5RYhaQbnRUMFE97bZ0HxbeMZNVKPS7oPEDbttoO2fcUUld2Dtg"
+                },
+                {
+                    "id": "86c3fd7dc779406192871287ca1bbc89.17",
+                    "url": "https://lh3.googleusercontent.com/xPjP1ieUnZ7umA2v1Bx0YBt-ScUMtm2Pd6vd9wK40nEoU3KCydUWPOkyvdEhSVRAGEn-B9GTyXoIq9kv4nYTdMJmWi8"
+                }
+            ],
+            "address": "Yothin Phattana, Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.638
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.162
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.638
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.153
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8897f9c9cd9530519e6cf7b85052dd5a.16",
+            "hashedId": "04c7b598cf41ec9dcb388c1ad4339239ea439a83",
+            "title": "white shrine",
+            "state": "LIVE",
+            "lat": 13.811515,
+            "lng": 100.62575799999999,
+            "description": "ศาลพระภูมิค่ายมวบ ส.ตะวันรุ่ง",
+            "images": [
+                {
+                    "id": "29c53c20751a32a9be70da1337dea415.17",
+                    "url": "https://lh3.googleusercontent.com/DTQndGVH3OMNUAdFI7ZeCTqGpLAkfodfhqN_7bRVG855fWU_WV2dr9r8_MaFYeKAVb9qGZA4zj187QTNmYeioBxNw1yqjYIaTOhHQlqXuw"
+                }
+            ],
+            "address": "348/1-2 Soi Yothin Pattana 3 Yeak 2 4, Praditmanutham Road,, แขวง คลองจั่น เขตบางกะปิ กรุงเทพมหานคร 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "กรุงเทพมหานคร",
+            "geoStateShort": "กรุงเทพมหานคร",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 80.273415,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1658396198846"
+        },
+        {
+            "id": "88ab840e73fb43d0b186dba2f39652f1.16",
+            "hashedId": "aec43261ecc2348f45b7c6e81b8a9ccc97779da9",
+            "title": "Karaokecity Waterfall",
+            "state": "GAME_REJECTED",
+            "lat": 13.816467,
+            "lng": 100.62249299999999,
+            "lastUpdateTimestampMs": "1501109775144",
+            "images": [
+                {
+                    "id": "865e72fc5d7e4b4b87278c81f6ed9405.17",
+                    "url": "https://lh3.googleusercontent.com/CyNkpPfTEtkLskJByNA5QnXz3zt7W2UUS1t7D99HEA5WjWWc-XF710xbl-XItI3tXm4H6Fx6_ls-teLk3iESU8_THg"
+                },
+                {
+                    "id": "5e752d5752af4a20ad6ee09feafb0b39.17",
+                    "url": "https://lh3.googleusercontent.com/wlXDGZPXwhZSRyDmOww7STLH-PST_KihtqyBXuvwc1NNS57bb6dlHyAbwdnPUDWAAKiXfv8sVW-lRwFHHmAK9h6PYP8h"
+                },
+                {
+                    "id": "84f9cf1bafe94078bada96854ec4f40b.17",
+                    "url": "https://lh3.googleusercontent.com/hhr59S0huGr74w6qaPQo9cXDnRXN8STq9W7P__yEdY7L3dTNtPa2x2RK5kTxrAqT4DegS4PeAdcjK-hOaMe6AKb3QFU"
+                }
+            ],
+            "address": "508 Pradit Manutham, Nawamin, Bueng Kum, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "89ad11da53a94acf8c759801713548b3.16",
+            "hashedId": "730f51feeb6e3aaa796334e9645d566022765e69",
+            "title": "เพ้อ Plane",
+            "state": "LIVE",
+            "lat": 13.814753,
+            "lng": 100.6236,
+            "lastUpdateTimestampMs": "1501110040375",
+            "images": [
+                {
+                    "id": "421f05bd02a74ce4b3f93d3abcc89118.17",
+                    "url": "https://lh3.googleusercontent.com/muklO5mu2ykaAZn-1Ae9ycEYjfN89vjqWkvjtiy90aaAoKiYZ9PWSfLtf-ia8kj2FG7Rs62EeHOCl0Wxet3E4SDpJZw"
+                }
+            ],
+            "address": "Yothin Phattana, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.293
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.139
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.293
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.211
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8f5da46b225d4fe589018da1a0c06429.16",
+            "hashedId": "a42a7e3e079a56f9b7413688f47e8884722d36be",
+            "title": "ศาลตายายหลังห้าง",
+            "state": "GAME_REJECTED",
+            "lat": 13.812192999999999,
+            "lng": 100.61801,
+            "lastUpdateTimestampMs": "1589895639519",
+            "description": "ศาลตายายที่เคารพนับถือ",
+            "images": [
+                {
+                    "id": "cdbf65023fdd4c7a824335dd9001cb8e.17",
+                    "url": "https://lh3.googleusercontent.com/1DHgcMY3_Suh4jIZUJOwYvM-TIgGRBLjZs3kzIWffLT3zpkLwbNgTTtel3Lnn331Ss5HMLHogxvYQk6ty9E5r5g-6wI"
+                }
+            ],
+            "address": "37/19 Soi Nak Niwat 48 Yaek 14, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1581077925249"
+        },
+        {
+            "id": "8fa7e30f5ae53e89a69222715100ab58.16",
+            "hashedId": "90ab3d049b8dc606edaa7cce010d4d51c709abf2",
+            "title": "ช้างน้อยใส่เอี๊ยมแดง",
+            "state": "LIVE",
+            "lat": 13.814127,
+            "lng": 100.62129499999999,
+            "description": "คอยต้อนรับลูกค้ามาเป็นสิบปี ไม่เคยบ่นสักคำ ตากแดดตากฝน แต่ยังยิ้มได้",
+            "images": [
+                {
+                    "id": "90e543f4ae9d30caa9a9405712ca812c.17",
+                    "url": "https://lh3.googleusercontent.com/WV44_cCMyy3nqBvk6_Q0cnum21Gt9ZsLISZGpI9XthSbDdeBTWuVZELpugFcSYp8Ao4reLhJZ6CPsSnH7aRrDxSXhlEC_VVYaGD8JwFx"
+                }
+            ],
+            "address": "265 Pradit Manutham Rd, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1702266521850"
+        },
+        {
+            "id": "93419bfcaa45477fbc4e7e4d7b99d3e7.16",
+            "hashedId": "f40c93010eb317134e991a2b324bc22278614478",
+            "title": "Old Lamp",
+            "state": "LIVE",
+            "lat": 13.810951,
+            "lng": 100.622171,
+            "lastUpdateTimestampMs": "1501109437930",
+            "images": [
+                {
+                    "id": "35c74c63851148b1b3a765fd5853b005.17",
+                    "url": "https://lh3.googleusercontent.com/UAxc0xZf6SNYmycEYGfwM4t34TGlXETutQQPykGGJK3SLZTHYDuI_J1Crs7LhfiZ5YJ4Qng__e_fnhP-QQ99Apk5nbI"
+                }
+            ],
+            "address": "Yothin Phattana, Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.424
+            },
+            "categories": [
+                {
+                    "id": "0b5f589274539df5448573e8e11e5894",
+                    "name": "Lighting Art",
+                    "score": 0.148
+                },
+                {
+                    "id": "419b1c07a48480f45e51165d69222a8d",
+                    "name": "Lighthouse",
+                    "score": 0.187
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.424
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "93770dc6bcb34bd1a884f15aa7024d82.16",
+            "hashedId": "05d5bce995690c9dfd200b2ee8e2b8026ac277b9",
+            "title": "Phraphrom Crystal Park",
+            "state": "LIVE",
+            "lat": 13.810837,
+            "lng": 100.61916699999999,
+            "lastUpdateTimestampMs": "1501109493654",
+            "images": [
+                {
+                    "id": "c38c3e3839d7415f9e4cc919ec40bc01.17",
+                    "url": "https://lh3.googleusercontent.com/3Hy2BxLCVr7jCEUFmlheAN5whZisF_e4SIenarGLeWLBoRK69maE3RovhItj3AYlLkXV7ZR79rZUMpMXnSuP51M1_g"
+                },
+                {
+                    "id": "f8ea6608d23747959dd063c39fe539c7.17",
+                    "url": "https://lh3.googleusercontent.com/B-y560ajEZikRXbozkQKaEK1Ub6WMLjA2WnHdaRoCKIgJ6kestdI6y6Qc-axfdEYQdB1OkcHEy-FHhO83tbWlKjCas9y"
+                }
+            ],
+            "address": "34/5 ประดิษฐ์มนูญธรรม Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.805
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.289
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.805
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.148
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "996a48e879c5309f973705f667494434.16",
+            "hashedId": "35cad81890903fbe8a68e286844baeda7784ad04",
+            "title": "ศาลพระภูมิน้ำตาลทองคู่ศาลตายาย",
+            "state": "LIVE",
+            "lat": 13.811547,
+            "lng": 100.6225,
+            "lastUpdateTimestampMs": "1626787390609",
+            "description": "ศาลพระภมิสีน้ำตาลทองคู่ศาลตายาย",
+            "images": [
+                {
+                    "id": "fd199712255933059089ff8ffd76af6a.17",
+                    "url": "https://lh3.googleusercontent.com/gNyk_e7hFKvn5QmVncR7z1N3CfCVj_Oe5D0wmukfE-JJtxnbMNf3E0in-mN9sHZYMqUA2gBZU7BlQgseT4wWZ3wLFe0bq0grHs4fMHBItw"
+                }
+            ],
+            "address": "117 Yothin Phattana, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 96.3833151617273,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.152
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.168
+                },
+                {
+                    "id": "a403ab24167f0564357ba8c266836b70",
+                    "name": "Courthouse"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.381
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1626669659131"
+        },
+        {
+            "id": "9afaf0206e894acca822a12d516c65f4.16",
+            "hashedId": "6549b9734a5cd1f448f33383d045ae3f0bea5f5b",
+            "title": "Brahma Shrine at Karaokecity",
+            "state": "LIVE",
+            "lat": 13.816265,
+            "lng": 100.622587,
+            "lastUpdateTimestampMs": "1501109701558",
+            "images": [
+                {
+                    "id": "8759dd312b5e4a0e867d822f56658bc4.17",
+                    "url": "https://lh3.googleusercontent.com/Jdw9B27ltbYhWrbWN8IMqyjRwXwo6IdYsIzOVBgYvWWCFduwchRwX8BjYbbvwjtNKqy0Ss2xUCbQNGjFUA9J3AUCIi4"
+                }
+            ],
+            "address": "Pradist Manudharm, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.338
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.235
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.21
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.338
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9bf50b053c843ce9a9e8ae4f2312372e.16",
+            "hashedId": "b5c15d76276cb5028ed96c8e30237e3b2e56e110",
+            "title": "พระแม่ธรณี มวยผม",
+            "state": "LIVE",
+            "lat": 13.812842,
+            "lng": 100.61988799999999,
+            "description": "กราบไหว้ขอพร",
+            "images": [
+                {
+                    "id": "2572b52690713c3aa46e767b854d60ab.17",
+                    "url": "https://lh3.googleusercontent.com/Tx80qBRQthLTI7Dd6tM-vtSJvIkFkew4Ko94Qu3mrcdTl9RxGyloBnKkLIN04ceV3sbQ2TtVibNtgnIAXnlx-CT9_zcCz4UP0QICw6Vd"
+                }
+            ],
+            "address": "37/33 นาคนิวาส Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1674617405602"
+        },
+        {
+            "id": "a9766e62cc404c709fad80fef0b927b2.16",
+            "hashedId": "aed1183eacf521ee944f5454dc573aa054ee1ac4",
+            "title": "Family Sclupture",
+            "state": "LIVE",
+            "lat": 13.811632999999999,
+            "lng": 100.619502,
+            "lastUpdateTimestampMs": "1589895427585",
+            "description": "ปฏิมากรรมความสุขของครอบครัว",
+            "images": [
+                {
+                    "id": "370d4056116041d0889a825cd3c0fd3d.17",
+                    "url": "https://lh3.googleusercontent.com/LsAnlAZPF8UPf4CzXz_EdJbfy74qD5J9kDg9bhACWL0-pFlCZwTRU3XqWOYHZXnuDxXGZlxFhJ5Tm-tNt8dz6z5W0w"
+                },
+                {
+                    "id": "52e48b6f6b4033e287a0271bd83704fe.17",
+                    "url": "https://lh3.googleusercontent.com/l5_XhGldvmGxu1rFEp8RYwSyuul1r0ltoS5jkU1IizkV2AeELnp8V_0zTx2csQLOfRa9OBXX8JWroVtH8NN86YFiWbOFMup2gvPu1BxZ"
+                }
+            ],
+            "address": "Unnamed Road Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.491
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.491
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.144
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.119
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1580526569097"
+        },
+        {
+            "id": "a9cf8f7357523539a40d852deec6825b.16",
+            "hashedId": "4cfae4eb3efd98ed55d0730ae2f5e1881f1bacd4",
+            "title": "Cafe’ Amazon Yothinpattana",
+            "state": "LIVE",
+            "lat": 13.812455,
+            "lng": 100.62293199999999,
+            "description": "คาเฟ่อเมซอน ซอยโยธินพัฒนา",
+            "images": [
+                {
+                    "id": "2be06a519de73ba1a9a73b3137b8bf36.17",
+                    "url": "https://lh3.googleusercontent.com/Tw8cZWzsDDxHc2D75mXinBITZ5zmFXgMEXQwepOjJo2debNuLMVc91JDBtsj2On2G75-VMgLatmukP36kGBNTauKcrqJZp3xxAMrELo"
+                }
+            ],
+            "address": "3591 ชื่อ ยโยธินพัฒนา 3 แยก 2-4 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 86.77396,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee Place"
+                },
+                {
+                    "id": "a94b9f947d816b78104a0aab660e1d5d",
+                    "name": "Coffee Roaster"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1680624096410"
+        },
+        {
+            "id": "acb5a9c2db974295a731c8ec094cc43b.16",
+            "hashedId": "2750dde57ad57285822b8c83864a85bb90fbf03c",
+            "title": "The Holy Shire",
+            "state": "LIVE",
+            "lat": 13.815522,
+            "lng": 100.62666,
+            "lastUpdateTimestampMs": "1501109045932",
+            "images": [
+                {
+                    "id": "f2d0a282f66d41c7a43eea549ae99295.17",
+                    "url": "https://lh3.googleusercontent.com/GU5VGUt0-aTTO4Ud2c224i9JPsBoUncyZamxKebAZyIb1A796u_IVu3S5l906a4YAVNv_xzKN-9p0PcOyfrJ0VOGVw"
+                }
+            ],
+            "address": "Yothin Phattana 3, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.379
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.379
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.183
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.118
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "afbd949d71b44c388689d667a16f39c3.16",
+            "hashedId": "f3f89b3241bc53320c3fb676d130dac136e5a9d9",
+            "title": "Chanee Prop",
+            "state": "GAME_REJECTED",
+            "lat": 13.811715999999999,
+            "lng": 100.618517,
+            "images": [
+                {
+                    "id": "0a0f3c2495b74b719da926fda0828a7c.17",
+                    "url": "https://lh3.googleusercontent.com/XuNwa5J27xxoKNYvj4HX1BQzYvJN7CyZubrWdy-RUu9uKOUu769qUqw4-jm56yBN4XNpUnc_iuEZ_dZ8jovf9avzuYt_"
+                }
+            ],
+            "address": "37/18 Nak Niwat 48 Alley, Lane 14-13-5, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "afd7ef3c77d54c76ab632d7b039afbe4.16",
+            "hashedId": "4eb82d9fc124671f6d6e9cd943319fb61a274a3b",
+            "title": "Cupid Fountain",
+            "state": "LIVE",
+            "lat": 13.811456,
+            "lng": 100.618765,
+            "lastUpdateTimestampMs": "1619732787762",
+            "images": [
+                {
+                    "id": "c6e00a2e50cb405a9e752c1f6ffce2e6.17",
+                    "url": "https://lh6.ggpht.com/eydGFspNsljkwX9LLR5g7uYAST2OBqr72UHTTqFjKQwWKfdW4ZO56j9H7idCM9C0XrsIKjtSyqvv83m4KPs"
+                }
+            ],
+            "address": "64/99 ชั้น 1 อาคาร เดอะ คริสตัล Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.974
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.305
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.974
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.211
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619670404365"
+        },
+        {
+            "id": "b07301929c004c13a9846d3a55a9bc29.16",
+            "hashedId": "a775c80c369dba67a15ecc5d4c976705abdb505a",
+            "title": "Greyhound",
+            "state": "LIVE",
+            "lat": 13.811022,
+            "lng": 100.619013,
+            "lastUpdateTimestampMs": "1501109338305",
+            "images": [
+                {
+                    "id": "c27f7dffba684ee19fcc231a800285ff.17",
+                    "url": "https://lh3.googleusercontent.com/cviKr5OY-0wEdGZ8qJ_EuhX8h-STP0fYuran7i_bTOTqxznxgSA_vdcnwJGWTQw_pCcNMn5ZrrRRs6VNl2Gle4PTNU0"
+                }
+            ],
+            "address": "Pradist Manudharm Road, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.305
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.153
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.305
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.122
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b168afa319164b94b317952905aeab79.16",
+            "hashedId": "309498eb900e7c314a63fd13ab56252917a9e96e",
+            "title": "Phothalai Fountain",
+            "state": "LIVE",
+            "lat": 13.813891,
+            "lng": 100.625455,
+            "lastUpdateTimestampMs": "1501109607539",
+            "description": "Fitness Center",
+            "images": [
+                {
+                    "id": "c95c4d2ab55e4b218166f07024a88ad1.17",
+                    "url": "https://lh3.googleusercontent.com/BggRUsiZhNCh2NT1Jtd8yWlJ4NEpaOpnufncKAg4CgLrEvuvDUFjZnQes1vOcMQyNIGs74SpYEi96XfR6wkvlQ8ClUv3"
+                }
+            ],
+            "address": "ซอยโยธินพัฒนา 3 แยก 2 Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.888
+            },
+            "categories": [
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.888
+                },
+                {
+                    "id": "aae12013c0f49182495d12e50d9b5d5e",
+                    "name": "Fitness Station",
+                    "score": 0.176
+                },
+                {
+                    "id": "e117ee4f06266ce18d4e6b8c42fd4227",
+                    "name": "Recreation Center",
+                    "score": 0.144
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b16bddbb71f040e0a021ab220596942f.16",
+            "hashedId": "597e10d292d9ae9d25df374295a0c6890030d2f0",
+            "title": "โอ่งคืนดี",
+            "state": "LIVE",
+            "lat": 13.815574,
+            "lng": 100.623438,
+            "lastUpdateTimestampMs": "1501109611720",
+            "images": [
+                {
+                    "id": "628aad7d8d1d4878a355c314a5066e79.17",
+                    "url": "https://lh3.googleusercontent.com/kpyB5WQnasJpNlH_eLX6efV1SNlmiMOe77ZHSJvrlvcKsQR-KPOP17qsdkM3abcqG6P0bCQV2uiERBD4xonZ2ZUk9Bmk"
+                }
+            ],
+            "address": "Yothin Phattana, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.32
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.172
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.32
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.133
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b2ef44ac6f28426bb8ddeba9a619d5d2.16",
+            "hashedId": "2b236b836fffe0a9d7c48c51d01203007a2a6c22",
+            "title": "Scotland Yard Doll",
+            "state": "LIVE",
+            "lat": 13.811344,
+            "lng": 100.619007,
+            "lastUpdateTimestampMs": "1501110018708",
+            "description": "The crystal man.",
+            "images": [
+                {
+                    "id": "41b2ef0e47de4014b71e34c25a9faef8.17",
+                    "url": "https://lh3.googleusercontent.com/-b7kIXAxvfd7m5m9e0pTqv2eB26OFOru7wW2-vZQNk7XZjAhiVRyVspc5j6q_wO59-bd9k7kWh9NxYaIOhuAKq6LamA"
+                }
+            ],
+            "address": "Pradist Manudharm, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.722
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.722
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.35
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.132
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "be5a15f8ae0d3fdfbf533358c0b73634.16",
+            "hashedId": "3b8daf65cf32c86f8981567106125a33187478d7",
+            "title": "Couple of Dinosaurs",
+            "state": "LIVE",
+            "lat": 13.811905,
+            "lng": 100.62006199999999,
+            "description": "รูปปั้นไดโนเสาร์สำหรับกลุ่มคนมาถ่ายรูป เด็กๆที่มากับครอบครัว",
+            "images": [
+                {
+                    "id": "51398064f2a834db978af0d0da10fdde.17",
+                    "url": "https://lh3.googleusercontent.com/hAkcD9ceXUYp82Anr1m7a41yc6NTugyCw65XiTnoPsP6J8DN_QatxMVcdUFKGz2cwK61Fdk3Vkbl4FnNM7KCiif7Q1FdeIY13vdX68l5"
+                }
+            ],
+            "address": "357 Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue"
+            },
+            "qualityScore": 72.58378,
+            "categories": [
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1657531017594"
+        },
+        {
+            "id": "c326f96bda7f4c98a26825db3f2ee601.16",
+            "hashedId": "6439738d8cdce1223fac31c1e1e44e98e626cf22",
+            "title": "น้ำพุบ้านอาทิตย์",
+            "state": "LIVE",
+            "lat": 13.815647,
+            "lng": 100.623668,
+            "lastUpdateTimestampMs": "1501109860629",
+            "images": [
+                {
+                    "id": "6817f558cab74ab49cf661f1b216d318.17",
+                    "url": "https://lh3.googleusercontent.com/MdQoQyESQzRkpDWrZ03nxfNm1ATvw3iA_cqVMImj4-7NWh4YKhJp_n6ULs2rBO6QZF4mCb3ppuLlhHA5vy0DKXxqK_vn"
+                }
+            ],
+            "address": "Yothin Phattana, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.91
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.046
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.066
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.91
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c639a1d3aed4466082b492089607275b.16",
+            "hashedId": "112fb2fb6ea026b502b5329157ce43eca264f80d",
+            "title": "Phothalai Pagoda",
+            "state": "LIVE",
+            "lat": 13.814174,
+            "lng": 100.625001,
+            "lastUpdateTimestampMs": "1501109997786",
+            "images": [
+                {
+                    "id": "6300034be7b24666969e997ff4214f02.17",
+                    "url": "https://lh3.googleusercontent.com/tVXhVGiOHDCV8M8wUQY3YRemeET94gwiZHYsVYbGH_OphsaYDGscp1z67zAbGygt0mlJLBGmRo_O2aEMNQRn_YsTN_s"
+                },
+                {
+                    "id": "74c1ba78fc2a4da184667310f4eda5fa.17",
+                    "url": "https://lh3.googleusercontent.com/-z4OeQfyKVlwzK0Wmw4fpDIevpBQAnNCSiWqEjxKE5Mga7IP4i5pg1fwPQQMLkAp3ukH067z5Axk1LUB7PGz2ngGcQc"
+                }
+            ],
+            "address": "28 ซอย โยธินพัฒนา 3 แยก 2 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.159
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.159
+                },
+                {
+                    "id": "864f3b3b7f6375ea55f11435e5e4c7da",
+                    "name": "Pagoda"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.128
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.1
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ce6e152884cb486488972fe3338ea834.16",
+            "hashedId": "29815b441f4e1e0c057468a71107aa9d44dabcfe",
+            "title": "ศาลร้านข้าว",
+            "state": "LIVE",
+            "lat": 13.814214,
+            "lng": 100.623105,
+            "lastUpdateTimestampMs": "1554999133510",
+            "images": [
+                {
+                    "id": "7df54c00b93d4732875dd088945cdc7a.17",
+                    "url": "https://lh3.googleusercontent.com/jdkvRvsgZbo8tQIHdekKgaclsOsfXGPMeFoIS8u_iL0qfWKAf5lNnCKn_Km3mg0kf4gMqChQELDY_v-uBOubmfzrRrA"
+                }
+            ],
+            "address": "Yothin Phattana, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.184
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.184
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.107
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.093
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d04c38263ad045d088f6f41b63832781.16",
+            "hashedId": "034b5369164611430ee88044200a2f382cba05f6",
+            "title": "The Crystal New Ph. Sign",
+            "state": "LIVE",
+            "lat": 13.811058,
+            "lng": 100.61961099999999,
+            "lastUpdateTimestampMs": "1501109728435",
+            "images": [
+                {
+                    "id": "8600ca1151b049b3a89829b010db741a.17",
+                    "url": "https://lh3.googleusercontent.com/ByRFiwxICU59bP9eG8Wb80NX31IB2670RbTfMnT-FJk-wocz9rO0Ar-GH6mGRtSn6yuI1PHhKxHGKXkdMUOR4JqsNtzA"
+                }
+            ],
+            "address": "Pradit Manutham Road, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.268
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.239
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.268
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.19
+                },
+                {
+                    "id": "d129e72664470c55acaea6ae18983a3a",
+                    "name": "Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d0b1eef6339540e78e1b92e7d18bb129.16",
+            "hashedId": "758575e8a87a337cd2e49d9ffafc89abc5300d1c",
+            "title": "Phothalai Sculpture",
+            "state": "LIVE",
+            "lat": 13.814191,
+            "lng": 100.62539799999999,
+            "lastUpdateTimestampMs": "1501109847012",
+            "images": [
+                {
+                    "id": "0dbbe5dee9b74139ab5b434fa1c477cd.17",
+                    "url": "https://lh3.googleusercontent.com/e4_UfPl49Z_HvIW2kRslsYnDr7chl2lajZ7adjUbshp7TH6Csv5_2jR7uwAStBK7pRAkLrsYrJ1w8bBjnCNqAWYgzg"
+                }
+            ],
+            "address": "ซอยโยธินพัฒนา 3 แยก 2 Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.905
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.905
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.363
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.126
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d1dfd69bc44542399132275a3a92e0bc.11",
+            "hashedId": "f48831898a16f1ec7b9da9d9f2e9f6677e3cfd5b",
+            "title": "Cupid and Fish",
+            "state": "LIVE",
+            "lat": 13.811461999999999,
+            "lng": 100.61836,
+            "lastUpdateTimestampMs": "1501109122965",
+            "description": "Fountain at The Crystal",
+            "images": [
+                {
+                    "id": "1e07b497c6404366a67b9c670f06ae00.17",
+                    "url": "https://lh3.googleusercontent.com/J0-n2QDNXO5C_lB08moysr-Z147dfbXMuUTDlaVGS-KryD4XOWPnkRmoHlB83IK_acsZJVBAoaKxWcfQ57zpRKxnEg"
+                }
+            ],
+            "address": "Nak Niwat 48 Yaek 14-13-5, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.571
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.571
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.274
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.209
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d5429b63ea1e47178d9ab3133e92a917.16",
+            "hashedId": "c5e4e838e1280c13ceb6c155a53705da4cb6ed5d",
+            "title": "Triple Shrines at Potalai Golf Range",
+            "state": "LIVE",
+            "lat": 13.812458999999999,
+            "lng": 100.626859,
+            "lastUpdateTimestampMs": "1501109220735",
+            "images": [
+                {
+                    "id": "3c827fd072e94a9eaa4bf68fe4226c48.17",
+                    "url": "https://lh3.googleusercontent.com/kWUl1vlNkJ_AnE5R3dxf_-JJDKI-50eB3bRpWFftTTd6tBaAz4MQpOvBSsRYejuSDFXF8PJGW_kkRL0RbaMhTxSH6lI"
+                }
+            ],
+            "address": "ซอย โยธินพัฒนา 3 แยก 2-2 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.149
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.327
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.084
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e08225fe461442129e74d4528bd4b30b.16",
+            "hashedId": "39369752b5179e4c3b3a011a5c4316d307d7b516",
+            "title": "Alahcus Dolls",
+            "state": "LIVE",
+            "lat": 13.810682,
+            "lng": 100.62252799999999,
+            "lastUpdateTimestampMs": "1626593039224",
+            "images": [
+                {
+                    "id": "4bb936f9461243ef8f5b303fbdbbf608.17",
+                    "url": "https://lh3.googleusercontent.com/P9kgDirNKAZAQm8LCgtvrzwNlr2v2T0SjHS8-Ba8LOG9Qpb5GwNYh32kBnCq8cF8kzp2W_cbONz1oV3ElLor7ODpD_jR"
+                }
+            ],
+            "address": "Yothin Phattana, Khlong Chan, Bang Kapi, Bangkok 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.638
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.162
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.638
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.153
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e3c9042ae48847698f1ec214c2d94751.16",
+            "hashedId": "c27898c2a145b2fa284f06fcaca34f7ec7a4f6f4",
+            "title": "The Show",
+            "state": "LIVE",
+            "lat": 13.811675,
+            "lng": 100.618348,
+            "lastUpdateTimestampMs": "1600157934236",
+            "images": [
+                {
+                    "id": "ce75bfd3d46241de80789bba7cf9037b.17",
+                    "url": "https://lh3.googleusercontent.com/fFba7rJJBKzeG-RaKjNRBLr547OVGxD3JSy-BcHLPvML78h9U7sXEW-bUO4uCgH-y-AkJVKVCr5q4gYYFR-KN3TEyCA"
+                }
+            ],
+            "address": "5, Lat Phrao, Bangkok 10230, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10230",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.412
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.244
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.412
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.107
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f1647bb397464a8f8a711fdcc0b6250f.16",
+            "hashedId": "88fac7fe8bdf368cf6ce7731a591fd7dc0ff930f",
+            "title": "PetShop หมาน้อยตกใจ",
+            "state": "LIVE",
+            "lat": 13.809460999999999,
+            "lng": 100.621335,
+            "lastUpdateTimestampMs": "1501109376529",
+            "images": [
+                {
+                    "id": "68bab7028dfc43a6a1f00a83f2d73bd1.17",
+                    "url": "https://lh3.googleusercontent.com/JBhcANpq8_JuRPSweojMJZX_h5jo3hN27NIIdl8i9YdxnVJJwgs4BWdSdwFSDGU8jN4I8q0Zf9KVtauvNv5rYbYThQ"
+                }
+            ],
+            "address": "Yothin Phattana, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.383
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.248
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.383
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.229
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f54c5af6aa6c45bfbf38668bc11f1b6c.16",
+            "hashedId": "94965ea257b613a09a1df758151ecb26a91c7805",
+            "title": "Phothalai Leisure Park",
+            "state": "LIVE",
+            "lat": 13.815268,
+            "lng": 100.623747,
+            "images": [
+                {
+                    "id": "a93e5710d9574fd1a2e25bf66fda8bc3.17",
+                    "url": "https://lh3.googleusercontent.com/mZIh5GhGa4mCWjnRLWAWmevnFmewJo_DTUQgWqYwuzhAee6KBq7dmCTi7x2Pd_2sWV8YRiXoMZofzQUx6aSyiSf_aEI"
+                },
+                {
+                    "id": "9b45b4432de244339dc860262fde36fa.17",
+                    "url": "https://lh3.googleusercontent.com/kuBlyxT6cfMlZ01pysQYo6v6ujzwTuSmKoxfJacCEUlDJqyFPHAzUIcrZMuwYLC8Wpfiwa40LfGzHKD9gJWCndWSJHg"
+                }
+            ],
+            "address": "351 เกษตร - นวมินทร์ Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10240",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park"
+            },
+            "categories": [
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        }
+    ]
+}
