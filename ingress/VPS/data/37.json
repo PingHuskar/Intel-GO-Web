@@ -1,0 +1,2062 @@
+{
+    "pois": [
+        {
+            "id": "063e6fbf71593c7ab5cb0f48c5cc4e2b.16",
+            "hashedId": "98a0f8494538c4f72dbaf186d20804fcc93fbe80",
+            "title": "ศาลพระภูมิด้านหน้าอพาร์ทเม้นท์แวววาว",
+            "state": "LIVE",
+            "lat": 13.691136,
+            "lng": 100.603814,
+            "description": "ศาลพระภูมิที่ตั้งอยู่โดดเด่นบริเวณหน้าอพาร์ทเม้นท์แวววาว อยู่ติดถนนการเดินทางสะดวกและสามารถเข้าถึงด้วยการเดินเท้าได้อย่างสบาย",
+            "images": [
+                {
+                    "id": "1a1eea431b453216b488fa2151e1570b.17",
+                    "url": "https://lh3.googleusercontent.com/s_J_2cnjWA7GpngFAAm1YLxdgdmGR6h6DPv4wgj8gQA3shmtVIRGz8Pb4Idd_Tvkhp8wdS7Qk2UZfmphMiggiduBImD8wXH_ML-dvs57"
+                }
+            ],
+            "address": "MJR3+CGM, Rong Rian Phong Wet Anuson 3 Alley, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "6af0c8724df1f4f19a16234a43f34271",
+                "name": "Religious Sculpture"
+            },
+            "qualityScore": 94.72865,
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "a403ab24167f0564357ba8c266836b70",
+                    "name": "Courthouse"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1699207952000"
+        },
+        {
+            "id": "07024ac009ae4ea8a2c047fdefe69ba9.16",
+            "hashedId": "57e1fc6b2b32d296ba7857b6be8bfb9dab96b2ab",
+            "title": "泰原佛堂",
+            "state": "LIVE",
+            "lat": 13.697585,
+            "lng": 100.605953,
+            "lastUpdateTimestampMs": "1623309918267",
+            "description": "Local Tao Prayer House",
+            "images": [
+                {
+                    "id": "34d0fda0f87443eebf85c6f98f6034b4.17",
+                    "url": "https://lh3.googleusercontent.com/nFHBcH42_xiJm8iTnz3jRgTk6HIMr0CdsgFJz1ad_hXBHghHY2U6FYuDjAI1N49ah__1Qr-BafhG1k9WNM2pXJn1MUo"
+                }
+            ],
+            "address": "Soi Sukhumvit 97, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "082b42537d7f40f0838f6bf6919a9e89.16",
+            "hashedId": "35c85ba3a35b94a886a0dc2d820499a40a550759",
+            "title": "Household Shrine of Thanathorn Apartment",
+            "state": "GAME_REJECTED",
+            "lat": 13.696964999999999,
+            "lng": 100.6034,
+            "lastUpdateTimestampMs": "1501109283160",
+            "images": [
+                {
+                    "id": "e36fba7fad164f8fa49334f03b7dbee5.17",
+                    "url": "https://lh3.googleusercontent.com/GkRccIf5jKBy1ZsnppeYxiykrUQV1hcHk_m3RrcYcAaLIyOv8QOXq0do9x6q86mIEXv5vImWrUofLnmFlq-3d2rUavw"
+                }
+            ],
+            "address": "23 Sukhumvit 62 Yaek 4, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0c3c6fab3c5b42d8b94aba117b317991.16",
+            "hashedId": "c91c64e37d21f0d14fabb0a0750858f3e599c62d",
+            "title": "Shrine at Sukhumvit 62 Yeak 4",
+            "state": "LIVE",
+            "lat": 13.695307999999999,
+            "lng": 100.602252,
+            "lastUpdateTimestampMs": "1501109587112",
+            "images": [
+                {
+                    "id": "7b8ce608111a4bf0a5dc0cd807a3d951.17",
+                    "url": "https://lh3.googleusercontent.com/eJQgzoUvS4gG_Ywvdv0Tac42CE7g78lfaEI-SyL3Xva5J2CkEJLhi8Js_smW1Nzr3NcTO2EELsl7Y1nghD7hMjAZfNA"
+                }
+            ],
+            "address": "44 Sukhumvit 62 Yaek 6, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.2
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.163
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.087
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.2
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0daa58d5cc57443cbb0650fff762276b.16",
+            "hashedId": "97dbc84967853b3379dce6dce564eeef7584e171",
+            "title": "BTS บางจาก (Bang Chak) E10",
+            "state": "LIVE",
+            "lat": 13.696734999999999,
+            "lng": 100.60544999999999,
+            "lastUpdateTimestampMs": "1616667066678",
+            "images": [
+                {
+                    "id": "9ae1110046a6460b90d68b6cebb67534.17",
+                    "url": "https://lh3.googleusercontent.com/iptqIUjjMpW0KhddOHkwZ2oFAqziuiLqzNFx5c_KlVyiQ146inHbuR8Wg4cYA-cUUsMdMCb5HG2hLln3l6C8D8GlkSWN"
+                },
+                {
+                    "id": "d0c8960db5d34d22876b18ec40c3a5f6.17",
+                    "url": "https://lh3.googleusercontent.com/4QUd6DGPvw8OmQyg0iHuJOTN8JyIsTWTlvgkjHAhsVHvvUBZZAuFTAUVKLAVKFyx-vUVAsuZm3_xnRfkqjSR9gZkdg"
+                },
+                {
+                    "id": "98f24900271145e7b9f5bc35b284287f.17",
+                    "url": "https://lh3.googleusercontent.com/Q9udJffgOBjBobhdf_x7EMmToP2yfFMKpFhXJUYj37xNLaXYLO-iTAK0fSYW1vHDYWeQyfccZHTXlUUDo1sbAN9AMstF"
+                },
+                {
+                    "id": "5512ef9a7fc049c9af4898411124402c.17",
+                    "url": "https://lh3.googleusercontent.com/NQ_wQibBN6yXykaNwMJE13u_k1mUZrejSBjUSzNJUNKhUlz9-0jJG6vgdY8zejjYhBIUfhk2lOFKVDFpGqqYrQrpbeo"
+                },
+                {
+                    "id": "e40edc586cae3971a3e599dfa1f18364.17",
+                    "url": "https://lh3.googleusercontent.com/O9Cgh_KCGZBjc6zJv9ATtJu-8YP2gO479GYAcJUgXBfShkyVZS6wNWbZU37dw-ZvbzWVI3gq3Pw6VtB-EXUCpcPPoGKqHwFVfb7ozmg"
+                },
+                {
+                    "id": "9ddb29a069434f7995b47df16c7c880b.17",
+                    "url": "https://lh3.googleusercontent.com/E_LrjXQZ714G9_YpgdOaN-8FaamR5kHMam2nl3vnqgLUzs0FOxGvJlhsQdsrrQY5XBTbjtxOb3W29dH3jZYkkFJVTO8"
+                },
+                {
+                    "id": "fc93618d70454e09b264a0765bdc6d10.17",
+                    "url": "https://lh3.googleusercontent.com/95Dq8a3-fWlC3dTAmtT_xq6ac5fmTSkh5O4K4xyIbT3ZvgfYmN4slOHto6Axv1gbhWnwrhfCv-vHFtvzMXMm8tk7aKQ"
+                },
+                {
+                    "id": "d21a7419409c4bfc94aed56170f1e076.17",
+                    "url": "https://lh3.googleusercontent.com/P8NfNEynrDRh53f0YyNZL_jUtvmE6hOQL3-4akL4EGg9ijH-YKRPW7jeFpCNf-aSaDrY-DOj7_OOWiWl0Wfza-hGp0Y"
+                }
+            ],
+            "address": "Bang Chak, ปาก Sukhumvit 95/1 Alley, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.308
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.215
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.308
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.171
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1660134139427"
+        },
+        {
+            "id": "14ce052f7a9542d0b76556e137869ccc.16",
+            "hashedId": "cfee2b4566d9777443036bcfc931a898b5ff35a3",
+            "title": "Department of Land Transportation (Area 3)",
+            "state": "LIVE",
+            "lat": 13.696729,
+            "lng": 100.609543,
+            "lastUpdateTimestampMs": "1614862821066",
+            "description": "สำนักงานขนส่งกรุงเทพมหานครพื้นที่ 3",
+            "images": [
+                {
+                    "id": "c309706fb1b742efae770cd4f0e5248e.17",
+                    "url": "https://lh3.googleusercontent.com/hG0SW9Ly6IetYJ-uC0Ekwwat1p9AyCQ0zP1DtMaERSoFWZt63ciJVr7mD5XBt_kNYuxxvtZzLRkYIRcdwHfMtEpbmfek"
+                }
+            ],
+            "address": "2479 ถนน สุขุมวิท Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "4d7cc072469fb9a764d9a8186e48c4fc",
+                "name": "Transportation"
+            },
+            "categories": [
+                {
+                    "id": "4d7cc072469fb9a764d9a8186e48c4fc",
+                    "name": "Transportation"
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1c4a4592a2034e91a9b0650acbc4bd80.16",
+            "hashedId": "ccd5d24e2856efe2ce844897dbee351ead611316",
+            "title": "Bang Chak Market Holy Shrine",
+            "state": "RETIRED",
+            "lat": 13.6985,
+            "lng": 100.60483599999999,
+            "lastUpdateTimestampMs": "1571313068149",
+            "images": [
+                {
+                    "id": "6b638f105cf04e4186c391d879538470.17",
+                    "url": "https://lh3.googleusercontent.com/SAMN0VXT5PaQC_P2rJCReHW9liBYMLhjSznu6sP1ZdbGktRLaLRqF2oXByL92y3eytROPMAuI1D9W02EoG2tP-1m8Ug"
+                },
+                {
+                    "id": "a59ddd2eb1514e418811e0cf24a9b100.17",
+                    "url": "https://lh3.googleusercontent.com/LSRY-1R8S1spCboZCV5KRw63uwpqlBe30aYgMeVTUXOiI_qbg5tr5G8VypwCU-TdfWYbA-6jzM0lYL0dbMFIhYtlToI"
+                }
+            ],
+            "address": "2327 ถนน สุขุมวิท Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1cd84e0c36f63736b6b42fefa542382b.16",
+            "hashedId": "842e6265279a30a867c3043ecc4ac6e1920adc1e",
+            "title": "Fortain Sukhumvit 62/1",
+            "state": "LIVE",
+            "lat": 13.692819,
+            "lng": 100.605491,
+            "description": "Foratain at Sukhumvit 62/1 Krungthep Mahanakorn",
+            "images": [
+                {
+                    "id": "9defa2a020d034519bb29f3aca96f0ec.17",
+                    "url": "https://lh3.googleusercontent.com/mLZLoS3NTprEUAA6sTq6UDtUaEoaS9-xLHDoqP-GawBiTP33jnSTFjmf9-IHDw5kgf6wK4r3mbYj0rwbq58SY_BMMdXpxFJQeyuvPluI"
+                }
+            ],
+            "address": "55 Soi Sukhumvit 62/1, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1680774537889"
+        },
+        {
+            "id": "22190c3baf6643dfa74d90c54da81e69.16",
+            "hashedId": "1825e5dd310945d475c2c2f63597cbae85c1dce0",
+            "title": "DKSH Shrine",
+            "state": "LIVE",
+            "lat": 13.695402999999999,
+            "lng": 100.60719999999999,
+            "lastUpdateTimestampMs": "1616655407442",
+            "images": [
+                {
+                    "id": "dbbf113c40914c95b03caf50053b4daa.17",
+                    "url": "https://lh3.googleusercontent.com/LC9oRrGeb0_BiAZw95TV4B5xjKFuFWhSXhGmp6m7k4yeRQJ5idREeAkiCChVXuWa6Xk2B69qazgBp9asRKYIkp5GM2M"
+                }
+            ],
+            "address": "2533 Sukhumvit Rd, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "28872f9257b13718bd09901fb2fa1991.16",
+            "hashedId": "eadf9dbc319c442a6a0ebf62f2f058e2780d5f1c",
+            "title": "ศาลมหาชล",
+            "state": "LIVE",
+            "lat": 13.69413,
+            "lng": 100.601947,
+            "description": "ศาลพระภูมิ อาคารมหาชล",
+            "images": [
+                {
+                    "id": "7bf62de4f660347c993f77c2babf9982.17",
+                    "url": "https://lh3.googleusercontent.com/o_2mZ75TizQBAsrcDz0yEI9M8q-rEdm-zXJA611vSEbUU5FkaqCo_hflzvVlHNZ7IXhT2Xhwwb3B6jjGjWK9LxLj3uH7Z47B-kp0H9nmdA"
+                }
+            ],
+            "address": "M-Link Building, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 70.55516,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "a403ab24167f0564357ba8c266836b70",
+                    "name": "Courthouse"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1678679637068"
+        },
+        {
+            "id": "3183a060f4b7395e92f217547de2c336.16",
+            "hashedId": "9000d3928ffb9767fb421fe0ff72d8e2dac210fc",
+            "title": "Brahma Shrine of Casa Condo Sukhumvit97",
+            "state": "LIVE",
+            "lat": 13.697868,
+            "lng": 100.60664399999999,
+            "description": "Brahma shrine is holy shrine which people in this condo and sukhumvit97 worship. This shrine was built on Indian style.",
+            "images": [
+                {
+                    "id": "99046f698be2318481aada1bc4b57455.17",
+                    "url": "https://lh3.googleusercontent.com/lMlnOaCHy8FA3GL4z9WrDQaKBeNRgW7ntwk3gu-dm3vizlwBkK1QVtU1-CqhWIUKsRut2uCSo6y5Fn-q8IlUAWwMWmpxvg"
+                }
+            ],
+            "address": "4 Sukhumvit 97/1 Alley, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648194053437"
+        },
+        {
+            "id": "323edcd341063e5e9bf6ccb6417ccaea.16",
+            "hashedId": "6149388f73ed1d978a973c53a99fc108cf56beec",
+            "title": "พญาครุฑ กสิกรไทย",
+            "state": "LIVE",
+            "lat": 13.692357,
+            "lng": 100.60775,
+            "description": "พญาครุฑ นกเทพในตำนานของไทย",
+            "images": [
+                {
+                    "id": "1d5ce92d6cbc31abb6f6b6cb9064bed7.17",
+                    "url": "https://lh3.googleusercontent.com/tuu8Us7H_PZLUV7I8bvLJVT3MFfI0bVKHFppKEdEmzU3vqOoDwdoZ-LXrz_dan_tGiG2lOsADr5FmqdrcrdXD1eF2rk"
+                },
+                {
+                    "id": "5beece59243b3d75bf5fa594fd190d7f.17",
+                    "url": "https://lh3.googleusercontent.com/7sKBBb7lKJBVCMQfhtswJ8mq0EWhrNEAqsxLulwAFvyevel9QaU-s7xI6Y8WtZ2cCPojd634k_AK4rOxhcYaMFseodk"
+                }
+            ],
+            "address": "3001 Sukhumvit Rd, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648784180638"
+        },
+        {
+            "id": "326aec49b78640b8b57af4c5bc488bbf.16",
+            "hashedId": "2f31d392a4c51d61d2c778c18f4d13c212a66170",
+            "title": "ปลุกเศกโอสถ Gate",
+            "state": "LIVE",
+            "lat": 13.693446999999999,
+            "lng": 100.607118,
+            "images": [
+                {
+                    "id": "fec11c90341e4a8b9e17b3e221586ed1.17",
+                    "url": "https://lh3.googleusercontent.com/AG_caZd-cfZR-iJiXKBWv9U63uuO_tCvcX7BiUSY2Z_sQF7lk9kngzu_nIw3ibGqE1d0ksigDM8TmcO9uFXXMDaOOGc"
+                }
+            ],
+            "address": "2627-2629 Sukhumvit Road, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "39bd77459e323aa8a5cc5a6ec36acf62.16",
+            "hashedId": "583b3e0110764f052378e27b5c022b1948dd9cbc",
+            "title": "กวางเจา สุกี้ยากี้",
+            "state": "LIVE",
+            "lat": 13.696947,
+            "lng": 100.60504,
+            "description": "ร้านสุกี้ต้นตำหรับ เขตพระโขนง",
+            "images": [
+                {
+                    "id": "bd79807553223140aea1d1903f83bf8f.17",
+                    "url": "https://lh3.googleusercontent.com/5hJN0wecl6goK2NfO67yMRZQuYr_kgJ8D4sdFGNzIn42_huu7sYrVE9ycEMCySSl_YkJneEGWKHG-ibT1LCu5Feyl4Xdx1Bq6z3y71s"
+                }
+            ],
+            "address": "2036 Sukhumvit Road, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 86.77389,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "99cdfc5b63c22f6ce6707865db95afe3",
+                    "name": "Gateway"
+                },
+                {
+                    "id": "b3310386fac30b815dfb68cdf62d3c73",
+                    "name": "Chinese Restaurant"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1700370402634"
+        },
+        {
+            "id": "40cfdc1e96ea4142b902fbad54430b6b.16",
+            "hashedId": "bb1b8a6c3b0759875ba56dbaae1e81fbd34212fd",
+            "title": "เสือพิกเซล",
+            "state": "LIVE",
+            "lat": 13.698651,
+            "lng": 100.604647,
+            "lastUpdateTimestampMs": "1592314118840",
+            "description": "เสือพิกเซล",
+            "images": [
+                {
+                    "id": "0d88fbd510d14df8be7f58a6e84aa8a5.17",
+                    "url": "https://lh3.googleusercontent.com/bG1PJsfklknHRXaznnNZTu89BLGo9ei8De-dkktOCfk3zQ3O06fUjLoQaWU3qPUqWnP3i31uiCQYWwF-cyVR-LTtj5w"
+                },
+                {
+                    "id": "7ee36e4c798e3dfeabefd7e2813ce51e.17",
+                    "url": "https://lh3.googleusercontent.com/qphLqT29MLEotck_k_GABobE8C3ffzThwClifJfI6i-slBr0oR3_-kMd5jlqNDWTrVe3w2RnjajWlCzdHaMrk93nr4SW9Jx3rUH9oa2PZg"
+                },
+                {
+                    "id": "bb8f0de6620f32f8a33a3d94274a5b32.17",
+                    "url": "https://lh3.googleusercontent.com/GANnew4QAaQmYesiWSdQ3z-VjNgCi43vmZ4AUmDzczDXPuST8X7r0aJgPdX2KFFVjnzcHbF9hBi5O76BTGJAg0USxMTrjftROS1wRjak"
+                },
+                {
+                    "id": "1a6fb1e03f8032f18e9f4c3d4a224cc5.17",
+                    "url": "https://lh3.googleusercontent.com/lanZRLP3IDy5h0VoT4yw46EU0fncASDJ8pT7iWzZVjGCD4yBrPELRnSLx7oh2m9KIekBOGQgP_iauXg6hAw"
+                },
+                {
+                    "id": "7f4228dee1ca3d76b4c8899d9485830e.17",
+                    "url": "https://lh3.googleusercontent.com/0XrUSF3L1HwKO06HLkcG3JZPp-3Y7d-53uhyjLMKsOs_K9a0U4uCQcQGJuPWOyaBA1GuVMLMqcA-FEfZZvHvah2Dsg"
+                },
+                {
+                    "id": "92a547bedb1b376cb90a7fffd6a8c3fd.17",
+                    "url": "https://lh3.googleusercontent.com/WHNeISg8Zq7eF0VyDILL6vgQKR7zFG68aA3eBh_djiDDCK2vziKmRoo5QK6kCIdLB_d2eNL_lGRNWITSN2jNDw"
+                },
+                {
+                    "id": "1b5750d0256d326d836bafa0b9c1a538.17",
+                    "url": "https://lh3.googleusercontent.com/KR8Qkou8cDl0R82xojJGXtMtCKPXLT8Ej5UYX713IZ8B8gvkUJPO6LBaohGPh9TAKjECDIN_hleSNv7D-6NQHGzYyBLrWuw3GdZz5i3F"
+                }
+            ],
+            "address": "2317 Sukhumvit Rd, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0b5f589274539df5448573e8e11e5894",
+                "name": "Lighting Art"
+            },
+            "categories": [
+                {
+                    "id": "0b5f589274539df5448573e8e11e5894",
+                    "name": "Lighting Art"
+                },
+                {
+                    "id": "2209fabf553ecce2d8a0546aae6696a9",
+                    "name": "Mosaic Tile"
+                },
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.601
+                },
+                {
+                    "id": "681f4a2e54687abe607c1d6e483ec4f9",
+                    "name": "Drawing"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                    "name": "Graffiti",
+                    "score": 0.267
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.496
+                },
+                {
+                    "id": "fbf264dceba337bf62c7b37c23021ab0",
+                    "name": "Iconic Architecture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1591973814115",
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660220929196"
+        },
+        {
+            "id": "41566d9b046d3bf1a354b12703e1166f.16",
+            "hashedId": "e8bd2f7eb422564d30bd646c711b8b6453e5cd27",
+            "title": "Rosedee Restaurant",
+            "state": "LIVE",
+            "lat": 13.697913999999999,
+            "lng": 100.605066,
+            "description": "ร้านรสดี เป็ดย่าง อาหารไทย-จีน",
+            "images": [
+                {
+                    "id": "904fbee9e8373835b2e243dd7d4ff651.17",
+                    "url": "https://lh3.googleusercontent.com/ZPZ_fz0Z4YHrBhXhMfYKCPEdHkw0-_n_IkSmQ0xrugeSsmWAqbSB9IwK0vk_5V29VZ-wpGQccLYlmC9UEP2m554HvKIp3K4-1MK9uks-Gw"
+                }
+            ],
+            "address": "2359 Sukhumvit Road, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "2cb2078a28859a376087bcfb909c374b",
+                "name": "Restaurant"
+            },
+            "qualityScore": 90.429886,
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee Place"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1698829831964"
+        },
+        {
+            "id": "4cd46bf8409d4ecfafdb2b1851e132ac.16",
+            "hashedId": "ba6d9981d47742b7813c71763458672f1c21bdb6",
+            "title": "Shrine at the Department of Land Transport",
+            "state": "LIVE",
+            "lat": 13.696736999999999,
+            "lng": 100.60872499999999,
+            "lastUpdateTimestampMs": "1617715816578",
+            "description": "ศาลประจำสำนักงานขนส่งกทมพื้นที่3",
+            "images": [
+                {
+                    "id": "a826bb5fd39248b38ccc47801cf89377.17",
+                    "url": "https://lh3.googleusercontent.com/NHbQGPqv1HTwFYEgRA-toZMQKHwIfZmJekKXOnggfFDBz5P0ET5GtS-wNMGrYNitYdPRTZGKUZvwuEoYE_syIo7h9nswbhmpavYegms4"
+                },
+                {
+                    "id": "ef16ec0da4ca306194ef54ee2b9556d6.17",
+                    "url": "https://lh3.googleusercontent.com/l8M6WY6T7bvMYniD77tkPEx2C7jmvQuedkuKqQ2vuqYsy6xKMg09sKbbD7NImIoSNFF2BD1B_brvJMjvsCzyUS9XH7Q"
+                }
+            ],
+            "address": "2479 Sukhumvit Rd, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 87.40744598266271,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.125
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office",
+                    "score": 0.178
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.217
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1617629048144"
+        },
+        {
+            "id": "4ecace7d74643f20af2bf0d4e365c800.16",
+            "hashedId": "3eb9670caf89836294986c99d9bd2081c0bcdc44",
+            "title": "ศาลคู่",
+            "state": "LIVE",
+            "lat": 13.690093,
+            "lng": 100.604524,
+            "description": "ศาลริมทาง",
+            "images": [
+                {
+                    "id": "d309f84f45693dceb0955bdb9a03bf52.17",
+                    "url": "https://lh3.googleusercontent.com/5RpR4zWfbejKov5hspHcfJE9YblCiLjdJNI_zMZXKV4cH02F-MYBuOoNC36lhlKXfWr2q-QdTmOzjy_rzgQcOJcm9lCn0JX83ZFeVEaBaw"
+                }
+            ],
+            "address": "314 Sukhumvit Road, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 93.663,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch"
+                },
+                {
+                    "id": "a403ab24167f0564357ba8c266836b70",
+                    "name": "Courthouse"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1689349055233"
+        },
+        {
+            "id": "52382d4358724bb1a26aeb30b8243d4e.16",
+            "hashedId": "43d7adae155cfe3e54c618673b7f2050ffc79548",
+            "title": "3 Step Foutain",
+            "state": "LIVE",
+            "lat": 13.696204999999999,
+            "lng": 100.601312,
+            "lastUpdateTimestampMs": "1501109799027",
+            "images": [
+                {
+                    "id": "19b03567ced14be7a84c0addb7b5909b.17",
+                    "url": "https://lh3.googleusercontent.com/snCxmAEGy3sweHxifqIFzsP-svurDIwwQCQQ3nnACkQuD9JlsyeQnKzrfXPRMK5MwHwIebJzYJNnweLyKSw6z46hXg"
+                },
+                {
+                    "id": "c81c8dcede1c3a348b4f5824526b3495.17",
+                    "url": "https://lh5.ggpht.com/VPx9b3p-F9KcIsmL4egRh4SCRWmmdxJBkfV5PgQNFGfv_nm1ygQUGrsFTIbWxRMcrhyJqH8q8tlCGyAb6I-86A"
+                },
+                {
+                    "id": "1d6a0ea3e9b13c5bb8b87ae010a311da.17",
+                    "url": "https://lh3.ggpht.com/Cbny7CopuhmQpQeKXmDGuHQ__XNPzuTvIEvDKhEKUrwjXiLxB0T4-GTWoVjYv02dtgkhpJdWmHjgHP-Fye9A"
+                }
+            ],
+            "address": "50 ถนน สุขุมวิท Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.266
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.076
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.266
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.174
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5b0153ad66e04eefb04163d6207c70c5.16",
+            "hashedId": "c2be43437432e664779bd485f3423949937cae8d",
+            "title": "Ginnari in the Waterfall",
+            "state": "RETIRED",
+            "lat": 13.697873999999999,
+            "lng": 100.605271,
+            "lastUpdateTimestampMs": "1583229724686",
+            "description": "The small waterfall and fountain are located at the car park of the Roddee restaurant. The waterfall has a small fountain, Ginnari the winged figure, the twinned boys and Montho the Aquarius.",
+            "images": [
+                {
+                    "id": "ea0d2006693b4148acae824956788e04.17",
+                    "url": "https://lh3.googleusercontent.com/GRnbh0XvfUR3ZhHSLeYSCV2nF_tz49Ey5Gh-QRPwm1oRbLhzZqDkDXXGSepDOqVGx0qcEgfP1e7_skh_xeXd9ksO3mY"
+                },
+                {
+                    "id": "3fe4f504f44545c7be19416cc2718ab0.17",
+                    "url": "https://lh3.googleusercontent.com/aoLUI6sjnzyMjud4v3U8WOICwHwzdx89hIKfo5Y00G5Lhi6VNsfGZV6q6nBb83R2mo5XlSiU7nAwJO24C7qgj_2u-A"
+                }
+            ],
+            "address": "Sukhumvit 95/1 Alley, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6b1e732867a44b54bdcd3b0eec836df4.16",
+            "hashedId": "87857cd99beb553ac6a1e0f867cc4b0227db9444",
+            "title": "Shrine at M Tower",
+            "state": "LIVE",
+            "lat": 13.694405999999999,
+            "lng": 100.606332,
+            "lastUpdateTimestampMs": "1589895534425",
+            "description": "ศาลพระภูมิ สิ่งศักดิ์สิทธิ์ คอยปกป้อง ผู้คนในชุมชนนี้ ผู้ที่เลื่อมใส สามารถสักการะได้ตลอดเวลา",
+            "images": [
+                {
+                    "id": "03bc69041d784311b922fedf398cfef5.17",
+                    "url": "https://lh3.googleusercontent.com/uLlxhCOqnbfGM60YU1FkBllx63VX6A9sxdSdjnEu081gbG5KUI-KQQBLtfxo7isVOQg-W7iTl5zqgHbBp3k7r7MZb_jO"
+                },
+                {
+                    "id": "54e12231d8b9395e9b011d49bf136428.17",
+                    "url": "https://lh3.googleusercontent.com/pTrHSRxkXlLrlpyydhzeR098v_ivAA8rPGnCoB6NHGctrFtn0yLeY3-WIsr1oEzay97YQ8uipOTktsPdOA5yktGDmBGTYXc12KtLa_9PoQ"
+                }
+            ],
+            "address": "2401, สุขุมวิท, แขวงบางจาก เขตพระโขนง กรุงเทพมหานคร, 10260 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.276
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.276
+                },
+                {
+                    "id": "55894250f5e163977ffbd6ac7638dcfd",
+                    "name": "Clock"
+                },
+                {
+                    "id": "88d738a252c2b8b3d6f0cc028d418fcd",
+                    "name": "Inn"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.126
+                },
+                {
+                    "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                    "name": "Tower"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.148
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1585106332324"
+        },
+        {
+            "id": "6dec0a7607c5439f830a8d6c4004448b.16",
+            "hashedId": "8a5d3a74a09f5b99763ab6789a05a18f9832ffcf",
+            "title": "Ancient Thai Shrine",
+            "state": "LIVE",
+            "lat": 13.69404,
+            "lng": 100.60686899999999,
+            "lastUpdateTimestampMs": "1583228079402",
+            "images": [
+                {
+                    "id": "95f23a8782fe4644a2ef288830fdf075.17",
+                    "url": "https://lh3.googleusercontent.com/bJu5iSG-i-q0omIn0_pwHb7G9YYdBGT9YmbtZeeC0gnwMKnd2CygAwJkiNo7BYaEjQokefguZYOcWPs8q4XKuycnfoU"
+                }
+            ],
+            "address": "2601 Sukhumvit Road, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.374
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.204
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.207
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "708e428d17414aea9ffab26d456b3a02.16",
+            "hashedId": "b0182b06328ecd0ccad6e195b27cc57e563b72cc",
+            "title": "Dolphin Statue",
+            "state": "LIVE",
+            "lat": 13.692772999999999,
+            "lng": 100.60542099999999,
+            "lastUpdateTimestampMs": "1622188342512",
+            "description": "Sukhumvit 62/1 Krungthep Mahanakorn",
+            "images": [
+                {
+                    "id": "0fbbd19b8eac4687ba2695894cd9d5a4.17",
+                    "url": "https://lh3.googleusercontent.com/18zI2syrClZqQ4lDtloAidkcH2lARj2A4ZvXdGkn-Q5VN3vlo7aQF5I68mRKJf4FluLeHeyLvvnCA7PQrMRu1sovrg7nXgXsuyQXUp1L"
+                },
+                {
+                    "id": "5139ef1ca3534518bcd073599cbf3e06.17",
+                    "url": "https://lh3.googleusercontent.com/DHvVZmyGFNb4WvKrw7z-dACrBnNbQxLdg6LY3zPiXtB7L7N7JnLERr6a6hwhc8q_KGPe5TN8XwToLnTBw82jExqoJ8scvyneGVx0ZJw"
+                },
+                {
+                    "id": "3090d63c6fdc395bafe09a52dfc6d403.17",
+                    "url": "https://lh3.googleusercontent.com/p9MSl0wUYqFM3JKd1n6zWec-Q_v0FcQdIBIpCfs8YOgqSnN4mA-QmQXcFnqy4DCf0USbeOOJTeqm2yKnlnk"
+                }
+            ],
+            "address": "55 Soi Sukhumvit 62/1, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.962
+            },
+            "qualityScore": 82.46269040553908,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.566
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.962
+                },
+                {
+                    "id": "c09bfda15ac24578aed83aea8f8e7e9a",
+                    "name": "Landmark Item"
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.152
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1618469205652"
+        },
+        {
+            "id": "7dc9c2dc7f9e348fa75efb1db8083304.16",
+            "hashedId": "1fb725092877c13def7216386271111624a44c96",
+            "title": "White Elephant",
+            "state": "LIVE",
+            "lat": 13.693914999999999,
+            "lng": 100.601773,
+            "description": "รูปปั้นช้างหน้าอาคารมหาชล",
+            "images": [
+                {
+                    "id": "22dc83d41a46313996afdcc4fe0551d6.17",
+                    "url": "https://lh3.googleusercontent.com/FFxhaphyJX0pr-7bjRAQLPpNbpqkABq0qeP08hisBFrC5FmcYBOjsjbMlFN9lsVKwuoF467Am62F6LeOLXSAqZg2FWCPi5KOn9A5tXCd"
+                }
+            ],
+            "address": "75 Soi Sam Phop Naruemit, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture"
+            },
+            "qualityScore": 82.68086,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1679493349354"
+        },
+        {
+            "id": "7dcffcedaa6737fbb72bb453ddb244d7.16",
+            "hashedId": "63f0346792ada642c29965f74f1cbd8c9be98e35",
+            "title": "M Tower Sign",
+            "state": "LIVE",
+            "lat": 13.694785999999999,
+            "lng": 100.60606399999999,
+            "description": "The entrance sign of M Tower Building",
+            "images": [
+                {
+                    "id": "116d82c668c73ba98005ef5ca05b539d.17",
+                    "url": "https://lh3.googleusercontent.com/on0O3oWT61uO-iB2j2Du8_SvFyEzyHqxmDq7nZbi7syNwrVhVCiAcAWbMkLb13kyHjr62gg62E3Dhvc2kTqseZCBXI0"
+                }
+            ],
+            "address": "2096 Sukhumvit Rd, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 83.40749,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                    "name": "Tower"
+                },
+                {
+                    "id": "d129e72664470c55acaea6ae18983a3a",
+                    "name": "Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1671021288374"
+        },
+        {
+            "id": "828b282eb3094357a617570dfd989feb.16",
+            "hashedId": "e99559e75a6bd8adbd79572fda928c1b6094290f",
+            "title": "Viva Shrine",
+            "state": "GAME_REJECTED",
+            "lat": 13.698170999999999,
+            "lng": 100.60445999999999,
+            "lastUpdateTimestampMs": "1501109729181",
+            "description": "Shrine in Viva Garden.",
+            "images": [
+                {
+                    "id": "7dfe2cfc3e9243d39cd4eac9ae0a54d0.17",
+                    "url": "https://lh3.googleusercontent.com/srlg-k2qSEBjdfc08hevIiMg0IAniE3imD8_4Phrr9-R1F8h3LxXfMV0FD4tVuVOHGafoYiC-6X6q_sPFsFtryrwuk4"
+                }
+            ],
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "85fcc7bc2cb94dc3a83b9122b81cf283.16",
+            "hashedId": "087fcf274f29e5fd8655ee1cde8dc55e924065ab",
+            "title": "ศาลพระภูมิหินอ่อน",
+            "state": "LIVE",
+            "lat": 13.697669,
+            "lng": 100.606358,
+            "lastUpdateTimestampMs": "1618320417328",
+            "description": "ที่สักการะบูชา​ ให้ปลอดภัย​จากพยันตราย",
+            "images": [
+                {
+                    "id": "5de2a656bc6f46e7bfd5ba432b5a0a15.17",
+                    "url": "https://lh3.googleusercontent.com/fl_qZ_zeFntMMqca9feeFYmTO2oJzPK3eZjDc_8rz_qo_bc-q8Bskg6YphEgiUZmQWHIB9EHURh67VjngRHX708xL58oVE1J2SMdo3OY"
+                }
+            ],
+            "address": "16 Sukhumvit 97 Alley, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 76.54858694230015,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.152
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.143
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.131
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1617884832854"
+        },
+        {
+            "id": "8cca71488e9443d39a9d5764f5fd3249.16",
+            "hashedId": "5076a3eebdf06008eb883e69de5d4061b856ae0d",
+            "title": "The Viva Garden Shrine",
+            "state": "GAME_REJECTED",
+            "lat": 13.698165,
+            "lng": 100.604401,
+            "lastUpdateTimestampMs": "1501109863246",
+            "images": [
+                {
+                    "id": "8d719031e72b4abf97e88e477bf0b278.17",
+                    "url": "https://lh3.googleusercontent.com/IiTNUIXpJJ5AhfWHcrRFCr9KN_4NtVvd59vu3RWeUOmFb7u89U7FQgoE0hwyKeK-SToUsS4pjdQYC2AiNT43ngGHk0g"
+                },
+                {
+                    "id": "a620c0b0397a46f795885d09f1a18147.17",
+                    "url": "https://lh3.googleusercontent.com/zngsVKIo8RIYVcz6eI6KN8sGVpcuZtMj14OMJEVP6d9vRoNhGk50R9b7S-INk4TXKiAa-LUq3Amp-6JE4ANwmHD1Fq0"
+                }
+            ],
+            "address": "Sukhumvit 60/1, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "90c3a46d628b3eee80b6586fd86a8f14.16",
+            "hashedId": "3019fdcd6d965da6d4cca5b5b26957250e1f2115",
+            "title": "HIPEX Fountain",
+            "state": "LIVE",
+            "lat": 13.69746,
+            "lng": 100.60472899999999,
+            "description": "HIPEX Fountain \nน้ำพุ ไฮเป็กซ์ \nบริษัท ไฮเป๊กซ์ (แก้วสารพัดนึก) จำกัด\nยาดมไฮเป็กซ์ทูเวย์ / และยาน้ำสูดดมไฮเป็กซ์โบเก้\n",
+            "images": [
+                {
+                    "id": "20d0a95bdf9a3eddb9c8157ffbafdd3d.17",
+                    "url": "https://lh3.googleusercontent.com/UoOuFwXIjkTy6QTqqc-KCZABYHlq6YawTvENvv2vS4GxpuqwTi0e3YzhiUhgRIuevuIsGNUGgfNZfi9T0rpDvw"
+                }
+            ],
+            "address": "Bang Chak, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                "name": "Water Fountain"
+            },
+            "categories": [
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1640751987347",
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1675225662534"
+        },
+        {
+            "id": "94162a672e7f468eb08f8208eb37586e.16",
+            "hashedId": "cf07a2ff7a749cd96b4b080751b24b25ab92583c",
+            "title": "Viva Garden",
+            "state": "LIVE",
+            "lat": 13.698208999999999,
+            "lng": 100.60447699999999,
+            "lastUpdateTimestampMs": "1623412884078",
+            "images": [
+                {
+                    "id": "d0604a78c63744e481a1670c1799e081.17",
+                    "url": "https://lh3.googleusercontent.com/SEXtWGgb0yjACdMIfS9He3OECCXQkq-k7-IljIyTgJ3293rVjXAHGybt7lCeal5bBgCJMyCQcHgmV1HxeP43WSm6Jx0"
+                },
+                {
+                    "id": "8b0356c13a1c458086650235307d2c29.17",
+                    "url": "https://lh3.googleusercontent.com/IfIqh91fyOXoTiXKlUojMExtldeSYi56WfdOMLYF_v5IQlwukS04ZSCfeSLweSW1i7DFwQvrhWr7gqlZSQmMDOXpk_hq"
+                },
+                {
+                    "id": "9f3066c1b6ec4994a6718de93879af4d.17",
+                    "url": "https://lh3.googleusercontent.com/74QUp5-xvbAq3j7To1f9aQw_iMHj_aGcLpYHBj3iBYt8YRnRboieGHHLTLhqkaJ7XCQRD6uPnccfb0vhtXn38uzs3poa"
+                },
+                {
+                    "id": "dd789c9e4b8c3bebb41f21c2ad9afbe8.17",
+                    "url": "https://lh3.googleusercontent.com/rtWdsotetUfSUNObpLBwfXO-brYInd9E6GmqYP38rroUvtrhI9h27943D5jWhftXfua8DWuP6ZqFJEI9_Q9QSv5ouoZb5llTj3RrK48"
+                }
+            ],
+            "address": "Sukhumvit 60/1, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "45929338fa74ec1e46190f4def203daa",
+                "name": "Garden",
+                "score": 0.659
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.286
+                },
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden",
+                    "score": 0.659
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.139
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1675229163739"
+        },
+        {
+            "id": "a61f37271bd53abdb2d2d74b07fffff4.16",
+            "hashedId": "f53a51364c76a6c117323f6b5ad508225a70c9d9",
+            "title": "ร้านข้าวซอยลำดวนฟ้าฮ่าม เชียงใหม่",
+            "state": "LIVE",
+            "lat": 13.696874999999999,
+            "lng": 100.606179,
+            "description": "ร้านอาหารพื้นเมือง",
+            "images": [
+                {
+                    "id": "49437210299b32a1851322f14e0e5b14.17",
+                    "url": "https://lh3.googleusercontent.com/y7xCMFv9if4p9XHQPr9o7uxwvJR3TpF6WRw86IyWQY-6YViCzYHaqtVWcUfDgoHe6IR7kCoIKS3C9eIzrhDHE1E2GnoqGBOOH-p7zQWmVA"
+                }
+            ],
+            "address": "25 Sukhumvit 97/1 Alley, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1667795658416"
+        },
+        {
+            "id": "a83778544b5c3924a66fe48d7e470a1e.16",
+            "hashedId": "61bbfe220474cc30524b7ec590763250cee52d8d",
+            "title": "ศาลพระภูมิศรีโรจน์",
+            "state": "LIVE",
+            "lat": 13.692592999999999,
+            "lng": 100.602784,
+            "description": "ศาลประจำศรีโรจน์อพาร์ทเม้น",
+            "images": [
+                {
+                    "id": "c20a30c843023b05a51ec59367c45a93.17",
+                    "url": "https://lh3.googleusercontent.com/4SSlhJ6MqDBEczMn9XVTW1sHohj_ADQ0nzQAQ7WgXyQNC2mhiYn77gHmAQ_CAwCMiB9Oi0DnK8Q1ysX0txa-R5svpFk"
+                }
+            ],
+            "address": "65 ถนน สุขุมวิท Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1627983938860"
+        },
+        {
+            "id": "b35a4b5e08ac4f479ad8ef1ea2f73cad.16",
+            "hashedId": "36127231036927a17c90f74e9262cfb9f3462b08",
+            "title": "พระพรหมบ้านมนธิดา",
+            "state": "RETIRED",
+            "lat": 13.691835999999999,
+            "lng": 100.60806699999999,
+            "lastUpdateTimestampMs": "1653923411942",
+            "images": [
+                {
+                    "id": "c5915f1b2c0e4941a1e9e5e7ec70382a.17",
+                    "url": "https://lh3.googleusercontent.com/TM8ant6uKXn55BmcHYx5wudtQYYfUPKDROJLxEf54EofPXINFHbgsNRzJYbR8fTG_Waq90bege3lAUpm-8IyP4LcKj4"
+                }
+            ],
+            "address": "3007/3 Sukhumvit Road, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.355
+            },
+            "categories": [
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.355
+                },
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.272
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.258
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b4509f7609924bd785efd2a0b2367855.16",
+            "hashedId": "a494176154078d47646b8506985e76a7245dbdc7",
+            "title": "Sukhumvit 62 Park",
+            "state": "RETIRED",
+            "lat": 13.695831,
+            "lng": 100.605572,
+            "lastUpdateTimestampMs": "1583231108972",
+            "images": [
+                {
+                    "id": "18aba4b3f6ea429aa257b2e7a74365fa.17",
+                    "url": "https://lh3.googleusercontent.com/9LBNKoQ8IpDm7Ah7pAmK5PEagmjLbWzy8gWceu_euxUSk-a2JIUSfAgD-Z9ma3D03NnP3hn6iPzOmqq5DtTP3yRXY3c"
+                }
+            ],
+            "address": "Sukhumvit 62, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b551d686d89733f2987ef1477520472f.16",
+            "hashedId": "7c63f83c28523b45a775d56d896a98b6b0c27e00",
+            "title": "Brown Shrine",
+            "state": "LIVE",
+            "lat": 13.694832,
+            "lng": 100.60438699999999,
+            "description": "ศาลพระภูมิ",
+            "images": [
+                {
+                    "id": "e7315eb345f03965a3fe545f8944fecc.17",
+                    "url": "https://lh3.googleusercontent.com/ejJnlMLkkfUqzSU4b0cEISp8K1sFKiJYf1CC1KubPjQcvJC1DQ0kzAoQF6WQfz4OBJlknXY4dj98iYIEItbNqYB5A-NYO9OGBpOT0H4Y"
+                }
+            ],
+            "address": "7 Sukhumvit 62 Alley, Lane 1, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 91.79459,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1679316046226"
+        },
+        {
+            "id": "ba7be9dadc0f465e9d07b5a561503991.16",
+            "hashedId": "96550bc52b8c72887427780ba83769d8e9bd1358",
+            "title": "Shrine of SCB",
+            "state": "LIVE",
+            "lat": 13.696178,
+            "lng": 100.60580399999999,
+            "lastUpdateTimestampMs": "1616423606129",
+            "images": [
+                {
+                    "id": "14427e3ac75a3edbbf2f51ca2f1f2f71.17",
+                    "url": "https://lh3.googleusercontent.com/cl85HB6PakLUJR389ESFNv21VmjIaM6qGhYh9EI55hGJIMEPE0iNEKaCum8vUYfNYAFY7ZvXRU2BLOsgnY2WmasNB-7fvAvd2Dkk0JKU"
+                },
+                {
+                    "id": "3fdb4efd1cbb43b2948da6cbf669adb5.17",
+                    "url": "https://lh3.googleusercontent.com/Ady5xsosf7fEtJzcPQ6FIG-AQKtF6jk9D79Ef6XnhKGn5NFmCrTmlxpXNSRz68lZ2-0iAhZoJFuNtpnDfp97UOtpbRA"
+                },
+                {
+                    "id": "ceaf5f0bc95736a0bbc381eb7fcc8bde.17",
+                    "url": "https://lh3.googleusercontent.com/qHnxyoMVQkVT90DeghmOLKHTOdeyPWidhAyRGGzJYhoMJlSflPIFz_pndL2os2yn4aF2cIvK2f0LUbIOCTLOQjTLB_0AtVbmXgW202gdVQ"
+                },
+                {
+                    "id": "c6362adf5308376dba22d4c25105969a.17",
+                    "url": "https://lh3.googleusercontent.com/kMnhPqlV6c_gTPr-awKldSJdHKeEKSX3WurW9y9XykZADLL88Y4lmtcdFB67hkY2veBk2vZuLvjO_iNedZNnkuJ-Fr3nerxieee4SgFU"
+                }
+            ],
+            "address": "2425/5 Sukhumvit Road, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.234
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.234
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.181
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.215
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660141755393"
+        },
+        {
+            "id": "bdbbba989dd144a0bdf1961c9488e1b1.16",
+            "hashedId": "d131324da6230446a9570a191cbdecfee7877254",
+            "title": "โรงอาหารสวัสดิการ",
+            "state": "LIVE",
+            "lat": 13.696541,
+            "lng": 100.609921,
+            "lastUpdateTimestampMs": "1614090137792",
+            "description": "กรมการขนส่งทางบก พื้นที่ 3 เขตพระโขนง",
+            "images": [
+                {
+                    "id": "9fd82c377c0545e4b76bef895cfb55c1.17",
+                    "url": "https://lh3.googleusercontent.com/ikny8VoU-hrV-SPiKLgrljmYvOwgZDV8DjWvGz5IpuwOvs-XuoA2Q2TttBl4c0cAE5ULlKBwfDq-t7E3E1e3WIJkDGlhGQ1iSX6zKuw"
+                }
+            ],
+            "address": "2479 ถนนสุขุมวิท Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "ce64859076051dec2b34827e1b0bd37f",
+                "name": "Informational Sign",
+                "score": 0.329
+            },
+            "qualityScore": 81.88108090760296,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.184
+                },
+                {
+                    "id": "72d95ece8aa84692af045849271fc7a9",
+                    "name": "Thai Restaurant"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.329
+                },
+                {
+                    "id": "f052fae5c3cfb8e7eb1c4ce5e5bd4e75",
+                    "name": "Cafeteria"
+                },
+                {
+                    "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                    "name": "Road",
+                    "score": 0.114
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1613945620516"
+        },
+        {
+            "id": "c1702a754851417ea00f09c03608f94a.16",
+            "hashedId": "5736725daed36b2ea96e102e2e8ecc9b002cdd68",
+            "title": "BTS Bang Chak Station",
+            "state": "RETIRED",
+            "lat": 13.697465999999999,
+            "lng": 100.60516299999999,
+            "lastUpdateTimestampMs": "1501109374313",
+            "description": "BTS บางจาก (Bang Chak) E10",
+            "images": [
+                {
+                    "id": "1a237eb84cbe41f588cf9b999d4dc16c.17",
+                    "url": "https://lh3.googleusercontent.com/n5allQSwLjAlh0BgEmdeL-wy98V8RhpDSb9-Get8QSE_fFFF1XrwpJCMXGdP8LHyIizHQxWC2G_0wXKy62So1YtKOQ"
+                }
+            ],
+            "address": "BangChak Market, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "cc6ce2483dca39d5ab394b0819bc37d3.16",
+            "hashedId": "e09b4cdf2c7bbe33cca2714e7aa33d9bd4fa9def",
+            "title": "Wooden Spirit House",
+            "state": "LIVE",
+            "lat": 13.690534999999999,
+            "lng": 100.605479,
+            "description": "ศาลพระภูมิทำจากไม้",
+            "images": [
+                {
+                    "id": "ada10d5bf5e1310d817741ace3d9349b.17",
+                    "url": "https://lh3.googleusercontent.com/r4MF2GVZRoTODxJZFt9_3BMerhKdHs_10HtdczsMAB5TJ9EuZGasj7_mc91E909QZ-zLOV62GXhyS_o6XxsBDMfSRF5AgqHKdwDOmjVW"
+                },
+                {
+                    "id": "c1638e4fb0943d94bb47133a94b2aaf4.17",
+                    "url": "https://lh3.googleusercontent.com/Iy3ZsVhVQ4h_CIo4KsjnuqLpisn0Do00AUsd8uQRQRd-XFg1ZaZVNvhETFw0ZmN275sHHQSmEoOeTBoonbK2LibN2EhJ8jwLqLpfiz54Qg"
+                }
+            ],
+            "address": "70/2 Rong Rian Phong Wet Anuson 1 Alley, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1687948884960"
+        },
+        {
+            "id": "cef64533d35b4ea9aa7ae7d685dd0409.16",
+            "hashedId": "66e7b32f872c950bfc1411dffe81856ca3a06ac0",
+            "title": "Shrine of Busicom Building",
+            "state": "LIVE",
+            "lat": 13.696905,
+            "lng": 100.60339499999999,
+            "lastUpdateTimestampMs": "1583229033523",
+            "images": [
+                {
+                    "id": "89ca7cbaf807418b90b3316d7a8c16b8.17",
+                    "url": "https://lh3.googleusercontent.com/dU8ONO9_N0up42P6-Fracq5C9KCoSnKQzj9rwNcSXH2WYiV6aaTTMAr18RLd89C86xw3fTWCm_TawrrwQp3NkByqrdM"
+                },
+                {
+                    "id": "d337d4a0ae854d288486d02b69c76737.17",
+                    "url": "https://lh3.googleusercontent.com/JQcLc3OrCi2mfo7i4KSwDxpxVDgHZGQV16CRVc5Cp4SHeIpiFgDCXsVTEXRUKS8U7c3ccs0p2hlzip2uYEJo3rqM5w"
+                },
+                {
+                    "id": "8f5f8e78c6924ec98f81fd3c06b3f859.17",
+                    "url": "https://lh3.googleusercontent.com/_leEGIAREF1F924xGz0SERQvya9Lfo6POiQa6PxBoGV6XsECv1TVUErDVPMPBlOoRth2c5pBNVJ7aC-EIvtun0Pzf-0"
+                }
+            ],
+            "address": "23 Sukhumvit 62 Yaek 4, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.196
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.252
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.292
+                },
+                {
+                    "id": "eb6a935d6b62f1a033715156e12030e3",
+                    "name": "Building"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "cfbb889cc41b433888772d5e40869643.16",
+            "hashedId": "dc3b75209160592f80b3662fcfe6c7d0d0f990aa",
+            "title": "พระพรหม",
+            "state": "LIVE",
+            "lat": 13.693449,
+            "lng": 100.606808,
+            "lastUpdateTimestampMs": "1575524087059",
+            "images": [
+                {
+                    "id": "23cd3138cc4247cc800a4ff157ac57c8.17",
+                    "url": "https://lh3.googleusercontent.com/yZRSDWNMMsbwrtljtMt1zzdvVAEYjKm4j7asFeYqtx8fddznZle5aynvtgJnfAzJLLStQsS9Qd1If1kRga7ynVfd6fvF"
+                },
+                {
+                    "id": "2e911b7ced554e4a804f604d6b673508.17",
+                    "url": "https://lh3.googleusercontent.com/m7TfNXF4edUg0DuaKHwW0qF_M4dGVKL3j0ZQot8SArYpbP53hGGF9nBj65yXPinAxt8w0rkL2d4bDt9URNBHsmiDikx-"
+                },
+                {
+                    "id": "71e8d3ea2de04e92a439159b8b47f792.17",
+                    "url": "https://lh3.googleusercontent.com/IpHX41BWQtbuu9HBAAUkJKHlt4CDJo6k2N6cDBKaT_TFVRHw4NA5hSTp_f38GEqdoF11AMSluWD6eFB5yLk14gSYjg"
+                },
+                {
+                    "id": "49b5369878d345de8faacabbc95c43df.17",
+                    "url": "https://lh3.googleusercontent.com/U3gf9hFp8xmge_7wfygdWB409McSWLgi_UMXkXsWGJY556yTZBXw1c_gw6bYKEDppbnqD5rexxtIymoilsX7FVu77Q"
+                }
+            ],
+            "address": "2148/1 Sukhumvit 62/1, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.175
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.164
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.146
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.175
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d5e2a2dead7e393196880417ba1a785e.16",
+            "hashedId": "06d7ff1008725c86439ce1dd0171767dd6a1ecbd",
+            "title": "ซุ้ม Bangchak Square",
+            "state": "LIVE",
+            "lat": 13.696821,
+            "lng": 100.60555199999999,
+            "lastUpdateTimestampMs": "1627392203897",
+            "description": "แหล่งรวมร้านอาหาร และเครื่องดื่ม",
+            "images": [
+                {
+                    "id": "a11b5992437134e5a414363638823d10.17",
+                    "url": "https://lh3.googleusercontent.com/x7aBCo3Q08-yVrMaJKkRUclxA1FY2XYgVTdwK9-yb1DZCIB7OveMWEYfHYM-eTRTq5ZPhsLA7XlcJNdtR5dOoF1VVKxqOCwDbYo1Fjla"
+                },
+                {
+                    "id": "94ea4305520f31f2b390eeca43d1dde7.17",
+                    "url": "https://lh3.googleusercontent.com/JkQNUOilX-qptrT1mph1hSqXZ9kM0tdlxEjL4B_oRbg1sAs707r4c1LRqmZWXmUaKY_5RKMnTPSKF8yQzXui7vAJyAWjqK7EvXqz_HAMMw"
+                }
+            ],
+            "address": "2389/42 Sukhumvit Rd, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 79.79246472921136,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1626869817502"
+        },
+        {
+            "id": "e7202fc5235e4c2cb2c24418e08b9b40.16",
+            "hashedId": "56e5eebf342b7514721769e1a03c3325daf189be",
+            "title": "Twin Chinese Lions at Thaifast",
+            "state": "RETIRED",
+            "lat": 13.69693,
+            "lng": 100.605424,
+            "lastUpdateTimestampMs": "1583229194604",
+            "description": "They're stand between the front door of the Thaifast electric.",
+            "images": [
+                {
+                    "id": "5f40f3a717ba40fd9f3f42d1d780424a.17",
+                    "url": "https://lh3.googleusercontent.com/Y48uy_yZdorS1iZQafdBwciBFmouJJliFBO37kJNntvfulcF1O-OXwcwDd64ClqbRbvxOpoWTCoym8dxgj3sECHBH7k"
+                }
+            ],
+            "address": "2389/42 Sukhumvit Road, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f1fd9f31b6a53664930d988c2dfe84ec.16",
+            "hashedId": "ed960ef090bd631d6a80cef40887e3e990fcd558",
+            "title": "Spirit house",
+            "state": "LIVE",
+            "lat": 13.692478,
+            "lng": 100.601697,
+            "description": "A shrine at Sukhumvit 62.",
+            "images": [
+                {
+                    "id": "86805bc50289377b95082da308b1f4bb.17",
+                    "url": "https://lh3.googleusercontent.com/Z_jejQbDli7L7uoSN4narnuVqeZDEBYkA7qB-qgtMpcpcy_NhB0dc3GDmfwjiPgmlnrGNaWDranS5hfanhUpO_UihN2p5tbDTv1kieDBLQ"
+                }
+            ],
+            "address": "111 ถ. สุขุมวิท Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 82.1979,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1697183292281"
+        },
+        {
+            "id": "fa213afbdef544f888b847fd5f6c76c3.16",
+            "hashedId": "b27a55454845d8c72ece744ecc353da6c3f06fb5",
+            "title": "Cheewakakonarapaj Shrine",
+            "state": "LIVE",
+            "lat": 13.694381,
+            "lng": 100.606769,
+            "lastUpdateTimestampMs": "1501109244340",
+            "images": [
+                {
+                    "id": "c395123f3edc423c9416c4c2adfd6927.17",
+                    "url": "https://lh3.googleusercontent.com/c7vPWLjjBMhZEIJF4NWDmEjR26ItpNuROUyMfVq-twuAh-mR8pHEC8iJ95DeEPGLGHPJ_lrwuHsHMwI9cglNGVv6pu0"
+                }
+            ],
+            "address": "2535 Sukhumvit Road, Bang Chak, Phra Khanong, Bangkok 10260, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10260",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.588
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.588
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.18
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.209
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        }
+    ]
+}

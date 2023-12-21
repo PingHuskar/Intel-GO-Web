@@ -1,0 +1,2149 @@
+{
+    "pois": [
+        {
+            "id": "0050470d5c4338b1ba7c0d50fd518ecf.16",
+            "hashedId": "74c6f71db91083718f1f262382a7a72720a72a0f",
+            "title": "Chonnabod Fountain",
+            "state": "LIVE",
+            "lat": 13.808807999999999,
+            "lng": 100.73297,
+            "lastUpdateTimestampMs": "1621949021391",
+            "description": "น้ำพุกลางสระบัวร้านชนบท",
+            "images": [
+                {
+                    "id": "3becf4a7292238a49fc4a87f8ac14663.17",
+                    "url": "https://lh5.ggpht.com/NzEF-ZOLRQqmg5WgG4Ojb2ksbqDFsI_Ev1IjFpsuVlXXHRpBlsF1D2mdb3lNRVgB6lUNQwrDoO8R_VPh2PIk"
+                }
+            ],
+            "address": "6 Ramkhamhaeng 192 Alley, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.988
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.129
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.988
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.064
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1621494241255"
+        },
+        {
+            "id": "03a376cb362a3c8585e6d35c27389834.16",
+            "hashedId": "229926af354dc9638e2717288c424f791c8ea914",
+            "title": "น้ำพุปลาเงินปลาทอง",
+            "state": "LIVE",
+            "lat": 13.813013999999999,
+            "lng": 100.727373,
+            "description": "ตลาดมีนบุรี",
+            "images": [
+                {
+                    "id": "21258991d2d03929a2920c9eefce77d6.17",
+                    "url": "https://lh3.ggpht.com/dczZ3T3TIPKHh3KtU0wiUmg4rGehcfD3x8NWw9LpgfQVYVAftSVKBWCytxbNsRPmgShSoMlL-UP990B_Jks0"
+                }
+            ],
+            "address": "520 Sihaburanukit Rd, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain"
+            },
+            "categories": [
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1632895139534"
+        },
+        {
+            "id": "058f49810c8e4949ac7e143e338a3c6c.16",
+            "hashedId": "21ea2ca7eb4e55e0d28aff2d63a35a44e3bcb16f",
+            "title": "Double Dargon Pole",
+            "state": "LIVE",
+            "lat": 13.810882999999999,
+            "lng": 100.72961,
+            "lastUpdateTimestampMs": "1501111782285",
+            "description": "Chinese Style Temple.",
+            "images": [
+                {
+                    "id": "a2ac3004ffe640c59e5666a5b57423c8.17",
+                    "url": "https://lh3.googleusercontent.com/ttE362azACJdepHqskvDW_vGCBVuoCi4B3HhhxPfll6qW7vvEjyX1nnD4dFwsPqf1t797O64RhTavKcY2ZFhRzNA2w"
+                },
+                {
+                    "id": "11e6414c373d4764a9e5c821e9730dc5.17",
+                    "url": "https://lh3.googleusercontent.com/gaIMYBOj6LEsYgEptw6qfUO7iUoaflrBTH5V5kkXe8JsOYxsVXdzz1Z0_Nn0Cxkm2I68Hwslb7FfQKnoo3NFg4TDilg"
+                },
+                {
+                    "id": "34970e937f1544178bad4213dd3bdce2.17",
+                    "url": "https://lh3.googleusercontent.com/ttqJao1qmJDzOedSXm_NJDhwfftZ752rM1BVn2IsnR8l1nzLsME3Bs3_wSX1LaP_vgd5oBkisp_HCljN7ZNkSrly8sc"
+                },
+                {
+                    "id": "cd07bc5c1add4130af5c1aaa7bef6630.17",
+                    "url": "https://lh3.googleusercontent.com/y-rqwy95ldohSDm1t8B7HN-6jJyNCzN2T36hG-lINeD_tzbX6ECTuma6wOO7Xiq2bgp19SDV6DmXTvzQZqrl-z5Pg6r9"
+                },
+                {
+                    "id": "17a1be4bbec84280b33c166e9df3f42c.17",
+                    "url": "https://lh3.googleusercontent.com/PgdkHA4UJf4II83loswAKavpHDCNfdfWvgeJiQvTvygiGtBceUnWS2JVY5QUXlyHKXSdgJCiIthhzrQYX5rthkvsZw"
+                }
+            ],
+            "address": "383 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.834
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.332
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.106
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.834
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1702455978868"
+        },
+        {
+            "id": "06c3910bec603819a4653fd7b185fcad.16",
+            "hashedId": "4e8cf8a706e5f719f5df2c100f5cb3b0d16aaffc",
+            "title": "Origin Basketball Court",
+            "state": "LIVE",
+            "lat": 13.812358999999999,
+            "lng": 100.73293299999999,
+            "description": "Play active space. Open access parking garage rooftop park.",
+            "images": [
+                {
+                    "id": "748ce01a6ab3360ebf9d7f05aebe9fa7.17",
+                    "url": "https://lh3.googleusercontent.com/PiFkHVBwvyxKjtbvB_vap3YprIJi2QcfD0ep_Y1gk2-u-PqWDwV7zW4dwh72cdwM7Sh12zZDt8GSORN0p3VpwYebBKKMmy7tV7x6jOeI"
+                }
+            ],
+            "address": "7/263 หมู่ที่ 4, ถนนสุขาภิบาล 3, แขวงมีนบุรี เขตมีนบุรี กรุงเทพมหานคร, 10510 Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": null,
+            "qualityScore": 89.03211,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1702966331597"
+        },
+        {
+            "id": "0c01cd0c7109345a99d9409e2d94413f.16",
+            "hashedId": "a14f37d75a0af2041dd69f7ff0d33eab566af76f",
+            "title": "4Circles",
+            "state": "GAME_REJECTED",
+            "lat": 13.813184999999999,
+            "lng": 100.732519,
+            "lastUpdateTimestampMs": "1627392355985",
+            "images": [
+                {
+                    "id": "a8673bfdb4953f3b92729ee7a160c746.17",
+                    "url": "https://lh3.googleusercontent.com/H-wUz4n0Op4HUSLmnA9Ai_b-2_4Ow3n9LrZJzrptxAQ24FSXKjuS_BHQNmK4XtQNSO2kK49CWGkoXa5fVvI"
+                }
+            ],
+            "address": "58/143 หมู่ 11, ถนนรามคำแหง, แขวงมีนบุรี เขตมีนบุรี กรุงเทพมหานคร, 10510 Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1627299325786"
+        },
+        {
+            "id": "0f88bfb907dc421c98d70cf70332cae0.16",
+            "hashedId": "09f9c6c1e61b248b4cb7c0e5e317bafe55304e7a",
+            "title": "Minburi Park",
+            "state": "LIVE",
+            "lat": 13.812814999999999,
+            "lng": 100.732117,
+            "lastUpdateTimestampMs": "1557081095362",
+            "images": [
+                {
+                    "id": "423b102084c741a899f1930e0ba2c211.17",
+                    "url": "https://lh3.googleusercontent.com/V25DAc7yMG17lq64Nf_Ti0TdbBvrMWw9yhqAjCLQ-ohYqIl08NSwrDFAfYsLnoOuyge54aP3rvjQXQTRBp9yOa-X9Rg"
+                }
+            ],
+            "address": "36 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.882
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.368
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.882
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.122
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "119e7c5cc43b444fab4cfa45750f8e8d.16",
+            "hashedId": "9e0735a6019e09216947ac0f0c6f88910541a5d1",
+            "title": "ตลาดสดมีนบุรี",
+            "state": "LIVE",
+            "lat": 13.813079,
+            "lng": 100.72814699999999,
+            "lastUpdateTimestampMs": "1591708990475",
+            "description": "ตลาดสดมีนบุรี",
+            "images": [
+                {
+                    "id": "e95a491b088041ea90e17c10aea9d86f.17",
+                    "url": "https://lh3.googleusercontent.com/dU27I3zhI3JP3gbE42nQZf9fc0ftZN6rnGiuWH_8m_jon3iFU_nPO-a50mdnJYsQalm9SLN7_jKDQTt_Pe3p851RLg"
+                }
+            ],
+            "address": "506 Sihaburanukit 15, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "2b53450af0c24cd79053f1fc64ee11b8",
+                "name": "Open Market"
+            },
+            "categories": [
+                {
+                    "id": "2b53450af0c24cd79053f1fc64ee11b8",
+                    "name": "Open Market"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.444
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.067
+                },
+                {
+                    "id": "8f725985600d31d53eb12748abf99af1",
+                    "name": "Urban Plaza"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.054
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1591296036256"
+        },
+        {
+            "id": "122a16b7d6414fe6a9ef45d4918260f3.16",
+            "hashedId": "7ad7de38884dfc98eaf429f0cf2ccac0621144af",
+            "title": "K. Mibure",
+            "state": "LIVE",
+            "lat": 13.813644,
+            "lng": 100.73169999999999,
+            "lastUpdateTimestampMs": "1559906711335",
+            "images": [
+                {
+                    "id": "7b69dd1b52da4dbb91a8211a1b60d910.17",
+                    "url": "https://lh3.googleusercontent.com/QkbvH6nFv8ZSEIGAPU6_LBKUgYDJZAVHM9IOz5HE3P4BMWlQkhESwkbZmAWt1pKoZ0bbrBAT6nK6MAFDa7mEHRVtzV8"
+                }
+            ],
+            "address": "11 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.245
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.147
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.245
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.162
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "182e9af60d794043bb20fc519318e59b.16",
+            "hashedId": "0f60d11501946ab12aaf372df9455a4898ca7bda",
+            "title": "Chao Phraya Phakdeenoraseth",
+            "state": "RETIRED",
+            "lat": 13.81381,
+            "lng": 100.732942,
+            "lastUpdateTimestampMs": "1501110142513",
+            "description": "The 1st property trader of Thailand",
+            "images": [
+                {
+                    "id": "9a13a28ac1f848ab9b9fca47e9685e5b.17",
+                    "url": "https://lh3.googleusercontent.com/yxII9tpgOwDyD6RsKNAgfuK-frCZspj1PuFjKArp5G87nPq5rj7TWepDeZ8cs_EITkDV9y_-oqye2U4skLQ7divaZMaG"
+                }
+            ],
+            "address": "43 ถนน สีหบุรานุกิจ Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "184a346ac5fd3911a25d9826f2a8a4d4.16",
+            "hashedId": "2683d20707648a1069c9c5caaf52d36386d182a9",
+            "title": "ศาลอาญามีนบุรี",
+            "state": "LIVE",
+            "lat": 13.814114,
+            "lng": 100.73257799999999,
+            "lastUpdateTimestampMs": "1627392181852",
+            "description": "ศาลอาญาของเขตมีนบุรี",
+            "images": [
+                {
+                    "id": "06e997f0999632118310540a04fc29f9.17",
+                    "url": "https://lh3.googleusercontent.com/P-dH_wRdRaL0wb2XmfA2WxP5n2OqZK7QR9k_1gQCucDjFCfplXj57ZFqKloh3HGW0l_i4vq-oW8tyCBUabIiqyW6nJs"
+                }
+            ],
+            "address": "1/9 Sihaburanukit Rd, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 73.26450735246485,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "a403ab24167f0564357ba8c266836b70",
+                    "name": "Courthouse"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1627303891857"
+        },
+        {
+            "id": "188b96119d813679b6a0797314f5b4c1.16",
+            "hashedId": "622fc250e805fdabf7bd4d09c16ee6f48fda7f72",
+            "title": "PK30 สถานีมีนบุรี",
+            "state": "LIVE",
+            "lat": 13.808807999999999,
+            "lng": 100.73230199999999,
+            "description": "รถไฟฟ้ามหานครสายสีชมพู",
+            "images": [
+                {
+                    "id": "9e88f22eb3aa3f44be691cfba60a91aa.17",
+                    "url": "https://lh3.googleusercontent.com/iMw_X48zoLTcB_KY6lgNDa5RvsB0c83i5jvX-bAwNScsm-gNJ31DWnWL7fNS0doYennEU-d48SxlIFEYeAmSJV3lDU5yXBYcQ318itk"
+                }
+            ],
+            "address": "Min Buri, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": null,
+            "qualityScore": 82.96915,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1702944495450"
+        },
+        {
+            "id": "295b495512d24f2aab044f122867ae36.16",
+            "hashedId": "abad43647bf809752ab49a5bcbd57febd993eba0",
+            "title": "Shrines at the Side of Samwa Canal",
+            "state": "LIVE",
+            "lat": 13.815947,
+            "lng": 100.729609,
+            "lastUpdateTimestampMs": "1501109709837",
+            "images": [
+                {
+                    "id": "26c9fc0c96084f2d9d8733383b3f1e55.17",
+                    "url": "https://lh3.googleusercontent.com/shaskHmptoM0IKbAnbk9HvxbaMOhs9pZS0QctgTPKeQbe1Ytf56DoHof5M0qugPj0CMChD6rytFTW0OKYnzc72wIIyU"
+                }
+            ],
+            "address": "7 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.203
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.203
+                },
+                {
+                    "id": "0ec26435bb9863f11d75f9b416c59deb",
+                    "name": "Canal"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.178
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.201
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "29de83e69301436897b495cb8ca3b266.16",
+            "hashedId": "27d57c6f0e92f8919e67b2d16335bd2447cfe074",
+            "title": "Funpark",
+            "state": "LIVE",
+            "lat": 13.812991,
+            "lng": 100.732542,
+            "lastUpdateTimestampMs": "1501109074314",
+            "images": [
+                {
+                    "id": "baa0addd964445d5ab904e7e50e48b53.17",
+                    "url": "https://lh3.googleusercontent.com/Kq_3-NFZB0bRE2G6P3bvlliTZ5OXBY573zqV7vSk20nXFw6Z2-nTWR2aflPUd8pn1evc76K26orWdu2w10D65kH5Nf0"
+                }
+            ],
+            "address": "43 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.77
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.419
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.77
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.281
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2d402fbd6d0547269f693587e347fff2.16",
+            "hashedId": "67af610d5f1e642b4447ccc2e6867bc08be4d465",
+            "title": "พระภูมิ@ร้านชนบท",
+            "state": "LIVE",
+            "lat": 13.809147,
+            "lng": 100.73288,
+            "lastUpdateTimestampMs": "1501109342145",
+            "images": [
+                {
+                    "id": "5bf83b0a70614540af30a4465b63111d.17",
+                    "url": "https://lh3.googleusercontent.com/eKxFMiBJUO2fyz-T6DNbKkGOpq8upRMJNB296w0y07mwr_7zna1tpnMscLBdKWHVnDRojIJzpu00qjrwx5to2K1t9OE"
+                },
+                {
+                    "id": "2b25dc5e03244ae09a67bb6f7602e331.17",
+                    "url": "https://lh3.googleusercontent.com/WaooFrada2xF3hmBmD7HiMe-mySyxh7mIjj8EIBfBGaICcPS3Y8t5v5KhhAi8O6pGd9P-Nf7fSruL0Ii6BCH-1tQxUI"
+                }
+            ],
+            "address": "Soi Ramkhamhaeng 192, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.229
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.229
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.151
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.1
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3b1ab2411b9b43dbbde84bdc46ab35f1.16",
+            "hashedId": "6987cd3cf9f94f0132be011998163d801f8ee96e",
+            "title": "เกวียน สำนักงานเขตมีนบุรี",
+            "state": "LIVE",
+            "lat": 13.81406,
+            "lng": 100.73159,
+            "lastUpdateTimestampMs": "1501109299001",
+            "description": "สำนักงานเขตมีนบุรี กทม.",
+            "images": [
+                {
+                    "id": "9b1e41c86be64ea49a0bcfb284d11e57.17",
+                    "url": "https://lh3.googleusercontent.com/apPyzj67D_UET7qwJsNjnqAQ7NzD1SS_RW6n0xpzAMrNAroa70oYaiCkfHuV9cceWSWjGGGvkJk2sB8J3sYp6GJIavY"
+                }
+            ],
+            "address": "11 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "cbae2226b4d446691579c26927801eb7",
+                "name": "Office",
+                "score": 0.792
+            },
+            "categories": [
+                {
+                    "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                    "name": "Post Office",
+                    "score": 0.554
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.448
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office",
+                    "score": 0.792
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4ac6ef3ebf9b359eb803b74e7f31950f.16",
+            "hashedId": "afc05a1b24dcc6c777e5af05a40ff08cbc2be87e",
+            "title": "Chinese shire",
+            "state": "LIVE",
+            "lat": 13.810602,
+            "lng": 100.72616099999999,
+            "description": "ศาลเจ้าแป๊ะกงประจำหอพัก",
+            "images": [
+                {
+                    "id": "744f5f41be4f3a29ab2a68c81f4d3542.17",
+                    "url": "https://lh3.googleusercontent.com/u8Am83zy6OKZYA731iADc38icXZUhfGJitM9qmnPo1PcYZEIge-B7sCwk3hfShxYFf12Kx2W1oYG_SdSlG87PU7qQ-c-EimqOgitnQtT"
+                }
+            ],
+            "address": "59/10 Sihaburanukit 18, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1696477744651"
+        },
+        {
+            "id": "4bbb422c169d46179cb1e29b49a4ab11.12",
+            "hashedId": "c08559720d89334cd04c2d78aa6ea3b226a58c62",
+            "title": "King Rama V Monument at King R",
+            "state": "LIVE",
+            "lat": 13.813262,
+            "lng": 100.732046,
+            "lastUpdateTimestampMs": "1501109681530",
+            "images": [
+                {
+                    "id": "001367d30f244a2f8bc344fd65813d47.17",
+                    "url": "https://lh3.googleusercontent.com/LTwxqHgJcKenz_l_Lw2Yzpx0pQkkzJXcfhJKS723mFjOO7X0tgu55SLugwNq0o30Z3UJQ4PeH9Jt7V6VRon1Z4Ne8sfr"
+                }
+            ],
+            "address": "Thanon Sihaburanukit, Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.603
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.294
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.603
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.13
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4cf5b153818d4cb1908914ed8f197a44.16",
+            "hashedId": "16aff4e1edb43162f06954c8cd64fe62e592ff25",
+            "title": "New Market Shrine",
+            "state": "LIVE",
+            "lat": 13.810846,
+            "lng": 100.727167,
+            "lastUpdateTimestampMs": "1589801056955",
+            "description": "ที่จอดรถตลาดใหม่ของมีนบุรี ฟรีค่าจอดชั่วโมงแรก(เมื่อต้นเมษายน2558)",
+            "images": [
+                {
+                    "id": "b8bd823c5b2743738630614ec601cafe.17",
+                    "url": "https://lh3.googleusercontent.com/e9ZrjRQ6QsP0h8kzbFmG3THBAxo0DsBPPPz7ZLV3I0MB4sagJ3KZe080-5bXIsqHjbRtoJfHsj7W2icORoH_NYnUOoBq"
+                },
+                {
+                    "id": "7535194f9c9f491a9fc8d78262e8eea0.17",
+                    "url": "https://lh3.googleusercontent.com/_szPGTTtRhkf9nUqwXUGsHg4THEY6MyQ-RGmTJZytrUtXJhZB6DJEKSZIvx6VNLRuKwzAQfFLDMSMG0ZLJkjZIb5bTk"
+                },
+                {
+                    "id": "f26e29ea0a764604b4ca59f53982133f.17",
+                    "url": "https://lh3.googleusercontent.com/5BRrf-KFgA30nUZI8o5NRUr2lHBuDpqzaBzEBru8S81evT6d6UH9znIYorTddISG2CSA9oXojWCJeucTFks1D4AGDs0"
+                }
+            ],
+            "address": "1 ถนน สีหบุรานุกิจ Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                    "name": "Market"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.226
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.73
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.128
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5470072a60614adbb17fbcdfa9a6213e.16",
+            "hashedId": "696d5f6ac80e6c9df72025fc7c54fe03d4280812",
+            "title": "ครุฑแดง กรุงเทพ",
+            "state": "LIVE",
+            "lat": 13.812275,
+            "lng": 100.72829399999999,
+            "lastUpdateTimestampMs": "1591104368413",
+            "description": "ครุฑแดง ตลาดมีนบุรี",
+            "images": [
+                {
+                    "id": "361bb25fe17f42e1a05665ec6d0a06bc.17",
+                    "url": "https://lh3.googleusercontent.com/GqVbOKbR6WBKiKGpu5kCx0RQlmaazlJLVePVRfAxKU0sF0s4VWpb_h6ydm5Ck-zFWSRrRTbiFt4LawidXgTpE5KUCw"
+                }
+            ],
+            "address": "155 หมู่ 8, ถนนสีหบุรานุกิจ, แขวงมีนบุรี เขตมีนบุรี กรุงเทพมหานคร, 10510 Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.423
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.423
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.077
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.117
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1591014060963"
+        },
+        {
+            "id": "55da5855e4964b02a909b9245a4d97ab.16",
+            "hashedId": "f7e76a2804f662b17ea1c09dc5518b85766c6185",
+            "title": "KBank Fountain",
+            "state": "LIVE",
+            "lat": 13.813177999999999,
+            "lng": 100.72755599999999,
+            "lastUpdateTimestampMs": "1501109774167",
+            "description": "Minburi Market",
+            "images": [
+                {
+                    "id": "1f13373e39be467a9d031df5ab30ee7c.17",
+                    "url": "https://lh3.googleusercontent.com/azz7EtSiUr2nXylGSs-ZRpQy_Bx_YSPQfs3MJ6ZXJglUHFBf_h7SWIKfBhZu4o1xDQvv2kyVJ7FOVlDJX4_eI9zR8g"
+                },
+                {
+                    "id": "3a9800d5513c4c4288f632d10904c52e.17",
+                    "url": "https://lh3.googleusercontent.com/tx1DRRLFsITO0I-tf8lt6cLj3oA2plRnfycW4b0kkLaiPfide_y4TDSFImBUr2IzZAWsa70dCoTeBl6ZqoF-CfzmLQ"
+                }
+            ],
+            "address": "521 ถนน สีหบุรานุกิจ Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.885
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.173
+                },
+                {
+                    "id": "7ba3b459772ebc9899ce25a385885e42",
+                    "name": "Bank"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.042
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.885
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5664292dab3a4961adbf4f799dbd6b54.16",
+            "hashedId": "2d5b4aee87affa328f95717dfeb649de014c12dc",
+            "title": "Mark Land City Village",
+            "state": "LIVE",
+            "lat": 13.815182,
+            "lng": 100.72654999999999,
+            "lastUpdateTimestampMs": "1501109413406",
+            "description": "ป้ายหมู่บ้านมาร์คแลนด์ซิตี้",
+            "images": [
+                {
+                    "id": "db80dd223abf46d587154782a844971b.17",
+                    "url": "https://lh3.googleusercontent.com/IZGzD6U_5_qsiRGXlnCGdZWAXVeB_-2Yf9dJBVtWVofgQeGEtjDuRfBDVityb3JN5iUq_fk3DcxRRh4EqCFCBqSOmQ"
+                }
+            ],
+            "address": "399/90 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.214
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.214
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.118
+                },
+                {
+                    "id": "f72a4432da22afe781f94b9ae90ae0c3",
+                    "name": "Trail Marker",
+                    "score": 0.191
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5dc6e7c6dd4542bbb520c3a6f395a322.16",
+            "hashedId": "9ad24e1a2cc951dc1bf7cee4457f598ef786cbc3",
+            "title": "Mibure_park",
+            "state": "GAME_REJECTED",
+            "lat": 13.81335,
+            "lng": 100.732303,
+            "lastUpdateTimestampMs": "1501109277245",
+            "images": [
+                {
+                    "id": "696d9040b110428999881509ba625faa.17",
+                    "url": "https://lh3.googleusercontent.com/G72JAIx2EFveFYoDTDzsXwtZ6YXTgdRx0OI1wYZ_xXNYOrEzu2DZW2IE5a1K300npRbUGcvjHHKLn2NdwelpqupZJisA"
+                }
+            ],
+            "address": "Samnakngan Khet Min Buri, Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "62aab7ca37a74a6db235553672e7cdf8.16",
+            "hashedId": "f3d1380afa56a873e104fe467bd60d3502a34140",
+            "title": "นางเงือก สำนักงานเขตมีนบุรี",
+            "state": "LIVE",
+            "lat": 13.81383,
+            "lng": 100.731892,
+            "lastUpdateTimestampMs": "1501109384040",
+            "description": "สำนักงานเขตมีนบุรี กทม.",
+            "images": [
+                {
+                    "id": "5641db06ed6946c5b10764f3ba2ee5fd.17",
+                    "url": "https://lh3.googleusercontent.com/Yr3T2daaBPCe_GDSjTz_C2Ouy-4LBljAPJkyD1pMhVUj056itfcRMzhwumd28D0DxdgsfdVmGlWtewQKeg4oqHN6L1yA"
+                }
+            ],
+            "address": "ถนน สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "cbae2226b4d446691579c26927801eb7",
+                "name": "Office",
+                "score": 0.84
+            },
+            "categories": [
+                {
+                    "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                    "name": "Post Office",
+                    "score": 0.301
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.508
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office",
+                    "score": 0.84
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6980db472a544fb39a53f14113f7a405.16",
+            "hashedId": "0deaabe3c1907313fa3cc0b8d19d3d5f239b5dc6",
+            "title": "ปลา สำนักงานเขตมีนบุรี",
+            "state": "LIVE",
+            "lat": 13.813659999999999,
+            "lng": 100.731313,
+            "lastUpdateTimestampMs": "1501109322138",
+            "description": "สำนักงานเขตมีนบุรี กทม.",
+            "images": [
+                {
+                    "id": "8ec53485957b49c6bdef5e06f1a31b89.17",
+                    "url": "https://lh3.googleusercontent.com/Rnhs59jqCMELeznHZXVMrJtqTI4hBru549I5QHcylfuQzDJcqqrBQ-MNm089jwoNUIqCfS-Ntka_eUnEVgg7ZaYgaE0"
+                }
+            ],
+            "address": "11 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "cbae2226b4d446691579c26927801eb7",
+                "name": "Office",
+                "score": 0.853
+            },
+            "categories": [
+                {
+                    "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                    "name": "Post Office",
+                    "score": 0.374
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.523
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office",
+                    "score": 0.853
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "71fbc98da5824b60929d4975dd6e9763.16",
+            "hashedId": "5254d603720ee67e369cbfefa2c3953fe240e2f2",
+            "title": "Clock Tower",
+            "state": "LIVE",
+            "lat": 13.813400999999999,
+            "lng": 100.731808,
+            "lastUpdateTimestampMs": "1501109634769",
+            "images": [
+                {
+                    "id": "d112ef315dfa43658b8f96d8340f3ac6.17",
+                    "url": "https://lh3.googleusercontent.com/vV_9h4C6AC_j3TxFbSeEL-5pFUWr7ZOjy6PeDDRJejSoGYwW1VqrIyfi0-tquw-wOF8tccWJbHl1JsoSapdavVeqfwgm"
+                }
+            ],
+            "address": "Samnakngan Khet Min Buri, Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "d5834bad123e5b4187c8f576e3d79110",
+                "name": "Clock Tower",
+                "score": 0.684
+            },
+            "categories": [
+                {
+                    "id": "55894250f5e163977ffbd6ac7638dcfd",
+                    "name": "Clock",
+                    "score": 0.07
+                },
+                {
+                    "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                    "name": "Tower",
+                    "score": 0.257
+                },
+                {
+                    "id": "d5834bad123e5b4187c8f576e3d79110",
+                    "name": "Clock Tower",
+                    "score": 0.684
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7bb0f51c4d3d3b8bb90467fc59f22b4f.16",
+            "hashedId": "5ff0fda33b6c26a1be04ead5edec85d38985b9f2",
+            "title": "ป้ายประวัติคลองแสนแสบ",
+            "state": "LIVE",
+            "lat": 13.811112999999999,
+            "lng": 100.729276,
+            "lastUpdateTimestampMs": "1627392442100",
+            "description": "บอกถึงประวัติและตำนานคลองแสนแสบ",
+            "images": [
+                {
+                    "id": "3b5ebd9ec4d23bcfbcf15808dc28299d.17",
+                    "url": "https://lh3.googleusercontent.com/a-WEJvhq44Nq-1JW1L-wbXB9S1hpB75rv5g78VzAjE-njwTHxh_BOJPBstjoBT1tKHZAW5ODFeRYW_kchjRiPdqKGgK7"
+                }
+            ],
+            "address": "390 Sihaburanukit Rd, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 94.79080301990395,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "b962c8dc17b777624defd08a7f66a247",
+                    "name": "Historical Sign"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign"
+                },
+                {
+                    "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                    "name": "Historic Structure"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1627355613769"
+        },
+        {
+            "id": "8304bbf09eaf49b7bd86475b46edd29f.16",
+            "hashedId": "4c0de2a069041a12e012a6ef51452d7df6d0090e",
+            "title": "Loma fountain",
+            "state": "LIVE",
+            "lat": 13.810433999999999,
+            "lng": 100.733649,
+            "lastUpdateTimestampMs": "1501109857871",
+            "description": "โลมา น้ำพุ",
+            "images": [
+                {
+                    "id": "1127b851daed48578806b75ec4b2ba5c.17",
+                    "url": "https://lh3.googleusercontent.com/hcbbWuZH7c24QMYb8YNxd0F_QqKT4RqtcSMrFBBk6mX7Fmgh4BmYYH4rLojqINaDTp2L7g5f0OKMiXzBWSKLzQpHBkXI"
+                }
+            ],
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.995
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.096
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.995
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.081
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "93af54049d2e4ca293aa0d972dd78764.12",
+            "hashedId": "c0da186bb61feda500f7375d7d37e8aa845aa5bf",
+            "title": "King Rama V Monument at King R",
+            "state": "LIVE",
+            "lat": 13.813397,
+            "lng": 100.732213,
+            "lastUpdateTimestampMs": "1501109553340",
+            "images": [
+                {
+                    "id": "a8302d836b7f497c93674abcb30237b4.17",
+                    "url": "https://lh3.googleusercontent.com/szOPra1i3T1hzsHRWVZv82N5vj_3vf26zr9zm554ICoDfcjkJ-yI_g8BhJvGLd3vQMePdYRdLyLFef9dA029p9R5KlY"
+                }
+            ],
+            "address": "Thanon Sihaburanukit, Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.603
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.294
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.603
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.13
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1692492634892"
+        },
+        {
+            "id": "9d2cb1c68bd53e40bb759e1b908e7f28.16",
+            "hashedId": "7ce13425e7a74db669946c8fb42c8b7a4c570b92",
+            "title": "สระว่ายน้ำ คอนโดดออริจิ้น ราม209",
+            "state": "LIVE",
+            "lat": 13.811186,
+            "lng": 100.733581,
+            "description": "เป็นสถานที่พักผ่อน ออกกำลังกาย ของผู้พักอาศัยกว่า 1000 ห้อง",
+            "images": [
+                {
+                    "id": "62ae88deb5b33974b6efe0a8cf52312b.17",
+                    "url": "https://lh3.googleusercontent.com/aF7x_MleMC1nJ5VtffUDfHWowKFu4bUmgpV604Io3K3Q0jugLzKQKb5W6SK5bDPtisGPVroMTpcMRECmfBeiL6K5HDFL_KRLwEkSx_Y"
+                }
+            ],
+            "address": "RP6M+CF4, Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1698665842948"
+        },
+        {
+            "id": "9f2d937444cc330faff39c208fd32260.16",
+            "hashedId": "856300f4508d751e66fcd498c9631dfae96f845c",
+            "title": "Minburi Pier",
+            "state": "GAME_REJECTED",
+            "lat": 13.812247,
+            "lng": 100.73131199999999,
+            "lastUpdateTimestampMs": "1628086901736",
+            "description": "Pier for Minburi District people",
+            "images": [
+                {
+                    "id": "99d1e69f6d363d12b4fe8b51b8c14ecc.17",
+                    "url": "https://lh3.googleusercontent.com/38oQ4G3GYr6wnmTWDD4bawtW39BbkY5yKKMZXN5Fb_eVNfIlJxjpt5pc37MzGvWvvl2YnWPTQ9G6cQfXnjH37p6M2G8"
+                }
+            ],
+            "address": "36 Sihaburanukit Rd, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": null,
+            "qualityScore": 85.5783589906364,
+            "categories": [],
+            "availability": {
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1628086901736"
+        },
+        {
+            "id": "ac3b808c34ed4bb7a6ca5d8b09579625.16",
+            "hashedId": "768b2c38438e748ab7f7c82331b499f8c177ab09",
+            "title": "Yodchaya",
+            "state": "LIVE",
+            "lat": 13.813281,
+            "lng": 100.732421,
+            "lastUpdateTimestampMs": "1501109828715",
+            "images": [
+                {
+                    "id": "ac686395ddd9423aa5518d52cbabb265.17",
+                    "url": "https://lh3.googleusercontent.com/EGqfCd1G4WD8BRckPbEeJV0MDMQA30k_bBGffncBHgFHhqpMyyrf0BxBSFWQm7VI6ygWE7in4DDRWYmMADYcj--DOw"
+                },
+                {
+                    "id": "ce3fa7ec0b82447cb9b8e3533a8483f9.17",
+                    "url": "https://lh3.googleusercontent.com/bEhgrZwLE-LSMVp7rz0Q9UnC0fb_jnX1vIOcHDOKuQSPVejXHNbnNep33ZH5gJECgoWfAFMexIFKAnz7zQlbS_ntHjiZ"
+                },
+                {
+                    "id": "f0f05c50e4ed4edaa80decc2acda2b2e.17",
+                    "url": "https://lh3.googleusercontent.com/eP_T7BX4rEowOiNJzxRhCMROLpsdLFngCad_5xbj3XDGwcqzrIUCyFjyQy7yjWGvCwlMC4HYZN_q2VpoagsC7h1RBDZy"
+                }
+            ],
+            "address": "43 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.231
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.147
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.231
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.127
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b0316c2da7823348a9cbb087bc2541ba.16",
+            "hashedId": "e91a7745e903d44a08255ed03925cd1ca7b80782",
+            "title": "Market parade minburi",
+            "state": "LIVE",
+            "lat": 13.812301,
+            "lng": 100.72720699999999,
+            "description": "แหล่งเสื้อผ้า วินรถตู้และสองแถวแดง",
+            "images": [
+                {
+                    "id": "df7763364030344885892ac206f502ab.17",
+                    "url": "https://lh3.googleusercontent.com/XHtb98eRnPkxyk1Cnw9HxqTwpqPU_RWou4LvNDgAtv65WuLIQEKea32rB9foA5b-bKciVrVcpHTwCa9CO3JqcMpv-aWDMQiCRfsg8Vw"
+                }
+            ],
+            "address": "RP6G+WV3, Sihaburanukit Rd, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                "name": "Market"
+            },
+            "qualityScore": 87.91978,
+            "categories": [
+                {
+                    "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                    "name": "Market"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1671794508297"
+        },
+        {
+            "id": "b8a007c5db2647d99501ee4989675373.16",
+            "hashedId": "48633278cb8e509cd5658d31c105527c0e00abba",
+            "title": "Minburi Bus Terminal",
+            "state": "LIVE",
+            "lat": 13.814389,
+            "lng": 100.728732,
+            "lastUpdateTimestampMs": "1597058162031",
+            "description": "ท่ารถเมล์มีนบุรี",
+            "images": [
+                {
+                    "id": "aa5f7ae5641c41d2a32316599ad43cf4.17",
+                    "url": "https://lh3.googleusercontent.com/ybqbQVzDHtl9DzOSUI-wTWtw2Y_rm39yQY4ehhNkxSRY8zx7D5WfSE3yohtTLv8jNnQWxl-fBIwkjPLW-SofoxwQD1s"
+                },
+                {
+                    "id": "fa8ed02ab380414293f561b7781bef5e.17",
+                    "url": "https://lh3.googleusercontent.com/mDqGr10hnzR-V39Xg0ulu1LhkDV9n_hexNfujC7ZOis6io3zsdVogRxQTAyxZism2AxbVUUnHd5hb7r9i0nkYcNTIgI"
+                },
+                {
+                    "id": "93daed792ffa4837b0c58529b6ecaee1.17",
+                    "url": "https://lh3.googleusercontent.com/FhiCHpP58KzATuxL0WHBXJzcLiq7CanPnM20BzKXTkaNdDp_L2gGj2Y1eiw6VQkTP_6hG13OrTfGNh1m8lSLbuqbT5A"
+                },
+                {
+                    "id": "778df26b71bd4d7ea79cbc4aa14da1ba.17",
+                    "url": "https://lh3.googleusercontent.com/hHe_euZOMQcC8sk4YXyVyYTjGoV8j45mG5n8zxOqJBQ89jwD2FknV6q-G_7JwqAgRLx18pu9STQl1fQPvvZ5-p4uXzM"
+                },
+                {
+                    "id": "a93e0e51ce234976b2a8035d2ebddc68.17",
+                    "url": "https://lh3.googleusercontent.com/B7mMuPQUpYH_siQFE5mqlUFoRxqdn-L2mcui0D2JwIINW6OJKCdxAlTDtC-gUP5-OuXViCr3koLQzwHHyP2JF0x0Tw"
+                },
+                {
+                    "id": "85c991100d6945868bc6a3cf34d4a4bc.17",
+                    "url": "https://lh3.googleusercontent.com/JuB4x2m_BosRuhxFRJOTbzkpz6WzV_R_s6jHDAiOrT8kENvwYpIvw_O7PLWjk0QJW9dUJh-cb5c5qi2_RTg5EQ89L7iD"
+                }
+            ],
+            "address": "10/1 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "d35793f0bad09c8d77b0566efe9396a1",
+                "name": "Bus Terminal",
+                "score": 0.996
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.307
+                },
+                {
+                    "id": "b6182b3598cfcfca5631c3252b134183",
+                    "name": "Transit Stop",
+                    "score": 0.279
+                },
+                {
+                    "id": "d35793f0bad09c8d77b0566efe9396a1",
+                    "name": "Bus Terminal",
+                    "score": 0.996
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c27e0163538746c390480717e62d4caa.16",
+            "hashedId": "c4acc3e08fca80ec375f426f8596055acc05d402",
+            "title": "กิน ลม ชม ปลา",
+            "state": "LIVE",
+            "lat": 13.810264,
+            "lng": 100.733469,
+            "lastUpdateTimestampMs": "1501109662838",
+            "description": "ศาลหน้าร้าน",
+            "images": [
+                {
+                    "id": "dd11a9e51af34ea3acbc21e1e64b163d.17",
+                    "url": "https://lh3.googleusercontent.com/Wnu4vwCpFNM3nw91JMpf7AKI9uccKNwqUp-OoJqxUHgXs8_M9oSRuzGEH-1mSB-B9MxpqqwNyW2rcu1a3uDQUO1KlPdZ"
+                }
+            ],
+            "address": "Ramkhamhaeng Road, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "d184b15bccc683c93a009381adb5e4d2",
+                "name": "Shopping Mall",
+                "score": 0.242
+            },
+            "categories": [
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.201
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.15
+                },
+                {
+                    "id": "d184b15bccc683c93a009381adb5e4d2",
+                    "name": "Shopping Mall",
+                    "score": 0.242
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c84ed883b4824ce3b434f12d0322b110.16",
+            "hashedId": "4457942501ff45e48b2f5f0498ea308e19805fde",
+            "title": "อาคารมีนบุรีสแควร์",
+            "state": "LIVE",
+            "lat": 13.814494999999999,
+            "lng": 100.728403,
+            "lastUpdateTimestampMs": "1590499424750",
+            "description": "ตลาดมีนบุรี",
+            "images": [
+                {
+                    "id": "ec59fd087eb249be99249cd9d1a63a1b.17",
+                    "url": "https://lh3.googleusercontent.com/3d-Auekaydj6o3--U8Pn443uwZ2cIwAduYjshBy1CsrpGfIRpSR3B6Zzz2OeSEcGwoqw_HrCa7AzyS_Oyz1-1nQHSVp9"
+                }
+            ],
+            "address": "19 Sihaburanukit 15, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "2b53450af0c24cd79053f1fc64ee11b8",
+                "name": "Open Market"
+            },
+            "categories": [
+                {
+                    "id": "2b53450af0c24cd79053f1fc64ee11b8",
+                    "name": "Open Market"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.382
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.068
+                },
+                {
+                    "id": "8f725985600d31d53eb12748abf99af1",
+                    "name": "Urban Plaza"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.071
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1590221295700"
+        },
+        {
+            "id": "cd0788462e54323bbc566ec85d875116.16",
+            "hashedId": "46af60e40995a1846042fa6b25dabcc4f04f938d",
+            "title": "ตราครุฑแดง",
+            "state": "LIVE",
+            "lat": 13.813111,
+            "lng": 100.728706,
+            "lastUpdateTimestampMs": "1627996740889",
+            "description": "ตราครุฑแดง",
+            "images": [
+                {
+                    "id": "6fabcfe9adbb3430a81e90ff537bc5c5.17",
+                    "url": "https://lh3.googleusercontent.com/uggXW-eX-IKjowFIagUmCJFB3R7gjxq1NIBkBEozZcDUsIVOF-n87GceXjQeRjwhGr0-3NiCMX1ile9Y_v4WnyBuf2zf"
+                }
+            ],
+            "address": "522 Sihaburanukit Rd, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture"
+            },
+            "qualityScore": 76.27423954678598,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1627405169903"
+        },
+        {
+            "id": "ce020370c3f9424d94bb87b02ebe2f73.16",
+            "hashedId": "cbc529eba483540f6205a2ac91e537cbc413a455",
+            "title": "Sansap Minburi Shrine",
+            "state": "LIVE",
+            "lat": 13.812558,
+            "lng": 100.730318,
+            "lastUpdateTimestampMs": "1501110185271",
+            "images": [
+                {
+                    "id": "9575e38fb59441cda5bac334dd1981de.17",
+                    "url": "https://lh3.googleusercontent.com/tmch-_xl_DQAmFtP88XXnlQj85OtpOj5aZbTwvb0RvRGVkXmQCK1Gf_3-mo2PBg6L6LZMy0PvgzffGuSBE2_Faw72zE"
+                }
+            ],
+            "address": "85 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.367
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.367
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.166
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.159
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d57295cd0e164e168da1407f6d4b9e6e.16",
+            "hashedId": "0864a1867a538dd4acba8adfda6f574ab696a06a",
+            "title": "JJ2",
+            "state": "LIVE",
+            "lat": 13.812907,
+            "lng": 100.725939,
+            "lastUpdateTimestampMs": "1615427493019",
+            "description": "Minburi.",
+            "images": [
+                {
+                    "id": "af01d79368b0443eb89a537a0ad07e52.17",
+                    "url": "https://lh3.googleusercontent.com/d8mmEyGZgulJkuCKkJpgswjW5eygVjENxe4qHOFKv-2ZKJN-9yCt1zMn3TotuFXhLs-NFOPWXl6NSvGB2_0G78SD54Pg"
+                },
+                {
+                    "id": "fae408ab6e084dacbe19b0d650ac0b36.17",
+                    "url": "https://lh3.googleusercontent.com/HXbBba6PqSjlYUI1hStFOFpfGfgI3Ri7tZIA6dgyDfancbeqDrN_Q00MCKoZG984VzOOSt8jXwTe55_GKW2s79SpZg"
+                }
+            ],
+            "address": "218 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.33
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.111
+                },
+                {
+                    "id": "71eaa9e69b8a8ece009f8620d18d59ce",
+                    "name": "Other",
+                    "score": 0.149
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.33
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d738b47b69e83b12a639f575198c44c2.16",
+            "hashedId": "89d480a175f654408e16f16cda542b3721e608ac",
+            "title": "ศาลเจ้าพ่อตลาดมีนเก่า",
+            "state": "LIVE",
+            "lat": 13.81157,
+            "lng": 100.729237,
+            "description": "แหล่งกราบไหว้บูชาคนในพื้นที่",
+            "images": [
+                {
+                    "id": "0f30e26ea619376e9d5492493b727e6e.17",
+                    "url": "https://lh3.googleusercontent.com/a8D3Tbwknvizkl-nXgaJGwVio7enHHkJ6c-WreUTBRwOpWPEgzdKB9XHQBV5ETrq86MbSh0PyscvxZLslW1Oj0EN89Yd-cGhxHOQZVz4kQ"
+                }
+            ],
+            "address": "RP6H+JMR, Sihaburanukit Rd, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "6af0c8724df1f4f19a16234a43f34271",
+                "name": "Religious Sculpture"
+            },
+            "qualityScore": 84.01285,
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1672122469801"
+        },
+        {
+            "id": "d816ef1289be38369306ead9b1a5b6d3.16",
+            "hashedId": "b5526b20dc81e0d9098144c04b7b1b7a0ddbffee",
+            "title": "White Shrine",
+            "state": "LIVE",
+            "lat": 13.812033,
+            "lng": 100.72559,
+            "lastUpdateTimestampMs": "1625577846000",
+            "description": "ศาลพระภูมิต้นซอยตาลเดี่ยว เป็นที่สักการะบูชาของคนในซอยและวินมอเตอไซค์รับจ้างหน้าปากซอย",
+            "images": [
+                {
+                    "id": "a4c040c416883f1ca6c530ecc2eb6f6d.17",
+                    "url": "https://lh3.googleusercontent.com/HfhRpkADCQAacj806eHZV-vBzeBnwBsKLgzaOBwmOl2oZCa1ld6eV8v2TURHrTOdbNih1fddLNthQBZNFkLXTiYUr9yR61C_iLnAhBJA"
+                }
+            ],
+            "address": "111 Sihaburanukit 18, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.657
+            },
+            "qualityScore": 89.56346307120083,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.657
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.113
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.086
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1625495316664"
+        },
+        {
+            "id": "d8aed14335984fc4a9b6e5b35a885d47.16",
+            "hashedId": "2b3a82200b8cd7536a97f8fa735d407843a4c6a4",
+            "title": "Water Tower At Min Buri Market",
+            "state": "LIVE",
+            "lat": 13.813015,
+            "lng": 100.72912799999999,
+            "lastUpdateTimestampMs": "1590712480132",
+            "images": [
+                {
+                    "id": "531facc196da45ac87375cb054144293.17",
+                    "url": "https://lh3.googleusercontent.com/7-l7iHbJVfWZuYZWMckkPpdNtYlChdms3Flg3OGwHx8WuILxT47NZz4KG-mEpO-VwTllnPyIuRkzhTroLQdmja3nWMMI"
+                },
+                {
+                    "id": "8db1dc7f7bfb4d12abbb21f66d939f0e.17",
+                    "url": "https://lh3.googleusercontent.com/zUJIfgr0Qzyqp534RxMbbiwDOiRA-1lIcagzkRoo3PqFWnN-AWo5VVDdLBhRpU7sXr35CFRrQoT1V0hA2trAlhK6gw"
+                },
+                {
+                    "id": "637a3d57a973433b9b3ca1feba637e59.17",
+                    "url": "https://lh3.googleusercontent.com/NcB9evBSUibb_W0UXZ-kpFp2WXzThaF8Pe8aaANyZ981WgLoc_fnGAVDGFRr6Gh68d9ELneKQSn-Z-lb2tZveYN6Obg"
+                },
+                {
+                    "id": "a41740981c6d495781d650003a198669.17",
+                    "url": "https://lh3.googleusercontent.com/nAN2MU71px5VGpjMwDYArQ0ymbFOfDMhJcZdmTMddt6Y27ger60yIxbsdbU3fbaqDsRoTwXA9pwdqqglvObEqz4w76Ma"
+                }
+            ],
+            "address": "483 ถนน สีหบุรานุกิจ Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                "name": "Market"
+            },
+            "categories": [
+                {
+                    "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                    "name": "Market"
+                },
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower",
+                    "score": 0.696
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.073
+                },
+                {
+                    "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                    "name": "Tower",
+                    "score": 0.227
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "de3b6e601a4d47ce9971b63cb913951e.16",
+            "hashedId": "801151475768af0b258c710715cacbda6a85f48c",
+            "title": "อาคารปลาตะเพียนทอง",
+            "state": "LIVE",
+            "lat": 13.814573999999999,
+            "lng": 100.727887,
+            "lastUpdateTimestampMs": "1589895879824",
+            "description": "อาคารปลาตะเพียนทอง ตลาดมีนบุรี",
+            "images": [
+                {
+                    "id": "46d3b85a4ae54362907f58a80b450210.17",
+                    "url": "https://lh3.googleusercontent.com/fgbr_zclVskZCe6Oa6IcAba-Cm_yJO0h9xuUmgann7knQRumPa3AP1z0sqMyGz_raneyMX5Obq12_zfKMKfcKicKNpNF"
+                }
+            ],
+            "address": "เลขที่ 203-205 Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "77e0f2f22f0b3ce805494bbd7f50bc23",
+                "name": "Fortress",
+                "score": 0.196
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.15
+                },
+                {
+                    "id": "77e0f2f22f0b3ce805494bbd7f50bc23",
+                    "name": "Fortress",
+                    "score": 0.196
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.135
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1587716582366"
+        },
+        {
+            "id": "ea6f527c39ec3639894fdf00b7ed36af.16",
+            "hashedId": "e35f4f6d4f6453c1220264c9129467722053a5e4",
+            "title": "ดิ ออริจิ้น ราม 209",
+            "state": "LIVE",
+            "lat": 13.811053999999999,
+            "lng": 100.733761,
+            "description": "ที่อยู่อาศัยชุมชน สร้างใหม่ คอนโด 31 ชั้น",
+            "images": [
+                {
+                    "id": "c42934a960e1370cab2a6f3dcfdbca1d.17",
+                    "url": "https://lh3.googleusercontent.com/yJ7tIoaodfKlptHGXQ9wIlXsZOlxu1_KSp1vadYacpAh2G9PeGaVgHWC-aV62uMFKNXd7M5Fy7i20FsnQS2pr0Y0_5frx0JSm5WiWFZY"
+                }
+            ],
+            "address": "310/2 ซอย รามคำแหง 166 Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1667368031463"
+        },
+        {
+            "id": "efae3c19448a30bfbaf657f2678cd49c.16",
+            "hashedId": "972eecf21e093a54e1d18f9c76cf7635efaeb3da",
+            "title": "House of spirit tree.",
+            "state": "LIVE",
+            "lat": 13.812299999999999,
+            "lng": 100.731319,
+            "lastUpdateTimestampMs": "1627392279137",
+            "description": "Spirit tree that is very famous in this asea.",
+            "images": [
+                {
+                    "id": "1c2b08e057f5393a81fc6b13e6a045a5.17",
+                    "url": "https://lh3.googleusercontent.com/TnDGL4bJnlz3wsD5h782TvKSdQkWsZBMAXB0gXRAXw9Kpei-Tq76nQU2wH2slUvuTL4H0e4zLf9z5Hz9B7fccsSgpU4"
+                },
+                {
+                    "id": "8ffb5639fcc335e8afb93b5240520947.17",
+                    "url": "https://lh3.googleusercontent.com/z87FQzeFCjR4TIcjrkTb6KihOahy2u_JI5Cqoy7tLz_-MtjvMoNqdq4yyabzvzficALFrIy_OY9oG9F7KWqjYgpnJ5xY"
+                },
+                {
+                    "id": "f6d0afccdd523112bc396e641e2b1929.17",
+                    "url": "https://lh3.googleusercontent.com/omogLBKfjHh2DY8x4gdsor4rTSSGalYvCQ1e8tdzebHuDiyzcAFp8eRpCtpc9Mh5AygKpT7t4W7Iih1x44lYlwSmRFln"
+                }
+            ],
+            "address": "36 Sihaburanukit Rd, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 72.51471499968369,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "93a0f087aafe93f75819f28e06f049fb",
+                    "name": "Tree"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1627308324836"
+        },
+        {
+            "id": "fea6e08abdb94cc89cc64e4e44626a13.16",
+            "hashedId": "efd748b4c5077c8c8fc39223354cfe1c5bfb886d",
+            "title": "Buddha Minburi",
+            "state": "LIVE",
+            "lat": 13.812953,
+            "lng": 100.73233499999999,
+            "lastUpdateTimestampMs": "1501109526466",
+            "images": [
+                {
+                    "id": "5681b0c7b7324452be26c924dd589a3a.17",
+                    "url": "https://lh3.googleusercontent.com/SKf4uU6Xel0vTCMtoMFkrREbE2sZgXbEFKWkgKnsen5ROlbpE9_39Ysbkt9LHNRgQzKoAbOj_vZc-XdZ7bKrYb8ER8A"
+                },
+                {
+                    "id": "3085829cbe4749569f59ead066a63fc8.17",
+                    "url": "https://lh3.googleusercontent.com/0I4Jt54xgIfefOCHaR-t2ACEy10xjCR1AB-IDHV3Qe5OJcx5pD_r-TWUPCRzCskNsSwohHiKUyS--s65-utqXniIk70"
+                },
+                {
+                    "id": "b55be55473e24ee49fa5239cc8643bb8.17",
+                    "url": "https://lh3.googleusercontent.com/sDZstZ1LHNEtDVhi0ZSRVM-TAgkdfAcl2JhnHPv-AQVvilX_tUvpzQOTMM1ReHYwQf4UgoeshatqbrAq7jDnmEmKiT0l"
+                }
+            ],
+            "address": "36 สีหบุรานุกิจ Min Buri, Bangkok 10510, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10510",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.348
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.198
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.348
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.134
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1692454324857"
+        }
+    ]
+}

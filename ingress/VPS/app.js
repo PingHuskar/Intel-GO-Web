@@ -79,6 +79,7 @@ var LeafIcon = L.Icon.extend({
 
 let delay = 300
 let c = []
+let countvps = 0
 
 let err = ''
 
@@ -102,6 +103,7 @@ const readJson500 = (filename) => {
       `)
       .bindTooltip(`${filename}, ${poi.title}`)
       .addTo(map)
+      countvps++
     }
   })
   .then(() => {
@@ -110,6 +112,7 @@ const readJson500 = (filename) => {
   .catch((e) => {
     err = e
     console.log(err)
+    alert(`Found ${countvps} Active VPS`)
   })
 }
 

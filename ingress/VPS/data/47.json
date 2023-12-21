@@ -1,0 +1,2261 @@
+{
+    "pois": [
+        {
+            "id": "0a3e82e3786c4739b7dbf4a0dac83ee5.16",
+            "hashedId": "b47b03347a815ee6c22d65461aa306ab597591d4",
+            "title": "BK holy shrine",
+            "state": "LIVE",
+            "lat": 13.879527,
+            "lng": 100.539701,
+            "lastUpdateTimestampMs": "1599226357012",
+            "description": "The holy shrine of Bangkokchemi co.,ltd.",
+            "images": [
+                {
+                    "id": "80b04497d6144df2b260cf65f8fd8b8a.17",
+                    "url": "https://lh3.googleusercontent.com/BxNJraJZoGOsz99sbMsKjl50YrERHSkb_debkcWVgbsAhJj-ZmGvZ4QUF9xbqugdeekuyqTBfUuG3tjbUJpRpmoq7Xs"
+                }
+            ],
+            "address": "Soi Samakkee 48, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.576
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.576
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.258
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.167
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "104fef578b434f9bbb02877a555bdc2f.16",
+            "hashedId": "497a2c9686e8a277bffce104897971c918230a64",
+            "title": "Ganesha",
+            "state": "LIVE",
+            "lat": 13.880911999999999,
+            "lng": 100.540515,
+            "lastUpdateTimestampMs": "1620739483379",
+            "description": "รูปปั้นพระพิฆเนศ",
+            "images": [
+                {
+                    "id": "6e910d05a65f3bd3ba44bcd1d3dcba23.17",
+                    "url": "https://lh3.googleusercontent.com/aMHL_AOf9mu6d4lNuNbOy7Mqbcf6QtsTojdzGhkuHhy2zAbHsMRf7sPnNoRA55JXwU2XWiDkdjcfOdgxa8ZlgkmyrQ"
+                },
+                {
+                    "id": "c96709299de24ca7a7bc567fc1b6bc23.17",
+                    "url": "https://lh3.googleusercontent.com/APg5cmovnAxDYzHSLK1Gkpl65dPmJO5YVoLQziRvUOVsHEXa0bQlmynThyfh9cTltOroj5jECnuA1R1zM-IGHUTUP3D2QQ16vXmXv5h_"
+                }
+            ],
+            "address": "727 Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.825
+            },
+            "qualityScore": 71.02885823416146,
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.195
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.526
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.825
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1620624749177"
+        },
+        {
+            "id": "115d6c1c69853017931cd01d586645ca.16",
+            "hashedId": "7fe0469559bc55e006ee39e380d9f4d2508d5cfb",
+            "title": "ตลาดงามวงศ์วาน",
+            "state": "LIVE",
+            "lat": 13.878636,
+            "lng": 100.536896,
+            "description": "ตลาดใต้ทางด่วน จ.นนทบุรี",
+            "images": [
+                {
+                    "id": "59607fabe973370b8c313e40be14ebb6.17",
+                    "url": "https://lh3.googleusercontent.com/xIlcKNCfLeH2CeroUcxeQ0osC7tbDIPm-y_0fy-a5NWxceOUgFGjyuNRagMPQIt3mKWG1hPPv3G4rcF2RhyzccyBNIFRS0cIiorBefuF"
+                }
+            ],
+            "address": "6 Samakkee 58/10 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1676374100837"
+        },
+        {
+            "id": "1e322db7fa6433f8933fa84db1697064.16",
+            "hashedId": "0cb2cfc2074e28d81affe64fd423cd9780ef3e6d",
+            "title": "Burasiri Hut",
+            "state": "LIVE",
+            "lat": 13.876095999999999,
+            "lng": 100.536384,
+            "description": "This hut is well known in this area as an appointment landmark.",
+            "images": [
+                {
+                    "id": "b98c03c3aac63b7d9b5c2725e4e1630c.17",
+                    "url": "https://lh3.googleusercontent.com/GOUKg1WRcKPWUcRsfzTcyswOch01vi4eC0_UvKTb9hdG5sAKqAMChW_FSA3KVYcRQXPU3kecg6VuRAI0rAAdXl2hDkXAwzHjIPbSuX_2Jw"
+                }
+            ],
+            "address": "Soi Ngamwongwan 2, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 74.69745,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1636745832743"
+        },
+        {
+            "id": "2621e6233a113614b775e522fc10e7eb.16",
+            "hashedId": "2a51b2ed7f92a89e23dff064f0dc6b697c655100",
+            "title": "ป้ายหิน",
+            "state": "LIVE",
+            "lat": 13.878744,
+            "lng": 100.538924,
+            "description": "ที่ตั้งป้ายชื่อหมู่บ้านปริญญาดา -สามัคคี อยู่ในซอยสามัคคีมานานกว่า10ปี อยู่ในสังคมที่สงบ ร่มเย็น",
+            "images": [
+                {
+                    "id": "31f5a8b9b24d3616a9c6460cec55a7d7.17",
+                    "url": "https://lh3.googleusercontent.com/2LaCe7DNvjQnF1XW0I4cDnqm1mUO660U8ueoEhv2M04z_tBsaCmUJXzLt5Q2FNJxIXXostHLJXibib2LVBD9e6n-4ME"
+                }
+            ],
+            "address": "34/54 Samakkee 58/10 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 74.9891,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1637413811139"
+        },
+        {
+            "id": "269f8631a63a42deb64009966fa1e99a.16",
+            "hashedId": "62ca88285b005745f44ac0a89ddc4bd1cde4763b",
+            "title": "Bird Statue",
+            "state": "LIVE",
+            "lat": 13.876662,
+            "lng": 100.537914,
+            "lastUpdateTimestampMs": "1501109745575",
+            "description": "Bird statue at Town plus X",
+            "images": [
+                {
+                    "id": "4f7f5fafcf6242a798cc7cfabd307f17.17",
+                    "url": "https://lh3.googleusercontent.com/6Ch2mPTxchXbndQW_6MBTyhebz5ZW1yqm-yG0vjgX5Wsq-f80mjRI56Z8O3df6LEAXlX2c_PNkiP4T7jtII_NrZ4Rg"
+                }
+            ],
+            "address": "Sirat Expressway, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.987
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.407
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.038
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.987
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1660220929196"
+        },
+        {
+            "id": "30196384ce8f397baac5622261599f5e.16",
+            "hashedId": "2c3632952c57342a3c26d5fce4270e5f885c79fd",
+            "title": "ไก่ยักษ์นำโชค",
+            "state": "LIVE",
+            "lat": 13.880999,
+            "lng": 100.54044499999999,
+            "description": "รูปปั้นไก่ยักษ์นำโชค",
+            "images": [
+                {
+                    "id": "fef5249147263345b7bfa1d2bcf87971.17",
+                    "url": "https://lh3.googleusercontent.com/coQjJawpjRs5tB5sQ_Kb_eKiWyY2ZhfP54I2XNIU_XiLJH1wFxFGFTEdGpTIPqYVYZbTT0heOGiyJqieGaTcwrIGDtbt"
+                }
+            ],
+            "address": "727 Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1700047957261"
+        },
+        {
+            "id": "3aaa04f7f4a63f68843bbe265799c64d.16",
+            "hashedId": "86883d5f75a7790b9b1c09560f1995d709c4d413",
+            "title": "ประติมากรรมเหล็กดัดลายพระวิษณุ",
+            "state": "LIVE",
+            "lat": 13.880491999999998,
+            "lng": 100.539543,
+            "description": "เหล็กดัดลายพระวิษณุ ประติมากรรมทางศิลปะที่สวยงาม",
+            "images": [
+                {
+                    "id": "3b7989d9043f33d5aa6ffd268ccf9429.17",
+                    "url": "https://lh3.googleusercontent.com/i6NEZaBO0uN3vd2PQ8X3t4p4FQoz2-urWldmi6OLcQ6wFjiTg43qvO07MpbPsYNJqZ18re5cH4HqJJjiIzsJuG7Gjr1WfTEHDupXqExT"
+                }
+            ],
+            "address": "50, 11 Samakkee 46 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1698820027936"
+        },
+        {
+            "id": "47eef63f0cff458095541dbb850d2617.16",
+            "hashedId": "057ed18427f95ec219dcf807050435290287a373",
+            "title": "ศาลพระพรหม",
+            "state": "GAME_REJECTED",
+            "lat": 13.879617999999999,
+            "lng": 100.537238,
+            "lastUpdateTimestampMs": "1589896102973",
+            "description": "ศาลพระพรหม ประจำร้านชาบูอินดี้ อยู่ใต้ทางด่วน",
+            "images": [
+                {
+                    "id": "ad7c805519fc4fdfbdcf6140f10850d9.17",
+                    "url": "https://lh3.googleusercontent.com/6NHc3hVLYe8rv3IroUwssTslM5BcxL20xt30RkKNBivAG5AQLT5XK1A2mZu8YuPhvALEbgw0pjeam1SJWFYWn-tYS5E"
+                }
+            ],
+            "address": "เลขที่ 418/2 หมู่บ้าน ตลาดงามวงศ์วาน Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1585503827296"
+        },
+        {
+            "id": "4b74091779933f1dbb8c64038ae6e11e.16",
+            "hashedId": "f683e39d8960886f1043c884ab6ba23ffcb29758",
+            "title": "Satoya さとう",
+            "state": "LIVE",
+            "lat": 13.876356999999999,
+            "lng": 100.53627399999999,
+            "lastUpdateTimestampMs": "1625577878891",
+            "description": "Japanese Restaurant",
+            "images": [
+                {
+                    "id": "0dbb0640228e3c809442fb315919c69e.17",
+                    "url": "https://lh3.googleusercontent.com/9rAXqAt0QEhj4j07QnRjxBfHyhrlKVE-TLLltzE0g8lGKlfzmuqrZ9Sg4u2mONyzo8Zc4RkOr7hweF_mxJ35psgCUzUwEQnEzcAaBBcw"
+                }
+            ],
+            "address": "Soi Ngamwongwan 2, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "2cb2078a28859a376087bcfb909c374b",
+                "name": "Restaurant",
+                "score": 0.977
+            },
+            "qualityScore": 88.12084692679109,
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.977
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.223
+                },
+                {
+                    "id": "a5d96b1c2f8dee61d53704dfadcb0f12",
+                    "name": "Japanese Restaurant"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.166
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1625373685998"
+        },
+        {
+            "id": "4b8ea828bfae4410b6441bc3bc81663e.16",
+            "hashedId": "206bca1ecfcf027a9f0f452d4dd759cfa56ba326",
+            "title": "พระพรหม",
+            "state": "LIVE",
+            "lat": 13.880968,
+            "lng": 100.53947199999999,
+            "lastUpdateTimestampMs": "1597151823877",
+            "description": "ศาลพระพรหม ตลาดสมบูรณ์ทรัพย์",
+            "images": [
+                {
+                    "id": "38f4900dcb964f6cb1532c0679e07588.17",
+                    "url": "https://lh3.googleusercontent.com/p9d6oiiRwjmXrOdAeJrsdCkU_MKxO7ztJQbUnuBvMAsIYFiVc_OoNseEmuP3YO4f3TgzF47Pci3fIlElGCzeFsrAlok"
+                }
+            ],
+            "address": "709 Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.368
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.368
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.125
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.196
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1597140088201"
+        },
+        {
+            "id": "4c9dea490e9bb1f717a8e15f00000000.16",
+            "hashedId": "1e8769b7ee6aa1c0ddbacdaf08df70b7ca7f490e",
+            "title": "โรงเรียนดนตรีเกษตรศิลป์",
+            "state": "LIVE",
+            "lat": 13.881378,
+            "lng": 100.53996199999999,
+            "lastUpdateTimestampMs": "1677055865859",
+            "description": "ไม่ตรงตำแหน่งจริง ขอขยับลงมาข้างล่างอีกซอย",
+            "images": [
+                {
+                    "id": "37db36dfb8b637afa4dc6bace25dc45b.17",
+                    "url": "https://lh3.googleusercontent.com/GcZORxkjlBguay4xVX1N1lJ4g3Q8yxy8xjP3mHoyNIX0hbWuEKbJ3mxjbVI8QDm-RK9l24aHUnSAZ5q1azKR_ExiS3bRlO4bvUMNDTQ"
+                },
+                {
+                    "id": "d57c6e08571948a3837ff4a6a6640c19.17",
+                    "url": "https://lh3.googleusercontent.com/fs2mYM4r9Qq93ejdOP_2lwefRNLVa9tqmJW7XXwqNhMCMXNKwoJoFuMboBpXwnKUf7fJGImbajM9mHAOMlndt5A-Ts9Qh9f_t6YoaQ6u"
+                }
+            ],
+            "address": "11 Samakkee 63 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.345
+            },
+            "categories": [
+                {
+                    "id": "0a87f4c91381662fda48ceb64e1beeb1",
+                    "name": "Specialty School",
+                    "score": 0.23
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.212
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.345
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "4ceb34c7fe90a35d6a0f520e00000000.16",
+            "hashedId": "71543505b15a3ce35fee5e6d1b3c5423545edaca",
+            "title": "อู่สามัคคี",
+            "state": "LIVE",
+            "lat": 13.883223,
+            "lng": 100.534024,
+            "lastUpdateTimestampMs": "1619732766181",
+            "images": [
+                {
+                    "id": "f586c8f775114f96ac956b6ddfd61a84.17",
+                    "url": "https://lh3.googleusercontent.com/fs2mYM4r9Qq93ejdOP_2lwefRNLVa9tqmJW7XXwqNhMCMXNKwoJoFuMboBpXwnKUf7fJGImbajM9mHAOMlndt5A-Ts9Qh9f_t6YoaQ6u"
+                }
+            ],
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "city": "Nonthaburi",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.308
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.308
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.201
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.187
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "4d508997d7eaa1436c16690f00000000.16",
+            "hashedId": "b49bfa12ad7573d661aaf3ed9564204cf618c395",
+            "title": "Regent Playground",
+            "state": "LIVE",
+            "lat": 13.884756999999999,
+            "lng": 100.536248,
+            "lastUpdateTimestampMs": "1628222735353",
+            "description": "กรุณาเลือกหมุดทางขวาเพื่อให้ตรงตามตำแหน่งจริง ขอบคุณมากครับ",
+            "images": [
+                {
+                    "id": "6f55da6206c233da83d6886e13644040.17",
+                    "url": "https://lh3.googleusercontent.com/TLgM0Ci7g7DijPAzNsQ7s0l7MP3LP0saNiIzF73jJV-xjaxmwM_i_eQvlsrXhSNky1UE09EnrwCMLwUWkuIFV2tYibMWZjELiq0rdeom"
+                },
+                {
+                    "id": "e52a8a790ad141e9ad3687a75d3d50df.17",
+                    "url": "https://lh3.googleusercontent.com/fs2mYM4r9Qq93ejdOP_2lwefRNLVa9tqmJW7XXwqNhMCMXNKwoJoFuMboBpXwnKUf7fJGImbajM9mHAOMlndt5A-Ts9Qh9f_t6YoaQ6u"
+                }
+            ],
+            "address": "5 Ban Prachacheun 13 Cho Alley, Tambon Bang Talat, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11120",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.682
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.682
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.111
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.387
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "4d5186dc747f6dcbab06c2d400000000.16",
+            "hashedId": "e11a8d72531d7f3cc19c0d6956526a77d6c23d6f",
+            "title": "ป้อมยามโซน A @ Grand Canal",
+            "state": "LIVE",
+            "lat": 13.884056,
+            "lng": 100.53802999999999,
+            "lastUpdateTimestampMs": "1628221599932",
+            "images": [
+                {
+                    "id": "f3c7f8d94ed9499c9ea90e00f9b43e31.17",
+                    "url": "https://lh3.googleusercontent.com/fs2mYM4r9Qq93ejdOP_2lwefRNLVa9tqmJW7XXwqNhMCMXNKwoJoFuMboBpXwnKUf7fJGImbajM9mHAOMlndt5A-Ts9Qh9f_t6YoaQ6u"
+                }
+            ],
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "city": "Nonthaburi",
+            "mainCategory": {
+                "id": "0ec26435bb9863f11d75f9b416c59deb",
+                "name": "Canal"
+            },
+            "categories": [
+                {
+                    "id": "0ec26435bb9863f11d75f9b416c59deb",
+                    "name": "Canal"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.155
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.132
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.194
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "4d8f1e291d06b1f751ed573b00000000.16",
+            "hashedId": "c4f90477acb26c4f5a76bae5ff423973088f3f8f",
+            "title": "สนามเด็กเล่น หมู่บ้านประชาชื่น",
+            "state": "LIVE",
+            "lat": 13.884851,
+            "lng": 100.53613399999999,
+            "lastUpdateTimestampMs": "1619732783989",
+            "images": [
+                {
+                    "id": "92ef1cb6f4af4a9480760817ebbe4c6a.17",
+                    "url": "https://lh3.googleusercontent.com/fs2mYM4r9Qq93ejdOP_2lwefRNLVa9tqmJW7XXwqNhMCMXNKwoJoFuMboBpXwnKUf7fJGImbajM9mHAOMlndt5A-Ts9Qh9f_t6YoaQ6u"
+                }
+            ],
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "city": "Nonthaburi",
+            "postalCode": "11120",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.683
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.683
+                },
+                {
+                    "id": "5515313637cced9304454a08aadef2fd",
+                    "name": "Slide",
+                    "score": 0.121
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.351
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "4f06c053e4b0ca3a5a7e01b400000000.16",
+            "hashedId": "7bdba6d4b3ac7a74a3e6cd95ebba2d4595961342",
+            "title": "ครัวประชาชื่น",
+            "state": "RETIRED",
+            "lat": 13.882906,
+            "lng": 100.540312,
+            "lastUpdateTimestampMs": "1677208578520",
+            "images": [
+                {
+                    "id": "2dfddd74b2cf3b05a4bba024edeeeb3c.17",
+                    "url": "https://lh3.googleusercontent.com/9TL-a-xm0vr0hIm34XClULwEJhtYTMG7ElNeiccUgHjlI9rVJgAL8yVbh5Usi6QkDb6ZynIVcqErbm6djXkL3k5hEVSYo3VKoWXiEKfQ"
+                },
+                {
+                    "id": "294c8113bf884eb787557458612bfb9d.17",
+                    "url": "https://lh3.googleusercontent.com/fs2mYM4r9Qq93ejdOP_2lwefRNLVa9tqmJW7XXwqNhMCMXNKwoJoFuMboBpXwnKUf7fJGImbajM9mHAOMlndt5A-Ts9Qh9f_t6YoaQ6u"
+                }
+            ],
+            "address": "5733 Ban Prachacheun 2 Alley, Tambon Bang Talat, Amphoe Pak Kret, Chang Wat Nonthaburi 11120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11120",
+            "mainCategory": {
+                "id": "2cb2078a28859a376087bcfb909c374b",
+                "name": "Restaurant",
+                "score": 0.35
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.35
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.248
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.175
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "4f3b5f40e4b03c21a6dc571800000000.16",
+            "hashedId": "e15e1144c4bc70aa1dc0636a38cdca9ff87ddb64",
+            "title": "samakkee pet shop",
+            "state": "LIVE",
+            "lat": 13.881440999999999,
+            "lng": 100.53851499999999,
+            "lastUpdateTimestampMs": "1660280820458",
+            "images": [
+                {
+                    "id": "4385e865b42b46709e19b9061ae7c415.17",
+                    "url": "https://lh3.googleusercontent.com/fs2mYM4r9Qq93ejdOP_2lwefRNLVa9tqmJW7XXwqNhMCMXNKwoJoFuMboBpXwnKUf7fJGImbajM9mHAOMlndt5A-Ts9Qh9f_t6YoaQ6u"
+                }
+            ],
+            "address": "629 Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.446
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.15
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.446
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.205
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "4fd73cf5e4b071684fd89c2500000000.16",
+            "hashedId": "3ef1abaedce1d7f4df1744b966a780fad11c3331",
+            "title": "Tense whitening & beauty spa",
+            "state": "RETIRED",
+            "lat": 13.88313,
+            "lng": 100.54000699999999,
+            "lastUpdateTimestampMs": "1686026202550",
+            "images": [
+                {
+                    "id": "8c21fb9573c64cc1bf14c1c0af86c68c.17",
+                    "url": "https://lh3.googleusercontent.com/fs2mYM4r9Qq93ejdOP_2lwefRNLVa9tqmJW7XXwqNhMCMXNKwoJoFuMboBpXwnKUf7fJGImbajM9mHAOMlndt5A-Ts9Qh9f_t6YoaQ6u"
+                }
+            ],
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "city": "Nonthaburi",
+            "postalCode": "11120",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.304
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.171
+                },
+                {
+                    "id": "7ba2ba2f70af22e4cfafe42164ff85fe",
+                    "name": "Spa"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.304
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.179
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "528f6eb4d9e448ceb06ac51f7748ea2c.16",
+            "hashedId": "2182ccf6c612e622de677f9c43d24b79b2316198",
+            "title": "พระพรหมตลาดสมบัติบูรณ์ทรัพย์",
+            "state": "GAME_REJECTED",
+            "lat": 13.880965999999999,
+            "lng": 100.53950499999999,
+            "lastUpdateTimestampMs": "1589895903043",
+            "description": "พระพรหม",
+            "images": [
+                {
+                    "id": "2be732fb1c0440f6afd9f17e830fd7eb.17",
+                    "url": "https://lh3.googleusercontent.com/apM2IoXhfPSr9N6xFMSSLmFhEcihdX5I5d-nMzgRN7HyEwcknenuRo0ZFgkZGElz2MKid4zLgqNU-mPGWs58bseWNw"
+                }
+            ],
+            "address": "438 Samakkhi Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586769246912"
+        },
+        {
+            "id": "54ae752cfa793b1394956268542520f0.16",
+            "hashedId": "4a4485603cda0ebcac281dbe98e0adef79e71a92",
+            "title": "ศาลสีน้ำตาล",
+            "state": "LIVE",
+            "lat": 13.880832,
+            "lng": 100.53863199999999,
+            "lastUpdateTimestampMs": "1621344166439",
+            "description": "ศาลที่สักการะเคารพ",
+            "images": [
+                {
+                    "id": "e8629b24dfac3f99a7a8ebbd2ab0e919.17",
+                    "url": "https://lh3.googleusercontent.com/cwyrUo4K0u2LV3-kkDuj1ge0EZBPEDkgUDqPZaXr2joVbRoqCurkJg2AmtF7JXiIbE49H331n9L5wtepWdOChNGje15LLNZp694r6o9SyQ"
+                }
+            ],
+            "address": "27 Samakkee 46 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 85.46238624555217,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.296
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                },
+                {
+                    "id": "a403ab24167f0564357ba8c266836b70",
+                    "name": "Courthouse",
+                    "score": 0.181
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.107
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1621182791129"
+        },
+        {
+            "id": "5a11835cf7363845aa6bc6d160135591.16",
+            "hashedId": "162da4440c565c90fda25b4e867f70f27ac606cc",
+            "title": "Holy Cow",
+            "state": "LIVE",
+            "lat": 13.880616999999999,
+            "lng": 100.537486,
+            "lastUpdateTimestampMs": "1621949108303",
+            "description": "cafeน่ารัก",
+            "images": [
+                {
+                    "id": "a6ed74df3dd43d2e830e626b1fdf43f4.17",
+                    "url": "https://lh3.googleusercontent.com/r7FGGKo2fS2ES9_k4DEdrpNqQQpAArP7LqtQvzcZzJxaR5GH0VpdpstAgPWuVW0kkWRbLzZlOtSScGD7B1s2QKPALr4RYYxTNx34ubz9"
+                }
+            ],
+            "address": "420/1 Soi Samakkee 40/1, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11110",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.681
+            },
+            "qualityScore": 82.069712969185,
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.534
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.502
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee Place"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.681
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1621502228303"
+        },
+        {
+            "id": "5e552fc1e0104d399e9a163d78823c3d.16",
+            "hashedId": "f610a8dab7b4580c1ac83dca71884a2cb2cb0628",
+            "title": "Masterpiece Shrine",
+            "state": "LIVE",
+            "lat": 13.882437999999999,
+            "lng": 100.53250899999999,
+            "lastUpdateTimestampMs": "1501109435276",
+            "images": [
+                {
+                    "id": "de30ccfa6cb94923a8c9e9644aedfee7.17",
+                    "url": "https://lh3.googleusercontent.com/qASFgkzt-EhQhA2nF-Hx8DvqGeReExWEFhBfnD0eJvw0V8TCnbf_YoIiZ2wB0vzICIZC_EDWviCbG_dsAvqzyRJoQA"
+                }
+            ],
+            "address": "Thanon Samakkhi, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.464
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.38
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.464
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.186
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "661de84f2d3630aeb58a1c50d7b15610.16",
+            "hashedId": "cf31ea6bdd95fbfa3c8cd747409dbd422042cdce",
+            "title": "พระพุทธรูปประจำโครงการ เป็นที่สักการะบูชา",
+            "state": "LIVE",
+            "lat": 13.879164,
+            "lng": 100.536469,
+            "description": "พระพุทธรูป บริเวณสนามเด็กเล่น",
+            "images": [
+                {
+                    "id": "5899067d771d38ccafc150933d24d185.17",
+                    "url": "https://lh3.googleusercontent.com/HqFjsuqltvEBHpnfDQwuWzHpBpmIub0hyY41FUVWEHa2MR6o3BS44YOo8X1ai7cb5Ey65C6GsvRV4raGncvoB57EkxJH9-TkvBC5Ovgr"
+                }
+            ],
+            "address": "Soi Samakkhi 40 (Tha Sai Niwet) , Tha Sai , Mueang Nonthaburi , Nonthaburi, ท่าทราย อำเภอเมืองนนทบุรี นนทบุรี 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "นนทบุรี",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 77.25635,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area"
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1639660260528"
+        },
+        {
+            "id": "700bad10ca783d53b8070ed595962ae3.16",
+            "hashedId": "f635dd2723d310b5c7ba8d6ecca139b496737205",
+            "title": "ประติมากรรมโถน้ำประดับ",
+            "state": "LIVE",
+            "lat": 13.878784999999999,
+            "lng": 100.539048,
+            "description": "โถน้ำประดับหน้าหมู่บ้านปริญญดา",
+            "images": [
+                {
+                    "id": "57aed3e0c846366da551744339fec8c3.17",
+                    "url": "https://lh3.googleusercontent.com/INirN7pWYdjr9WPUynQTHtQ06ZYqzmqj8AqYcqRcbzv_XLOZIgKQP-hf4KfELdEqAYLvfFEJpxasxiepRJBWOV8WrJLbOjSHuEExaUNvpg"
+                }
+            ],
+            "address": "34/54 Samakkee 58/10 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture"
+            },
+            "qualityScore": 84.53658,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1633676984418"
+        },
+        {
+            "id": "750c8fc6990d4a609172067a943a442d.16",
+            "hashedId": "dc8ecc3a7007efb4d6113da39b3ba1fee7ddbff1",
+            "title": "นกแก้ว",
+            "state": "LIVE",
+            "lat": 13.879833999999999,
+            "lng": 100.537189,
+            "lastUpdateTimestampMs": "1589895823187",
+            "description": "รูปปั้นนกแก้วยืนทักทาย",
+            "images": [
+                {
+                    "id": "6ff4043c84a344d1b0ea026ef14a3f07.17",
+                    "url": "https://lh3.googleusercontent.com/ijPlWST-NRyWSRgjaRAAh_ULdf7IjhTOHk5crWSWwacdl47nfWe7CbzTyVyePDM5a-wLC-aOEAYCOBZ1OiYrX3xoNq4"
+                },
+                {
+                    "id": "1a223f3afa263809a3a65c15e0b35f61.17",
+                    "url": "https://lh3.googleusercontent.com/xY_zIX5RUvwGMeSiQclFisidaLPinGvogeTanCCg06Lsoved68CAI7NzEPoL4cugBaXPp6ai4T_8x3vkx3S1F_rzeA5NkqodvJhsNPW1"
+                },
+                {
+                    "id": "555ca4130b65405abcbe0de12bf2037c.17",
+                    "url": "https://lh3.googleusercontent.com/5rKQ9NTNBQMBF6whbPKloTyR1U5kVAicMy1zTUJbrWy1ZY7Go89tAxdHXkZSxxwQCo_Hel-VDBYN8JkXE-6eBHbb-4TO"
+                }
+            ],
+            "address": "27 Aue Artorn Pracha Niwet Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.751
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.574
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.751
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.131
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586333602393",
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1675459648496"
+        },
+        {
+            "id": "9135a08088f24e18a8b613174f94dd7d.16",
+            "hashedId": "c31dc398883a219340614834026e32d91d45385c",
+            "title": "ศาลพระพรหม",
+            "state": "LIVE",
+            "lat": 13.881796,
+            "lng": 100.53537,
+            "lastUpdateTimestampMs": "1620134871570",
+            "description": "ศาลพระพรหมหมู่บ้านพรหมนิเวศน์",
+            "images": [
+                {
+                    "id": "181e02111bb3422a9a344f2e41a8e09b.17",
+                    "url": "https://lh3.googleusercontent.com/PLmJor3Nlko3Pd6f1_vqIH4i9eWnjONO73tIF6Yev0kmfM6n1VLKhU1RL31V0V-E28O6CH7n8_pntUZ5KVCs17KlQcA8ag-SjRDO8eEN"
+                }
+            ],
+            "address": "Opposite Muban Phrom Niwet, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "5058742ab1f224fdefea0f7c699f0fef",
+                "name": "Arch",
+                "score": 0.341
+            },
+            "qualityScore": 80.54711216563202,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.088
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.341
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.113
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619894852033"
+        },
+        {
+            "id": "92826530088031a6910f0843f944befa.16",
+            "hashedId": "05d31158df353aad0d7a2c84932d77cafee23456",
+            "title": "ชัยโภชนา / Chai Phochana restaurant",
+            "state": "LIVE",
+            "lat": 13.881599,
+            "lng": 100.53638699999999,
+            "lastUpdateTimestampMs": "1702298540035",
+            "description": "ชัยโภชนา ร้านข้าวต้มยอดนิยม ถ.สามัคคี จ.นนทบุรี",
+            "images": [
+                {
+                    "id": "2ae223c1078d3d5aa5a962142da49b11.17",
+                    "url": "https://lh3.googleusercontent.com/9ZqsignXOw05rtRy6cBMseJxcNXplD6rtUTnURIwHbk5nUDB0X3JVmodsuciREegq77fcv0Gc0ijHzHFX53Q2VwmmS2YNigQMcOzCreh"
+                },
+                {
+                    "id": "93b4b754905b327e9a2cb35195eb4144.17",
+                    "url": "https://lh3.googleusercontent.com/g4pPtdKfywBtjz2OnCK8CwdpTzHRFXWTRMpZe4OYtZuZ-ha8d50JIwm9AG9aswAIItxpTeW4oX8hD94_lrtK-BphI4dFBGX0Ioz-83nC"
+                },
+                {
+                    "id": "f03e316818063084ba52c477ff5b7f14.17",
+                    "url": "https://lh3.googleusercontent.com/edLPPCi_KXYSYBbFih8Ubfol4Mg1HqgThW_ozEV0tsWNbWn10AqSy7xam3R8X6ffnZxNrb67vRo95kvRsarfKG-yb2xtg61qxT148Ws"
+                },
+                {
+                    "id": "c4a86d0b234430a38cfd5df59aa029cc.17",
+                    "url": "https://lh3.googleusercontent.com/cHuCC1QV6ILRsLnC2LErM9d7Wv94tcH5ZsN_wwZW6qs2OUG1DQD5D8lt33Zx-Y54ZsARjbDnltVCN0sGD3pBYjDQOuob9FjC2N24L7EKkg"
+                },
+                {
+                    "id": "5ad88e00d7f733b0934d6fab1fcd4be3.17",
+                    "url": "https://lh3.googleusercontent.com/I9Cpp532RtZ78OULMl0F-HiQsxCK31-ewldnULK8xH9-sGRMg79_oOrNKVitIRVg_QMllUmkJiMxCIP7zKTWtNpXnJ4Wb9ubUujc19ro"
+                },
+                {
+                    "id": "b96897def3303cdca8e68fada8b23f5a.17",
+                    "url": "https://lh3.googleusercontent.com/u7pCkcXKq8kjaIYFBACej5KXMVGuJ357MTP4ad9Qp5P6GbOLWMY1SmbPgb9sHzk9Iv1Fko63mYZO92rAclAociW1Y6_6w5zsYKa2fMt4RA"
+                }
+            ],
+            "address": "อ.เมืองจว 47 Aue Artorn Pracha Niwet Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "2cb2078a28859a376087bcfb909c374b",
+                "name": "Restaurant",
+                "score": 0.874
+            },
+            "qualityScore": 76.96704065469906,
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.874
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.295
+                },
+                {
+                    "id": "72d95ece8aa84692af045849271fc7a9",
+                    "name": "Thai Restaurant"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.104
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1624427663375",
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1675459648496"
+        },
+        {
+            "id": "966d188c6aac4542be1643ce9376e011.16",
+            "hashedId": "94db4e0ee8bd4e04a88356109589b3869a0ce995",
+            "title": "ศาลหงส์ทอง",
+            "state": "LIVE",
+            "lat": 13.881658999999999,
+            "lng": 100.53733799999999,
+            "lastUpdateTimestampMs": "1625549438575",
+            "description": "ศาลพระภูมิใต้ทางด่วน",
+            "images": [
+                {
+                    "id": "c6fd2b7577a54c5bbb15d35977256e49.17",
+                    "url": "https://lh3.googleusercontent.com/1Hhf-rGAqujEviB8eNecAcBfzqsUk4iOVrEa4B5zEMqfeQpvv7p4H2y2NuUCantFPq-a1NCrhp6ll9VhvrrSf2a0DNh5VQ"
+                }
+            ],
+            "address": "597 Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 84.02796669200812,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.167
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.231
+                },
+                {
+                    "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                    "name": "Road",
+                    "score": 0.253
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586882605949"
+        },
+        {
+            "id": "98693c1c726a4a90a7cc64fd1fca8b9d.16",
+            "hashedId": "3c4c1ffe792455ab0de2b1e60fb648568e6106fa",
+            "title": "ท่านท้าวสุรนารี (คุณย่าโม)",
+            "state": "LIVE",
+            "lat": 13.880984,
+            "lng": 100.539245,
+            "lastUpdateTimestampMs": "1588320337849",
+            "description": "อนุสาวรีย์ย่าโมประจำตลาดสมบูรณ์ทรัพย์ เป็นที่เคารพบูชาของประชาชนในย่านนี้ และบุคคลที่ผ่านไปผ่านมา",
+            "images": [
+                {
+                    "id": "ee37a5efbade46768858b0dc0aaead9a.17",
+                    "url": "https://lh3.googleusercontent.com/tuI0LqcgHHBlsqyE5a3-Xor0HNSWfFWwd0J6cU3QGtdv4q0wZWiIebycX-geoXH0qESU4dVLhuQeDb9pKHCBqG0dUQ"
+                }
+            ],
+            "address": "Samakkhi, Tha Sai, Nonthaburi, 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.489
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.173
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.209
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.489
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1675459648496"
+        },
+        {
+            "id": "98dd3a2515253d01a233d4c95b709829.16",
+            "hashedId": "7013fff0e92f5e38ad2a26b5f8e45bf7c34ac6c8",
+            "title": "Futago restaurant",
+            "state": "LIVE",
+            "lat": 13.879985999999999,
+            "lng": 100.53740099999999,
+            "lastUpdateTimestampMs": "1623158477919",
+            "description": "Japanese Restaurant Samakkee Nonthaburi",
+            "images": [
+                {
+                    "id": "1314db40b9383279984b2c4764240d2f.17",
+                    "url": "https://lh3.googleusercontent.com/Afkd8QvF0pIoI6CmzmNxkHcSlZbmACuKwaOB9saqKR2CDsBP-koJGltL1Y4kCgSL7jITv7xgPWZB-s4CAihIZJ-dsjJAxGpPP-sTr0ox"
+                }
+            ],
+            "address": "418/2 Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "2cb2078a28859a376087bcfb909c374b",
+                "name": "Restaurant",
+                "score": 0.996
+            },
+            "qualityScore": 85.74430824215446,
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.996
+                },
+                {
+                    "id": "36b37382288618d0a3cb1f58a65aab04",
+                    "name": "Sushi Restaurant"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.219
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.111
+                },
+                {
+                    "id": "a5d96b1c2f8dee61d53704dfadcb0f12",
+                    "name": "Japanese Restaurant"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1623150425934"
+        },
+        {
+            "id": "ab5b1687eb9f4703a72d5ebb53c035fa.16",
+            "hashedId": "902eff12bf854012c06fa4c08fe69d030dbd0b58",
+            "title": "ศาลเจ้าปึงเถ่ากงม่า",
+            "state": "LIVE",
+            "lat": 13.879757,
+            "lng": 100.539211,
+            "lastUpdateTimestampMs": "1619529612414",
+            "description": "ศาลเจ้าปึงเถ่ากงม่าสมบูรณ์สุข",
+            "images": [
+                {
+                    "id": "692dbaad76344d8f92b7359ea6d150b8.17",
+                    "url": "https://lh3.googleusercontent.com/xWBwpimyWpT_vp5DwOyB1sV320RiFlVN4dEb4J2gjdpm8BTsgZ72TJ7X6d77SGlusPHENp_W-X043etkko3CZMUxvaT1N2IsNH24vJbOaQ"
+                }
+            ],
+            "address": "39/1 Samakkee 46 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.239
+            },
+            "qualityScore": 84.57646631439896,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.14
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.228
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.239
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619410721222"
+        },
+        {
+            "id": "ab63808c14d44070af289e7b37a902ca.16",
+            "hashedId": "9e00e832d149266a58be6f7d727119cdd6ab96e6",
+            "title": "พระพรหม(ย่าโม)",
+            "state": "GAME_REJECTED",
+            "lat": 13.880922,
+            "lng": 100.539458,
+            "lastUpdateTimestampMs": "1501109590777",
+            "description": "พระพรหม(ย่าโม)",
+            "images": [
+                {
+                    "id": "685012ce68f046c3b9a154e0de7d5d1f.17",
+                    "url": "https://lh3.googleusercontent.com/zokJL_Ku_BAURmJ11oTGV-43L1Jlkam3it_N6BHo9CrMRBTwVl7fnB4oC6edgU-lPraMrd1xgJwmYT944sHwmjM5ty2S"
+                }
+            ],
+            "address": "Samakkhi Road, Tha Sai, Mueang Nonthaburi District, Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ac3f673327fb303cae2aa2c1f2cc8d1d.16",
+            "hashedId": "ca009f2e19ec413f5709afc23ff04453acd34f3a",
+            "title": "Slider",
+            "state": "LIVE",
+            "lat": 13.878993999999999,
+            "lng": 100.53621799999999,
+            "description": "เครื่องเล่นสำหรับเด็ก การเคหะ",
+            "images": [
+                {
+                    "id": "d85cab88f5013148b1fe2df140426c95.17",
+                    "url": "https://lh3.googleusercontent.com/jZgmjxTAkYjaMoRMHdd7kC0aVO5SiauOzBtGCJ6O2rsk1L-MmQmfNM15uPXD0bgUQ4VNN6dtEZdN5-GeurVVZmDw_vRu6EWN0sSepPQu"
+                },
+                {
+                    "id": "b03c696fd5f9307aae4a42b1bbef9bb0.17",
+                    "url": "https://lh3.googleusercontent.com/oJJcoc9S1ak80flE-PQrO3I7AGdlHOVktqk4AE1HI9QL15J-DoJ3tdI_Ln23UUzS5fTM6QSRR9UKk32RdWJ3tzH_LLtJ-os2ZcaXFTsG"
+                }
+            ],
+            "address": "45 Samakkee 36 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area"
+            },
+            "qualityScore": 75.85965,
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area"
+                },
+                {
+                    "id": "5515313637cced9304454a08aadef2fd",
+                    "name": "Slide"
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638504007843"
+        },
+        {
+            "id": "b74d34c4790b37e0b8b8512a5497e4d7.16",
+            "hashedId": "9942e3d110cc914deb0b448d2bb81e2d36469a16",
+            "title": "ศาลพระภูมิ",
+            "state": "LIVE",
+            "lat": 13.87613,
+            "lng": 100.53758099999999,
+            "lastUpdateTimestampMs": "1626182455623",
+            "description": "ศาลพระภูมิหน้า town + นนทบุรี",
+            "images": [
+                {
+                    "id": "7fe2b8ed18b3383eb9778b2cda300196.17",
+                    "url": "https://lh3.googleusercontent.com/9nmfY7T94nA2PMpyp52JHzkYRRfbPfaSOoRh6FwGXqKjPUZiJN1DLABdYJpeikEKxwO1iXCvZICsBnpEmw9Yj5h2WmOHFNIFoHeildJWog"
+                }
+            ],
+            "address": "32/175 Town Plus X Prachachun,Taisai, ท่าทราย อำเภอเมืองนนทบุรี นนทบุรี 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "นนทบุรี",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 78.071499690886,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.299
+                },
+                {
+                    "id": "a403ab24167f0564357ba8c266836b70",
+                    "name": "Courthouse",
+                    "score": 0.16
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.28
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1625717193944"
+        },
+        {
+            "id": "be20d1e2c9713ff995dbed1020ba8791.16",
+            "hashedId": "a4876d5ba58a457bb59d47c517cecf0723ebbe12",
+            "title": "Naga statue and fountain",
+            "state": "LIVE",
+            "lat": 13.878884,
+            "lng": 100.538102,
+            "description": "Naga and fountain for Lucky",
+            "images": [
+                {
+                    "id": "6ae076f0b56a3d89a68ab7b384d475ef.17",
+                    "url": "https://lh3.googleusercontent.com/QoGCxMGBF_8W06f9Mp0Y5eLcHyQfb2mV7YfYpFTUYF82qZFFJsWXv4ffoNUeIJvf2D4lCSnSSRSORXPhGPo4n8aDOnDAqRyTt93_bXBfMQ"
+                }
+            ],
+            "address": "24 Samakkee 58/10 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                "name": "Water Fountain"
+            },
+            "qualityScore": 77.4292,
+            "categories": [
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1690425334107"
+        },
+        {
+            "id": "cc39055c06eb30da9528ff2b79b8d244.16",
+            "hashedId": "13553f7f22161acb6a9ae344d7a6c25c50451a7f",
+            "title": "White shine",
+            "state": "LIVE",
+            "lat": 13.881817999999999,
+            "lng": 100.536035,
+            "description": "White shine",
+            "images": [
+                {
+                    "id": "27297b39ed4d37b4911963f8aacb5377.17",
+                    "url": "https://lh3.googleusercontent.com/O1FZOBKRX2SctTieUpIX9hVyGq45Y_O7vh5aOgbUgSylNejz9zImIlN2MSS9Xf3hURVUOwvJwRdsSs0HbGjwDCl-gwA5VCelV6lKbOfl"
+                }
+            ],
+            "address": "362 Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1696594627867"
+        },
+        {
+            "id": "d76d9a96dd38331e9484922d5ef65d13.16",
+            "hashedId": "a1272d52ab6feb1af93a84d506772b0533b19a02",
+            "title": "ตลาดสมบูรณ์ทรัพย์",
+            "state": "LIVE",
+            "lat": 13.880783,
+            "lng": 100.53896999999999,
+            "lastUpdateTimestampMs": "1621343845011",
+            "description": "ตลาดขายของท้องถิ่น ถ.สามัคคี นนทบุรี",
+            "images": [
+                {
+                    "id": "397950d91bfb33559f5818a18c833dd9.17",
+                    "url": "https://lh3.googleusercontent.com/IBXXUE25bmSD4GGp-YZroIHVwqi32tuM_NcQiWfOVeMftAPURPMXB0ytvCuSZlGd1d0wfIFc_aS64o-x5RkfMEmhU-IpfVjmXc_QThOF"
+                }
+            ],
+            "address": "723 Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.344
+            },
+            "qualityScore": 89.82843635889411,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.344
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.139
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.169
+                },
+                {
+                    "id": "e52edc577cbc25ea5e8abf579894f89e",
+                    "name": "Flea Market"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1620985090156"
+        },
+        {
+            "id": "da3ec0c3b72132da82fe2559c32d9ed6.16",
+            "hashedId": "d10a810eed1c3e761f9d5b48402ae62c3991a4b4",
+            "title": "ป้ายบ้านเอื้ออาทร ประชานิเวศน์",
+            "state": "LIVE",
+            "lat": 13.879322,
+            "lng": 100.536566,
+            "lastUpdateTimestampMs": "1624368373097",
+            "description": "ป้ายการเคหะแห่งชาติ เอื้ออาทร",
+            "images": [
+                {
+                    "id": "ac25592ed65f3b0eb00827e271abfbf1.17",
+                    "url": "https://lh3.googleusercontent.com/gzUtuaXHU16FLloSoIzHs9rlgeE04QDI2fGsXScO6tV85q6Blc35Ltw9wTjHP0g3JwQbuk69IN8qtW4vErENg-OtHw7E_SM6FK3_Bd00ow"
+                }
+            ],
+            "address": "31 Tha Sai Niwet Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "ce64859076051dec2b34827e1b0bd37f",
+                "name": "Informational Sign",
+                "score": 0.333
+            },
+            "qualityScore": 72.22548161400594,
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.26
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.191
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch"
+                },
+                {
+                    "id": "99cdfc5b63c22f6ce6707865db95afe3",
+                    "name": "Gateway"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.333
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1624000254078"
+        },
+        {
+            "id": "dd85fb2bf2294e7a946a9169d62e8a2c.16",
+            "hashedId": "36ebf4907bd2b126ea0fe33e260dc8725155300a",
+            "title": "Triple 8 Waterfall",
+            "state": "RETIRED",
+            "lat": 13.881743,
+            "lng": 100.535071,
+            "lastUpdateTimestampMs": "1676518983137",
+            "description": "ประติมากรรมเลข 888 และน้ำพุ ร้านล้างรถ และร้านกาแฟ",
+            "images": [
+                {
+                    "id": "53f0b66098aa46588457322229aa8f96.17",
+                    "url": "https://lh3.googleusercontent.com/o3KVWkOTms8P87vSSJ4MVMgXXyOUWrK_fVXqL_dhgiFj6OhrrY93j3ao37HapWQ5gEOKjjz0j1OgFsAV7WsG1X9-U68"
+                }
+            ],
+            "address": "Samakkhi, Tha Sai, Nonthaburi, 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.608
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.419
+                },
+                {
+                    "id": "679f6d7db0ea1baab169927ad223186c",
+                    "name": "Waterfall"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.608
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.499
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1675459648496"
+        },
+        {
+            "id": "e5d893959e1c49d6b5cfa7aa9a36a604.16",
+            "hashedId": "ff4268820a5ce5291ba8974dad93c42bfd511da1",
+            "title": "Vision Park",
+            "state": "RETIRED",
+            "lat": 13.879306999999999,
+            "lng": 100.533929,
+            "images": [
+                {
+                    "id": "93124000359349eaa3aed02a37eaf0c7.17",
+                    "url": "https://lh3.googleusercontent.com/-lScNW2CZNPbZKlGbZ35zfAOgbxQukuDDcIo_T_vB6Z6yHdh0h0YmCYeZeFugj6WSNuIAk8MA4Wn7HX2DmL-ejLDZqY"
+                }
+            ],
+            "address": "Soi Samakkee 34, Tha Sai, Nonthaburi, 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e646295c6380399697df1c855884b443.16",
+            "hashedId": "587e80c123c828ae214501594cb29796280f3270",
+            "title": "Yellow shrine",
+            "state": "LIVE",
+            "lat": 13.880956,
+            "lng": 100.538063,
+            "lastUpdateTimestampMs": "1623763381711",
+            "description": "ศาลหลังตึก",
+            "images": [
+                {
+                    "id": "3c8756dfd00a3487a59413b008c782ef.17",
+                    "url": "https://lh3.googleusercontent.com/77LbLOpDPZLQBoab2DgBPmWNXpceRDrNPyWvcG2oVOIvxGHgmOwtLHiJXC_XfVgowa6cjYSMeqbCT2ipoUx-vuEc1r8ArrRZzNGx7yk"
+                }
+            ],
+            "address": "134 Samakkee 42 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.386
+            },
+            "qualityScore": 81.53002564545481,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.386
+                },
+                {
+                    "id": "14b167a2dd35aa4ba0410139fde805f6",
+                    "name": "Hokora"
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.096
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.114
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1623384612565"
+        },
+        {
+            "id": "f07eb8fde92c3d3c8aaceaa2743c9a3d.16",
+            "hashedId": "ea5729d7863e01e717bae26f2acbb99d6b2e556b",
+            "title": "S42 sign",
+            "state": "LIVE",
+            "lat": 13.880092,
+            "lng": 100.538348,
+            "description": "ป้ายS42 อพาร์ทเม้นท์",
+            "images": [
+                {
+                    "id": "9b46c72d211732e9908fc4f934009b90.17",
+                    "url": "https://lh3.googleusercontent.com/lmnlv-VD9z--dNz-OiSX9qRfN7hvZixIdDJdD8ljSJ96QKBWTdsMbz0sOBvGSdrfsJc8f8Eg3mO23lD9XbJXGcS0nnohtkFOTUcKLwu7"
+                }
+            ],
+            "address": "37 Samakkee 42 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "d129e72664470c55acaea6ae18983a3a",
+                "name": "Sign"
+            },
+            "categories": [
+                {
+                    "id": "d129e72664470c55acaea6ae18983a3a",
+                    "name": "Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1694601911517"
+        },
+        {
+            "id": "f126efc4f7653d7090d71fbd5a6b877f.16",
+            "hashedId": "ff1da8740f9a7955b3df866b8cfd05d35d5891f7",
+            "title": "ยืนยิ้ม ซีฟู้ด restaurant",
+            "state": "LIVE",
+            "lat": 13.881340999999999,
+            "lng": 100.53789599999999,
+            "description": "ร้านอาหารทะเล ริมถนนสามัคคี",
+            "images": [
+                {
+                    "id": "dc232a8b27e73e389a7764d35c3f562c.17",
+                    "url": "https://lh3.googleusercontent.com/7DWQ4ImQyuyArP5MvfsihNPua0Ps8QwBnLDI1IO4XkHfaNWS4FYZ38tna8nSzLJkdKe1jMqSr7G9H8Apm8p3ZgySdFHvKB0G6ZBeEoQ"
+                }
+            ],
+            "address": "418 2 Samakkhi Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "qualityScore": 83.00762,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1702935077523"
+        },
+        {
+            "id": "f3180649b1b848a2a220174557a7e4c8.16",
+            "hashedId": "0e623ceecd0afa1f89dd02c9696acbfa30bf7c13",
+            "title": "ศาลพระภูมิเหลือง",
+            "state": "LIVE",
+            "lat": 13.881034,
+            "lng": 100.537038,
+            "lastUpdateTimestampMs": "1620134791201",
+            "description": "ศาลพระภูมิสีเหลือง หน้าร้านยาง",
+            "images": [
+                {
+                    "id": "ee07d485daa14b06a3fcca719e5f11da.17",
+                    "url": "https://lh3.googleusercontent.com/_m2uCTPRUQ6CD3rc8rOBJu2X2_Us8t8twPDeMWekl33XvIQ17_vCVjFmDx7q7NruS02ZVIqVtQ7ond2bgzPAMXXdvuz1XHbRJToeAgWVvw"
+                }
+            ],
+            "address": "1 Samakkee 38 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 86.11209648168298,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.18
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.08
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.111
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619767414131"
+        },
+        {
+            "id": "f798d98dc7da47e4a4b804fb4df6fd7e.16",
+            "hashedId": "b62e901199b3f2a2e47da302e6d2aa4259734985",
+            "title": "ศาลชาบูอินดี้",
+            "state": "LIVE",
+            "lat": 13.879468999999999,
+            "lng": 100.53716,
+            "lastUpdateTimestampMs": "1589897759184",
+            "description": "ศาลพระภูมิหน้าตลาด",
+            "images": [
+                {
+                    "id": "c33282f31f5c4f678a3e24f3345cbc17.17",
+                    "url": "https://lh3.googleusercontent.com/44EPuOnNKxBeu0xDWDIGsX8dUZfsyQehmhiYXRVaQg8yw2PqYzHFX0pJ58jAtdiihgFGwT3YYFLmOf58GXTkxWPb9zWamw"
+                },
+                {
+                    "id": "5244b385d1c64bb7bb522ed4d1747420.17",
+                    "url": "https://lh3.googleusercontent.com/LlytsYkDZvJ8oqfmatop1mMHRRo8lk9O2gJN28oR_Eau4qfVHtBLKunH8IDmEhWw9ul29o_9YsjytR6UgItYGssvq4U"
+                }
+            ],
+            "address": "เลขที่ 418/2 หมู่บ้าน ตลาดงามวงศ์วาน Samakkee Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.17
+                },
+                {
+                    "id": "7ac387dc5b896116bd3a881e4fcbd867",
+                    "name": "Bust",
+                    "score": 0.118
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.435
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1585441956696"
+        },
+        {
+            "id": "fdee0d66e12a39e98fbd5ff2c2966554.16",
+            "hashedId": "9ec8763b217ec0b824b7effdd76dbfad109bd6eb",
+            "title": "ศาลในปั๊ม",
+            "state": "LIVE",
+            "lat": 13.882014,
+            "lng": 100.533829,
+            "lastUpdateTimestampMs": "1626787498516",
+            "description": "ศาลพระภูมิที่เคารพสักการะ ตั้งอยู่ในปั้ม",
+            "images": [
+                {
+                    "id": "e379889308ba351a8958521d3b3c9474.17",
+                    "url": "https://lh3.googleusercontent.com/Xk6K67XdCTI1h23F6srPt_NlEd-b3yw--f2VmY7HNjV0swUsjKi3I5hWb3zbKdrDXu26Ov3xsHsrLTmDaixqHaymCd8mL2_lKildrmaa"
+                }
+            ],
+            "address": "Muban Pracha Samakkee Rungsap, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 86.54943511840175,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.218
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "a403ab24167f0564357ba8c266836b70",
+                    "name": "Courthouse",
+                    "score": 0.546
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.183
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1626487856279"
+        }
+    ]
+}
