@@ -1,4 +1,5 @@
-[
+{
+    "pois": [
     {
         "id": "0143fcce3d2e45eaabea44a98c2ccfa3.16",
         "hashedId": "f0de4bbc080e2f49f8d1fdf143026ba5f9ea21bd",
@@ -8738,3 +8739,4 @@
         }
     }
 ]
+}

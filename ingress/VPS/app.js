@@ -83,38 +83,58 @@ let countvps = 0
 
 let err = ''
 
-const readJson500 = (filename) => {
-  axios.get(`data/${filename}.json`)
+// const readJson500 = (filename) => {
+//   axios.get(`data/${filename}.json`)
+//   .then(res => res.data)
+//   .then((data) => {
+//     if (data.pois) return data.pois
+//     return data
+//   })
+//   .then((pois) => {
+//     // console.log(pois)
+//     for (const poi of pois) {
+//       if (!poi.vpsActivated) continue
+//       if (poi.vpsLocalizability != `PRODUCTION`) continue
+//       // console.log(poi)
+//       L.marker([poi.lat,poi.lng])
+//       .bindPopup(`${poi.title}
+//       <br />
+//       ${HTMLQRPORTALID(poi.id)}
+//       `)
+//       .bindTooltip(`${filename}, ${poi.title}`)
+//       .addTo(map)
+//       countvps++
+//     }
+//   })
+//   .then(() => {
+//     readJson500(filename + 1)
+//   })
+//   .catch((e) => {
+//     err = e
+//     console.log(err)
+//     alert(`Found ${countvps} Active VPS`)
+//   })
+// }
+
+
+// readJson500(1)
+
+axios.get(`data/bundle.json`)
   .then(res => res.data)
-  .then((data) => {
-    if (data.pois) return data.pois
-    return data
-  })
-  .then((pois) => {
-    // console.log(pois)
-    for (const poi of pois) {
-      if (!poi.vpsActivated) continue
-      if (poi.vpsLocalizability != `PRODUCTION`) continue
-      // console.log(poi)
-      L.marker([poi.lat,poi.lng])
-      .bindPopup(`${poi.title}
-      <br />
-      ${HTMLQRPORTALID(poi.id)}
-      `)
-      .bindTooltip(`${filename}, ${poi.title}`)
-      .addTo(map)
-      countvps++
+  .then((portals) => {
+    for (let poi of portals) {
+      L.marker([poi.lat, poi.lng])
+        .bindPopup(
+          `${poi.title}
+            <br />
+            ${HTMLQRPORTALID(poi.id)}
+            `
+        )
+        .bindTooltip(`${poi.title}`)
+        .addTo(map);
+      countvps++;
     }
   })
-  .then(() => {
-    readJson500(filename + 1)
-  })
-  .catch((e) => {
-    err = e
-    console.log(err)
+  .then(()=> {
     alert(`Found ${countvps} Active VPS`)
   })
-}
-
-
-readJson500(1)
