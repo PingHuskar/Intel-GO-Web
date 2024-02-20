@@ -1,15 +1,15 @@
 const FOUR_COLOR = ["lime", "cyan", "pink", "yellow","red"]
 // https://fevgames.net/ingress/ingress-guide/ops/scores/
-const region_th = [
+const REGIONS = [
 	{
 		regionName: "AS11-KILO-01",
 		regionVertices: [[13376136, 99189905], [13320053, 100619655], [14786263, 100619655], [14847989, 99189905]],
-		color: FOUR_COLOR.at(1)
+		color: FOUR_COLOR.at(-1)
 	},
 	{
 		regionName: "AS11-LIMA-14",
 		regionVertices: [[13320053, 100619655], [13254873, 102071828], [14714517, 102071828], [14786263, 100619655]],
-		color: FOUR_COLOR.at(1)
+		color: FOUR_COLOR.at(-1)
 	},
 	{
 		regionName: "AS11-KILO-00",
@@ -168,7 +168,226 @@ const region_th = [
 		regionVertices: [[17758460, 100619655], [17673993, 102071828], [19167859, 102071828], [19258411, 100619655]],
 		color: FOUR_COLOR.at(-1)
 	},
-	
+	{
+		regionName: "AS11-LIMA-00",
+		regionVertices: [[10441798, 100619655], [10389984, 102071828], [11812455, 102071828], [11870979, 100619655]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: "AS11-LIMA-03",
+		regionVertices: [[10389984, 102071828], [10330786, 103543691], [11745583, 103543691], [11812455, 102071828]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: "AS10-LIMA-04",
+		regionVertices: [[8990037, 102071828], [8938532, 103543691], [10330786, 103543691], [10389984, 102071828]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: "AS10-LIMA-05",
+		regionVertices: [[9035120, 100619655], [8990037, 102071828], [10389984, 102071828], [10441798, 100619655]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: "AS10-LIMA-06",
+		regionVertices: [[7653391, 100619655], [7615023, 102071828], [8990037, 102071828], [9035120, 100619655]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-07`,
+		regionVertices: [[7615023, 102071828], [7571194, 103543691], [8938532, 103543691], [8990037, 102071828]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-08`,
+		regionVertices: [[6267176, 102071828], [6230968, 103543691], [7571194, 103543691], [7615023, 102071828]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-11`,
+		regionVertices: [[4948537, 102071828], [4919862, 103543691], [6230968, 103543691], [6267176, 102071828]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-10`,
+		regionVertices: [[4973642, 100619655], [4948537, 102071828], [6267176, 102071828], [6298875, 100619655]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-12`,
+		regionVertices: [[4919862, 103543691], [4887571, 105032363], [6190191, 105032363], [6230968, 103543691]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-15`,
+		regionVertices: [[4887571, 105032363], [4851647, 106534837], [6144826, 106534837], [6190191, 105032363]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-14`,
+		regionVertices: [[6190191, 105032363], [6144826, 106534837], [7466909, 106534837], [7521832, 105032363]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-13`,
+		regionVertices: [[6230968, 103543691], [6190191, 105032363], [7521832, 105032363], [7571194, 103543691]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-02`,
+		regionVertices: [[7571194, 103543691], [7521832, 105032363], [8880520, 105032363], [8938532, 103543691]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-01`,
+		regionVertices: [[7521832, 105032363], [7466909, 106534837], [8815969, 106534837], [8880520, 105032363]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-00`,
+		regionVertices: [[8880520, 105032363], [8815969, 106534837], [10189892, 106534837], [10264102, 105032363]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS10-LIMA-03`,
+		regionVertices: [[8938532, 103543691], [8880520, 105032363], [10264102, 105032363], [10330786, 103543691]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS11-LIMA-04`,
+		regionVertices: [[10330786, 103543691], [10264102, 105032363], [11670246, 105032363], [11745583, 103543691]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS11-LIMA-05`,
+		regionVertices: [[10264102, 105032363], [10189892, 106534837], [11586396, 106534837], [11670246, 105032363]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS11-LIMA-06`,
+		regionVertices: [[11670246, 105032363], [11586396, 106534837], [13003038, 106534837], [13096461, 105032363]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS11-LIMA-07`,
+		regionVertices: [[11745583, 103543691], [11670246, 105032363], [13096461, 105032363], [13180387, 103543691]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS11-LIMA-08`,
+		regionVertices: [[13180387, 103543691], [13096461, 105032363], [14540110, 105032363], [14632517, 103543691]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS11-LIMA-09`,
+		regionVertices: [[13096461, 105032363], [13003038, 106534837], [14437230, 106534837], [14540110, 105032363]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: `AS12-LIMA-15`,
+		regionVertices: [[15998432, 105032363], [15886262, 106534837], [17347321, 106534837], [17468565, 105032363]],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
+	{
+		regionName: ``,
+		regionVertices: [],
+		color: FOUR_COLOR.at(-1)
+	},
 ]
 // L.polygon().addTo(map)
 const regionVerticesToPloygon = (d) => {
@@ -181,16 +400,3 @@ const getCenter = (regionVertices) => {
 	return [cenLat, cenLng]
 }
 
-for (let region of region_th) {
-	if (region.regionName && region.regionVertices) {
-		L.polygon(region.regionVertices.map(a => regionVerticesToPloygon(a)), {color: region.color}).addTo(map)
-		L.marker(getCenter(region.regionVertices), {
-			icon: L.divIcon({
-				className: 'parallax-marker label big',
-				html: region.regionName,
-				iconSize: [200, 36],
-				iconAnchor: [100, 18]
-			})
-		}).addTo(map)
-	}
-}
