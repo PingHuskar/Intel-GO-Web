@@ -18,6 +18,111 @@ const encodeLatLng = (num) => zeroPad((num * 10 ** 6).toString(16), 8);
 const LatLngToArrayString = (ll) => {
   return `[${ll.lat.toFixed(5)}, ${ll.lng.toFixed(5)}]`;
 };
+const sPlotShape = (geocode, color = `black`) => {
+  axios
+    .get(
+      `https://api.longdo.com/map/services/object?mode=geojson&id=${geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}`
+    )
+    .then((res) => {
+      console.log(res);
+      return res.data.features;
+    })
+    .then((features) => {
+      // console.log(features)
+      for (let feature of features) {
+        // console.log(feature)
+        if (feature.geometry.coordinates.length > 1) {
+          console.log(feature.geometry.coordinates);
+          for (let shape of feature.geometry.coordinates) {
+            let newArr = [];
+            for (let mark of shape) {
+              newArr.push([mark.at(1), mark.at(0)]);
+            }
+            L.polygon(newArr, {
+              color: color,
+              fillColor: color,
+            }).addTo(map);
+          }
+          // console.log(province.geometry.coordinates)
+        } else if (feature.geometry.coordinates.length === 1) {
+          let newArr = [];
+          for (let mark of feature.geometry.coordinates.at(0)) {
+            newArr.push([mark.at(1), mark.at(0)]);
+          }
+          // console.log(province.geometry.coordinates)
+          L.polygon(newArr, {
+            color: color,
+            fillColor: color,
+          }).addTo(map);
+        }
+      }
+    });
+};
+const plotShape = (geocode, color) => {
+  axios
+    .get(
+      `https://api.longdo.com/map/services/object?mode=geojson&id=${geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}`
+    )
+    .then((res) => {
+      console.log(res);
+      return res.data.features.at(0).geometry.coordinates;
+    })
+    .then((shapes) => {
+      // console.log(shapes)
+      for (let shape of shapes) {
+        // console.log(shape)
+        if (shape.length > 1) {
+          let newArr = [];
+          for (let mark of shape) {
+            newArr.push([mark.at(1), mark.at(0)]);
+          }
+          // console.log(province.geometry.coordinates)
+          L.polygon(newArr, {
+            color: color,
+            fillColor: color,
+          }).addTo(map);
+        } else if (shape.length === 1) {
+          let newArr = [];
+          for (let mark of shape.at(0)) {
+            newArr.push([mark.at(1), mark.at(0)]);
+          }
+          // console.log(province.geometry.coordinates)
+          L.polygon(newArr, {
+            color: color,
+            fillColor: color,
+          }).addTo(map);
+        }
+      }
+    });
+};
+
+const plotarea = (geocode) => {
+  // console.log(geocode)
+  const t = typeof geocode;
+  if (t === `string`) {
+    sPlotShape(geocode);
+  } else {
+    switch (geocode.toString().length) {
+      case 6: {
+        plotShape(geocode, `red`);
+        break;
+      }
+      case 4: {
+        plotShape(geocode, `green`);
+        break;
+      }
+      case 2: {
+        plotShape(geocode, `blue`);
+        break;
+      }
+      default: {
+        alert(`error`);
+      }
+    }
+  }
+};
+
+
 let mapGotLayer = false;
 var map,
   lyrOSM,
@@ -308,6 +413,24 @@ map.on("contextmenu", function (e) {
     .then((res) => res.data.at(0))
     .then((data) => {
       console.log(data);
+      if (plot) {
+        const arrPlot = plot.split(``);
+        if (arrPlot.includes(`s`)) {
+          plotShape(data.geocode, `#${palette.at(colorhunt).color.at(0)}`);
+        }
+        if (arrPlot.includes(`d`)) {
+          plotShape(
+            data.geocode.replace(/\d{2}$/, ""),
+            `#${palette.at(colorhunt).color.at(1)}`
+          );
+        }
+        if (arrPlot.includes(`p`)) {
+          plotShape(
+            data.geocode.replace(/\d{4}$/, ""),
+            `#${palette.at(colorhunt).color.at(2)}`
+          );
+        }
+      }
       if (data.country !== `ประเทศไทย`)
         return addMarker([lat, lng], data, true);
       const aoi = data.aoi || ``;
@@ -340,24 +463,7 @@ map.on("contextmenu", function (e) {
           innerRadiusAsPercent: false,
         }).addTo(map);
       }
-      if (plot) {
-        const arrPlot = plot.split(``);
-        if (arrPlot.includes(`s`)) {
-          plotShape(data.geocode, `#${palette.at(colorhunt).color.at(0)}`);
-        }
-        if (arrPlot.includes(`d`)) {
-          plotShape(
-            data.geocode.replace(/\d{2}$/, ""),
-            `#${palette.at(colorhunt).color.at(1)}`
-          );
-        }
-        if (arrPlot.includes(`p`)) {
-          plotShape(
-            data.geocode.replace(/\d{4}$/, ""),
-            `#${palette.at(colorhunt).color.at(2)}`
-          );
-        }
-      }
+      
     })
     .catch((err) => {
       console.error(err);
@@ -420,106 +526,3 @@ function createCoordCode(coords) {
   );
 }
 
-const sPlotShape = (geocode, color = `black`) => {
-  axios
-    .get(
-      `https://api.longdo.com/map/services/object?mode=geojson&id=${geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}`
-    )
-    .then((res) => {
-      console.log(res);
-      return res.data.features;
-    })
-    .then((features) => {
-      // console.log(features)
-      for (let feature of features) {
-        // console.log(feature)
-        if (feature.geometry.coordinates.length > 1) {
-          console.log(feature.geometry.coordinates);
-          for (let shape of feature.geometry.coordinates) {
-            let newArr = [];
-            for (let mark of shape) {
-              newArr.push([mark.at(1), mark.at(0)]);
-            }
-            L.polygon(newArr, {
-              color: color,
-              fillColor: color,
-            }).addTo(map);
-          }
-          // console.log(province.geometry.coordinates)
-        } else if (feature.geometry.coordinates.length === 1) {
-          let newArr = [];
-          for (let mark of feature.geometry.coordinates.at(0)) {
-            newArr.push([mark.at(1), mark.at(0)]);
-          }
-          // console.log(province.geometry.coordinates)
-          L.polygon(newArr, {
-            color: color,
-            fillColor: color,
-          }).addTo(map);
-        }
-      }
-    });
-};
-const plotShape = (geocode, color) => {
-  axios
-    .get(
-      `https://api.longdo.com/map/services/object?mode=geojson&id=${geocode}&dataset=IG&key=${LOGDOMAPAPIKEY}`
-    )
-    .then((res) => {
-      console.log(res);
-      return res.data.features.at(0).geometry.coordinates;
-    })
-    .then((shapes) => {
-      // console.log(shapes)
-      for (let shape of shapes) {
-        // console.log(shape)
-        if (shape.length > 1) {
-          let newArr = [];
-          for (let mark of shape) {
-            newArr.push([mark.at(1), mark.at(0)]);
-          }
-          // console.log(province.geometry.coordinates)
-          L.polygon(newArr, {
-            color: color,
-            fillColor: color,
-          }).addTo(map);
-        } else if (shape.length === 1) {
-          let newArr = [];
-          for (let mark of shape.at(0)) {
-            newArr.push([mark.at(1), mark.at(0)]);
-          }
-          // console.log(province.geometry.coordinates)
-          L.polygon(newArr, {
-            color: color,
-            fillColor: color,
-          }).addTo(map);
-        }
-      }
-    });
-};
-
-const plotarea = (geocode) => {
-  // console.log(geocode)
-  const t = typeof geocode;
-  if (t === `string`) {
-    sPlotShape(geocode);
-  } else {
-    switch (geocode.toString().length) {
-      case 6: {
-        plotShape(geocode, `red`);
-        break;
-      }
-      case 4: {
-        plotShape(geocode, `green`);
-        break;
-      }
-      case 2: {
-        plotShape(geocode, `blue`);
-        break;
-      }
-      default: {
-        alert(`error`);
-      }
-    }
-  }
-};

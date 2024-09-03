@@ -1,0 +1,5 @@
+@for $i from 1 through 18 {
+    .m#{$i} {
+        filter: hue-rotate($i*100deg);
+    }
+}

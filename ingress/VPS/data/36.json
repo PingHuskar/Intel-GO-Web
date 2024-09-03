@@ -1,0 +1,3652 @@
+{
+    "pois": [
+        {
+            "id": "04493fb5005c4b9dba911d8bd48357e3.16",
+            "hashedId": "e961bfbcd172bbf7f6c5d69033b5aac2e2e5c5ab",
+            "title": "Golden Shrine behind The Sense Pinklao",
+            "state": "LIVE",
+            "lat": 13.778858999999999,
+            "lng": 100.47474799999999,
+            "lastUpdateTimestampMs": "1592313958023",
+            "description": "Phongsirichai Complex",
+            "images": [
+                {
+                    "id": "9a46238accd942b6ba8e7f8f1b94e8ef.17",
+                    "url": "https://lh3.googleusercontent.com/3fXpQHvObA1vk1vrc55BzVtywOPz2o5Vmf623BXsM2mgJAceGnbZO-StYzliUxlZvkcHcIE0zW7Otr8GBalkUeakrg"
+                }
+            ],
+            "address": "71/47 Bun Pong Sa Alley, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.419
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.194
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.252
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.419
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1592149145236"
+        },
+        {
+            "id": "0d48d234abdc4134bc053480a55ca766.16",
+            "hashedId": "a809448e6843b3ce14e1703fba64b2273dee845c",
+            "title": "ประติมากรรมกระดูกเชิงกราน",
+            "state": "GAME_REJECTED",
+            "lat": 13.779416,
+            "lng": 100.474668,
+            "lastUpdateTimestampMs": "1501109884123",
+            "images": [
+                {
+                    "id": "0a0022b653bf421eaea36b52e7ad8627.17",
+                    "url": "https://lh3.googleusercontent.com/c4Bcl-4kAtMBi21ywvviwCBVfnuSEL_NmBswNX_F5uGqWiKzYWjq57tNZ19ww2FgEvzTkFBbrHrWp32v8FUU6VP9zA"
+                }
+            ],
+            "address": "Soi Borommaratchachonnani 15, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1025ccf9847d414ca7ce426513c6fae4.16",
+            "hashedId": "30ba8d17fa8855351b4a90747c80394f4dc32ea1",
+            "title": "Fountain in Front of the Sense Pinklao",
+            "state": "LIVE",
+            "lat": 13.77999,
+            "lng": 100.475285,
+            "lastUpdateTimestampMs": "1594455844676",
+            "images": [
+                {
+                    "id": "5a095ccc75cb4c23a68606165393796d.17",
+                    "url": "https://lh3.googleusercontent.com/JaSg0zY5kLpS0MR9JaCKDttQrGpqQGVrB9wK1AHtq9FcLXZiek6L3OXUtHOe0pby2YdHlG6AeOx1ml4hn4OAyttTcQg"
+                },
+                {
+                    "id": "cbe4ac09754b477382dc3cd5efc48cd1.17",
+                    "url": "https://lh3.googleusercontent.com/M_tXfxk0_geHifcWrAVEX5KMV7EqANlLdizg2kh0ICFln-2jCkx7XLpljWyUReahF8Yn1ABWBKWnWEMSiXTL0I2bEQ"
+                },
+                {
+                    "id": "6f2f1fd5ccb1440190b39cf565860d66.17",
+                    "url": "https://lh3.googleusercontent.com/8Vg5RnU5qYkMU-tQGK1GS1H9CdoTMeb1X-o8CY9Wh7NKB7HDFkyh_VnTkWFETbOa-k4WsvWPyda7nnzntKBtZfMU7g"
+                },
+                {
+                    "id": "5ae8dee296d7418c8fa9bcc013839f84.17",
+                    "url": "https://lh3.googleusercontent.com/wO_N_GskACwdKqQaoDOnY10YmPV4c9se-P0XPVGMM8EIsUuSuEKF97JOsaWwP9QOjp23_akmexkx1-Cd2bSyi5QsRYg"
+                },
+                {
+                    "id": "8fe0773a9f964967b465b8d99a00ef34.17",
+                    "url": "https://lh3.googleusercontent.com/2s4qVcz1OBodQVf__JLLm1eac3njpFFVeDqNRzZFbM8GYubaXyr7e9QA7Fp4asRwyJfszyCXgEIYWNbg8XBLApwUFg"
+                },
+                {
+                    "id": "aa9757983c934158b59a882a7c769025.17",
+                    "url": "https://lh3.googleusercontent.com/8lp_gRaU-5g6sLSfu1by-yP3OfplWmA69JkjXdZqx5RcHvNJmnC55l5YfJYWdMc-RloJmnpKbTgxoF1ThfB1MGAw-n-J"
+                },
+                {
+                    "id": "9fd2d9ba94774c40a2cf6e59e39901c2.17",
+                    "url": "https://lh3.googleusercontent.com/p7D0vesS5iALNnw2HYEIk5aQlV_MCICPp5GRM5r3EZPU50UytRpgjWko81VzfPvS-XIy3Ygx_yb1faeWCVXOdFPjVh8"
+                },
+                {
+                    "id": "2a119970a04e401faf5f0a25514c0cee.17",
+                    "url": "https://lh3.googleusercontent.com/03jzuxymCwvkYQ6ZIhit-Tssk0rbCuP_OULjpFKLhgwoggxg2cZQsXu2_telvoOpmfMQJ8fqryJJqlEOPixJ6qhfH_86"
+                },
+                {
+                    "id": "00b596422bdb43a4ae43212ee26b7284.17",
+                    "url": "https://lh3.googleusercontent.com/EjwLZw0ixHficEYtQksYEDV9OPkiyZteVy1eB5kb3tKo2416q1biimFuGUHliYz7uHzAN0YPfhEMUVGJB9_OEKToomc"
+                },
+                {
+                    "id": "48e4c9ebde7d4008ac4f733df12082eb.17",
+                    "url": "https://lh3.googleusercontent.com/SEQkr7KYxCTx4PvWk6XhbrXdwEoZjxDeRbxNWjTOHCYn_mUMyIrmry8TiN7OqXd8FVRjeE7mRpg756IpuFUaNjWfZRU"
+                },
+                {
+                    "id": "e6ff7851614547a88ad8bdebce9beb2b.17",
+                    "url": "https://lh3.googleusercontent.com/mAsj4hkdcrdezApd3dBCj-6Q7RgOBfe6G5CdjmU2qSVZjmmLe_8PN6-mByHXGD3citc1lwepgWhv-Md-6jp0RBMpI_A"
+                }
+            ],
+            "address": "77 Borommaratchachonnani Road, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.942
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.088
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.942
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.07
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1627e303510d4fd9b110494c085f7989.16",
+            "hashedId": "dd5efa1377414ebe7553c3b35f9f456c4230212b",
+            "title": "Nittaya Pinklao Gazebo",
+            "state": "LIVE",
+            "lat": 13.782741,
+            "lng": 100.47274,
+            "lastUpdateTimestampMs": "1588743007051",
+            "images": [
+                {
+                    "id": "5799e3edf61843c1abe69f2f1d70eac2.17",
+                    "url": "https://lh3.googleusercontent.com/zxoNYxFCk5IrIkqda9B1Q5SS44AbBZHv9m4BRo94D7UrrrZt5XHiMsX_wkA3f3_oHqQjWimq3MGP2oPU66ckjraX4g"
+                },
+                {
+                    "id": "66ef56b1b9c14542b8a8337297aeb03b.17",
+                    "url": "https://lh3.googleusercontent.com/MGKVqMSlPpBk8cSjZsEcNdnoCv1ilza_v_519RX7qZpzbqtjv2oUCiiZxTA1sVue-_VblR1jBrNY-ry4PKMBOPrIPg"
+                }
+            ],
+            "address": "Soi Borommaratchachonnani 21, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "deaed3fc05b15a909711363addda3ba1",
+                "name": "Gazebo",
+                "score": 0.823
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.102
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.096
+                },
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo",
+                    "score": 0.823
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660224490914"
+        },
+        {
+            "id": "16a7bb75b7a4410ca36cf0446d17823a.16",
+            "hashedId": "b499e42efaa317de61d039c9ec53dfa3f21474f1",
+            "title": "Golden Lion",
+            "state": "LIVE",
+            "lat": 13.782582,
+            "lng": 100.47357699999999,
+            "lastUpdateTimestampMs": "1501109717526",
+            "images": [
+                {
+                    "id": "5d20663b27c34be895088d9e3eff622b.17",
+                    "url": "https://lh3.googleusercontent.com/zWxQWzZ2E1qFfJgukh6F39IjYN4i2yt-TxniM8UjqEvxVefyQP6VyiNMMgw8Hkyu5bSm19Zyo8AaGYHBKMXamvSCzVX6"
+                }
+            ],
+            "address": "658 6 Bang Bumru, Bang Phlat, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.692
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.692
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.62
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.064
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "170fa919b72b3a749c5b64905fd6cb85.16",
+            "hashedId": "5c80cceb45de7d7a2bb7864eb0f9500cdd1f5b36",
+            "title": "Beautiful Mosaic Shrine",
+            "state": "LIVE",
+            "lat": 13.783553,
+            "lng": 100.473406,
+            "description": "Soi Borommaratchachonnani 8",
+            "images": [
+                {
+                    "id": "c56d2aa5800534cda1a46f4ca2a7f550.17",
+                    "url": "https://lh3.googleusercontent.com/CihAwlnq1M5vAwyesJvQTXHJWFQUkQRc7TBoOZAQ0euhNs1ErOzibjDDppBM6p_Fk89L4BfmeGD6g439e1SOum9fPhOwSngFf93tiao"
+                }
+            ],
+            "address": "อาคาร ธนาลงกรณ์ ทาวเวอร์ ชั้น 1 Borommaratchachonnani Rd, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1649411369967"
+        },
+        {
+            "id": "1875333e9e174009a04d1e943233bf9e.16",
+            "hashedId": "4112f7e8c7b4d480e6ee8bbba96229c2753a6e98",
+            "title": "Lord Ganesha",
+            "state": "LIVE",
+            "lat": 13.779561999999999,
+            "lng": 100.475706,
+            "lastUpdateTimestampMs": "1588585836251",
+            "description": "Between CentralPlaza Pinklao and The Sense Pinklao",
+            "images": [
+                {
+                    "id": "2c5eec2815b440a0921bdfb52ef9a941.17",
+                    "url": "https://lh3.googleusercontent.com/J0wAQ0pmamWadtWQCTHccG1gHknbPjQMpWY0TsXjGfOMhN08Ef_T50K-YgFDARUHtkdqdwRbNu69ZPMBRnklXD2y7g"
+                },
+                {
+                    "id": "28e618ad2468426ab04081ecc61809b4.17",
+                    "url": "https://lh3.googleusercontent.com/v44HcdxNnIza7lVj29rjwUeuFbVzbPC1uN3PkEJFDJKBNQny41UGa6bq-6rSiTY10soGLVVBE3ZbU0mxNrLSIqlBvw"
+                },
+                {
+                    "id": "e358a3d08c494550bc03860ba9385f23.17",
+                    "url": "https://lh3.googleusercontent.com/O6H6-u74Xu3J2V8uZNDJbID1Hmp6y-mRVByCQusz04E0cLOHactsPVEUDO8ObMBJrK2QTRaaaF_JomakxhlcFWXgh6E"
+                }
+            ],
+            "address": "Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.377
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.377
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.215
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.178
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1ac89cabf74237bc8c530147392976eb.16",
+            "hashedId": "cbfe9d1ea626036fed35fa65cdefa5c8ea8db483",
+            "title": "The Sense's Waterfall",
+            "state": "LIVE",
+            "lat": 13.779568,
+            "lng": 100.47479799999999,
+            "description": "Department store's waterfall",
+            "images": [
+                {
+                    "id": "374ed0c011053684aac5d8869a7f45c9.17",
+                    "url": "https://lh3.googleusercontent.com/G48VNNc69oXCarzdzBecBfm0IpSt6C6PhOrwbI3gxFYQP1ugVXe7IDyXESW3hpZEl7NSI3a6NxVri3aWqFh5hg0HEGxbBg"
+                }
+            ],
+            "address": "The Sence Pinklao, แขวง อรุณอมรินทร์ เขตบางกอกน้อย กรุงเทพมหานคร 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "city": "กรุงเทพมหานคร",
+            "mainCategory": {
+                "id": "679f6d7db0ea1baab169927ad223186c",
+                "name": "Waterfall"
+            },
+            "categories": [
+                {
+                    "id": "679f6d7db0ea1baab169927ad223186c",
+                    "name": "Waterfall"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648031917006"
+        },
+        {
+            "id": "1b6090dd2dc53a9197b33adc035f1df5.16",
+            "hashedId": "971c5d6718d34ddc94fadff9430c482a492c7edc",
+            "title": "Ning nong king kong kaew นิ้งหน่อง กิงก่องแก้ว",
+            "state": "LIVE",
+            "lat": 13.777407,
+            "lng": 100.475667,
+            "description": "CentralPlaza Pinklao",
+            "images": [
+                {
+                    "id": "8bbe39fcb4e53fe792ed9ad08abc4a59.17",
+                    "url": "https://lh3.googleusercontent.com/AnmqiGx3-TtRetcZetwOdFny7waUbs1rYzIJU70I8IcmtXIPGxdnmo4ZqKWgw-0zlbYwxmG0FofLoy7K9Tyj"
+                }
+            ],
+            "address": "503 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638271466923"
+        },
+        {
+            "id": "1f2cedf240ca4c5cadcf79ece17b868c.16",
+            "hashedId": "aa8ae56a4fda1008e16a11df0c37afed87200d0d",
+            "title": "The Sense Pinklao",
+            "state": "LIVE",
+            "lat": 13.779772999999999,
+            "lng": 100.474909,
+            "lastUpdateTimestampMs": "1501109685601",
+            "images": [
+                {
+                    "id": "3c89a64642ea4bc18090f91842c5821a.17",
+                    "url": "https://lh3.googleusercontent.com/WnbuLOao4mFFGHJd7PQG2wJMxRGneo8nUw2drcpf_tRvM52pHVl5HLrGSKYkKNEdbfQO5MdwKQmeCiJ9fL1stxgeLqs0"
+                },
+                {
+                    "id": "affd8a1f1da54f4f8e87b8224a587ada.17",
+                    "url": "https://lh3.googleusercontent.com/wLP4FA6Ikb_E21EempWQ16arB9xSrv6s9nJxQ_vS6v_Hbl7kkUmvauN14wwwkxbT_whliZwjId3R-cu7xzgyNiUBhn4Q"
+                },
+                {
+                    "id": "15540b773fe0303f975246083c70c737.17",
+                    "url": "https://lh3.googleusercontent.com/ZZvGdxRZiE6S6nUZi59r78mrT-huG_0wCEJnCbuji0vqFAPdqkO-C1kojJD02-Z1vekn-GzKfyin3-Jzc0xTiQ"
+                },
+                {
+                    "id": "87ff9ea470ec3ca7b16d5e584e136065.17",
+                    "url": "https://lh3.googleusercontent.com/i53oQB9wZzfLP5Dqw3352OB1bM481xLDBJNHsrH58FL9tqm_e1yIC0HvslZLt9oR3i6UaHsBqlsj7bW09Ds4DMsQ168n"
+                }
+            ],
+            "address": "Borommaratchachonnani 15 Alley, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.258
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.117
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.258
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.192
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "203b762f24d0460d88e4bad31ce89cb3.16",
+            "hashedId": "1f715f1076d7c3d0dfed0f32a37ca8baa691686b",
+            "title": "BMTA Bus Stop",
+            "state": "LIVE",
+            "lat": 13.780621,
+            "lng": 100.475331,
+            "lastUpdateTimestampMs": "1592918544361",
+            "description": "In front of Lumpini Park Pinklao",
+            "images": [
+                {
+                    "id": "3648ddb7ef444662bbcea567d6671725.17",
+                    "url": "https://lh3.googleusercontent.com/E5XrOCU_K9t-czKb8vuiaXxKERI1mjsoRXmNgpcizsCZZ__SKP9IzFPeLpw0wM4nNFPSpsMsbGc3wdz_euzncgT2oNw"
+                }
+            ],
+            "address": "618 Borommaratchachonnani Rd, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.841
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.094
+                },
+                {
+                    "id": "8f725985600d31d53eb12748abf99af1",
+                    "name": "Urban Plaza"
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.841
+                },
+                {
+                    "id": "d35793f0bad09c8d77b0566efe9396a1",
+                    "name": "Bus Terminal",
+                    "score": 0.697
+                },
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1592389880536"
+        },
+        {
+            "id": "220573f0a2143aa2ad5216aaa9ce3cfb.16",
+            "hashedId": "8d21a8f512808e51d199fd84cf33226aa9ed7599",
+            "title": "ศาลปู่ทองย่าพลอย",
+            "state": "LIVE",
+            "lat": 13.783703,
+            "lng": 100.470399,
+            "lastUpdateTimestampMs": "1624368146146",
+            "description": "Pinklao Pattana",
+            "images": [
+                {
+                    "id": "92ddafc52d3f388796291d1486b1da83.17",
+                    "url": "https://lh3.googleusercontent.com/qfoCXX64e2z_nbtfmCPKGi4c4AhLRqzEjOhKh_Sf7MoVkXiBz0PgDnj_i8A2C7pDyEfB59eeLf6PgwRO-pIhRJDyaMR5qLf1gHZuyHll"
+                },
+                {
+                    "id": "a606724c0e153d92a20db5863b3f8dd6.17",
+                    "url": "https://lh3.googleusercontent.com/ZkjrJiYjA2udnAieYN91HRi8Z7jX4AM8Q2BvXw7VvoUxT23kzKFv2V370SWjVdawPD2YIsmsopp45OVLmGa39si3C_AtBJLK2k6cDj1H"
+                },
+                {
+                    "id": "f5377afaea313926b2b3b6cfe9522e7b.17",
+                    "url": "https://lh3.googleusercontent.com/PAsAbzPs4eX16ViES1Z0k11n__7_tebl0GG6BM5dGu0tBorY7djqa1FrUx01COKzt2gwUG_z-R547fuTxxrrdOn7mlnq"
+                },
+                {
+                    "id": "69a721d12c483b0a8a9a410e635dac28.17",
+                    "url": "https://lh3.googleusercontent.com/x6bdfmmMTBelK0NWmn8eiMzphJGa4p_i8Cw5kdh1DAH-qMU9ellIgzj-o3XdH84iCaY5gr_RX02WlFoWoGBuz74g5pla"
+                }
+            ],
+            "address": "Unnamed Road Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 88.82440229774399,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.187
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.314
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.546
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1624104593939"
+        },
+        {
+            "id": "23486a2a8ca13c2684134fe36eb97904.16",
+            "hashedId": "31de919a1b0725e09dec9d09111e6a67abbe828d",
+            "title": "Chaophya Hospital",
+            "state": "GAME_REJECTED",
+            "lat": 13.78079,
+            "lng": 100.470187,
+            "lastUpdateTimestampMs": "1621344157977",
+            "images": [
+                {
+                    "id": "e7020d6dbc523d32a03d21c775e87c10.17",
+                    "url": "https://lh6.ggpht.com/esnTu85-nvp6mjzjmpUasoBVvkicGrXuRPbj3xZyjiw-lliVeVAsCfRdN8T2KXh7Pjdt_OfoLVANfr_IXiT_zA"
+                }
+            ],
+            "address": "113/4 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1620880749824"
+        },
+        {
+            "id": "237c49247db738dfaa4d62dcf80a9fc8.16",
+            "hashedId": "2dfb7baf648a6d181b38b73758d2d661b38d0bb3",
+            "title": "Pokemon Play Lab",
+            "state": "LIVE",
+            "lat": 13.777719,
+            "lng": 100.47534499999999,
+            "description": "พื้นที่เล่น pokemon trading card game",
+            "images": [
+                {
+                    "id": "be7e7fdf18c43ed0b4d8bb1c597169f4.17",
+                    "url": "https://lh3.googleusercontent.com/ecB2KAcZv3y4zEX8FP9npWydPZLOHWcqlrJ7nWFyQ_EjuIL_L5zWA1HMMkSSBcbCzoZf85BXWW01pRtzbtz1CfLT7jNrg1x9aFCByYpn"
+                }
+            ],
+            "address": "7/1 ศูนย์การค้า เซ็นทรัล ปิ่นเกล้า Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "qualityScore": 79.627625,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1702948215444"
+        },
+        {
+            "id": "237edd8dd62f452abda9a14a44012b61.16",
+            "hashedId": "03e5e1b7e5703e5ef9ba64b48b674d991fe3d59f",
+            "title": "Brahma Shrine at Royal City Hotel",
+            "state": "LIVE",
+            "lat": 13.783779,
+            "lng": 100.47231699999999,
+            "lastUpdateTimestampMs": "1619269060234",
+            "images": [
+                {
+                    "id": "4a37af1180424bbcb89ca06458c4ee25.17",
+                    "url": "https://lh3.googleusercontent.com/SlskIuKdieLDJlowOCHKUuH3WGNDkRV32HjuqxjEqtTxjx0l9L_XQLb2UyDUZN2Xt3RGu966xPkmMxzfrWUi7KM4xWTxvIDRtnyoDP-VYQ"
+                },
+                {
+                    "id": "6833a9c9ea13483b87690c6aec235f7c.17",
+                    "url": "https://lh3.googleusercontent.com/Ognz947XgJSejszRU8N4Gg5P4ZKpal5zctwRJT6KfeTnSdwUI0uF_oAhMAq6m2mehcZBgG4bbGjGBv9nkEUUXvYu5vA"
+                },
+                {
+                    "id": "b17b5148b88243a78718f101ae8645ed.17",
+                    "url": "https://lh3.googleusercontent.com/uRAYoHoEjiuWku17-0bUCU9OlkYYxxPat7aElAQWAvF46i3fhm-I7ejBKZXvA8446jrC05aAkTOAM1v7Fuw4S9_T3K4"
+                },
+                {
+                    "id": "b78f5f727b3740b0a178bcfcf3a95bbe.17",
+                    "url": "https://lh3.googleusercontent.com/de5XFMjajIjMVHw7miO3UTgDp1uk5kx7Wt6zwE-x0G53Z3rRmqcBSmZPNFVn66mxmrma6Z42bmKRMSxQ7juXSGTFofQ"
+                }
+            ],
+            "address": "800/1 Borommaratchachonnani Road, Bang Bumru, Bang Phlat, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1692457362028"
+        },
+        {
+            "id": "23b48ff087854122aabf381e907d5338.16",
+            "hashedId": "1c97e5fbc977995034db13007b1b0f37a6c5a4a7",
+            "title": "Wooden Spirit House",
+            "state": "GAME_REJECTED",
+            "lat": 13.784376,
+            "lng": 100.471239,
+            "lastUpdateTimestampMs": "1501109598264",
+            "images": [
+                {
+                    "id": "29e0e7c5688248d68750e55313a00ea8.17",
+                    "url": "https://lh3.googleusercontent.com/5V0K_yAn0u0Zo-PsbGq7Uu2N3yuXhDWmSRxG_YeCiK84HXmRNhEXj0-jRCLL1O-kqCQ_kCkO0sQ3nU1w6HTzx209Hg"
+                }
+            ],
+            "address": "127/9 Borommaratchachonnani Road, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "24e3c1fb45c24431a595ee7d7db0b117.16",
+            "hashedId": "9d3f9b21e0144104af58f2734f260a46ebeb8391",
+            "title": "Golden Shrine",
+            "state": "LIVE",
+            "lat": 13.781823,
+            "lng": 100.473703,
+            "lastUpdateTimestampMs": "1597121369111",
+            "description": "Bangchak Pinklao",
+            "images": [
+                {
+                    "id": "254527a274ee4aad8b0fa7e1fee0b619.17",
+                    "url": "https://lh3.googleusercontent.com/taWi72zlCth1zNr4bqg28eLnO1E3_iyphJiUT93soYePbFZ4s6EYDFXjg2HWKQiWPksFLzlx3q_MqlyE6LFxNBBmN5y7"
+                },
+                {
+                    "id": "389355c8c2ca44009039ef88b75bb6f7.17",
+                    "url": "https://lh3.googleusercontent.com/hoFyI2qwb1Y7cUmgR8vPcNlWCd2bnZIa_K_wlxjq6TlriWt4kOGnckVQ8Cs8oKhL13k0OMmaR96-68bCCTnYVhIQWNw"
+                }
+            ],
+            "address": "105 Thanon Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.513
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.513
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.174
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.402
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "26b659ad461c4f6984179aa22718f084.16",
+            "hashedId": "f17a39443a7e85cb8e6cdc8123d15bcd10753ea0",
+            "title": "นกกระสา 3 ตัว",
+            "state": "GAME_REJECTED",
+            "lat": 13.784022,
+            "lng": 100.471364,
+            "lastUpdateTimestampMs": "1501108973369",
+            "images": [
+                {
+                    "id": "4239bc5a641d46f5a55b1ae3e5a4541a.17",
+                    "url": "https://lh3.googleusercontent.com/D7lGZZZ7c3p35mFJ8Ja3r-2Bg4CCvlQ6vZjNna7yjvf_FYs4YTMyDZsgrY4bpcSJYvO-Nys00xyfD1OH-teWOrG9a6g"
+                }
+            ],
+            "address": "Thanon Rung Pracha, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2fcc88c12129426bb23c1e8766486bd8.16",
+            "hashedId": "328e75e1183db3d19be3278601adce44c7ddff49",
+            "title": "Triangle Fountain",
+            "state": "LIVE",
+            "lat": 13.779501,
+            "lng": 100.474606,
+            "lastUpdateTimestampMs": "1609505078610",
+            "description": "The Sense Pinklao",
+            "images": [
+                {
+                    "id": "781dc136dee040eda0ab1d0076e5ec33.17",
+                    "url": "https://lh3.googleusercontent.com/tt52D5tfAJPWdYtZA_W8a3B68xe1CFpmR6CLp_dSF--NWLAl6qgVhmmPA6ozv_X5pSnR_zRkpXh2J3lyR1ExWsSQAxE"
+                },
+                {
+                    "id": "4ae5bbdac81e4e4aa392eca4c0e1cb1f.17",
+                    "url": "https://lh3.googleusercontent.com/-b4WTlZ0toBlxFSVcLyN9kPu1dUzWhPs7vcF_akwB8BUZf1bL85m038p4q4MVpIyIw_BOVUz3SGKqCwHORiKMyBbrQph"
+                },
+                {
+                    "id": "430fdb61be7348e4ac0b34ba7d3e51c5.17",
+                    "url": "https://lh3.googleusercontent.com/gqbad_HAPYqHxte_7T1OdlzlUOwJCwI6RAvqpKWln-nsxH47Ykr_yMMpBDD4-PXAWdzMUZkQtNdXbCo2oOlV5qHjTYSN"
+                }
+            ],
+            "address": "Borommaratchachonnani 15 Alley, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "314685107314321a9df19007df0985dc.16",
+            "hashedId": "2dcc8d870a5234023a04b6a2dbfa2ca3edc15fee",
+            "title": "JS HOME shrine",
+            "state": "LIVE",
+            "lat": 13.777453,
+            "lng": 100.474122,
+            "images": [
+                {
+                    "id": "5a36e3326c1f3775a51eddce5bd251e2.17",
+                    "url": "https://lh3.googleusercontent.com/zNZyxjzcA3LvyO_YgsNvSPw0pMAZv2Yi6lTIKiTqNmV8itIFX_r8BfB8iH8yxh6cj6XwTt54gggNLg8U0Uc"
+                }
+            ],
+            "address": "54/3 จรัญสนิทวงศ์ Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1640590737353"
+        },
+        {
+            "id": "358d67f5a1a44ac5952a0b9e4e86fca7.16",
+            "hashedId": "090c56af86fff12b35be8bc7212bb724da8d39e7",
+            "title": "CentralPlaza Pinklao Shrine",
+            "state": "LIVE",
+            "lat": 13.779190999999999,
+            "lng": 100.476107,
+            "lastUpdateTimestampMs": "1606447491122",
+            "images": [
+                {
+                    "id": "1674f0ca1c72490992a1b05af3c1ca18.17",
+                    "url": "https://lh3.googleusercontent.com/dhDFmeip7vGFyKdwmC8540kCO0nVmGua2TVLv3tx22HOU80SS3CYC2_go8j4B_MZn_oE_PJNs_iGHjLr0wE9ZYg9Mtna"
+                },
+                {
+                    "id": "55ca2e1feae546cf8343b3d9a5b069de.17",
+                    "url": "https://lh3.googleusercontent.com/btUgHdH-WCc8tIAcZ2iyM85KbZX_HlYIV-1M1AKaGxvPtyhp8zPPPawpfAYlzTCRPBq6RWaPo1HxLib0Snmg-5eYPyo"
+                }
+            ],
+            "address": "71 Thanon Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.229
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.186
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.16
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.229
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "378adcb97ced345a9df5a933a8aaabaa.16",
+            "hashedId": "aa90724dab9ede3ca1bdafb5634856cd9bfbb333",
+            "title": "Rabbit Tree",
+            "state": "LIVE",
+            "lat": 13.777738999999999,
+            "lng": 100.476102,
+            "description": "CentralPlaza Pinklao 5th Fl",
+            "images": [
+                {
+                    "id": "180a64b817a733b1be749147c1171458.17",
+                    "url": "https://lh3.googleusercontent.com/xjT_e36mz-44FYJ5YwRZopQ48SXrmfaXMlhAG_-2cNl0sUEBhvg7Uj5CJigz_FonmSJEf0tMkRVJVMr6hiXN"
+                }
+            ],
+            "address": "7 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "93a0f087aafe93f75819f28e06f049fb",
+                "name": "Tree"
+            },
+            "categories": [
+                {
+                    "id": "93a0f087aafe93f75819f28e06f049fb",
+                    "name": "Tree"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638352399833"
+        },
+        {
+            "id": "3a057198ccad42cdaa095c3d3bbf9b57.16",
+            "hashedId": "8092068621ba97cf96e37c8708994540d5c1b2b5",
+            "title": "The Duo Elephants in front of ป.กุ้งเผา ปิ่นเกล้า",
+            "state": "LIVE",
+            "lat": 13.783524,
+            "lng": 100.472027,
+            "lastUpdateTimestampMs": "1609463498982",
+            "images": [
+                {
+                    "id": "9fa5bf751cda40fbb817bb7a171752b7.17",
+                    "url": "https://lh3.googleusercontent.com/yNoRpFD-C-CvtTeXZdIN4cvgMIt5a76iz_4CGu4eKGlM4YyxPqLlr1GY5t0gSWJtpecvNWP2xF9BI3vSCLMxUWWm8D9t"
+                }
+            ],
+            "address": "338, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3b61032d7cc44fdd9a903ae29f08d95c.16",
+            "hashedId": "402c3e009cc1c20ed4bfb3927dde8d1e3fe634ac",
+            "title": "น้ำพุ",
+            "state": "LIVE",
+            "lat": 13.784707,
+            "lng": 100.46995199999999,
+            "lastUpdateTimestampMs": "1501109380958",
+            "images": [
+                {
+                    "id": "4fee62e6a8ec4fdf922f1c802514b573.17",
+                    "url": "https://lh3.googleusercontent.com/10AVs9dQB4B6JvqaR1VQY-H_twwUzKuyFrUZdh6zeFOUf4e4m72K2fD0_ku-K0wAEMfTikJ8KI5gh2eLDFplFN8Qolg"
+                }
+            ],
+            "address": "143/531 Thanon Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.986
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.12
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.986
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.047
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3b665b6c7e1941f1a48e19cb9ec6a3c0.11",
+            "hashedId": "4ca010afb05576862668688a11c413452967a791",
+            "title": "Central Plaza Pinklao",
+            "state": "LIVE",
+            "lat": 13.778136,
+            "lng": 100.476885,
+            "lastUpdateTimestampMs": "1501109392265",
+            "images": [
+                {
+                    "id": "75187f0e49c04d7883b791a58cd00fa1.17",
+                    "url": "https://lh3.googleusercontent.com/3HiBL7tL2ERGDz_VTROraEHOMZw7ceydlfHZCmO5RL4hxCQXj-sPQzkbmb68X-Cv33-L2T4L9hy4_AiSbdvepa9fvw"
+                },
+                {
+                    "id": "c02e208ee2bd44e59df59a5e9e66e652.17",
+                    "url": "https://lh3.googleusercontent.com/F2KkHgQRTZ8DANgd-IlgmyJ2xG3oh16o3WqUcwI3vyzB9CFuj4klTX2q3HGYl_VrM-Q2mqSlEZx1xj7mKnzYmc_8zk4"
+                },
+                {
+                    "id": "2708146c02cf43b08a6edd423c929b94.17",
+                    "url": "https://lh3.googleusercontent.com/QQ5Wd-edt9lA1i4HtOdRWpa9obz3ikMq5DkiKZ01A0k_zFkO6ATPCxlTPE4ELjtiXsb2JarZn2gq5VCMdAwHbJfdfw"
+                }
+            ],
+            "address": "Thanon Borommaratchachonnani, Bang Bumru, Bang Phlat, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.406
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.406
+                },
+                {
+                    "id": "8f725985600d31d53eb12748abf99af1",
+                    "name": "Urban Plaza",
+                    "score": 0.211
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.183
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3c8064ffb51746c3a45f6371f54bb83f.16",
+            "hashedId": "88af3dbce51fb8a05fccc8612e2ddd45986adbbf",
+            "title": "The Royal City Hotel",
+            "state": "LIVE",
+            "lat": 13.783519,
+            "lng": 100.472591,
+            "lastUpdateTimestampMs": "1607833426773",
+            "images": [
+                {
+                    "id": "102e7e5234194e88b5d3054bf19c2ebf.17",
+                    "url": "https://lh3.googleusercontent.com/5_i3cMZ7sSDPZ1OcwHnsF3lkOWmdiz6fmUOvEI1qzRrzjv3BI-0qVaYdigigA99XCDpoS5Pep-lEZmqs3g00OmCLe0Q"
+                },
+                {
+                    "id": "73c322da695048e280af1f9746cbd576.17",
+                    "url": "https://lh3.googleusercontent.com/pqYUGs2Sb-eukyTQx0uw5QDuSVyv6Hz0CLGymHp1r6AACl4qN6Mdk_4J8Y668yLmaneR4GgH1Fhtf9gy0rOB32CwV6V7"
+                }
+            ],
+            "address": "Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel"
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "476be4fe609b40e2afef1d88d4ce5222.16",
+            "hashedId": "6435b43e209e266430c5856f20d50ee9e4907ebc",
+            "title": "White Golden Shrine beside Central Plaza Pinklao",
+            "state": "LIVE",
+            "lat": 13.778609,
+            "lng": 100.476647,
+            "lastUpdateTimestampMs": "1594606925316",
+            "images": [
+                {
+                    "id": "f5f25e70db9c4a22a1c5180ec3965f84.17",
+                    "url": "https://lh3.googleusercontent.com/BKMNu1QKdkE11iVMWUsYI1lecaELqGQFElUPOobxmMhVsCukbyvPMuFjzeA3mjhIZWle_RC1h8lSrD94J6MX6i-ysgc"
+                },
+                {
+                    "id": "fbd2c84346254390afc9e7b012728059.17",
+                    "url": "https://lh3.googleusercontent.com/8zmT4gOkIt5jGUcumHtcNh1S45cX5bUERJmEMS9KUVQgFvHP43agzVuHauCdna3o0-j92UysnTSgrJi0uTovu60sQnY2"
+                }
+            ],
+            "address": "7/557 Borommaratchachonnani Road, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.101
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.08
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.114
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "530cb530f03a3999b0d25771aed39620.16",
+            "hashedId": "94c1844023bb01a505e30393d1bf716d3978ca4d",
+            "title": "Football Field",
+            "state": "LIVE",
+            "lat": 13.780781,
+            "lng": 100.47693699999999,
+            "lastUpdateTimestampMs": "1622553678838",
+            "description": "Small football field near Major Cineplex Pinklao",
+            "images": [
+                {
+                    "id": "131f973b83b237c892fecdc318df800a.17",
+                    "url": "https://lh3.ggpht.com/qbQpZin896JU04Y_mvKvQzYopkHez8lvg5h4KRypjJ7M4BF5-B-SRBOHJ2hgvLD6ZRpHNJxmlx-ExuaxumXE"
+                }
+            ],
+            "address": "ลุมพินี พาร์ค ปิ่นเกล้า Borommaratchachonnani Rd, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "9f471e5607b385dfd5cb109672ec9784",
+                "name": "Soccer Field",
+                "score": 0.819
+            },
+            "categories": [
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.784
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.059
+                },
+                {
+                    "id": "9f471e5607b385dfd5cb109672ec9784",
+                    "name": "Soccer Field",
+                    "score": 0.819
+                },
+                {
+                    "id": "b2bc3821637de0ccc26e12d4842ddaf5",
+                    "name": "Football Field"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1622026439891"
+        },
+        {
+            "id": "570b6456c0504110b0d29895a991945a.16",
+            "hashedId": "4ad20ad9b5afad5a755ec8228e725ead4b562a85",
+            "title": "ประติมากรรมเรือกอนโดล่า",
+            "state": "GAME_REJECTED",
+            "lat": 13.779553,
+            "lng": 100.474761,
+            "lastUpdateTimestampMs": "1501109594860",
+            "images": [
+                {
+                    "id": "b087b38dc5eb446086987a5b0ee22670.17",
+                    "url": "https://lh3.googleusercontent.com/ShOC6xu1AD38FdSrNIpCvxmRtlB9lNxIGzEEaJwcyZ140OKC7EdRaIcgmup8NTuDhKLLntc133brg8aEH72N9-_5APHr"
+                }
+            ],
+            "address": "Soi Borommaratchachonnani 15, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5f2f32fabcf43a4e91361640d42f9546.16",
+            "hashedId": "5406e1c5bc424d4d74799643d28d1e69800a983b",
+            "title": "ศาล ป.กุ้งเผา",
+            "state": "LIVE",
+            "lat": 13.782542999999999,
+            "lng": 100.47207,
+            "description": "ศาลในลานจอดรถ",
+            "images": [
+                {
+                    "id": "0d92d8d079a235469f96b5f74312f699.17",
+                    "url": "https://lh3.googleusercontent.com/G4iIa0CSsq6qtwkY5aaccnAuybJOGgve8fNg8bFMrxjVAs45Uks9QHqAAwErz6RQ6NKmckPTTlL2b__nx_1MRkl0p3gWJ8LqXaYdmbs"
+                }
+            ],
+            "address": "99/105 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "qualityScore": 81.12728,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1702868371595"
+        },
+        {
+            "id": "60d71defe7c54051ab058ca539234263.16",
+            "hashedId": "d156a73ec310d9e9ae8d5ff70a69dfb8ff8b31d9",
+            "title": "Horizontal Fountain",
+            "state": "LIVE",
+            "lat": 13.779193999999999,
+            "lng": 100.47479299999999,
+            "lastUpdateTimestampMs": "1615090173185",
+            "description": "The Sense Pinklao",
+            "images": [
+                {
+                    "id": "35d324c7d0c14789bbfb7fda13e31ba1.17",
+                    "url": "https://lh3.googleusercontent.com/mr0o21iRU4RzX2yVWMNM_oXVTpeTWM04VStHAqgGMvAyRn8pSBSZUvKvZGrIAn9iiJgnjqbI1iaAK9af9lbpAc6jKQ"
+                }
+            ],
+            "address": "89/263 Baromrachonee Rd., แขวง อรุณอมรินทร์ เขตบางกอกน้อย กรุงเทพมหานคร 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "กรุงเทพมหานคร",
+            "geoStateShort": "กรุงเทพมหานคร",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "610803c37841451e8399e060369c4c7c.16",
+            "hashedId": "e104e45c4011e60547f6ec1378e93f709f7c2251",
+            "title": "Kiatnakin Bank Shrine",
+            "state": "LIVE",
+            "lat": 13.781051,
+            "lng": 100.474341,
+            "lastUpdateTimestampMs": "1501109786907",
+            "images": [
+                {
+                    "id": "5deb0c9248ef43b0b9b31da5eeac05f0.17",
+                    "url": "https://lh3.googleusercontent.com/Nfi4LuoQBE_fa6Cz844rIfw5R_5JAUnf-30xC5Iw_cmk91sikjRDrMs_YvDDOtSuYRQj1g2qLkbl0Rr9bgyGrywXXQ"
+                }
+            ],
+            "address": "77/18-19 Soi Bun Pong Sa, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.172
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.172
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.14
+                },
+                {
+                    "id": "7ba3b459772ebc9899ce25a385885e42",
+                    "name": "Bank"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.157
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "68660da80bb34cc58b606f34234a9eb1.16",
+            "hashedId": "33a5ff3239d2e180d7d1daf0061142bef8e4fcf8",
+            "title": "The Big Chicken",
+            "state": "LIVE",
+            "lat": 13.782183999999999,
+            "lng": 100.47218199999999,
+            "lastUpdateTimestampMs": "1588422038413",
+            "description": "Nittaya Kai Yang Pinklao",
+            "images": [
+                {
+                    "id": "3a50feeb09964d2ab3b7bef7c6e3d305.17",
+                    "url": "https://lh3.googleusercontent.com/Xues9a2pdzIVk28NRnMj07yFX2YhuDZ1E3qSeJWT7cwtPb46I05XfSV4Kzk9CG-bCqWDHDjcQ22pUUsoOEk8RxyfKBk"
+                },
+                {
+                    "id": "b2e8e36529de4090baff9350242b0f3a.17",
+                    "url": "https://lh3.googleusercontent.com/l4VaY286CpZ-f3hzsEW82-DiSsexFQc4Yc_rfQfhzAr_NwOt4mtbLY2FuupIvFgbhLe923AdvKqlyx_kKA9hO7y47eUD"
+                }
+            ],
+            "address": "99/105 Thanon Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.324
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.324
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.237
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.122
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6c6a43667f104e37b0cb67718efbafa7.16",
+            "hashedId": "03dd4bf40aa7ca62a8fca803d2237e24e43451f8",
+            "title": "Twin Shrine at Bar-BQ Resort",
+            "state": "LIVE",
+            "lat": 13.78018,
+            "lng": 100.475749,
+            "lastUpdateTimestampMs": "1596519569844",
+            "images": [
+                {
+                    "id": "63da0ffb7df9495ab06bec2971890207.17",
+                    "url": "https://lh3.googleusercontent.com/l_0vojv4FNnV7c6jCPP6QNRAy6TLtE3gQOSKZ8yaydZ6EOlpbn0MYD4wAC0GPxnrVC-_03RyLhj4P27ZrBAl08XC2A"
+                },
+                {
+                    "id": "c6739eace5e142979ec6393eec7c4e65.17",
+                    "url": "https://lh3.googleusercontent.com/9eLMAK5iL3wzIiOxVOaQy4OygFp-IgZ1Nm0mn0xvrX8t0Kz98WdGHRPWBr48REB3iA1FEGWvf4Y6pkEk1wvFjm08P1J0"
+                }
+            ],
+            "address": "610/1 Borommaratchachonnani Road, Bang Bumru, Bang Phlat, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "23e98b267b0466e8509b164758f244bb",
+                    "name": "Resort"
+                },
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.1
+                },
+                {
+                    "id": "3ed24065426da8382b4da5e9ca659e41",
+                    "name": "Bar"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.209
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.249
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6d7b08d9098143b68fa8920244987d98.16",
+            "hashedId": "8bc2e708dfac59e62e8e89b2669a616a0c54ca2b",
+            "title": "Giant Group Shrine",
+            "state": "LIVE",
+            "lat": 13.778887,
+            "lng": 100.474356,
+            "lastUpdateTimestampMs": "1605143719089",
+            "images": [
+                {
+                    "id": "acf6a8de1cb04a4697a468ef188cb1b9.17",
+                    "url": "https://lh3.googleusercontent.com/xhcnvxDUX1-_TvwxpKsq6EEvNidXaaP1E5_Svm-bQCo0--Ni2PS3Plrpokh6xYGMKQ4aRa3yZt3MRctxEa259ZHibrw"
+                },
+                {
+                    "id": "1269bd337e1e4d75ad0e92ede80fde6c.17",
+                    "url": "https://lh3.googleusercontent.com/h4qhT3ODix8xksa9DFFwNaiNMhKZ2uRROoTzhM5gIuFBHZBwjw9f_S5nIWC9sDvGM57uqSjHR9HztNVmxissN2w_yTGG"
+                },
+                {
+                    "id": "ca2def61cde84e10a3917f07a0e0dfd0.17",
+                    "url": "https://lh3.googleusercontent.com/kcZ1jM2ocHVG_CPupxElZ7yX8NOZQ_teMOzI61FPAHAHz_3ZoYL52c3_jbw36BZOEhP7-2ZVJXjNAM1beiec_2EBRF0"
+                }
+            ],
+            "address": "71/30 Bun Pong Sa Alley, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.139
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.452
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.155
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6f67e39e44c840af92853a8ca098d02f.16",
+            "hashedId": "481194e15231da0af7d42d70b53a479e4bfa60ec",
+            "title": "Wooden Shrine at Thana Longkorn Tower",
+            "state": "GAME_REJECTED",
+            "lat": 13.782855,
+            "lng": 100.47333499999999,
+            "lastUpdateTimestampMs": "1589895711460",
+            "description": "ศาลไม้ ณ อาคารธนาลงกรณ์ทาวเวอร์",
+            "images": [
+                {
+                    "id": "ad1a4a49c0a74492b73bcfdd702f2374.17",
+                    "url": "https://lh3.googleusercontent.com/y3aF1A4pAyTmp_m0DCt3TkO3H-9wtTMVDtZrKqHh2uZxpel_4JLI4LpRfNlR6ILaYQ36kT2u9Ovu9CXMd7Vl2Vih3a9u"
+                }
+            ],
+            "address": "662 Soi 6, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1587522113164"
+        },
+        {
+            "id": "705827b1e99b4d6d87faa589c1296997.16",
+            "hashedId": "733d40c5e180620cb0d0772afa84c4b297e07084",
+            "title": "Ganesha Shrine",
+            "state": "LIVE",
+            "lat": 13.784054999999999,
+            "lng": 100.474098,
+            "lastUpdateTimestampMs": "1617118208147",
+            "description": "Soi Borommaratchachonnani 8",
+            "images": [
+                {
+                    "id": "f378d49e07614da38e5e35282972f7b0.17",
+                    "url": "https://lh3.googleusercontent.com/rzuWLdXuhMZy0fIsq35TP2dDNUoc3TW3r4LYmfbn8DomDj-EqWFHSWL_zXiaUB6tSeqzIEeaD0yrM5DoC8xMmn5uZYLw"
+                },
+                {
+                    "id": "f838502eb7c04813bc43a7ab0f8b7ba5.17",
+                    "url": "https://lh3.googleusercontent.com/lvvs-3oLYRLyHgGQI8xbPTc_kCbgvc6A6ZiPAYBIZLD9CD4rDkL_0yj65_8tVseGuyWpcFdu8zjZK6tW-tqyjH1FDRc"
+                }
+            ],
+            "address": "678 Park Ln Terrace Alley, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 87.11796379956192,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1584531939013"
+        },
+        {
+            "id": "73ef2cc74fad4b7bbdcc35c8442f847a.16",
+            "hashedId": "b77c22d8d328b0456116f15de1512314c99ee137",
+            "title": "The Duo Elephants",
+            "state": "LIVE",
+            "lat": 13.784170999999999,
+            "lng": 100.471452,
+            "lastUpdateTimestampMs": "1609486418741",
+            "images": [
+                {
+                    "id": "bff68dcf8c084100bf337ef1a7722f4e.17",
+                    "url": "https://lh3.googleusercontent.com/wJii2b3FwZiIcxYsFHuIyGfZCxtvtZJrouMicS5bAl1t68GshWm6kmCfuhR-d1aFRQF6jaryTthSbFqGKyVTDPKLtzo"
+                }
+            ],
+            "address": "Rung Pracha, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "754379e6cf2d4b63bd621197d224f39e.16",
+            "hashedId": "7c0bcd1754b8258afc05c976df95f01448b10a83",
+            "title": "9 Headed Naga",
+            "state": "LIVE",
+            "lat": 13.783106,
+            "lng": 100.47296999999999,
+            "lastUpdateTimestampMs": "1614257913329",
+            "description": "Between Soi Borommaratchachonnani 8 & 8/1",
+            "images": [
+                {
+                    "id": "a088f2f4c7434b14967ec9d8157cf893.17",
+                    "url": "https://lh3.googleusercontent.com/X9-3NAdAvPcNl7e2Zn1y3soSRsr78KGSV2RAr1a2vwKN6gSOIJWYxepnlVA5rbZHvkS9GJ-k8h9-LpUZToBcptqs-A"
+                },
+                {
+                    "id": "a0717963c2d64ee988cdc21b04320589.17",
+                    "url": "https://lh3.googleusercontent.com/HObp-Ak_-KDFRcS3cYk0zB71Yy9Xvex_7AmJKFW9N4mm69t9Ww2L8solhHW-zLa3TXkGgPmWRjUq8TJ-LJnsoaxvx2o"
+                },
+                {
+                    "id": "fffa5fcaa2c94a559456368891ce5b82.17",
+                    "url": "https://lh3.googleusercontent.com/5fso6EdpoEL45-dTFSsyeJt4FIM-3BXZqQEVyhDNsONn0VOS1W-skY4G_IIBRi-oorM19o4MrAYl9YvuEAoAcAyKBI95"
+                },
+                {
+                    "id": "8e2da5457bba4c04a12083d7ca18f96a.17",
+                    "url": "https://lh3.googleusercontent.com/P10z_C0Uoevv9rE7N1KA7tItD7ws76G0BMBp8MGImrgWFwlMtVhbL_3Trxhq_J2u4a4r7O8GFWvk-eHT0ErZ5innhX0"
+                }
+            ],
+            "address": "728 ซอย พารค์ Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain"
+            },
+            "qualityScore": 86.60510437241007,
+            "categories": [
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1588651145103"
+        },
+        {
+            "id": "7eca45b7fc644dd08facc6dcf3e16160.16",
+            "hashedId": "caaed149005fda38e45eb9df16eb9f07e8e1ffd4",
+            "title": "Set Of Altar Table",
+            "state": "LIVE",
+            "lat": 13.777171,
+            "lng": 100.47391999999999,
+            "lastUpdateTimestampMs": "1501109655453",
+            "images": [
+                {
+                    "id": "f44690b3fb0c4f63b001c7c642b5ea92.17",
+                    "url": "https://lh3.googleusercontent.com/i1q17FmNriGVfZAT-wugnoGEHZubHIl-c7FDFfwMyIpV4qQ5dyqnq3BUPkxkSEpwJKDCpiQqliZBM6PagMK9r-pwYgGO"
+                }
+            ],
+            "address": "Soi Pathombut, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.337
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.282
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.337
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church",
+                    "score": 0.124
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7f74462ab3c14231a1bb43be82249b7d.16",
+            "hashedId": "d025e365076f3acf91666e522a24c38372d2263e",
+            "title": "Glin Sri Shrine",
+            "state": "LIVE",
+            "lat": 13.779131999999999,
+            "lng": 100.476956,
+            "lastUpdateTimestampMs": "1594476727008",
+            "images": [
+                {
+                    "id": "f942db786c134a6a8482dbc5150b16c9.17",
+                    "url": "https://lh3.googleusercontent.com/yD2Tuubh_wHdC0KXVB1N4huIXG_o26p-CAETKgVhfK3h15EmIFmWNJrQAJUWzJDDv0biQtpMF4Ttx-Avs1eK5lqw4g"
+                },
+                {
+                    "id": "574c706b28444815b5f8bd1c40504ec6.17",
+                    "url": "https://lh3.googleusercontent.com/EwNNN1kIOrLoqp25fgVEPO08p06GGa4mKH2UvYTC640W49Z2Bk3Z_0FsY7-ODZYDPKPhouHVxOuWi1X6_c8Q--0XZQ"
+                }
+            ],
+            "address": "564 บรมราชชนนี Bang Bumru, Bang Phlat, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.552
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.552
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.268
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.217
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7fa93667841f4204a8d17c845a28abeb.16",
+            "hashedId": "f475abb23996e44ff4360c9e3c9a7509f2cb1be3",
+            "title": "Lumpini Place 2 Pinklao Fountain",
+            "state": "LIVE",
+            "lat": 13.780641999999999,
+            "lng": 100.47477599999999,
+            "lastUpdateTimestampMs": "1593116049984",
+            "description": "Entrance to Lumpini Place 2 Pinklao",
+            "images": [
+                {
+                    "id": "4b2c096d3bda4fcd8e726fef54de328c.17",
+                    "url": "https://lh3.googleusercontent.com/ETtaWdl5KaKZ90AbiB2ryRhwU1Om9iAPSaVgMW2bF35u2kWhEqzFR8LyQ-Q3QITY2v-g8ns7KE7Y2De0atIPmbS5EIc"
+                },
+                {
+                    "id": "139116abe1964aeb98351604b15c0e85.17",
+                    "url": "https://lh3.googleusercontent.com/NwGLJDGO6jKyh7-if4jlgFAqdrg_21tqZGYQBuNbSbeORtq8RiHIvog-cK3mIhBk7ck4SxRuVSv4rvGt3JVpFYteLhI"
+                },
+                {
+                    "id": "b0fb076e8ecb47f892c0766eac11ef6d.17",
+                    "url": "https://lh3.googleusercontent.com/lQdCkZRyx_QR6NaoumTw6icVeJ5N43Cq0J__2IFGFDjauqhH5YiA8ICmyppBZDnawnIvq59DHIKzRaVDH4u4GYoJi6tj"
+                },
+                {
+                    "id": "c1a91242082d37209eaacb530f13d904.17",
+                    "url": "https://lh3.ggpht.com/Mr5vLq49JZMyA6FD3sHAMVtmG0XJS9fyFT2n6mi6gDoS2UNpFUuVg2HYsI1MNtBoOjJy0MN9muQrIat7I4MZ3g"
+                }
+            ],
+            "address": "Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.713
+            },
+            "categories": [
+                {
+                    "id": "14f7dfc6568e3e21265ad27cd2e5308d",
+                    "name": "Pavillion",
+                    "score": 0.074
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.085
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.713
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "816266cca6d848b486d51c00b6e260a4.16",
+            "hashedId": "a1c4a456d48b92e69b1590ad62cb9b1ac5b33a3b",
+            "title": "Red & Green Doll",
+            "state": "RETIRED",
+            "lat": 13.779924,
+            "lng": 100.474752,
+            "lastUpdateTimestampMs": "1578488774686",
+            "images": [
+                {
+                    "id": "4d163edc22ae413b91c775abdad0eb3a.17",
+                    "url": "https://lh3.googleusercontent.com/cSyuXFsBeGy16OxANuc4Dbv_OFbfnp8SeEuLLXnBmkMz_SrInZK0tdGuuVeCJXxdnV-3fyXPLwdswUv2JMgszWnEzak"
+                }
+            ],
+            "address": "77 Borommaratchachonnani Road, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "84403ffe5dec4667a0cbcb3bab1a5ee8.16",
+            "hashedId": "66a7de798ca5aeb3f86450b6827a1b301cfb41a2",
+            "title": "Living Library : ห้องสมุดมีชีวิต",
+            "state": "LIVE",
+            "lat": 13.7819,
+            "lng": 100.476106,
+            "lastUpdateTimestampMs": "1672987531281",
+            "description": "Lumpini Park Pinklao",
+            "images": [
+                {
+                    "id": "07b514d5e0dc46dbaac807652b97e5e0.17",
+                    "url": "https://lh3.googleusercontent.com/9MeAKgSeVTLwim9nFyp46XKsRJGmwMm8bGtBx3dlzELwzOGHOUILbIhCREMw4x2Xr_u1tmPzHPMy0EU51Cz9G2qJJSk"
+                }
+            ],
+            "address": "300 (18/606) Borommaratchachonnani Rd, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.554
+            },
+            "categories": [
+                {
+                    "id": "9d0ddef8ecaaf648ef05c1bb2e3f20ce",
+                    "name": "Little Free Library",
+                    "score": 0.347
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.554
+                },
+                {
+                    "id": "bd6b8f2b13b5d0d5583650a986d0779b",
+                    "name": "Library",
+                    "score": 0.251
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "886e1f46407f49f9a7a594e9615efecc.11",
+            "hashedId": "1854bc7f799b9f94334f1e2d8795ef12ee69eae4",
+            "title": "Wing Lion Statue in Front of Central Pinklao Office Tower",
+            "state": "LIVE",
+            "lat": 13.779002,
+            "lng": 100.47611599999999,
+            "lastUpdateTimestampMs": "1594310549972",
+            "images": [
+                {
+                    "id": "029bcb843c194795a9a40380b8509a61.17",
+                    "url": "https://lh3.googleusercontent.com/sVJU67xiqehgNQPIHQ_9looJCi5PJytwjtTRJHmIBm8z8P9gi11ugnhYvBXdXRHXBbe6XTwwbFaDK0jgz3Gga2_EjdM"
+                },
+                {
+                    "id": "545206d6b53e4161b888456b13524bbe.17",
+                    "url": "https://lh3.googleusercontent.com/NC9Jvo1yN_BRDMx4CAs2YKarJVWQMao1N-9lvPTJ2K_7TYQHiPFAyPVGDllbMeP-1q7od5dEeMjTbyG47kGhPnUGCZWf"
+                },
+                {
+                    "id": "fff34cfb2c4f493aa479c3d03336f881.17",
+                    "url": "https://lh3.googleusercontent.com/p--Erjsi7s0SLJZtRFQWDZ6LRVkVuC3II2xDbm1oHZ_3YLwxoprYTLmxxfcYjwgyKeUnkgxBHcggeeRYvgIf48fAlyY"
+                },
+                {
+                    "id": "b218b354540a4b70b9a38e40cabc2393.17",
+                    "url": "https://lh3.googleusercontent.com/kFLQIsJSunp3zGfSkd6kCnuvFJaVfkIwCIidnoAlpBhH6Iz19TlDCcEbv6QwFN1wT3dNrLlNLbuR447EcC7KelZIAFrg"
+                },
+                {
+                    "id": "4153fbb6469e4ef4ad3a6f0a4c4e0482.17",
+                    "url": "https://lh3.googleusercontent.com/_5npdpZAZdZIColO5XG6atHDBP_KD2-tlpxbsN29L8EBMBS_qLN_g-fncqGSJR6-7bNNyhEXDF0S-_BLepW2isY6JB0"
+                },
+                {
+                    "id": "31f569e826124953b15d81332dc6abee.17",
+                    "url": "https://lh3.googleusercontent.com/MNNXfslW3Cen3mZPcQJEHMEzkBCWnxmiNDh8kYk9zkOzGu60-v7eOo9cJ-C7o4I5xpz_6nxtZ9Y3SAuRG19MV1kev8g"
+                },
+                {
+                    "id": "b1329aa1e03d446dbe1e39faf0a01f30.17",
+                    "url": "https://lh3.googleusercontent.com/x__21Oj5PPvATkGuJW0m2rdIWWuC1vKCUjxfN-BgGitPeRglrru6DSGS-wq1TSJ5ArbfCQ9Mbak8HJGqLKHtcQQjjP4a"
+                }
+            ],
+            "address": "Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "33152bd27aa505da5e6bbd85fc5fe4c6",
+                "name": "Office Tower"
+            },
+            "categories": [
+                {
+                    "id": "33152bd27aa505da5e6bbd85fc5fe4c6",
+                    "name": "Office Tower"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.088
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.249
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.68
+                },
+                {
+                    "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                    "name": "Tower"
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660194934660"
+        },
+        {
+            "id": "8aab8474282b41a39449643ae68e565b.16",
+            "hashedId": "dbad3c90348779ac100443fdb7a64d05b21f73ec",
+            "title": "Tiger’s Eye Graffiti",
+            "state": "LIVE",
+            "lat": 13.781656,
+            "lng": 100.474468,
+            "lastUpdateTimestampMs": "1589895549226",
+            "description": "ภาพวาดแววตาของ “เสือโหย”",
+            "images": [
+                {
+                    "id": "b7d1a0b0eff44602bad24a13c9bdb237.17",
+                    "url": "https://lh3.googleusercontent.com/zDeGKc9nSWFpaYCuPhu_K62xZ7ZDf0jTgYpLfwYtrrF5fY2XVRvvA-4GNprgnenOu1F1wLYc8xffMDsUra2soM7Y780"
+                }
+            ],
+            "address": "573, Soi Boromratchachonnani 4, Boromratchachonnani Road, Bang Bamru, Khet Bang Phlat, Bangkok., 10700, แขวง บางบำหรุ เขตบางพลัด กรุงเทพมหานคร 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "กรุงเทพมหานคร",
+            "geoStateShort": "กรุงเทพมหานคร",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                "name": "Graffiti",
+                "score": 0.906
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.872
+                },
+                {
+                    "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                    "name": "Graffiti",
+                    "score": 0.906
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.734
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1585468959766"
+        },
+        {
+            "id": "8c383bec31dc3daaa72cd696c76ec7c6.16",
+            "hashedId": "aeee8f2a55a191c0e098e59fa85ee0a654a390bc",
+            "title": "น้ำพุ อี-เมอร์แชนท์",
+            "state": "LIVE",
+            "lat": 13.778383999999999,
+            "lng": 100.476354,
+            "description": "น้ำพุหน้าทางเข้า อี-เมอร์แชนท์",
+            "images": [
+                {
+                    "id": "08c81f87a2283259b5ec0f2394b1ee82.17",
+                    "url": "https://lh3.googleusercontent.com/4VGA1hDTEMb-BaJCYKc1TdihpH4Vn_oktMtyNsw46sAcRlY1iQl644mbRIlRH3DJCGroSYbkAmQVF5z41lk_ux3_LKQXpAQyg4aV-GO4dw"
+                }
+            ],
+            "address": "CentralPlaza Pinklao, ถ. บรมราชชนนี แขวงอรุณอมรินทร์ เขตบางกอกน้อย กรุงเทพมหานคร 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "กรุงเทพมหานคร",
+            "geoStateShort": "กรุงเทพมหานคร",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1698143184242"
+        },
+        {
+            "id": "925584b657dc46f480c9caa2916bb669.16",
+            "hashedId": "a721e8acd196b163c5c0a37d4e8ca16555a46180",
+            "title": "Twin Wooden Shrine",
+            "state": "LIVE",
+            "lat": 13.782511,
+            "lng": 100.470924,
+            "lastUpdateTimestampMs": "1589895385789",
+            "description": "ศาลพระภูมิไม้คู่",
+            "images": [
+                {
+                    "id": "3b680c88398d44a4bff0564a1278df4a.17",
+                    "url": "https://lh3.googleusercontent.com/nI66u9I9MPMJy6VpEez5Cri5q2Ww2Ck-HULw3IjPke8p-drHh2JrEah937ImpdCy7QPao0_otQUmJhm9o750hQlx5oaL"
+                }
+            ],
+            "address": "113/26 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.651
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.651
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.187
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.184
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1587620643210"
+        },
+        {
+            "id": "98ccd04684054dfa9698755d06e10cec.16",
+            "hashedId": "15a5e24caab23fa67b626eb46c9e484a5477f929",
+            "title": "Red & Blue Shrine",
+            "state": "LIVE",
+            "lat": 13.783424,
+            "lng": 100.46919,
+            "lastUpdateTimestampMs": "1594960663117",
+            "images": [
+                {
+                    "id": "eb1ba7aedfe743c4b075916b2e92383c.17",
+                    "url": "https://lh3.googleusercontent.com/u-gxczCe1Kp9YwBOLGIw7XlLKcU8JC7Zn32p6Hzyl2gZIOs8-D1alxVL2lba9jrXf-m5TUQaCghsm5IAU5WuQtE_Ww"
+                },
+                {
+                    "id": "1f4827ba92044945ae7c067b3f70c7f8.17",
+                    "url": "https://lh3.googleusercontent.com/Te1-TPeBwf85gxQdsURvq-Dep9-eu9Jb9Aj8i7Bnaps9HN4MVO7IWzn97O4geF_fSpgcVvwRXf55jZUmdObxmxdaj4Q"
+                }
+            ],
+            "address": "143/351 Borommaratchachonnani Road, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.266
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.244
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.266
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.186
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9a454f43730f44328784447f40bfa777.16",
+            "hashedId": "d9780215c09e2d1dbdf87173d66f13095d45c713",
+            "title": "White Shrine",
+            "state": "LIVE",
+            "lat": 13.783059999999999,
+            "lng": 100.472483,
+            "lastUpdateTimestampMs": "1586509825069",
+            "images": [
+                {
+                    "id": "cf756081d8b54af7b31663a1fb8e63bd.17",
+                    "url": "https://lh3.googleusercontent.com/6od4POT16fOgf3QZ9rbmbFkj1LYRjZ34eQ8_ur_GoHkZGX1vFOdPP_9lkrEUolQ-q3hm1md604REA1ywvbfX3r4fDMga"
+                }
+            ],
+            "address": "111/13 Borommaratchachonnani Road, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.404
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.404
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.138
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.297
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ab7f5df37cf93e62b79d6808e053069b.16",
+            "hashedId": "e4cf3385563f853eb44c83f774fcd0ab3598e6bf",
+            "title": "ศาลพระศิวะ",
+            "state": "LIVE",
+            "lat": 13.784153,
+            "lng": 100.476506,
+            "description": "ศาลพระศิวะในคอนโด",
+            "images": [
+                {
+                    "id": "50466e976611377fbf288b04f19edaf4.17",
+                    "url": "https://lh3.googleusercontent.com/TG68kceDmMxNnQn5OH1Ub7suXnkPg-sGob2dPr9G6w-SNn8ammu6mFCYuZIiD0IykZxrN2LIEE4k4l0zm6SlpGfHZGZZ"
+                },
+                {
+                    "id": "4c6e9db101543cedaaa25deaee0657ca.17",
+                    "url": "https://lh3.googleusercontent.com/TMJTEnxVXNc_4MPOOFexIQ-6WS6nI6SFnfiNjbRh56gY6hbAxCt-b2SOxrfOPJQ6wJeTANXzVpRsJjNVgeHfvnvH8PMx"
+                },
+                {
+                    "id": "a4b3af9b5985313783099f25cc4080f6.17",
+                    "url": "https://lh3.googleusercontent.com/7n77bWs01VVvGPUJl8piIBqFjD21ck9lNcydIL4leMo4jnBYS67M3dEu8sCWEvLyQjwWRVWpzY1ECroVwd6-B8HSkT8"
+                },
+                {
+                    "id": "8e310755a3a0327ead9abaaa7e892e7d.17",
+                    "url": "https://lh3.googleusercontent.com/yeLlbiFk-N00TSnwPjR4UYAt1t4t7Er9wnyB72xutL_YjUCr8ZVfNNWN81x_Yo8lkLADXIS-FezJ8rrr1bewZUTTZbQ"
+                }
+            ],
+            "address": "355 Soi 4, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646711494201"
+        },
+        {
+            "id": "b3798cd1eecf42849369535dbd2d4d5d.16",
+            "hashedId": "6ea2a5b084ded695282f61badb4770a2b569cfe6",
+            "title": "ศาลเจ้า แป๊ะกง-เจ้าแม่กำไลทอง-ปู่สมิง",
+            "state": "LIVE",
+            "lat": 13.784944,
+            "lng": 100.47649299999999,
+            "lastUpdateTimestampMs": "1589895725103",
+            "description": "Soi Borommaratchachonnani 6",
+            "images": [
+                {
+                    "id": "2ae59ded0f0c4610a1bb2eecfdd2fb5e.17",
+                    "url": "https://lh3.googleusercontent.com/VQa90oUvh4LG4HfGj5j4S5RSWFAN6zztcG2joP82FRB2dtgrWUZEZyA2yxqaZi8Y7_4qaGxM6rMHdZXekSVrV-GpZB7P"
+                },
+                {
+                    "id": "6390f8b97e1a3241b14aa106fee891f4.17",
+                    "url": "https://lh3.googleusercontent.com/o7x9iFeX6aZulqppai6-EBCAwVDLswGhZfuLoYMjMN_bx0HI0ICc4OcT1DfObCpCGQznVtal1fXqhpbrnsrW3ubCUQ"
+                }
+            ],
+            "address": "142 Borommaratchachonnani 6 Alley, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.129
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.29
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.395
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586122163422"
+        },
+        {
+            "id": "bacdc15372a143d48b3d773d8bedff7e.16",
+            "hashedId": "319c8f4448535fd0269b6eedcc64ca28235b12a6",
+            "title": "Italian Style Gazebo",
+            "state": "LIVE",
+            "lat": 13.785544,
+            "lng": 100.47092699999999,
+            "lastUpdateTimestampMs": "1608958302885",
+            "description": "At Barnhouse",
+            "images": [
+                {
+                    "id": "1f868d15391c42d0b375e3d24e14f977.17",
+                    "url": "https://lh3.googleusercontent.com/zUXgH_A9lwaAJOqN_iAtSwWdGe81ZfJuvTVtCYpvrupecKzpXkRr-JCdZeH7iPNxt-ErFLIZJ8HMbeH2UVG4la7_ovU"
+                }
+            ],
+            "address": "900 Borommaratchachonnani Road, Bang Bumru, Bang Phlat, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "deaed3fc05b15a909711363addda3ba1",
+                "name": "Gazebo"
+            },
+            "categories": [
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "be25572147e64ea39f11ed91b9a61a39.16",
+            "hashedId": "83e4fa7770bfc465c1d78656ed66dc7fea17abb8",
+            "title": "Lumpini Park Pinklao Fountain",
+            "state": "LIVE",
+            "lat": 13.780828,
+            "lng": 100.4765,
+            "lastUpdateTimestampMs": "1606081759814",
+            "images": [
+                {
+                    "id": "9f72b13400674771832ed5e0e9003dcc.17",
+                    "url": "https://lh3.googleusercontent.com/mzBuxdG0XT5lmzW1PMdY4qTVGh2GqDkCU0U09NQ-6G-CdMEW9ddyVIGkFgCkaO5r9Vi4Kwscy0N7swQcBBhglog6kpo"
+                },
+                {
+                    "id": "269c249c028f42bda508a3d93de10913.17",
+                    "url": "https://lh4.ggpht.com/_5oCxlOU8FD3qzP0YtqK_KkAztaeuDSvQ_AFz53R31JnsG3rv3czCG1YGQU8ILvOYgpuwpsHOHelySJ6x70c"
+                },
+                {
+                    "id": "4b15e3ed2766310b9fc1e6d1638c2a9b.17",
+                    "url": "https://lh3.googleusercontent.com/ddvLQiRA3cfW4_IdUvXFghScu9mfLlH3mHEuM2eO9XPOFnjM5Xrwh8kOdMBXcjbtjGRf1iCo-Fxu0UNJtlndcJ8D001_yLJc_sYJveNS"
+                }
+            ],
+            "address": "614 Borommaratchachonnani Road, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.773
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.101
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.773
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.698
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "bfe250a055d445ee82b913d8e5792efc.11",
+            "hashedId": "a6b9cf6422176db41beb8a13cfb9154c6f15dc33",
+            "title": "Jesus Statue",
+            "state": "LIVE",
+            "lat": 13.781917,
+            "lng": 100.472337,
+            "lastUpdateTimestampMs": "1595579146645",
+            "images": [
+                {
+                    "id": "a654e2e75e19425eb244f2e75969e376.17",
+                    "url": "https://lh3.googleusercontent.com/n__6PGVPsbIDhQ7uRqE0NEOtshV5FhanU8TCmpscwHesp4BMBsUUNWu4U9Et15hLLornIA-qLUz2Vj-_bGwEKDoiw0M"
+                }
+            ],
+            "address": "Borommaratchachonnani 21, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.979
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.473
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.374
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.979
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c32545df09c34ce981632d722a1c8804.16",
+            "hashedId": "fdbf5eefafeb8401157a0ba4f1a8f675d6a5d5a7",
+            "title": "Twin Golden Shrine",
+            "state": "LIVE",
+            "lat": 13.78064,
+            "lng": 100.470204,
+            "lastUpdateTimestampMs": "1606195037640",
+            "description": "Chaophya Hospital",
+            "images": [
+                {
+                    "id": "147c359cf772423ebf42348412549398.17",
+                    "url": "https://lh3.googleusercontent.com/hBdw2hbGMQR1HXIw_PgNM9cDB2p_z0Z57X4ZGbgAM2X7UT0N-zhO3rlKK-J4SXjHCVkt-RJpnbZVlG5WraTvBnMSzKk"
+                },
+                {
+                    "id": "9e4bfc8d117d4cabb982c3a718d8bef8.17",
+                    "url": "https://lh3.googleusercontent.com/EuhJB4lFekHkHoPr7OMsdziKcW5DyxrcrN7VN9rUbDLkO-8gJGfE9HoEUp7-92xedqbI50T2lw6dJYBvuJepNo-NWVYi"
+                }
+            ],
+            "address": "792/16 ถนน บรมราชชนนี Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.178
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.243
+                },
+                {
+                    "id": "c9591928484d4ea47225598026a7c86e",
+                    "name": "Hospital",
+                    "score": 0.984
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c3c846c63f574daabed171f845d75952.16",
+            "hashedId": "a61ff131dc704bc0586a51b029396c562ab7206a",
+            "title": "Shrine",
+            "state": "LIVE",
+            "lat": 13.784829,
+            "lng": 100.470855,
+            "lastUpdateTimestampMs": "1501109308396",
+            "images": [
+                {
+                    "id": "fd3d86f125f941bd94d3954686767582.17",
+                    "url": "https://lh3.googleusercontent.com/rw_6QPPvmNhwpoBjDDjK4KBPETlifb99hcmDrqrB9cKqzXoGvvAkkoLsBGF_mG24Z21ANXH-idtEJYz7_JO01w7tWEH7"
+                }
+            ],
+            "address": "143/487 บรมราชชนนี Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.687
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.687
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.177
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.126
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c6a47e7a48a94afaa434dfd916615deb.16",
+            "hashedId": "73004b38ed8aa9cd068bcd14e38a7baaa88fc9e8",
+            "title": "สมาคมนักเรียนเก่าฟิลิปปินส์ ในพระบรมราชูปถัมภ์",
+            "state": "LIVE",
+            "lat": 13.783265,
+            "lng": 100.474558,
+            "lastUpdateTimestampMs": "1589895534025",
+            "description": "The Philippine Alumni Association Under the Patronage of His Majesty the King",
+            "images": [
+                {
+                    "id": "1cd24a4175e645228c2f3c182bcf9c0e.17",
+                    "url": "https://lh3.googleusercontent.com/JD0vFfzJFQW8JKiN4vcszxxxbFw3U4aq2TTO2mSdcnhLLTnk95Rj-pYLF5g2XNGbTIxjZ5k-bPzspWInjEVfZmu2pw"
+                }
+            ],
+            "address": "56 Borommaratchachonnani 6 Alley, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.173
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.158
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.173
+                },
+                {
+                    "id": "999fc448411afcd33c4c924f9f5e4679",
+                    "name": "Welcome Sign"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.138
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1580054341530"
+        },
+        {
+            "id": "cb88de6a658c4539943caf0cce630d64.16",
+            "hashedId": "74568a0fd1985a71096cfe0798fba2bf904835cf",
+            "title": "Lumpini Park Pinklao Fountain",
+            "state": "LIVE",
+            "lat": 13.781322,
+            "lng": 100.47568,
+            "lastUpdateTimestampMs": "1626940619852",
+            "description": "Lumpini Park Pinklao",
+            "images": [
+                {
+                    "id": "cdddcb4281f548db998b10b35ad3f729.17",
+                    "url": "https://lh3.googleusercontent.com/1he3CM6-Bl_9xpk-2-AJkcWNot9vvBaPANNuHvwC86pwVKZWuFumKy5WnXs3RjaT8J_SvTeT5H5J6ohjw7kIkwPrj9o"
+                }
+            ],
+            "address": "616 บรมราชชนนี Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park"
+            },
+            "categories": [
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ce80e30a723f471fbce93bd80d30bc59.16",
+            "hashedId": "87ad86a1c3c645b94552c337f522a7a2fa65dcd3",
+            "title": "S.P. Garden Gate",
+            "state": "LIVE",
+            "lat": 13.77924,
+            "lng": 100.476759,
+            "lastUpdateTimestampMs": "1595975083095",
+            "description": "ซุ้มประตูทางเข้า เอส.พี. การ์เด้น",
+            "images": [
+                {
+                    "id": "1dc3c850b8914a6586a2a9af86817865.17",
+                    "url": "https://lh3.googleusercontent.com/KUq4hizDS2QMGznW1tkoY71kWa2hzobmqEDU1bZqYiwIczPGVJwRtldODkPvXkUD21g7ptOWhfj8rDhJBI4JLkuHsWGk"
+                },
+                {
+                    "id": "f077bad9992945dbb60f73190befcfea.17",
+                    "url": "https://lh3.googleusercontent.com/g9YBuxY3gKIBjRDhOM3Ziq4XtrACwb0WbMLjYgaPgJNfzbqtQcrn4r1dREzjUrfKk3cUHfr0T4kXahXD8YFfwyPteQ"
+                }
+            ],
+            "address": "1752 Borommaratchachonnani 2, Bang Bumru, Bang Phlat, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "45929338fa74ec1e46190f4def203daa",
+                "name": "Garden",
+                "score": 0.971
+            },
+            "categories": [
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden",
+                    "score": 0.971
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.378
+                },
+                {
+                    "id": "99cdfc5b63c22f6ce6707865db95afe3",
+                    "name": "Gateway",
+                    "score": 0.855
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ceafd774a5b1325c9c29d130989fb485.16",
+            "hashedId": "479f77e2ba9c332d7c5d80971e6bd09b479b9967",
+            "title": "ศาลพระพรหม",
+            "state": "LIVE",
+            "lat": 13.779722,
+            "lng": 100.477403,
+            "images": [
+                {
+                    "id": "19008e8958f933f9accf9a3e39610f6c.17",
+                    "url": "https://lh3.googleusercontent.com/7Hz5fLIHYKQhWFS0RgUPjdLnpzwAqEigO1v8fqkEq9h0V6XJdfzeK7J7o9ZD9UYir5VaRClPKuQnFu5v4FVM"
+                }
+            ],
+            "address": "192, Borom Maratchachonnani Rd., Bang Bamru, Bang Phlat, Bangkok, 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1640251161296"
+        },
+        {
+            "id": "d2f9c98ea53a407fa9fb22a9620046fd.16",
+            "hashedId": "56af2eb478089b8c61e65019d4ff028289a25c10",
+            "title": "Brahma Shrine at Foodland Pinklao",
+            "state": "LIVE",
+            "lat": 13.782853999999999,
+            "lng": 100.473384,
+            "lastUpdateTimestampMs": "1614534932840",
+            "images": [
+                {
+                    "id": "41a6b35d19ce4989a56bee562521c612.17",
+                    "url": "https://lh3.googleusercontent.com/E5tjhi5vfWBYUBOnC_KQyOxiENIaba74eKewDa8Z-x1uR6wsAmVbgBV_85ldfv-Cqz0jDYpmi9KXSQUaSQtuYa6D-w"
+                },
+                {
+                    "id": "c312f85bc6334ac7ab9eb26909ed368e.17",
+                    "url": "https://lh3.googleusercontent.com/Y-LU--fzlhWLiFiX5upmfD0u5WPC-KPmN5j4pXLRJj6kPbcTjUm1lxrbynUK803wVEgG_7tloGCOuwPvXlD6Xu_t5A"
+                },
+                {
+                    "id": "4cb78761621e42c9b7c50046f5628fc9.17",
+                    "url": "https://lh3.googleusercontent.com/XXkAh_Qljs1dCi-92ILRAL2HPE2GcUGl-QqwyTFP6mV12UvGWv_hS2mrGg8YoPsRt7RfD6lyfR9j7xw4fSf9w1hAqw"
+                },
+                {
+                    "id": "f1b4d134485d45f59880bf5e801b5002.17",
+                    "url": "https://lh3.googleusercontent.com/-7Etp5aVWQ69FfNboNS3SvOhzaBMK6nwlxgXGD6Q1q2W7-2BkBopwIzQFU8cabuwARsa6jaPUvK6U5Q3gDyAC5pxE1nz"
+                }
+            ],
+            "address": "662 6 Bang Bumru, Bang Phlat, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660141755393"
+        },
+        {
+            "id": "d32eb3de2c55428c8f411d17968a095b.16",
+            "hashedId": "68cf4a281e2a0116bf53c64b26eb43e2a3def8ff",
+            "title": "Pinklao Baptist Church",
+            "state": "LIVE",
+            "lat": 13.782651999999999,
+            "lng": 100.474087,
+            "lastUpdateTimestampMs": "1589895641051",
+            "description": "ป้ายคริสตจักรแบ๊บติสต์ ปิ่นเกล้า",
+            "images": [
+                {
+                    "id": "ccce7573a4d94cefbcfcba12fe0cc86b.17",
+                    "url": "https://lh3.googleusercontent.com/zueSFFoC1plVvcbjFPro7g6yoC1UbghZntxyZ09tLeWnGsRWWzdlznw-3gApUEES3WOnBBIE5RrwWQ-PpLRqArbj-5k"
+                }
+            ],
+            "address": "14 (20/14) Soi 6, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "f6b95c0d2bd214b167213e02d0760f75",
+                "name": "Church",
+                "score": 0.995
+            },
+            "categories": [
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel",
+                    "score": 0.391
+                },
+                {
+                    "id": "586ae608f905f3ad0e0c3a0b0f7f61bb",
+                    "name": "Cross"
+                },
+                {
+                    "id": "999fc448411afcd33c4c924f9f5e4679",
+                    "name": "Welcome Sign"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.172
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church",
+                    "score": 0.995
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1585447663992"
+        },
+        {
+            "id": "d473c7039a7a4f35ac67af38cd14c179.16",
+            "hashedId": "1be3a4f44370802be48c4a8ae1a8a4bb6bb7d58a",
+            "title": "ป.กุ้งเผา ปิ่นเกล้า",
+            "state": "LIVE",
+            "lat": 13.782884999999998,
+            "lng": 100.471886,
+            "lastUpdateTimestampMs": "1609610922192",
+            "images": [
+                {
+                    "id": "6539e07b24764a2aaeb122cb18fcfa9e.17",
+                    "url": "https://lh3.googleusercontent.com/xRbsWrA3voxng4r2zLDTrzjhOpftd8ZFXkS1w2GvyZ3PvhRKmKEERnm-c00jHESNxMLOSSfNGV6-278ooUAiDBJR-g"
+                }
+            ],
+            "address": "111/27 Thanon Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d564456cd52a4120acd507cd7df48d4b.16",
+            "hashedId": "b10c6cee266e6948daf83f05be425dbc6c430fe1",
+            "title": "Groove Evening Shrine",
+            "state": "LIVE",
+            "lat": 13.784336,
+            "lng": 100.471257,
+            "lastUpdateTimestampMs": "1610067820120",
+            "images": [
+                {
+                    "id": "18104a2d10424180b6caa28dc239a3b7.17",
+                    "url": "https://lh3.googleusercontent.com/Jfpc2SRJRtJbJNBkvvEcNU0mTFKbBKSzVeduovwaYmb_o0XOo8Ke491yayyFbWA_RQdZRPaRk9DenIQo1L_dRcEP0MRp"
+                }
+            ],
+            "address": "127/9 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d9468f9b54843927b839f756db466f8a.16",
+            "hashedId": "ac9cf1e0f8cd7dd6e0f7e80395964763292afbc1",
+            "title": "รูปปั้นพระแม่ธรณีบีบมวยผม พญานาค และ ยักษ์คู่",
+            "state": "LIVE",
+            "lat": 13.777849,
+            "lng": 100.472788,
+            "description": "Charan Sanitwong 45 Alley",
+            "images": [
+                {
+                    "id": "1c98bf0103873af1a85cc49358c96fb3.17",
+                    "url": "https://lh3.googleusercontent.com/xxzOnFtXNzNCHm_yWNss4-RYhVuDi-AYYKivvz1swhKPlyDCsnRhvpEPsjJJj5IjrL1T_kmme9n3A-gc4ylhAsN_8sB_H3SBGMfggPv5"
+                }
+            ],
+            "address": "95/47 จรัญสนิทวงศ์ Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture"
+            },
+            "qualityScore": 73.14874,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1635880170016"
+        },
+        {
+            "id": "db2c8f72247c3fdfa56877e80af8b570.16",
+            "hashedId": "02015a88257bd897119cbbd9cfacd94719635d74",
+            "title": "Lumpini Park Pinklao",
+            "state": "LIVE",
+            "lat": 13.780738999999999,
+            "lng": 100.475996,
+            "description": "lumpini Park PinklaoCondominium, the Lumpini Park Pinklao located on Pinklao. Convenient connections with Bangkok's major mass transit system,Addresses of many people Of Pokemon followers.",
+            "images": [
+                {
+                    "id": "cca6f044805e3fd1864b931f3ec53166.17",
+                    "url": "https://lh3.googleusercontent.com/FqFSo8ecZzXgKvWzfN4Cc7vOkPPJtLY8NjLkfG9TZouBXYmEau1pWQhSbSGOiOeSZmKBP2zIiatX9uOFZzZTmF8ub7o"
+                }
+            ],
+            "address": "666 อาคารธนาลงกรณ์, ถ.บรมราชชนนี, แขวงบางบำหรุ เขตบางพลัด กรุงเทพมหานคร, 10700 Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park"
+            },
+            "categories": [
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646653112619"
+        },
+        {
+            "id": "dbfbcf6cfb6f4e8388cd3369eb98bbd8.11",
+            "hashedId": "98a2d6c5c76919a4e9d0bb2dde7ffed9bb510615",
+            "title": "Shiva Shrine",
+            "state": "LIVE",
+            "lat": 13.779732,
+            "lng": 100.475555,
+            "lastUpdateTimestampMs": "1606366730979",
+            "description": "Between CentralPlaza Pinklao and The Sense Pinklao",
+            "images": [
+                {
+                    "id": "ac5a62c3be0d4d9886679ac08895f30e.17",
+                    "url": "https://lh3.googleusercontent.com/yg2V7EFz_TDNB4ydLzxG2e5uPKfiklDQOZ2TeKc4PDWJMCHTwpqoP2Y_Zi1PdV-6vdjbREQ5Suo-OrqcLggdILDYypU"
+                },
+                {
+                    "id": "811acb3003234ee9ab1f67c2cd605e52.17",
+                    "url": "https://lh3.googleusercontent.com/MO7uERew22NnvP8XzYOvNPDuaItCDV9U2RI5iNXWhB3eWjt9hvutrt4Btl2vHrYEUGStl1tMDvQtTF_VHRUeBNDhh83k"
+                },
+                {
+                    "id": "5135cd1f408a4f34ac7eff989c7a0c41.17",
+                    "url": "https://lh3.googleusercontent.com/PXbRR-T59YJB-kXzki6MJ5mUuGQw9eqLrr3ZJCNycwiPYIq7HbQBvB4mHxNgq-WC2G2ZiGV4nNaeTxDwADLSJ6HSDeHb"
+                },
+                {
+                    "id": "dd230cc8260b40ef8eea57e7f81d89dc.17",
+                    "url": "https://lh3.googleusercontent.com/VMRBXfZCVg0LXjPf7Mtzkf2-vZLlJsMkYwIUPu70dPg6iP7u_MX0L1_LZ-R7pGDb4njLHvqKIYxmkaJBGmv81tcXSg"
+                }
+            ],
+            "address": "Borommaratchachonnani, Arun Amarin, Bangkok Noi, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.524
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.524
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.227
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.187
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "dc0e0905a74b3ecda940b84ae6c203c3.16",
+            "hashedId": "f41348c9a65cc4698febd69c0d57d4135c741060",
+            "title": "Shrine ",
+            "state": "LIVE",
+            "lat": 13.782817999999999,
+            "lng": 100.47335199999999,
+            "images": [
+                {
+                    "id": "65c7d9d902473bb6a62ab6ee610c9998.17",
+                    "url": "https://lh3.googleusercontent.com/d51qU-O9KunwxMVgpEW3u4IPnnW6sRlaSWNQ6qZUQyZgqymjBEK4-pkf-rTEKEz-I8CQC5k2NVC6gTjp44lK"
+                },
+                {
+                    "id": "3113b01663633b9ba1de3df65b19aec0.17",
+                    "url": "https://lh3.googleusercontent.com/6MP7_K2QkyYefa510KbfpwX0oYFsiOlly4qrhfY8YwmYldBE0orTBTaIa4l14bB2smfMLALGmfdRoMmE6611C7LNTaUjUEBZugPkwGdIXg"
+                }
+            ],
+            "address": "Thana Siri Home And Garden, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1644905566198"
+        },
+        {
+            "id": "dcc77a12d5b93437b8a9d4ed47fa20dd.16",
+            "hashedId": "21629a10e4a92f6a2a8ee51ebec929417da1fe97",
+            "title": "Cream Shrine",
+            "state": "LIVE",
+            "lat": 13.780524,
+            "lng": 100.473789,
+            "lastUpdateTimestampMs": "1624368084164",
+            "description": "Soi Borommaratchachonnani 17",
+            "images": [
+                {
+                    "id": "90d4972938fe3e919a12a30fbd55ff22.17",
+                    "url": "https://lh3.googleusercontent.com/YsAiCVEqrKeCJxuENhTO3dRIspJ9qO1mSSWNw3W3uRkG16WvvKdXu1HP5xbF_Qp7W-g0fqocBLfwapgWsXzswZ2ehQ"
+                }
+            ],
+            "address": "95/597 Boromrajchonnee Rd., Arun Amarin Bangkok Noi,Bangkok 10700, แขวง อรุณอมรินทร์ เขตบางกอกน้อย กรุงเทพมหานคร 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "กรุงเทพมหานคร",
+            "geoStateShort": "กรุงเทพมหานคร",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 88.55018017124534,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.551
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.12
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.088
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1624200712935"
+        },
+        {
+            "id": "e0c9b086c5c2464ca47ab1615d626c9f.16",
+            "hashedId": "1cd86d25ee4e9f4c0c0c3580f47f4a34ead96778",
+            "title": "Shrine at Bun Pong Sa",
+            "state": "LIVE",
+            "lat": 13.778805,
+            "lng": 100.473737,
+            "lastUpdateTimestampMs": "1501109720826",
+            "images": [
+                {
+                    "id": "30f7c213e9224961b4be32666927ed1f.17",
+                    "url": "https://lh3.googleusercontent.com/GL-z_6fzc8TacahoiVjeGfYSwsWo729fIT6ssWRY011bg4_b5QD930DXd0oCcGHXcKswZO36eK1Fz8W9ypVXd8QG6w"
+                },
+                {
+                    "id": "5b1c4e8175b74212be5d6bfd9052fef3.17",
+                    "url": "https://lh3.googleusercontent.com/EHJD_neQBhUW3KM2uJjqdig6TqifIjnjtm8VHN_BqMWiV1aUSMsK9z-zJTWjinupC9Jmn0D-817fNXBbkQtcPwA1OyZg"
+                }
+            ],
+            "address": "95/3 Soi Charan Sanitwong 45, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.233
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.233
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.227
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.23
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ea02d04187614f499c843b1e89235281.16",
+            "hashedId": "12a28e16599708d21cde092f50c9a545b29ad3ce",
+            "title": "The Big Bird",
+            "state": "LIVE",
+            "lat": 13.784937999999999,
+            "lng": 100.471381,
+            "lastUpdateTimestampMs": "1589904395200",
+            "description": "In Susco Pinklao Inbound",
+            "images": [
+                {
+                    "id": "2f757c1cfd60498ca7ecbf29bd82954f.17",
+                    "url": "https://lh3.googleusercontent.com/uPQVBdd08cyQHFMYtxwDOFe11g5R7RRfaSkuNULfsLIrlf5lUH2WOQxa8JN_0zkklbvksLtg3rJckoCe9bT0HPVt5a0"
+                }
+            ],
+            "address": "ท่ารถตู้-บางใหญ่ อยุธยา 896 Borommaratchachonnani Rd, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.341
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.15
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.341
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.147
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1583919581295"
+        },
+        {
+            "id": "eb9c6550d2df464c86f1bcbade08d392.16",
+            "hashedId": "4c6d79743e7c5884d10b80daa268f7972b1efc0b",
+            "title": "Brahma Shrine",
+            "state": "LIVE",
+            "lat": 13.783391,
+            "lng": 100.470978,
+            "lastUpdateTimestampMs": "1591709108629",
+            "description": "Pinklao Pattana",
+            "images": [
+                {
+                    "id": "38fecccdd02c38ccb87987034d40c33f.17",
+                    "url": "https://lh3.googleusercontent.com/_CDmJxdLQhERvuWq-i0oBOGDjBUo4iIx-WeLbY5DzB7H03JHKDzhCfyfoW2f8DvMY01lM0VgkMXcJzkNaIF9oFIFmhK-SS8aQBl_lnY"
+                },
+                {
+                    "id": "dd890edf5e8e4f9384eb30c5c534ea65.17",
+                    "url": "https://lh3.googleusercontent.com/v0_TE71-aoyqTP-SOFwB6w_sUPNupUhvTWNA3Iug0jkQQyDQWmmia7agCMPw0i74OleIjzYcp5w053YKC6TIfiXz8u8"
+                },
+                {
+                    "id": "7de01466c7103119a2910f5629f3ce13.17",
+                    "url": "https://lh3.googleusercontent.com/yZ5uMj2LGBE0GDa3XeyqpV2ayZFwcxiG_emQK9XjWxe2nI3GOoWxWZ8yfjIqCK4YSq_cp1gLoFr8C9z2TYoNYLKJ_a8"
+                },
+                {
+                    "id": "f49184b403853b7a95692e985371e6ac.17",
+                    "url": "https://lh3.googleusercontent.com/XXXSaZW36CifW9N0rkgGJLJv5pEKNA4Gp6Kn3e26QpKQXbeJG9zSy1LFTfr3bR9STKhsAQm2sos9_KKbvf1drnN5ZhEBsZQ6CJqjLYzP"
+                },
+                {
+                    "id": "7966268ce123464ab358f9ad469459e8.17",
+                    "url": "https://lh3.googleusercontent.com/uAcGkfU8T9HZoKB6X0I22iS69p2P48zruthEP5yz0e2NpEWToHwearyMdsYS-R0K-v73ZOdXmUvHWLVqFzmyUuonVQ"
+                }
+            ],
+            "address": "117/138 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.384
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.384
+                },
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.27
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.371
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1591195056388"
+        },
+        {
+            "id": "f1dc324366f94e8cb4724ce22e17db9b.16",
+            "hashedId": "10939822cd22e81dd5bdde21b0aeab8c27192e22",
+            "title": "พระภูมิชัยมงคล",
+            "state": "LIVE",
+            "lat": 13.780486,
+            "lng": 100.47453399999999,
+            "lastUpdateTimestampMs": "1601480820580",
+            "description": "Lumpini Place 2 Pinklao",
+            "images": [
+                {
+                    "id": "c90dd84bf27f4976ae0ca5e7950bc15c.17",
+                    "url": "https://lh3.googleusercontent.com/Utamjcb_MSOL_fo6icjA2Jlk7cwIEQgO9kzoJ7cPdQDtm3adcCM4z2MQAf9HbfXq5hITfuhKFa8wiTjmoA2i8kumfg"
+                },
+                {
+                    "id": "5b91bd9339304be493b752ea9c4c777c.17",
+                    "url": "https://lh3.googleusercontent.com/CoaPYYG3t-Kl1MNDukHpkXpYQTTJHxXcee47RP2aJ4UEAYPqpGO9V8eaXYib7ax84BqDxGht9MFi2S-Xr7Bw_wn-9Qsa"
+                },
+                {
+                    "id": "d27e3c07a4d0469c993330d1c5f91910.17",
+                    "url": "https://lh3.googleusercontent.com/CHzeqFvQvptBqbQmtYCvsKgwDQodYzCdCfhj4X9qX-QYtSomQc9ENHwx_Xkb7WQ1vyY8lIUb96-SyTQc12jlmvgBnSE"
+                },
+                {
+                    "id": "ba1b8818334242ae8a31914b1e69863d.17",
+                    "url": "https://lh3.googleusercontent.com/OHy68ZJynn1I-Np_nVH4SH5cem9_d0cg4JzhLpPe3mGqN7iNcWSAJzbD41rw76W7MQkh1WBJIYoCw6sOXV0VUoUrfpw"
+                }
+            ],
+            "address": "95/610 Soi Bun Pong Sa, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.325
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.325
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.198
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.227
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f459a07b6dec4b40ba07f648094716c1.16",
+            "hashedId": "8f0c8718c67fa4bdf2a7f0b7c1d27d2f80c86dff",
+            "title": "Shrine at Pin Tong Plaza",
+            "state": "LIVE",
+            "lat": 13.778694,
+            "lng": 100.47716899999999,
+            "lastUpdateTimestampMs": "1593662070515",
+            "images": [
+                {
+                    "id": "392fb742dfee44f6932fd6243e86a72e.17",
+                    "url": "https://lh3.googleusercontent.com/vXk9AmNovAgEuV38JUqdDovRn3Hk7pKwyOqzwmQ6Ws3p2tQZQEtl28NZwtvO0nEZQccOQaTXYm0meEmWNqXf5ibrUlCk"
+                },
+                {
+                    "id": "4861e6744c794c1c8bf48a030c9f6fdf.17",
+                    "url": "https://lh3.googleusercontent.com/BjZps91I83m4iDV1XIpjU_s_dgcodtzk9o-LcvNpMZlvzJmGHAn1qPtYDCyemZkSfaONSEUgtOxoB3Vs3T2peHqdZwE"
+                },
+                {
+                    "id": "2c3b1fda71b24af38e5ab0e96a5a4fe7.17",
+                    "url": "https://lh3.googleusercontent.com/WsPC8Zf9_wlV48POTpJLR7RQNUg3xOZKUBeWp2W63n-m-PJwgZjPq-QaN-RmXLee3wpPGiIqRhzXFhE1HURpKazM57o"
+                },
+                {
+                    "id": "c9069a9824c0417587ebbb048c92fb59.17",
+                    "url": "https://lh5.ggpht.com/LzU8y9EuYvY-9ydUvpEhLoFdE1-cxw9VqpJBYS6WIiz4TjLA6gnocJ1IHiyAA7FX60Sm_Icwmqqi3jy-rHmalw"
+                }
+            ],
+            "address": "556/3-4 บรมราชชนนี Bang Bumru, Bang Phlat, Bangkok 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.111
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.106
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.135
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f6e85ee684944ec5afc454a0b0fd783b.16",
+            "hashedId": "ac55d185aae4519ad91d76dc817cd79013d83446",
+            "title": "Shrine in Chao Phraya Market",
+            "state": "LIVE",
+            "lat": 13.783415,
+            "lng": 100.471823,
+            "lastUpdateTimestampMs": "1592313974524",
+            "description": "ศาลตายาย ณ ตลาดนัดเจ้าพระยา",
+            "images": [
+                {
+                    "id": "db1fec8d4d9941e382a1337e3781a3e6.17",
+                    "url": "https://lh3.googleusercontent.com/6eL-8hQekakgRv5gdzqeHTZtpPxgcTpyDjAw9SLLCp80k0FZl7q6j5ntHMgWgKpKiuA02RoMA0PntHIQEjEWbAS187Yi"
+                }
+            ],
+            "address": "111/17 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10700",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.308
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.308
+                },
+                {
+                    "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                    "name": "Market"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.276
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.196
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1592031290115"
+        },
+        {
+            "id": "fe779f8c4bfd3d9e97af3c5aa0d717de.16",
+            "hashedId": "25b36280a4913887576e4677fb56ae8471df4d7e",
+            "title": "Chaophya Fountain",
+            "state": "GAME_REJECTED",
+            "lat": 13.780738,
+            "lng": 100.470224,
+            "lastUpdateTimestampMs": "1621343950050",
+            "images": [
+                {
+                    "id": "98ca8f54b559386ba9ec8867fbeebced.17",
+                    "url": "https://lh3.ggpht.com/unvFetDwohW1d3lFLM_qeZjRHvWUaERmVOYAiiTUDxwRf5n6aFi5cog846AvmJgEM0vV2FLShZe1HzkO8s1qZQ"
+                }
+            ],
+            "address": "117/134 Thanon Rung Pracha, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10700",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1620881021279"
+        }
+    ]
+}

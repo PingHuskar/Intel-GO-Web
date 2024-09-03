@@ -1,0 +1,3993 @@
+{
+    "pois": [
+        {
+            "id": "005d7b4828cd43238587aa74f21b9a5e.16",
+            "hashedId": "771c5cc927bf47b9d329a13450c716893c05f975",
+            "title": "ศาลพระภูมิ",
+            "state": "LIVE",
+            "lat": 13.740362,
+            "lng": 100.542554,
+            "lastUpdateTimestampMs": "1501112397625",
+            "images": [
+                {
+                    "id": "e739711d4f00445e92be5726fdd66f64.17",
+                    "url": "https://lh3.googleusercontent.com/PJzP3EGJDTqaETZSoGq1kjZL71X3a7lt9qnlAlqYR5bvHYDu4G_lsXzwNHfJzlSdo99RI7TTAgrvcNwZF4GcXmbu5GNJ"
+                },
+                {
+                    "id": "14b18ee1e5b040d3aae1c160354a00a8.17",
+                    "url": "https://lh3.googleusercontent.com/no0SnRNuhTDuIMS_VDXEbciB-5_JzE788X-FMdXahSFaCEk76lBj97OFjnfBqlOqPVvMrEQsboLLwCWrfjisrSgGXEk"
+                }
+            ],
+            "address": "48 สารสิน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.238
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.157
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.123
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.238
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "056dc7d4be9d463bbc1d7e06b173d62d.16",
+            "hashedId": "03c64c214443760d11e7d00c62e6a08d808a5a0a",
+            "title": "Bell and Fountains",
+            "state": "GAME_REJECTED",
+            "lat": 13.740953,
+            "lng": 100.539842,
+            "images": [
+                {
+                    "id": "1fbeb69860404f2d97dc92c3cd3ba991.17",
+                    "url": "https://lh3.googleusercontent.com/Jl5K33U9YeaGsL3o1xCgafeoowbQRmzLBuvZWsnVc1SBJq7OnPua6r6ywJEnFbj5hSqvywaa66XnTJ_2zGJr1TVDOME"
+                },
+                {
+                    "id": "a24ed6892e9c4237bff38c56cec2627f.17",
+                    "url": "https://lh3.googleusercontent.com/rqyOqRCYz8RaHIS4UlEXWDN5BEcQauGuiNrb7hs9c-damBaf7U_0R1uVt--xMMh-yisdW3HqQqYRXAh7HTo8AdKdDt4"
+                },
+                {
+                    "id": "698496d31787444ba903e1eb9fc9c458.17",
+                    "url": "https://lh3.googleusercontent.com/qtIGwN4-wj8YnNKomu2tH_0Hse_htpLezvGJmQPsne7MSFIy2qzoZmCc8n_FMFurUhaRulBLImIk8lhR0C1WBtFLxt8"
+                },
+                {
+                    "id": "22a589f85eac4adda222355a3b31a841.17",
+                    "url": "https://lh3.googleusercontent.com/7ogzpFaj8IdrVyhxW5em1IMnkxqad7ZZD_gmSOIdL2Zx-51Cv14s-GN7ykFPUIe5L52fhP4Q8yfAGByoFotY3jzNgCw"
+                },
+                {
+                    "id": "0f2e604dfd2a441f848d0217b3b82882.17",
+                    "url": "https://lh3.googleusercontent.com/tphv4rWC2xGGe0DS4prO2a55Wz0RLUfdzaXu0M6t2nQ98Pz90HXGpxWm_j_oZQSKl91p9ROW-BmPgvKDTgA0f2_zYGOW"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "05b457e0b0454a32a950440a024f11d4.16",
+            "hashedId": "190a9b57b19ffc320e64bb0f7145042b575f0232",
+            "title": "Dusit Suites Hotel",
+            "state": "LIVE",
+            "lat": 13.738736,
+            "lng": 100.54092999999999,
+            "lastUpdateTimestampMs": "1615901188255",
+            "description": "The Outstanding sign of the hotel. It's located in front of the entrance. easy access and safe.",
+            "images": [
+                {
+                    "id": "3da17a9fd0824140aba0bed3a3dde5ba.17",
+                    "url": "https://lh3.googleusercontent.com/7Du76fmCMfh97LyGE0i2YYiTB2iTSzqu-0L6rKy5H8OeMCdWTNBiEdkGWfeSCcDulkG90TPP6HamW1Ftw2s1pJolUYUrnG1cmx3-5Nbb"
+                }
+            ],
+            "address": "3 Mahatlek Luang 3 Alley, Krung Thep Maha Nakhon, Баія 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Баія",
+            "geoStateShort": "Баія",
+            "city": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel",
+                "score": 0.995
+            },
+            "qualityScore": 73.80631475409835,
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel",
+                    "score": 0.995
+                },
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.193
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "88d738a252c2b8b3d6f0cc028d418fcd",
+                    "name": "Inn",
+                    "score": 0.23
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1615416817087"
+        },
+        {
+            "id": "07a01be6b438462f98fa8cba3be21407.16",
+            "hashedId": "0ff84525b7607e49ee597357f0b88bba0cf937ca",
+            "title": "Chefman's Golden Tea Pot",
+            "state": "LIVE",
+            "lat": 13.740252,
+            "lng": 100.541766,
+            "lastUpdateTimestampMs": "1501112282654",
+            "description": "Symbolizing the endless flow of luck (or water)",
+            "images": [
+                {
+                    "id": "466d663665a74b01ac4f92c3f4cb9356.17",
+                    "url": "https://lh3.googleusercontent.com/fjpmWKFLB0tO0LvzTV46u6_ow_10aDSGfMySXZsh_F0ijWTy7ciY1gpFTdFHrLVo-2Uguq_n6SlVj-cfWqGsQwQlJg"
+                },
+                {
+                    "id": "f6c899420a7a4a4aa0c1395a921e5264.17",
+                    "url": "https://lh3.googleusercontent.com/IIBE8_UgQxORZsA1ZHkpMjGLCr0fiZ-H-akAUM8710twz7BXtsuQxMlIHZinLbLhg5061rx_cN4eHPNFTOqmtLjAQAfU"
+                },
+                {
+                    "id": "e25e243d1865427bb1f5d4ac97e7f0fd.17",
+                    "url": "https://lh3.googleusercontent.com/lNyGGNtCJb2zrQOE4DEzvGVmzHLzZKnWtI99R6vtkehyKfsCbP9cgIDw9K9tZp4ogbGzj-YB5_sOtFX2WtsqskzzMcjk"
+                },
+                {
+                    "id": "81e26b23ad334b81bfac820f3f0bc054.17",
+                    "url": "https://lh3.googleusercontent.com/YVWflO5RluIlX26q7uQ-D78U8jcnV2qgTXrwv43Ea_nke3H_tDPmuyfG8jSMqU_4ptLjK6o2UilGbPxv7-N_TkeA5Fc"
+                }
+            ],
+            "address": "155 ราชดำริ Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.36
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.333
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.36
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.198
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "09cbde7e138a41d79cb4d3d4773ba755.16",
+            "hashedId": "164a019fff2826a52bcca7144af940ace733d826",
+            "title": "Thai Musical Ladies Mural",
+            "state": "LIVE",
+            "lat": 13.739899,
+            "lng": 100.54145,
+            "lastUpdateTimestampMs": "1501109740656",
+            "images": [
+                {
+                    "id": "fc7889729a084e4a9276d326a62fac09.17",
+                    "url": "https://lh3.googleusercontent.com/-94y67jYZDAKKqxdCUsLgtV6Q2uYiLAK5PmLkNpvpVXJ3uWNiPHTNwrQs0dt3uA52vNajNQPER95yCfo88tBzWFQwd65"
+                }
+            ],
+            "address": "Soi Mahatlek Luang 2, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                "name": "Mural",
+                "score": 0.821
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.48
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.161
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.821
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0a99eef824cf4a368e2c6e1d4d27d800.16",
+            "hashedId": "8920b5cdf8d4ed08a021b349956eeebde98ee8c0",
+            "title": "Shrine @ Somtawin",
+            "state": "LIVE",
+            "lat": 13.7389,
+            "lng": 100.540804,
+            "lastUpdateTimestampMs": "1574697887907",
+            "images": [
+                {
+                    "id": "e83325df0a8f4c968cd38489af0069d9.17",
+                    "url": "https://lh3.googleusercontent.com/aq18k87bfuFjDu24nQMQcSEPUItBgqgyfX0HQSmMoEYqK08TpIDoZXj5k03Z_-cgnCO_DfMB_6i0iDVYGcjivL5XH7hh"
+                },
+                {
+                    "id": "82baa872eb5f4556aa627d776c167834.17",
+                    "url": "https://lh3.googleusercontent.com/4eSHftxqI9J2bCsl38xAbAf38JcKm8RKPkAxpyeGNKyYAlxvITywmMpr78QsawMtHqXUeCZxgag8yQth3Pi-LcIeMM59"
+                },
+                {
+                    "id": "20cd77027a0e4b04b8817c1debec51fd.17",
+                    "url": "https://lh3.googleusercontent.com/9GPy9Eh9kcpkmrRIPjxO-qq5yrjsvJCK029UGojDKt5Xnj0j3mVWKioCBHR_dHigL989zeG_nQDC1gqATxayDoDY77M"
+                },
+                {
+                    "id": "219b041adeb0424cac0dcd419831cbda.17",
+                    "url": "https://lh3.googleusercontent.com/GNjdIvqkqgY63-PxOYkmMu4dUf4nSlr72-007xJP8hrjfac-bnKFuqUNFRiT10cfvpOeANc6ht9-xZjR1RumplAQvyQT"
+                }
+            ],
+            "address": "2-2/338 Ratchadamri, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.449
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.449
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.241
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.235
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0e19d1a4794c47a9930f9e01fadeec7a.16",
+            "hashedId": "db426a165f08b551825b55534e2d639f32b3de72",
+            "title": "Glass Obelisk",
+            "state": "LIVE",
+            "lat": 13.741546,
+            "lng": 100.540701,
+            "lastUpdateTimestampMs": "1501109351794",
+            "images": [
+                {
+                    "id": "d19ede6b740947c19382692310550119.17",
+                    "url": "https://lh3.googleusercontent.com/pUETsYWEDFiJn0NMUSlHz9txsghwlKKoF-IDydBXpQn71TsckY1GypqtcrVY1lI9Xw5t3uj1E8rzMbfwjjdmH9BKFuY"
+                },
+                {
+                    "id": "37510b254825405e919247fb865a0533.17",
+                    "url": "https://lh3.googleusercontent.com/MylejLVO4U829VOG77ZLZQawS5Ci-Hn6ZlU60IumNbBjLWdeC6_ctfQrqcUEYp4HVbYywC-8T8N9ppw5CqrybT2LFcE"
+                },
+                {
+                    "id": "2ef959f74f1c49ed9c6df57104d33e17.17",
+                    "url": "https://lh3.googleusercontent.com/omaw8YQXM22DeRqKBZLVuSn8X1R5gmAxyk1X_Hvgm_p5sJHqKMQLSlAuCZNAIMCClhfwq6i9eSAUXmoPulyaUveqng"
+                },
+                {
+                    "id": "047b5b43630040e38d968794126bf779.17",
+                    "url": "https://lh3.googleusercontent.com/Z4PSfvXtHf16lmwUh6GRW-IYxsqt7vofhsoZUy7XqE_Iq4i0Fc98BLVirtPDZJgiSvyocfZlZFIFPxaUS0I6NjsVmB9q"
+                }
+            ],
+            "address": "153/2 Mahatlek Luang 1 Alley, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.487
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.103
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.113
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.487
+                },
+                {
+                    "id": "f95f23349b7b5384613ded1408e6ead6",
+                    "name": "Obelisk"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0e71e7d823f64619af3f0536bf60ccb0.16",
+            "hashedId": "21aee573ee54e64cfade0154831af8bc6337c9af",
+            "title": "Four Face Buddha at Natural Ville",
+            "state": "LIVE",
+            "lat": 13.738793999999999,
+            "lng": 100.543566,
+            "lastUpdateTimestampMs": "1501109447168",
+            "description": "Four Face Buddha at Luang Suan Soi 2",
+            "images": [
+                {
+                    "id": "453936550bc54b79a47a34591e8811b9.17",
+                    "url": "https://lh3.googleusercontent.com/pGtbF2VNP4qrfLsxl3Qtq_ZRjiwU-75FtyQoaHjAB5_9HKkX4ORCOYuPqPqokepMCqRlbgOwJgrTwhwfI-hqmp7k2m6h"
+                }
+            ],
+            "address": "62/4 Sarasin, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.357
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.244
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.357
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.254
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0f8beb9523ee36b496508cf8ff7affcb.16",
+            "hashedId": "d88e206cb7711891e6b929a6424f22af7ed4edff",
+            "title": "Vaso-Spanish Tapas Bar (ร้านอาหารสเปน)",
+            "state": "LIVE",
+            "lat": 13.737727,
+            "lng": 100.542886,
+            "description": "ร้านอาหารสเปนแนว Tapas Bar บรรยากาศแบบสมัยใหม่ที่เสิร์ฟเมนูอาหารสเปนทั้งแบบต้นตำรับและแบบร่วมสมัยรูปแบบ \"ทาปาส\" หรือ \"อาหารจานเล็กๆ\" ในบรรยากาศแบบโต๊ะเค้าเตอร์บาร์ที่ห้อมล้อมครัวกลางที่เปิดโอกาสให้ลูกค้าทุกคนได้ชมการปรุงเมนูอาหารกันแบบสดๆ",
+            "images": [
+                {
+                    "id": "04aa551012793e3bb5632922b8f61fd8.17",
+                    "url": "https://lh3.googleusercontent.com/1JP5AET_4bYA7BqCAAkuT3LNgxxra0cKH7xAM6d17CESoBSfpuVYPnmToH9-jNYnRgqdUlcouaTCxreF-kXLP86-Dh3lHDhAvpvj4DI"
+                }
+            ],
+            "address": "65 สารสิน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "3ed24065426da8382b4da5e9ca659e41",
+                "name": "Bar"
+            },
+            "qualityScore": 88.82197,
+            "categories": [
+                {
+                    "id": "3ed24065426da8382b4da5e9ca659e41",
+                    "name": "Bar"
+                },
+                {
+                    "id": "7ba2ba2f70af22e4cfafe42164ff85fe",
+                    "name": "Spa"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1669355424509"
+        },
+        {
+            "id": "17c33c798bac47c697cef080a34ce3e9.16",
+            "hashedId": "26c7231afa95f1a6080b21d432d59b008b73d8a0",
+            "title": "Grand Hyatt Spirit",
+            "state": "LIVE",
+            "lat": 13.742932,
+            "lng": 100.54042,
+            "lastUpdateTimestampMs": "1501110033565",
+            "images": [
+                {
+                    "id": "a4f67e4ebba14978a34df33be4a427b0.17",
+                    "url": "https://lh3.googleusercontent.com/CQ6RrNjD01gxgSDUMUK8PygCDtvUDIDW1Raxr-CdyFqypsiui36909FEiYodttAMjrr6QOZj-N5UcmNZ1mny2nPVWw"
+                },
+                {
+                    "id": "706d41bbf7464b8bbac827bf5f5fb701.17",
+                    "url": "https://lh3.googleusercontent.com/zjHL9yq5yK6jG0zJXqjzDfo01DU0zbePxDlH2dosSKVKiKbwwkazgn-gWA9UJyaJdmZf6tSuCZGs-xN5CU4fa1UtMnk"
+                },
+                {
+                    "id": "e14f0332a5844b4ba135d07b38a03b53.17",
+                    "url": "https://lh3.googleusercontent.com/RWkoExCgcALomAPdFeow34Hz_gan3-I4PNuTr1zm6G1fOViA5P3DFF8lN5tCWI_mEN9zJVALscRxcKO1aIwrxrChObk6"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.526
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.152
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.526
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.106
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "197b12ee4dab48e794c83bcda690a499.16",
+            "hashedId": "269499996173bc4523a557589de670144886fff2",
+            "title": "Ratchadamri BTS Station",
+            "state": "LIVE",
+            "lat": 13.740117999999999,
+            "lng": 100.53943199999999,
+            "lastUpdateTimestampMs": "1501109623790",
+            "images": [
+                {
+                    "id": "aded68bda7c64258976b52314f2cf347.17",
+                    "url": "https://lh3.googleusercontent.com/SPSg3WT1B4g5rJ9Oth52p-zutPY1TkkznCxb1mVyuWrbfnypC0fpzpvupouznaKo-a6nA5YuOTdwqUqZHGaX66RbKpU"
+                },
+                {
+                    "id": "09b65ef6eacd4c28896ad82eb69b5010.17",
+                    "url": "https://lh3.googleusercontent.com/AYJYLqmGwPwxqphJYz8H83e5dFvQ4NUaOYk0gUtC1WLyGn3hGhlKW85ay1qUyPCv8CE9h2SW45sRSQH7oG8pJicdf6s"
+                },
+                {
+                    "id": "f65aa28470ca42d896eabbde1ff277d4.17",
+                    "url": "https://lh3.googleusercontent.com/JjVxUf_PTglqDV22Yfiwwc9a44Fba5zpYqK2_jkeynhVd5WQlw0O4-CgFvupe1LpGEJDY9AxBu3lvAU2EQglJ0ZG2LU"
+                },
+                {
+                    "id": "fbf8ea6cb94d4580853fd4d706fcf030.17",
+                    "url": "https://lh3.googleusercontent.com/T9mYjD8Yb-2Ozi5_CV8liXsYOpeR6B5nQaZTdaXTcMgAdwM-3oVAIvFJkBnNejrNTUTggrInWqBx6ElvEtBnwv7_0bVK"
+                },
+                {
+                    "id": "5aade32e3ba341e0a436fe0206da18bb.17",
+                    "url": "https://lh3.googleusercontent.com/97QICOSPMV4waJt6INug5qtMxAJ5yULy3Hy65rWrfGO6v-J3jEp1eYcZfUZahI7ItzX2NCx30cvBvKhIK4KOnNjF-w"
+                },
+                {
+                    "id": "900b7e11d6d64d42ad430ee03e1765bb.17",
+                    "url": "https://lh3.googleusercontent.com/RkHrLprGJa9fxdC6ovtYHtS6K4CJIWrLeMmWr00DwfF2l5SgcTW5CT8xf4uObPfnJ9V5N8ByMKA0UPm8BWmpA0AhCw"
+                },
+                {
+                    "id": "3e84bf1275dc45308f09155a94ddd1d9.17",
+                    "url": "https://lh3.googleusercontent.com/PlifyTFZ47i87RGbMr6SQ9YpwlWC-hN6vv78IL6T9o3YR-qflE-kTuOA24dCiHL9clR3cVWhGITBtZoabteZ2LZJMKKq"
+                }
+            ],
+            "address": "1 Ratchadamri, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "db55bc74a2fbefe1b15371ade71559b4",
+                "name": "Train Station",
+                "score": 0.445
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.346
+                },
+                {
+                    "id": "cbcfc17096091ada43f4930540a201b8",
+                    "name": "Dam"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.076
+                },
+                {
+                    "id": "db55bc74a2fbefe1b15371ade71559b4",
+                    "name": "Train Station",
+                    "score": 0.445
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1d10f3ee9cfa4a86886718583e87c19b.16",
+            "hashedId": "8f8c654467d27daf0676507c4b941a89522076e0",
+            "title": "Shrine at Nantawan Building",
+            "state": "LIVE",
+            "lat": 13.738875,
+            "lng": 100.540134,
+            "lastUpdateTimestampMs": "1574495317430",
+            "images": [
+                {
+                    "id": "8a59932004394ee7addc14f37198fc95.17",
+                    "url": "https://lh3.googleusercontent.com/oQRrIl1UG2HK09I8QknyepohmIgIrWWaVDpWrc3va56bN8RExwUFUwjqUJ0yolsXjBUyWdGec5OCgexzwEfOa6r1Xe2A"
+                },
+                {
+                    "id": "0238928838124154a29733637f864a37.17",
+                    "url": "https://lh3.googleusercontent.com/Qlr-eVe8Kb_Dl0RSKA9ndWcSM0QAgifvtjM5QEcBSEcUGZRPLhIToqRh8cy-ad8pw1habqM3GC_Sg8d5_G_tbM2f2RE"
+                },
+                {
+                    "id": "8487769a2f8d407caafe911d7a7b0a62.17",
+                    "url": "https://lh3.googleusercontent.com/aHyeHEjRrwBg3oEroR8xiOMCAmQ64DWVQ14hlByalG0SftFClJWAs84JG44cRKUSwJ5JGeS-SryAqq1ev6RgTLS9IMY"
+                },
+                {
+                    "id": "3a3245b5a9bb42f28c718cb087abd176.17",
+                    "url": "https://lh3.googleusercontent.com/rjz_XLnGkQLRU315mVwBkjhXYBRSywyzZGk_DwPgx--B2lgZsjnxAKfJXlKKw84oq3HC2krKVq05Be5DFrQAi6WTI98"
+                },
+                {
+                    "id": "c5ddc39e2cc541ad928acb1eb919b7d0.17",
+                    "url": "https://lh3.googleusercontent.com/Pt0K3f68MOFMH_dqM7D5vuVPn2lZEwIqLJFWMH9F7BzJPrslAHRWTn_BN1sDNvW7TbV-l2hnHymn42VSLEO2bA7QZQ"
+                },
+                {
+                    "id": "fb80c20d4da73d6f9ce6c0154d43a2eb.17",
+                    "url": "https://lh3.googleusercontent.com/76KP-PgNrmuMRs5sPRXB9WRU53ZUJ5wMZ7RrxunecDBPyMvCJNmZW-pfUiQTaZshvm7VJkIz-PacG9xRIodlAjjPVdCRLor5JAaZBz7Y"
+                },
+                {
+                    "id": "8a9a63b0a1f53e378f5331f31595ae0b.17",
+                    "url": "https://lh3.googleusercontent.com/JIjJ4U493-99F6Aob-3UCRF7Oyt8SkhcaKdVl6hQmZQwM3TbqGM4vX-Xt3HgpSjYZqUm2swCskvORrqSHZYKcfd_6GRFaCoLocHKCExL"
+                }
+            ],
+            "address": "Soi Mahatlek Luang 3, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.205
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.292
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.31
+                },
+                {
+                    "id": "eb6a935d6b62f1a033715156e12030e3",
+                    "name": "Building"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "24886748759c471c85d5d58d0317f120.16",
+            "hashedId": "86ee588f098efc5127d78e576713d2ee5b1befe5",
+            "title": "Big Brown Eagle",
+            "state": "LIVE",
+            "lat": 13.734914999999999,
+            "lng": 100.54236399999999,
+            "lastUpdateTimestampMs": "1501109172916",
+            "description": "On Lang suan road pathway",
+            "images": [
+                {
+                    "id": "bf2be18916f640e4b7f34354babb1adc.17",
+                    "url": "https://lh3.googleusercontent.com/WKL2JIM4uDPyohAbycl4rc25E98cXKpsxPtZCn4OXmJelsMcjywdCb-ty31R6EkcGfh7EXTXoPTpsRnPllB6RovuhYgx"
+                },
+                {
+                    "id": "37a845b7aa3144b583205901c6c78ada.17",
+                    "url": "https://lh3.googleusercontent.com/2E9YY1hbJtfN1cuWCepD__PkU4QfdeLlCRtLOeLKAF3THTkJOGmg0TTHTAcuSdMTnwEpk3BkqoyVtlRxzKm67I-oYeQ"
+                },
+                {
+                    "id": "99a3a34f11654fef8c162dba54d38e92.17",
+                    "url": "https://lh3.googleusercontent.com/xUtZiTduHik4HkFXbmwKLpCQb5SVl3IFo-3mo9xQMBR-v5VvHeQnMMGLnK036dl0LlIkXQX2QqZcHrAM6IGacaXveqc"
+                }
+            ],
+            "address": "ชอยหลังสวน Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                "name": "Road",
+                "score": 0.344
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.332
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.224
+                },
+                {
+                    "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                    "name": "Road",
+                    "score": 0.344
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "27790a0d758d42f590652511658ea8c3.16",
+            "hashedId": "8f536a652a91cbab3140ec7d608fcf6771613797",
+            "title": "The Earth Bound",
+            "state": "LIVE",
+            "lat": 13.736877,
+            "lng": 100.542513,
+            "lastUpdateTimestampMs": "1501109183989",
+            "images": [
+                {
+                    "id": "71845032b1b840c5b2e36397f3646055.17",
+                    "url": "https://lh3.googleusercontent.com/_NUtvZoq7V1yltIG_KcUXuETL3JECkq38n1xkrpq9hd6rZGDXzNIBDpHC687i_Pd1JfF0Z9H-I1jRCawHGgO_ioaOQ"
+                },
+                {
+                    "id": "adb28baeadbf419f93ffae1d6cb3f668.17",
+                    "url": "https://lh3.googleusercontent.com/AsPe2v-cQeHqxSM-dHesKbAXBy3kNiVTilcpKe_ze4ojdwOagiA6X_St0I_sKjvIypl4IGQ0WcufQXYHjPq_uIWTsg"
+                },
+                {
+                    "id": "07b508ce361545a3965b5b487faec58f.17",
+                    "url": "https://lh3.googleusercontent.com/Zcjx234bclhjCUjK7KVmKTXONXExIj27iDGoDCkJMIE1s46z9kZrue46rAuwbIwoKcLdcNd5mnXFkopT9bMA2JiZ3wI"
+                }
+            ],
+            "address": "76/10 Soi Sarasin, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.276
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.115
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.276
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.151
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2888f37e915c43f98cb9c5ee4ca392e4.16",
+            "hashedId": "9e9e501e694b4fdb4bdcf31dbadc2809ff41bb92",
+            "title": "พระพุทธประธานพรบวรวัฒนาสาธิตปทุมวัน",
+            "state": "LIVE",
+            "lat": 13.739586,
+            "lng": 100.53465899999999,
+            "lastUpdateTimestampMs": "1501109483989",
+            "description": "The Buddha of Sathit Pthumwan",
+            "images": [
+                {
+                    "id": "822e2724702d4195b659fb4c8ef47f63.17",
+                    "url": "https://lh3.googleusercontent.com/XlneKcqevQjpriWcvdDfmZdRuKwZ5U5sUmhbpJCKWcdfKRRCUH9NUfQ4NgMtVAUtts30XwnS7gAz3Qzkp8vIQyQaEMo"
+                },
+                {
+                    "id": "83cb31352a894b548f92d7b67fd76382.17",
+                    "url": "https://lh3.googleusercontent.com/lXVDesO_VbSBMHD0KdTGhfm-Iu9Y2VCyT5bls78YZptXckUoUauoZm8RR76zp25yFKnc6HGPeBnmj-q7Fl5bVaoEOA"
+                },
+                {
+                    "id": "cfdb73f49d87499a8fe3f643f5fb147f.17",
+                    "url": "https://lh3.googleusercontent.com/bjRYr7NpFfl_DrIG_hI2YmSpPmB5A25YVuSDPK7tWz_GIu6PvwSP509XtjzLhTQMw_yH53W_g5_v9CzP6Aa_wIVQ9g"
+                },
+                {
+                    "id": "7c190faeb30d49ccab7a07a852e1fd65.17",
+                    "url": "https://lh3.googleusercontent.com/VdcF7TUnMCIG8MUIUgnyQKG3kfW0FbzGQXJIjwWgRx636_DXKwsDdvNCfekImXtwzP2nZjWFva66JhXfOI2ezuuZfwE"
+                },
+                {
+                    "id": "c27c3fa0b1474ab4812be841dd90055d.17",
+                    "url": "https://lh3.googleusercontent.com/OGmjATOhWAM77pcVYk840tnTAh5crZBR35f5sdMU8Ztr_omdByKUr5WAK_L9fxJwojUsXDgooEOTvD6jT9d-Yt73gQ"
+                }
+            ],
+            "address": "1871 พระราม 4 Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.233
+            },
+            "categories": [
+                {
+                    "id": "7ac387dc5b896116bd3a881e4fcbd867",
+                    "name": "Bust",
+                    "score": 0.13
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.233
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.204
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "28fc20660bcd4df7892a46ce752fe1b3.16",
+            "hashedId": "e29f4f93a614b4e569bf17fc233d426bd96758d2",
+            "title": "Four Face Buddhaa at Natural Ville",
+            "state": "GAME_REJECTED",
+            "lat": 13.738757,
+            "lng": 100.543076,
+            "lastUpdateTimestampMs": "1501109611736",
+            "images": [
+                {
+                    "id": "1da8d14591a74a4baf820a3e2b9bfb27.17",
+                    "url": "https://lh3.googleusercontent.com/WxWaTcaDRQSibt0yYAk_oVZ7WQKZ4Fj0Am3NYHAbB_q-2f7ybGeHVCZyQkAPKaUEX-b8BFteS7hNsXrPNZWCTS_5ob4"
+                }
+            ],
+            "address": "ชอยหลังสวน Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2fdae7e2397b40fbbd4d6a4da322c058.16",
+            "hashedId": "c34d918245c53d2fee702a98fded1a9be87f4d6a",
+            "title": "The Millennia Spirits Shrine",
+            "state": "LIVE",
+            "lat": 13.738406999999999,
+            "lng": 100.54283199999999,
+            "lastUpdateTimestampMs": "1574355741692",
+            "images": [
+                {
+                    "id": "2fdb4d4944fc4233970f4998c72707f9.17",
+                    "url": "https://lh3.googleusercontent.com/Zg9sT3FuQ_vxhtMi504TIxYi4ejNuzS1EArkLfCqzpDd2xpnPvFm5qItr48KYRVftjFgjtbazn38oAL9FB7xWhsAi9E"
+                },
+                {
+                    "id": "3c3e754823104340b552b665c8ad31f0.17",
+                    "url": "https://lh3.googleusercontent.com/hKpflb6Ac_L0b1ujlDs_cGsrElOchADa2JFnpDscen4BPlJgRtOggqT6Hqvv1M5xupXz-vbjUgEpTwFNvi_waWKLCtG2"
+                },
+                {
+                    "id": "500af124ccfd43ddabc19798482335cb.17",
+                    "url": "https://lh3.googleusercontent.com/kGomtdy_Oe76ndw4cz1TkBX2A6WOeHmFYE_M3snnjuzY5FTnsSsMRmIS8sSpYNpzBjuhFLV0KgGs4vrniiSTiO4Su1A"
+                },
+                {
+                    "id": "b725e6c887444b84a89255874c1c8f4c.17",
+                    "url": "https://lh3.googleusercontent.com/UqG2PXj8_CUOAnG8YAA0sMm-1BJAAbVT0qt7apnzcKLrdUuic4qQMKQUKa_T1ndQYzfPLPUPf4qTPjMbNh_VJqOo6kQ"
+                }
+            ],
+            "address": "ชอยหลังสวน Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.277
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.271
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.195
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.277
+                },
+                {
+                    "id": "cbb538ec2b83fa4291977ae0a5988821",
+                    "name": "Mill"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3084083adc414d80bd4d1cadfaeb7b11.16",
+            "hashedId": "0ce56214b05bf268f1eab0841f203db67326d3be",
+            "title": "Fountain of Natural Ville",
+            "state": "GAME_REJECTED",
+            "lat": 13.738800999999999,
+            "lng": 100.543177,
+            "lastUpdateTimestampMs": "1501109701256",
+            "description": "Luangsuan Road.",
+            "images": [
+                {
+                    "id": "f7cbe777763c4accaf8f0810becc0fe9.17",
+                    "url": "https://lh3.googleusercontent.com/8kLdkz6NylTPUJOFYDXGARr_XUEGFOlNrHWaYC7EM_ktQT9qV-EnPe6zRlf6YPdGSsIBB289IKEOoxlGXa-i5JyKCw"
+                }
+            ],
+            "address": "ชอยหลังสวน Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "311119f37d8a4828b0e92ac615b9e001.11",
+            "hashedId": "8912b75586e5032d0c39ebc30854ab23baaa6b2a",
+            "title": "Golden Land Building",
+            "state": "LIVE",
+            "lat": 13.741406,
+            "lng": 100.542108,
+            "lastUpdateTimestampMs": "1501109863337",
+            "images": [
+                {
+                    "id": "25b343574a514952a6e51cc224bb7a44.17",
+                    "url": "https://lh3.googleusercontent.com/BOgcVwsXM4c7l13YjwbU1O-oCXy8DEWGMUPZKOJYY-ucJtx2g9ieILQOwPO2yno7TZy84Hw7jNPJ6cJaLqO0NLXVk6-3"
+                },
+                {
+                    "id": "65d610e802794371af7166749796a1cf.17",
+                    "url": "https://lh3.googleusercontent.com/b19KARCMHgr-KXLxDK67l1pkA7mRzQkE3gi52Ql351MmQAQVp1aHrJxwQ5oOnjMdwOE4HjextchIMAAf9wAnUKIdQXU"
+                },
+                {
+                    "id": "0e150a1849fd434c9d3bf667fe5073ef.17",
+                    "url": "https://lh3.googleusercontent.com/Q0PWwe0AMw8W4Ozq3TZDpKU1KKb1R5UwKBPnQv9Fwd-ZW5-IMZXmnTdWdRzZ-GhI28wGMDHS3MElEY52kGeS6e5Ez2c"
+                },
+                {
+                    "id": "d2de9aaf4ffb40538d98c3db277a18ed.17",
+                    "url": "https://lh3.googleusercontent.com/o6EYOUIPEhRZmzoUO9qvsbyPphKdYFOOU2-BXfVkmkR2W87BaeC5Pf-5n8c5PM6puD-hVDy53kyEPCa6sn3ztYtROb8"
+                },
+                {
+                    "id": "b828ac1f52ef4b7297d43f338a30d84f.17",
+                    "url": "https://lh3.googleusercontent.com/mmFnbGnsLnNKxoBfH1YkNPRlXr0jtz79_WmVnGE5n74Kswi8zp5MxcnZRlvDfQ55azwUjqcY0hKFScMoUnL8WDRmLA"
+                }
+            ],
+            "address": "Soi Mahatlek Luang 1, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.252
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.252
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.117
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.127
+                },
+                {
+                    "id": "eb6a935d6b62f1a033715156e12030e3",
+                    "name": "Building"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "339d7d99fbd048f3b3e5eb8f4dc75b65.16",
+            "hashedId": "6f7ad2779e7d3a75622a7100075bb816dc62e4c8",
+            "title": "Erawan Sclupture.",
+            "state": "LIVE",
+            "lat": 13.738826999999999,
+            "lng": 100.543144,
+            "lastUpdateTimestampMs": "1501109481975",
+            "description": "Luangsuan road.",
+            "images": [
+                {
+                    "id": "cde8666c4ebf425591a9785299983e74.17",
+                    "url": "https://lh3.googleusercontent.com/SLW-40Zy2-5BC3F4Qz6qyV_jo0pHAbRxXswG3SfwLwF31khqNzu1jsBuWHf04PjuVgK4CdMyDs5EvW0qdeNXuXCjL6ZN"
+                },
+                {
+                    "id": "67dce0bf58de4713883243af2ad85283.17",
+                    "url": "https://lh3.googleusercontent.com/8uhN1BWAD4amLPFyfZ8WxQnVqRCxceiWUefgWJmQY2sf4onVPQ1rYUkTUq18hRueBz6oWeAsHitE8CeLcbnsUhH-2Bo0"
+                }
+            ],
+            "address": "ชอยหลังสวน Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                "name": "Road",
+                "score": 0.193
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.164
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.143
+                },
+                {
+                    "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                    "name": "Road",
+                    "score": 0.193
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "36bcd2698cfb4d258d8b4a26318753fc.16",
+            "hashedId": "ed9af65c01e78fd8e0045ce6a33ca7753f503b68",
+            "title": "ศาลอนันตรา",
+            "state": "LIVE",
+            "lat": 13.738704,
+            "lng": 100.54139099999999,
+            "lastUpdateTimestampMs": "1618819727417",
+            "images": [
+                {
+                    "id": "15c041ebd9bb41f0934e794dec5ce154.17",
+                    "url": "https://lh3.googleusercontent.com/cuguMJi6sbo44MyCe8TcxEpV5FvIALZU470q5hXPha7-mlm0E7HyLzjIhrl8kmAIpNxu9AQMdMx_QziDz8fdcqKMetQ"
+                },
+                {
+                    "id": "b1dcd619b8db4fe1af5ea187b8187fcc.17",
+                    "url": "https://lh3.googleusercontent.com/cEz2cIUuydSA8p_wxLml6P1l90j81bhIX35b2iiB3ZWDfQyvMAkQ1JsGI6CV7dNBQnEGbmzDW5PLh1Ma8gAWzCuQiLkO"
+                }
+            ],
+            "address": "Soi Mahatlek Luang 3, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3e4a11f4d28735f9ac3c565142459e5f.16",
+            "hashedId": "433276f9ce6e6f96f5c6ce11945e9cf2dbf9a1e5",
+            "title": "HARBORLAND SINDHORN MIDTOWN (Langsuan)",
+            "state": "LIVE",
+            "lat": 13.740969,
+            "lng": 100.54271299999999,
+            "description": "ฮาร์เบอร์แลนด์เป็นสนามเด็กเล่นในร่มที่ได้มาตรฐานระดับโลก ด้วยการออกแบบโดยบริษัทผู้ผลิตเครื่องเล่นชั้นนำของโลก มาพร้อมทีมติดตั้งเครื่องเล่นมืออาชีพระดับโลกอีกด้วย จึงมั่นใจได้ถึงคุณภาพที่เด็ก ๆ และครอบครัวจะได้รับเมื่อเข้ามาเล่นที่ฮาร์เบอร์แลนด์",
+            "images": [
+                {
+                    "id": "ce19d50c70ef3dffbf87cb2a1c0112bd.17",
+                    "url": "https://lh3.googleusercontent.com/gusXFPALjUIpPi5j5e9SYpO4aKzxDMP0gC8cVdyzECPCw-vW1S3aJKQhgoOkki5P1Rl1uSEXKgNd3B_Y1oClGdwBGC_GItxJD03R4yq0"
+                }
+            ],
+            "address": "155/4 สารสิน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area"
+            },
+            "qualityScore": 87.102745,
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1658537679465"
+        },
+        {
+            "id": "3e4cf8d285cc431e9682d9d828619066.16",
+            "hashedId": "028ae973c2899d5d0b1caa85578773546b637710",
+            "title": "Fountain",
+            "state": "LIVE",
+            "lat": 13.738738,
+            "lng": 100.541142,
+            "lastUpdateTimestampMs": "1501109566010",
+            "images": [
+                {
+                    "id": "fac7054c2502427090e609aea4654b20.17",
+                    "url": "https://lh3.googleusercontent.com/o3u1MrLvOutqlh-TP5GLQ9fYFAIXM9XYfEGp5uwaizUz4vZlfEbPJbKagDCOwy-FJVfbRWWCKz4PqvKYQ1DAw2ki29w"
+                },
+                {
+                    "id": "3b6333a0d84e40379b894b7d4f775dea.17",
+                    "url": "https://lh3.googleusercontent.com/2L0L_H8L_yLky8wJZJhb5Xj2bxghcImIT2JxwSREo9ZGY974Xv5Cf57J_nRN1Yqwy7oBUPjYyfJRbavFGvWqPx-B2q48v4KW6Hp6_jiL"
+                },
+                {
+                    "id": "7278315ab6164c5eb778b2e0a16c74fe.17",
+                    "url": "https://lh3.googleusercontent.com/VQqnVtvyOrWAEmogw8DKso2tklUhQHy4JmV0IDEP_2NyFqBD2BnPI2OmXbDkgHOmOVvhHPruCk5o-T8aIjAzflREbMsWb7nBgKLr6tPd"
+                }
+            ],
+            "address": "Soi Mahatlek Luang 3, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel"
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.123
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.976
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.036
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "439d6b0904b142bc839f3236cf5498ea.16",
+            "hashedId": "1d6f2b5cede077694665f95ab5c10830edd2cef9",
+            "title": "Four Faces Buddha at Courtyard by Marriot in Bangkok",
+            "state": "LIVE",
+            "lat": 13.741259,
+            "lng": 100.54245,
+            "lastUpdateTimestampMs": "1574427157981",
+            "images": [
+                {
+                    "id": "a4839fbaf68c4b908a18ce07a4d200fb.17",
+                    "url": "https://lh3.googleusercontent.com/RoVkLq4FqTn6WlpktjPiTa4F_6j7MIB3Yn38au5G_1pHhM-TV-rFF1ZRT6kJWIAXICae5xpNdhudkHT_5ORxTqxuM5lO"
+                },
+                {
+                    "id": "8de1d3be3eb44a738e59d8030c90c95f.17",
+                    "url": "https://lh3.googleusercontent.com/yrIPoAXI8XBXLcE15SllJ1o4a34pD5wzpLkq3WLR22_oq1_AIXPEC__-euGvKk-BAvcJgsRt2t2n0CNd5OLNyeHek28"
+                },
+                {
+                    "id": "8a340046ba0a4ec5914cba4e0fb50242.17",
+                    "url": "https://lh3.googleusercontent.com/G24TSr2sDUnBwBR6AXba_Ix8OeRQzew1EdDFMAuPer-ZtqK0mzk_gvAs2EmvaJ34Xn-PZNefMYlOCaA74iNO-rojSI4"
+                }
+            ],
+            "address": "153 Soi Mahatlek Luang 1, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.45
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.113
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.405
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.45
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "497d839487bf48f19ce0dadee4a96978.16",
+            "hashedId": "923279968fa3c8b53596d94a702aa90eb91c7c0b",
+            "title": "The Royal Sports Club",
+            "state": "LIVE",
+            "lat": 13.73986,
+            "lng": 100.535105,
+            "lastUpdateTimestampMs": "1501109886672",
+            "images": [
+                {
+                    "id": "47faec0427e6478c84719836dfcd8619.17",
+                    "url": "https://lh3.googleusercontent.com/CTZdzpQIfWbNIwCzCo-gqolPlovtqH6Mi9PMg4l9OrQM12EvdRAMvakMHx2rrf6wtgiGPiAVhzxIdO5JLhoeWGzhQP8"
+                },
+                {
+                    "id": "354149bd475a4994af6539215d92137c.17",
+                    "url": "https://lh3.googleusercontent.com/KY3s5mmZQjS5er19DrBL990MKPZg5jeGYLj2KNrgJjJnUCzPcc_b9vmDiITEz6c1GV5SBvSQOXTJoMJAat2h61_tMGzk"
+                },
+                {
+                    "id": "a7d97b89ce3342f3aca992f7a29d4b99.17",
+                    "url": "https://lh3.googleusercontent.com/gjyK3Em-zhWOW0LY7Y3LFXqvpOD1486n8AqocZhkPk8yWA-zzRRaFUyAe1tqV-zBkRDv2Y1VXZHEvT0ldVW_CS1mbNU"
+                }
+            ],
+            "address": "1 อังรีดูนังต์ Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.517
+            },
+            "categories": [
+                {
+                    "id": "3f961b2a437b5defa434b4b9b770a551",
+                    "name": "Sport Club",
+                    "score": 0.457
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.517
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.2
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4c89e1eea332445a9d3cc60ba745c1c3.16",
+            "hashedId": "eeec663981a5ff33a0d4a9922e4f07d8d57c1337",
+            "title": "The Ninth Fountain",
+            "state": "LIVE",
+            "lat": 13.73923,
+            "lng": 100.543151,
+            "lastUpdateTimestampMs": "1501109907417",
+            "images": [
+                {
+                    "id": "9b02cb9fadcb4b8db5bb2477ca62158b.17",
+                    "url": "https://lh3.googleusercontent.com/ny5ZuFyCQMVYHEVQs2P4pbNiVsPb1_FvOiKT0ghXy9SmGmbG-wI92F8woCWiCpW9RkjOvdhxs0svDB8q5o25eiYf1Q"
+                }
+            ],
+            "address": "Lang Suan 1 Alley, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.952
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.129
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.952
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.11
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4cf185421e4a4c829995169ba7e3cd74.16",
+            "hashedId": "8f66365579cdd98f1489e8674f37c41943e57b4d",
+            "title": "Nexus Buddha Shrine",
+            "state": "GAME_REJECTED",
+            "lat": 13.738622,
+            "lng": 100.543441,
+            "lastUpdateTimestampMs": "1501110006101",
+            "description": "LuangSuan Soi2 road.",
+            "images": [
+                {
+                    "id": "b2afab3cbce140cfa95cd717fbf399cd.17",
+                    "url": "https://lh3.googleusercontent.com/fUWlieK0BEKgcQPc2fGxHMj_LHMmGMOgYAgpBdsT6O6KKIxzGE47PabIwmjERX9B7p792VCjONw4BDzcgE8BTcEB_30"
+                }
+            ],
+            "address": "61 Sarasin, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4cffe3ddf9d93a268ec57c1e48799d37.16",
+            "hashedId": "3d236039bfdcadc2bf4df5068421e344002d9983",
+            "title": "Shrine at The Rajdamri serviced residence",
+            "state": "LIVE",
+            "lat": 13.739949999999999,
+            "lng": 100.54088999999999,
+            "description": "The Rajdamri Serviced Residence is a luxury condominium located at heart of bangkok, close to office district and shopping arcade. This building welcomes local residents and also international residents/workers.",
+            "images": [
+                {
+                    "id": "85bd3d4c77df32d2a5ed7318aabd94a1.17",
+                    "url": "https://lh3.googleusercontent.com/96ptR4JrGst4_m2lVWgtRL0RSTOxStfKwIWAwgqSIVERBZUahYUkjRzmMP9IQjmY56Z1Gi9OPX26HuzoQSq_qPezs_I"
+                }
+            ],
+            "address": "157 Ratchadamri Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "cbcfc17096091ada43f4930540a201b8",
+                    "name": "Dam"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648462588622"
+        },
+        {
+            "id": "4eb72c674a2344b088459ffc9720cac5.16",
+            "hashedId": "3041ab5dea6888d78f562755ede4fb6856af4611",
+            "title": "Smiling Stone Lion",
+            "state": "GAME_REJECTED",
+            "lat": 13.734872,
+            "lng": 100.538962,
+            "lastUpdateTimestampMs": "1501109588399",
+            "images": [
+                {
+                    "id": "d7307b4947f84dfb919a2b0d3adcdb7e.17",
+                    "url": "https://lh3.googleusercontent.com/l2N5X7au7FCzkGTqyMfBjBw_DllYK4w0HPEDPRrVu7Cy2mWyBaAUboLHsG-AGrnYPsyYEHqDM2wT_YhUO0SLinw9Yck"
+                }
+            ],
+            "address": "187/1 Thanon Ratchadamri, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4fb0e03f15ae44a6b641a011e2a2b439.16",
+            "hashedId": "c0bbe25b1186e53d9fcd6d9d7bf63d3542bc7325",
+            "title": "Cape House Residences",
+            "state": "LIVE",
+            "lat": 13.741002,
+            "lng": 100.543425,
+            "lastUpdateTimestampMs": "1501109859804",
+            "images": [
+                {
+                    "id": "2f2633e209f7440fbb70e4bff92c473f.17",
+                    "url": "https://lh3.googleusercontent.com/haTAWWZAOlZ8lDugBcSQrM4f4hBWPLAYE7gJXW8nXxAW-py27WdYaVy5J24BktvnxMFL4Dny5OxWFr4bgV-p_Z5mur0"
+                },
+                {
+                    "id": "f82e59fbc49244bdb19b31816d6682ba.17",
+                    "url": "https://lh3.googleusercontent.com/YzZMhgyPZyq7_mP7sBU9yeX_oOXYgtU6vwnMsMUmsGc5ozcJrYYeZUWnRL9s4KAqKVYaRXi1Op1p7bj4Gk4ayTzpSyU"
+                },
+                {
+                    "id": "7f266550d2dd4700ad597cbbef465270.17",
+                    "url": "https://lh3.googleusercontent.com/4Cs2b71XzodapqKMM_cOZaxSfPMTkviku7Zw_om7DVimXcufcI8e2wrLiI-L9nAdVJcGGWDOoLJXH85nZicDuRtK8Q"
+                },
+                {
+                    "id": "90c9d9d87c614112bc353292f231e169.17",
+                    "url": "https://lh3.googleusercontent.com/C7vx8-ZEUqWwiAJlMsVNTQBy39zEf6IsN1j_M38UEX6lBYGV6ntEIgz3SXEC6SqwQRLgKYAxUAMZZu4rRB5XoiKLXxs"
+                }
+            ],
+            "address": "ชอยหลังสวน Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.327
+            },
+            "categories": [
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel",
+                    "score": 0.082
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.327
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.205
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4fd961027dfd46d4bc9f65d75a0fbb66.16",
+            "hashedId": "1136143b0dbcfda78c66ea83190e66ef2f73b521",
+            "title": "Ratchadamri BTS station",
+            "state": "RETIRED",
+            "lat": 13.738570999999999,
+            "lng": 100.539481,
+            "lastUpdateTimestampMs": "1501109127127",
+            "images": [
+                {
+                    "id": "7c2ec44eb05941c9a7724fd442d821cc.17",
+                    "url": "https://lh3.googleusercontent.com/sxMZhOow9vPUbV3z-ZtJIF3g46LZpATS1oKf4dO2pzj2L82CmLlfSjNbBHwtbgEkQuwFBcjoPsEN8cI8DJUantXjKOnu"
+                },
+                {
+                    "id": "12df55ef2b0245c794619469a2f00fe1.17",
+                    "url": "https://lh3.googleusercontent.com/mgM3mz9p7hW8IRAd3qLcHhJLywPleUgsH30raOVO8fMv0Jluabu53GLgKqciV6jnm9OgZFGMAAFuazV0saghz5hA-Zg"
+                },
+                {
+                    "id": "9d83bb33ec944759ba342e0958f42cf9.17",
+                    "url": "https://lh3.googleusercontent.com/hpZXswWkR5V-rJIFsQExN-fp49WAHC6mgZDo1D88PQ-ByXLQeXbrYHRMfBFBK6eQL5KEzS7Zy6CgrDXhA5t7xe7Fk3M"
+                },
+                {
+                    "id": "d66fded3cd67419fb756dd3e07968523.17",
+                    "url": "https://lh3.googleusercontent.com/PaqJvJSENXyaRuKnQ8tdDyLc3i8vqEULuNmN_ioi8scv1v_fwOTOKxOG6rB99wnE_GvGUp9VLbx22UWM8956u8s1IxY"
+                }
+            ],
+            "address": "66 Ratchadamri, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "51cc76398a463cfb95a7aa8d42cd109a.16",
+            "hashedId": "30536981a3f5d7aa5158b8736a8d870eaf06a2f7",
+            "title": "Kimpton MAALAI Sign",
+            "state": "LIVE",
+            "lat": 13.738087,
+            "lng": 100.54379899999999,
+            "description": "ป้าย รร. คิมป์ตัน มาลัย",
+            "images": [
+                {
+                    "id": "57b71f88e7003c3ca0afe6f261558b62.17",
+                    "url": "https://lh3.googleusercontent.com/kcpTHGQWtZyKNUmOOvDecklmTBHwrk8eRPkpf2jq7C3hinH1LkwWwqew6nPgPeWYErQFXp4oJhuqerWzQAPhRoCQaA"
+                }
+            ],
+            "address": "67/2 สารสิน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "d129e72664470c55acaea6ae18983a3a",
+                "name": "Sign"
+            },
+            "categories": [
+                {
+                    "id": "d129e72664470c55acaea6ae18983a3a",
+                    "name": "Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1670435928292"
+        },
+        {
+            "id": "54e2dcec9ad949a185c71634e9a92ad4.16",
+            "hashedId": "3362418f8c303d3a3c9809b5cf2181a3894ddec3",
+            "title": "Q House Langsuan",
+            "state": "LIVE",
+            "lat": 13.739087,
+            "lng": 100.542914,
+            "lastUpdateTimestampMs": "1501109499419",
+            "images": [
+                {
+                    "id": "09b4516f3a66419c93b02adf9bfb9f28.17",
+                    "url": "https://lh3.googleusercontent.com/hkIBsQL6ZNRDKzVzvXvb0NGu8toY-JYvXOfn1BWP4zlmR_uaT4hwsnrBQr-BdETKfXtNghfA0gwjfIo5A-xqC4MuDEU"
+                },
+                {
+                    "id": "7944045266874479a27f17797a3320ba.17",
+                    "url": "https://lh3.googleusercontent.com/KbTZQ-nlHEXQstfGsIAGLYAcem5ZP_csWEeSWav1D9WHgwvmUAUlnD3AZhtCv2k3RcqAyWTt55GA9wtoXRtNkW30J50-"
+                },
+                {
+                    "id": "970b5c04f5814c30b66f79c33cffca54.17",
+                    "url": "https://lh3.googleusercontent.com/LF19agI6mZUZcpIVJFP_jewVIlNqwgGS0XBUPTD33BX4WW83Zm7lPp2HWaPlNbiVcypIM99s6hnFIZOCe38I7CID9A"
+                }
+            ],
+            "address": "ชอยหลังสวน Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.238
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.238
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.092
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.13
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5808b42b40644b86a3763294389edc4f.16",
+            "hashedId": "283cdae08574fbdf7023fd05d1eb001c63bca3a7",
+            "title": "3 Birds",
+            "state": "LIVE",
+            "lat": 13.739587,
+            "lng": 100.543675,
+            "lastUpdateTimestampMs": "1574766987858",
+            "images": [
+                {
+                    "id": "c44abda98fd04af49a0a1f29a02d128f.17",
+                    "url": "https://lh3.googleusercontent.com/B58KqqLgNoWP7MeLJGVGCROvmaC1mK1ZN_DB1nNJAxLtrTxGcdvsimLvY_nX5H2D0_gFZZIPYNG1MhZ9fHJjrVYZLfE"
+                }
+            ],
+            "address": "59/3 สารสิน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.564
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.564
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.272
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.082
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "58a8d6698d3a3e8c8a4ba024cf366c1c.16",
+            "hashedId": "246c39717a4f543a091d80d095ba689aba35d970",
+            "title": "โคลิมิเต็ด",
+            "state": "LIVE",
+            "lat": 13.737423999999999,
+            "lng": 100.543162,
+            "description": "ร้านเนื้อวัว ที่อร่อยที่สุดในหลังสวน",
+            "images": [
+                {
+                    "id": "4e3a0bd49a19399b95260ee39dcde5c5.17",
+                    "url": "https://lh3.googleusercontent.com/P5_HqrcRYW0TZDUADyWcQ9nxfpJzm_bR5lZn9I6LiUjwfGvlUXrmc0P5ICzd9oFQ44fV_bhCwF7IVtRpHAy1vWcSlaso"
+                }
+            ],
+            "address": "75/2 สารสิน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1670433011584"
+        },
+        {
+            "id": "5ab0fda7ccac3f0f8b1b2b6311476e5a.16",
+            "hashedId": "ea050f8f2f50432aba139bcc28edb252ee9ba3da",
+            "title": "Magnolias Shrine",
+            "state": "LIVE",
+            "lat": 13.742417999999999,
+            "lng": 100.54025999999999,
+            "images": [
+                {
+                    "id": "36c71fde1a5c395080798a2f86e45533.17",
+                    "url": "https://lh3.googleusercontent.com/Z-TTz6-XsBxCJFukG35AhW3RGFNkRT63YIRlmo5HH2xjh5RHteCNONxUmMdQKWmT7S08zuS0r_asSUD_pyF7"
+                }
+            ],
+            "address": "153, Peninsula Plaza, 1st Floor, Rajdamri Road, Lumpini, Khet Patumwan, Bangkok, 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1637924696615"
+        },
+        {
+            "id": "5d7ddb45fbb94272906a020e090465e0.16",
+            "hashedId": "d7b5e61c9b123c1f87da5c1203ccd51dfe9f7da8",
+            "title": "Elephant Monument",
+            "state": "LIVE",
+            "lat": 13.734345999999999,
+            "lng": 100.538375,
+            "lastUpdateTimestampMs": "1501109195655",
+            "images": [
+                {
+                    "id": "6a903cea66894e7aad4ba89d9679fe3d.17",
+                    "url": "https://lh3.googleusercontent.com/qmZKD79H4_vDBIjb8xbFs2GBOSO5ez_Kx5ZlUIV2U2M3YGW6ZVTpF7SgjzZ5gllg4c5U7qv29lQje8iMpbqixbhLYg"
+                },
+                {
+                    "id": "5a3dd812f95944d5babc6dd814a4f8b2.17",
+                    "url": "https://lh3.googleusercontent.com/EpdXPA1Sre3CI4CypdFAdKpLY488qBTtzuro4HG23yiUf6gaPtj9JftTOgQybBefaFzehD7LZvfEIJkzAa8uD5nhUPSU"
+                }
+            ],
+            "address": "1873 Ratchadamri, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.815
+            },
+            "categories": [
+                {
+                    "id": "22d5224ca0d7eafd78d83afc36d0ad0b",
+                    "name": "Monument Object",
+                    "score": 0.08
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.561
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.815
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5eb99c9b3e1b482da7707f73d04d9535.16",
+            "hashedId": "a1a21a20ca532b296782314866acc3547448134a",
+            "title": "Anantara Hotel Siam Elephant",
+            "state": "LIVE",
+            "lat": 13.740803,
+            "lng": 100.539836,
+            "lastUpdateTimestampMs": "1501109546121",
+            "description": "โรงแรม โฟร์ซีซั่น กรุงเทพ",
+            "images": [
+                {
+                    "id": "439306463cc64a6582333f4716e8d5c9.17",
+                    "url": "https://lh3.googleusercontent.com/yJgqzirfBD-gvaKMbyThzIMf7g13_xkOscITjgFneA9HNqyHCxAAvt9X7fm7ZGCdhvqhUmqOvPBm3UAr4xFcA-efAg4"
+                },
+                {
+                    "id": "4128b73f5c4146d08a565eddd8a9a971.17",
+                    "url": "https://lh3.googleusercontent.com/qlF1o-DFhudCoLK0h_uJwrWwOUn9LzzXLysKGmA-XIaOqYC0dlp5qLuj0L-kW37NvaHFO9iMzgevRtJbbe5ZHasabbo"
+                },
+                {
+                    "id": "48b4e240351c485eb84814917b494d7e.17",
+                    "url": "https://lh3.googleusercontent.com/46QXX8nfbCJ2fnQAWernlDnfh33Vwcs6ixmZUv9LCZ5zs1t2ZF--J7WglS6E4r1sL6BEnBYuDCi_UczlrwjQAGFpolRv"
+                }
+            ],
+            "address": "157-159 Ratchadamri, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel",
+                "score": 0.988
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel",
+                    "score": 0.988
+                },
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.143
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.14
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5f1561a19a84419cad7eba9bc3d7f9ea.16",
+            "hashedId": "eb0ac4706c42d4e8ac3201dcf1e6cf26b3d27b3c",
+            "title": "Magnolia Ratchadamri",
+            "state": "LIVE",
+            "lat": 13.742528,
+            "lng": 100.54016399999999,
+            "lastUpdateTimestampMs": "1580989856151",
+            "images": [
+                {
+                    "id": "3bce87241ad64e32b561cc49d13aef88.17",
+                    "url": "https://lh3.googleusercontent.com/lfHox48QqAwPJmw-5zPSGk549qxe6xJ7hnmORROfqBXXej4drRf6n1Vh0DLeRQrGKwFJJA8-HvV5YY-8_bU4N93kYsk"
+                },
+                {
+                    "id": "b2f17276269b4567bf688c4dde6af000.17",
+                    "url": "https://lh3.googleusercontent.com/7VbmqJdSeJ8f02ttrMRDuXDJT_AH8PGIEJgvGnn2aPfEIAuve9Oz4aw6Ssp4aoUQE0Ux8AxFtj0Sg2NeefRZwt4k2eU"
+                },
+                {
+                    "id": "0c2ef825ba464bf8a331ac1ea51d390e.17",
+                    "url": "https://lh3.googleusercontent.com/-77-xzMyigfibls5bZdqPhM4pZ6hXKGhNi74vdqEqCp6YYokZtH6vapyubIMNhCHyOCRpL8eT4E-_qpA1iTnyIjtduI"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.217
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.217
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.151
+                },
+                {
+                    "id": "cbcfc17096091ada43f4930540a201b8",
+                    "name": "Dam"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.125
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6263043e290d30f7abf76ab00fb88e74.16",
+            "hashedId": "48581192623d0e95c178e249e122931b0ed832c4",
+            "title": "ป้ายเดอะรอยัลเพลส 1 (The Royal Place 1)",
+            "state": "LIVE",
+            "lat": 13.741394,
+            "lng": 100.541387,
+            "description": "ป้ายไอเทมที่เป็นจุดสังเกตขนาดใหญ่ มีเอกลักษณ์เฉพาะตัว สีสันสวยงาน มองเห็นได้เด่นชัด อยู่ใกล้ สถานี BTS ราชดำริ์",
+            "images": [
+                {
+                    "id": "b54cc6d1bad538c4a52c1af699ff05fc.17",
+                    "url": "https://lh3.googleusercontent.com/nRsA4v3At9SQEiOmGu16bLxoexSEH_0meOvoxIxLVaikOpBbjB_dtuySb1QVNysd7H_bOQsPm7G11Jn7h-NcLHf-mh_Llpz5yCsCV6ijNQ"
+                }
+            ],
+            "address": "2 Mahatlek Luang 1 Alley, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 87.198105,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                    "name": "Rest Area"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1676697794751"
+        },
+        {
+            "id": "6ec0384233c73c5586e14554f3272fd0.16",
+            "hashedId": "77a9aa03907c3ec39480d8601e9b6e5341ed21f5",
+            "title": "Art  Cow",
+            "state": "LIVE",
+            "lat": 13.738468,
+            "lng": 100.54217899999999,
+            "description": "New steak & seafood restaurant",
+            "images": [
+                {
+                    "id": "f1a1920fee2332908a579954b23f891c.17",
+                    "url": "https://lh3.googleusercontent.com/UYCByDYpWUOaar472iLHeFBbfOahZvMXPROPz25E1eBuX8illQS9rxxVDtoiNbeTShEJ5AfHJ1pr7Ly6o3u0f3HczDk"
+                }
+            ],
+            "address": "SG Tower, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "551636aeb6e23df07c0718884904c197",
+                "name": "Art"
+            },
+            "categories": [
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1652162845393"
+        },
+        {
+            "id": "73d4ae3ab0193e229d05433d859e7b28.16",
+            "hashedId": "3d4f9a6c2729534643b38cc9ed83e5fb539495b0",
+            "title": "The Hunsar Hotel",
+            "state": "LIVE",
+            "lat": 13.740155999999999,
+            "lng": 100.541102,
+            "description": "Hansar is meant to be discovered time and time again. Through context and connection, we bring local inspiration to life for world travelers. Hansar hotel bangkok is located in Soi Mahadlekluang2, only 3-minutes walk from BTS Rajdamri station.",
+            "images": [
+                {
+                    "id": "f072400a4a99381fab5799e510bdea6a.17",
+                    "url": "https://lh3.googleusercontent.com/33xq7pVZ8CJjDkZ2MCi1eDhTRqwLDMEMlwZ1F7ziOSBtGnrzXT9noDxUGRQXWzx_e7YKBIiKkfHkuSO-CAyQ49EJpuU"
+                },
+                {
+                    "id": "c1062e016b453ed2811d8b6e98bde89c.17",
+                    "url": "https://lh3.googleusercontent.com/WHNEfWckhHPiW4gkIqR94SfxrDp0yrbVKtPjWPe33PGPYPHstz7Pr24IgfYQQvFOzBpCIBnwPhMWTM6vVHODecUcY8Klxs6VqRw9lHjk"
+                }
+            ],
+            "address": "157 Ratchadamri Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel"
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646811889304"
+        },
+        {
+            "id": "777188e7817440b98b7b1c5bdedf6a72.16",
+            "hashedId": "9ee90aeb66d19932288d564d4c29ce7e0a5b281b",
+            "title": "Royal Thai Sports Park",
+            "state": "LIVE",
+            "lat": 13.735773,
+            "lng": 100.538643,
+            "lastUpdateTimestampMs": "1574571402875",
+            "description": "Large public park in the centre of Bangkok.",
+            "images": [
+                {
+                    "id": "015010f50fe44f0ab13dca0c7d4c793c.17",
+                    "url": "https://lh3.googleusercontent.com/663VrlofDdHKuM84O-paTjtD9MDYzAtIoZ4FUsYNU-2HTYBc6ITNq1Qyy_tRs6Fx0H-nY7lqwEpzu4LggTPAp7Pk5yo"
+                }
+            ],
+            "address": "1 Thanon Ratchadamri, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.86
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.183
+                },
+                {
+                    "id": "9268f28017f6d91a47bcc8eee1b4b42d",
+                    "name": "Community Park",
+                    "score": 0.279
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.86
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "77fd79c9402a4230a5477e69336e4876.16",
+            "hashedId": "aa1066283178525b1a17202e63aaed27c98ff8fb",
+            "title": "Qi Lin",
+            "state": "GAME_REJECTED",
+            "lat": 13.734853999999999,
+            "lng": 100.53889,
+            "lastUpdateTimestampMs": "1501109727288",
+            "images": [
+                {
+                    "id": "0f939342a9624d919850e260e1d08bfa.17",
+                    "url": "https://lh3.googleusercontent.com/uHKItREB2Aq-A4q3yDPu_GTvSRPCScVJmplXYjuJFOAVlcDp8N_46QJYCSFSvXIpzI24pehJVMpyOH6FK7KQnuiqwg"
+                }
+            ],
+            "address": "187/1 Thanon Ratchadamri, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "79a6cb69d0054d2084225c5cf15319bb.16",
+            "hashedId": "80e2c45f282cb59133be29f20ba9a4209ff92d50",
+            "title": "Four Seasons Hotel Elephant 2",
+            "state": "LIVE",
+            "lat": 13.740584,
+            "lng": 100.539816,
+            "lastUpdateTimestampMs": "1501110156028",
+            "images": [
+                {
+                    "id": "3c9127bd8b8e453cbe21ffd45eb9f9c7.17",
+                    "url": "https://lh3.googleusercontent.com/w8X076CnS_s5lotq3QsaLI0wH-95x8lDfcxOfcwqylvIcKKc4BImy5B4ICyq3zX6NoyPRSNNGYcA8wx0-YAVSuvh-h4"
+                },
+                {
+                    "id": "6c290c3244754c96b9cffa98bc000934.17",
+                    "url": "https://lh3.googleusercontent.com/TPd3ucLUsyI0amdjaDXU6QZoGC2hGLMxr9O3It5gl6zAVMgvPPopEDFsQG7ipobCgk7dTAMgsQmQn-R35nbT81EeYXd_"
+                },
+                {
+                    "id": "6e30fae34d1a491092a842f38e8fa9b1.17",
+                    "url": "https://lh3.googleusercontent.com/aEYPJstLtQB7kss_LCCjaJ_EawmoNRoztsSSblqG3uzrE5lSYV6pZhSBVvpPXidIb5Hdf5-F-oxD4327ZESXlj7czg"
+                },
+                {
+                    "id": "c8e09239038940308fe0c96151099e19.17",
+                    "url": "https://lh3.googleusercontent.com/D1m4OwHaz4BR9oQXlpHw6jJZlqsMxBrM1CIOvLEIBzRwnkBNx8Stvrc-dDKHxpUCGuEiO9gTl_fqBkBGG9ZWJVneNw"
+                },
+                {
+                    "id": "bce56ded65e7443eb97fdfbf7634be8c.17",
+                    "url": "https://lh3.googleusercontent.com/OSLnzOEXvGAWM27NMKYLidSy4xbWBZcldXhs5bRSmq6y4_sVRLMTOcB8sbiFueODCgWg4K7JUBwyB15aSwS_NQextA"
+                },
+                {
+                    "id": "bb651a06f7304d6099e118e6bb871b97.17",
+                    "url": "https://lh3.googleusercontent.com/qJCPyvk6w5Z_Pk_p8O7Ac30NSHlLokHLWuqtOXYeSeXKgISMe4hO710IlATU-5FPjkJbb7VV1pi5D1QO4my2MZVbA8w"
+                },
+                {
+                    "id": "688942d8170846e7bd2649dac362ab38.17",
+                    "url": "https://lh3.googleusercontent.com/1i-n8tmQJymzlg7J2OiuSgBjfYQR8pEgDh1y8GxOS6pT3bnRMNHr6BN8yKcoEnIDqeAsVuT80U_q3wRc8Ly7FYaU8qE"
+                },
+                {
+                    "id": "820c7dc7a7f24b38bf28a5e0b359f210.17",
+                    "url": "https://lh3.googleusercontent.com/966zmWZCKf5-5MJYoBbnGKFbOjAf8dOry9LV5LIh9QFGbJdz9JRJnC6d50N10AxOD9AXiZZ8MnqpoABheHMoGJ8G47E"
+                }
+            ],
+            "address": "159 Thanon Ratchadamri, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel",
+                "score": 0.402
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel",
+                    "score": 0.402
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.172
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.163
+                },
+                {
+                    "id": "dd0bfa07dfc4ac59c2deae67eb67ef25",
+                    "name": "Sea"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8335f82864e34af483654a3c233a549b.16",
+            "hashedId": "701a9cb0d16111f0670dce47243c579e8f963900",
+            "title": "Hotel Muse",
+            "state": "LIVE",
+            "lat": 13.740098,
+            "lng": 100.54332699999999,
+            "lastUpdateTimestampMs": "1501109910161",
+            "images": [
+                {
+                    "id": "80eac95e5a624ece91943300a51eb35c.17",
+                    "url": "https://lh3.googleusercontent.com/e_-EK19bObK22Rhn2FMGk6xrO3nnAGdChdWF6UOs-sXPVTKjLzdFFnh3K0O76tHFVnqmRnxtHa3QPW9XokyJatRAiEQ"
+                },
+                {
+                    "id": "3b87d3cd58124a6abd1e7a9499cb0266.17",
+                    "url": "https://lh3.googleusercontent.com/MQprO1QFDZ1Jdsv71aAv5B2mcEVJlrsq0qu8PA5n4ZGeMWNyzaxwTMTGBywlIw7D5kKxIZ9nj-neAXSbaQzjHhPbLczG"
+                },
+                {
+                    "id": "76745dc9d8924466ac238c1d726219b6.17",
+                    "url": "https://lh3.googleusercontent.com/D-Az3cDkKaQwoRsKDVn86mGf3lMNZWMhKx1xxUQ6W1YMTAZSVJFn-WkN98g7mA5lG4vlIIiZzm87jAo3oTIbDIL7Yw"
+                },
+                {
+                    "id": "5c537b308cd84436b2ccd172d57ece9e.17",
+                    "url": "https://lh3.googleusercontent.com/SF9jlJK1aUHSxDaG8PeGC_B2CkHeoKeQ6z1N4mZzm1EnUAEA4xWL0wr6FXJWv2VVsKi_FZ5TLHKB_VslNCf2_EGVmQ"
+                }
+            ],
+            "address": "Ban Lang Suan, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel",
+                "score": 0.873
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel",
+                    "score": 0.873
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.236
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.067
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660184370113"
+        },
+        {
+            "id": "83b36fcfe06633eca257d7aeb6f88179.16",
+            "hashedId": "02b7d01233007e744b9d2f927052fb9649406341",
+            "title": "เก้าอี้กรงนก",
+            "state": "LIVE",
+            "lat": 13.736863999999999,
+            "lng": 100.543517,
+            "description": "เก้าอี้กรงนก ภายในสวนสวยของ รร. เคมปินสกี้ หลังสวน",
+            "images": [
+                {
+                    "id": "01a6d4f74d94339e82026d7d401d89ac.17",
+                    "url": "https://lh3.googleusercontent.com/rDjAWR2TzUlQ2ba2-4Cxb1dq_FVwXBKnsCUWrSR2ngtKuOoPbAWSsn307Pa41g_YGFoHN_FViTmIH4kiY71_NsDfgg"
+                }
+            ],
+            "address": "87/1 Sarasin Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1670429209532"
+        },
+        {
+            "id": "8497a609efd44d29b290316fc746c38d.16",
+            "hashedId": "66796a5b8311da51d9cc5d3ead8bfa77537d082f",
+            "title": "Ancient Fortress หลังสวน",
+            "state": "LIVE",
+            "lat": 13.73466,
+            "lng": 100.538354,
+            "lastUpdateTimestampMs": "1501109351113",
+            "images": [
+                {
+                    "id": "287fd74c6d38406f96d0f319c573c977.17",
+                    "url": "https://lh3.googleusercontent.com/uvK-1wkDND3Wu6PeEUvNPwHSzl0wYAtvf8RAs5xcGfCGOu22333_ZhGQAKh0MidU53s6rxYU0QbnEyleeOm7fiMSxF4"
+                }
+            ],
+            "address": "104 Thanon Ratchadamri, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.235
+            },
+            "categories": [
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden",
+                    "score": 0.12
+                },
+                {
+                    "id": "77e0f2f22f0b3ce805494bbd7f50bc23",
+                    "name": "Fortress"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.235
+                },
+                {
+                    "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                    "name": "Historic Structure",
+                    "score": 0.125
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "856a13fd4133396f890868499e3b3564.16",
+            "hashedId": "3715db12f242b7ad31bb010d94da513ef427d135",
+            "title": "Statue blow shell in the water",
+            "state": "LIVE",
+            "lat": 13.740632,
+            "lng": 100.54010099999999,
+            "lastUpdateTimestampMs": "1626787412720",
+            "description": "Anantara bangkok hotel",
+            "images": [
+                {
+                    "id": "51c0c33ded8835e28a3d2f579bb5551a.17",
+                    "url": "https://lh3.googleusercontent.com/4VHVvXg-oPNc--z2rOWN5W4wAOfcIzuvFfXSwGNhcw0qoP7_pE0bW3tUvgWexV-nkx_iDqC5HYRFjERBKvJxDg"
+                }
+            ],
+            "address": "157/1 Ratchadamri Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.89
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.074
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.41
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.89
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1626417549506"
+        },
+        {
+            "id": "874f059663ae4807a946a5540108a509.16",
+            "hashedId": "f787b5f71cbf472928fd113d28d5e91ab5739143",
+            "title": "Entrance Monkey",
+            "state": "LIVE",
+            "lat": 13.741486,
+            "lng": 100.53994399999999,
+            "lastUpdateTimestampMs": "1501109398983",
+            "description": "Anantara Hotel",
+            "images": [
+                {
+                    "id": "4d54b22158d549029cc60ea763f4cd59.17",
+                    "url": "https://lh3.googleusercontent.com/QkXRdIkJwT_mvKDXcobhCShYQ_h2-OklRvXIM2j10sY3oAsddf4i1Ti7VFRZJPbWBDfiQsToOZaOnOjQDo_7j-g9GUQ"
+                },
+                {
+                    "id": "3aade27491e3416293f4fe14cea70837.17",
+                    "url": "https://lh3.googleusercontent.com/6-8Xv8iZEEEXKgZeQdrfS337MaTLTnqTDUtomCCOEiZvtKpl6M8c5xPUFaMcu5wGKwZZOQYcNuRSQAV1Y_a5wu7vQzY"
+                },
+                {
+                    "id": "6386c3d6ec8d4bb8baad54ed8dfdaf07.17",
+                    "url": "https://lh3.googleusercontent.com/qAh1LBOg54TNi3qwaU_EAi2HPUVP-wiGINto2NoKDPU0FcFfJ9QIN0ipC_L-xjND8Ta71YPcfXlTO0xSqqgx5oObxQ"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel",
+                "score": 0.846
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel",
+                    "score": 0.846
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.158
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.278
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8ef6e60721204603bb363a41f6df2ae6.16",
+            "hashedId": "0e6c41af1ae4eeb289430c934ea9ac7bbbba42b4",
+            "title": "Holy Shrine",
+            "state": "LIVE",
+            "lat": 13.740179,
+            "lng": 100.539873,
+            "lastUpdateTimestampMs": "1501109675882",
+            "description": "At St. Regis hotel.",
+            "images": [
+                {
+                    "id": "83909e3474ce4e658f8638a42357007e.17",
+                    "url": "https://lh3.googleusercontent.com/Dr74UZ92YRh6fVLjBn3rAMpHoWPuCPsmiG5y07OiTBnoWlnMLZH95PxttO3qg5XVbufSV6LJvhT0NA48mBSXrPbXHQ"
+                },
+                {
+                    "id": "f5e85de02b1841088cef7b361f4f5dfc.17",
+                    "url": "https://lh3.googleusercontent.com/nGQW9QBFaYydzw3d03FU78z6rjAwtEkVsJI3Rr60n-YI7V0ALACF8CzgmNZu0NFyX2V2SrFpK6pTlT0bNN3avI-JSQ"
+                },
+                {
+                    "id": "06e5b1ef995c4784a03b5480c461fb0d.17",
+                    "url": "https://lh3.googleusercontent.com/zNeoJ4dbzp_zV6f8Q9V6e-pG11NKdlrTDfQey1NQUAZPVsjGNh1gNKQSnDSnfMbTb3ny5ohQhvwa-Qdo25o7Ya9E_2M"
+                },
+                {
+                    "id": "aae328ed834445a191b8fc2a7534561e.17",
+                    "url": "https://lh3.googleusercontent.com/0P6Zknkqn3iNdM8q_wga_8I70TTF5hEB1FvEObzAqv_T3T661s4m5alzrnogTjMDhYEBhbV7vl9HT_11yvgXhaGz8dI"
+                }
+            ],
+            "address": "Mahatlek Luang 2 Alley, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.562
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.562
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.236
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.256
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8f89cd5121cc4938a70a4783de58f55f.16",
+            "hashedId": "ef5da375fbcaf06724b4402b2a7ede0a0db94583",
+            "title": "Golden Brahm Statue",
+            "state": "LIVE",
+            "lat": 13.742256,
+            "lng": 100.540116,
+            "lastUpdateTimestampMs": "1501109841456",
+            "description": "Brahm statue",
+            "images": [
+                {
+                    "id": "29163ce3604541a987cc9024585278a6.17",
+                    "url": "https://lh3.googleusercontent.com/M3B5d-Op72qcyeDXQxcqOJZpMKhWoVd-76zLkd_uBFwqibaaVnRftNWkomfd6uP6lb-mff6K9yzbHmaajdHQIsX3YXs"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.989
+            },
+            "categories": [
+                {
+                    "id": "7ac387dc5b896116bd3a881e4fcbd867",
+                    "name": "Bust",
+                    "score": 0.136
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.273
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.989
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "92ba9feeed5e49549cb71cf5476cb13f.16",
+            "hashedId": "806acb70c41446ca269f67319981da86039e393d",
+            "title": "The Peninsula Plaza",
+            "state": "LIVE",
+            "lat": 13.741735,
+            "lng": 100.54006,
+            "lastUpdateTimestampMs": "1501109286375",
+            "images": [
+                {
+                    "id": "5d0b3b6bc146443fbf25729515069e81.17",
+                    "url": "https://lh3.googleusercontent.com/2kq7e4mNm7ovSvJxk837CRzeP65hM_a-MtEblUmN2jRZnykXzryGK79radLyi3hTGMM2IJQEgZx802YJ0DPUYUts03g"
+                },
+                {
+                    "id": "b9cc24ec66fa4cd3a2eaba74f59357bb.17",
+                    "url": "https://lh3.googleusercontent.com/acC-IzzxM4CwLborBNFm4p28rPtn1B927p-LGoPms8BTUFaFcd1RAT79F0o6jQIUIbqw311LiHxOVBOPt1ViBp11e0g"
+                },
+                {
+                    "id": "ecbea580ea7a44f18ae430ea78136359.17",
+                    "url": "https://lh3.googleusercontent.com/wAkDXkV-xiSWguVAI2PqaJKMCngtmV6PV5CiY0ut-blPH78fk-fZvpahANJJIshJUJfHmbN47_2JpCrtutIQo4TQe--h"
+                },
+                {
+                    "id": "8c20c0a274ab47b68f5b9e7cb4908df5.17",
+                    "url": "https://lh3.googleusercontent.com/UcQ5ZdiHhaET_yDwSmbhHnA8nm0kf-DZ-0nxWlMevAfKTSs0XdXoWV7S_tlVAUKUwHP7A_CUBOXbwYWPY_wFw2lz8Q"
+                }
+            ],
+            "address": "153/2 Mahatlek Luang 1 Alley, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "2e7cb063c63fee882e8212c6a88472d4",
+                "name": "Plaque",
+                "score": 0.41
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.41
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.228
+                },
+                {
+                    "id": "8f725985600d31d53eb12748abf99af1",
+                    "name": "Urban Plaza",
+                    "score": 0.259
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "97b3dd4fee8d3065b5adf278c9e59bce.16",
+            "hashedId": "4682e3c3209a68ebf076d4729461c86f8d3d4426",
+            "title": "Forward Your Happiness",
+            "state": "LIVE",
+            "lat": 13.740433,
+            "lng": 100.543235,
+            "description": "CIMB THAI",
+            "images": [
+                {
+                    "id": "d6503e0b954c3a80b8bc6fd5eca2c95a.17",
+                    "url": "https://lh3.googleusercontent.com/4Hxb9aD3UOBeVkHtb2ecBSsq429_KE_j8C1GxHLs76z3_DaNAss42J_iA9iY1-KJCq-yaR4CK2VMsUTtHsNic5cCHHM"
+                },
+                {
+                    "id": "011e016d746330408656fa4a6212b423.17",
+                    "url": "https://lh3.googleusercontent.com/rjPEXUYNwx3kdJPmvLRe6iyyRwiXZzof5wkwNKb9goT3ZaK3E8jrXxATMR9JQj3Enw1tBf-vxWAfDBE9rKK04rRZSw"
+                },
+                {
+                    "id": "a3a0fc3fa7f6314497bcead40c31fbae.17",
+                    "url": "https://lh3.googleusercontent.com/4fzxTdNXHtknn-wSNpFei_qnujCib23FDQk0QSu6OHT6BRYmGQERFg2v5_fAfZ_aCRuYaNHCNcwntLt7C-gSbih16ZYeBFOFTu8jers"
+                }
+            ],
+            "address": "44 ถนน หลังสวน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1653537147479"
+        },
+        {
+            "id": "99cd01db13ef4fe194d7fdcede043aaa.16",
+            "hashedId": "89ea18803fb0ea5faa8c7722d5f1b54c031fe763",
+            "title": "Twin Elephant at Ratchadamri BTS Station",
+            "state": "LIVE",
+            "lat": 13.739628,
+            "lng": 100.539666,
+            "lastUpdateTimestampMs": "1501109366284",
+            "images": [
+                {
+                    "id": "0eabcd91efad4209b30e83c11fb1d733.17",
+                    "url": "https://lh3.googleusercontent.com/grraeXBQ4Gutl9Cq3TeUByccDPKDM47-13x7Cn32O5jpTrWi1-rlL6IdQPDIa571adeGHraU1A-tZ6owyacTomrxwVk"
+                },
+                {
+                    "id": "8580a3be7da348e5b0c1cda82c01c6e0.17",
+                    "url": "https://lh3.googleusercontent.com/G7-Ru3NEANEevLPH07cqQzVvg8nalaKZVSGEfBxvVQH7lMcAWflwYSe0xKBT2GYLZV4QlJ-H2IjpQ6SvD5ncpEnT3Q"
+                },
+                {
+                    "id": "ea190d671d894747ab8e4cb3d74abc20.17",
+                    "url": "https://lh3.googleusercontent.com/iayeZlC2z301S-SBpDxuHJOZli6Rmik-GM3jEUSHiQJNnJ5t6woVkD66WHBF2ZRo8nt9rdjMS_B2NBSKykZY_Ga46AE"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.299
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.154
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.299
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.208
+                },
+                {
+                    "id": "cbcfc17096091ada43f4930540a201b8",
+                    "name": "Dam"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660134139427"
+        },
+        {
+            "id": "a7afe70fede63d51a06e1230cc6771f8.16",
+            "hashedId": "b4c7195bb0a973fecb3b157117ec237839087fa6",
+            "title": "CIMB Pyramid Shrine",
+            "state": "LIVE",
+            "lat": 13.740615,
+            "lng": 100.543173,
+            "description": "Pyramid Shrine ศาลพระพรหม รูปทรงพีระมิด เป็นสิ่งศักดิ์สิทธิ์ที่ชาวไทยให้ความเคารพนับถือมาแต่ โบราณ",
+            "images": [
+                {
+                    "id": "2057cf66731f39588bc66a8bc7f78932.17",
+                    "url": "https://lh3.googleusercontent.com/2hF6oks4aIzdm-7fKizmOjYl4UW5QkM4ae4d9_33hC9fvLiTyAxwhWThdcTsPEcRoEnL8rsD4Dtwjweao0maZaIkLQY"
+                }
+            ],
+            "address": "49/23 ถนน หลังสวน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 91.77803,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch"
+                },
+                {
+                    "id": "684d870519d6d2182ece697b680e5c22",
+                    "name": "Pyramid"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1636973111383"
+        },
+        {
+            "id": "b125eb1e1800414f8ce4f1a45b50c207.16",
+            "hashedId": "60c1af43cd1bdac06e386c44175b625aecb6e251",
+            "title": "UHM Shrine",
+            "state": "LIVE",
+            "lat": 13.734629,
+            "lng": 100.53882999999999,
+            "lastUpdateTimestampMs": "1574757509284",
+            "images": [
+                {
+                    "id": "d7cdeadf3c6540fa940f7cb6e9bcb52c.17",
+                    "url": "https://lh3.googleusercontent.com/qKGCBLbq4da6TDwksKMZKkiX8hvkeU6tTgaCIcRow4YYI813n55Nx_K1HmvKDbEErptWahXO65RQfUkf1mcJrGjQog"
+                }
+            ],
+            "address": "187/1 Thanon Ratchadamri, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.296
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.296
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.107
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.219
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "bb2e3611e9e03c26961ab9c092bd823c.16",
+            "hashedId": "8edb400ce41afe950f0e1a9e923d12860513102f",
+            "title": "AUA Language Center",
+            "state": "LIVE",
+            "lat": 13.736664,
+            "lng": 100.53917899999999,
+            "description": "สถานสอนภาษาสร้างขึ้นปี พ.ศ.2495 โดยสมาคมนักเรีนนเก่าสหรัฐอเมริกา ในพระบรมราชูถัมภ์",
+            "images": [
+                {
+                    "id": "37b3040e7f4935cab60cb1c8235f0dcd.17",
+                    "url": "https://lh3.googleusercontent.com/fqOQk--56YEN7g8bCGLCcip-r9ynSUVyCIUuKgr_0AMbb8KuBOijE75snjn63NiovPUciK6ZI1vY9rfs_8lGSqMDSxKqJdPRs8nMp-Of"
+                }
+            ],
+            "address": "179 Ratchadamri Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "84e574daec6b8d56073510921571bbcb",
+                "name": "Community Center"
+            },
+            "qualityScore": 86.82498,
+            "categories": [
+                {
+                    "id": "84e574daec6b8d56073510921571bbcb",
+                    "name": "Community Center"
+                },
+                {
+                    "id": "c1886d9a9ff19054e0b047c4501b979b",
+                    "name": "Business Campus"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1693300675256"
+        },
+        {
+            "id": "c2f89aad0d7736569a47f364000b1ff8.16",
+            "hashedId": "f4b969dfe6dfbac266dc3c439ddd21ee7f677f0a",
+            "title": "Sala Rossa : One of the finest Italian resturant in Bangkok",
+            "state": "LIVE",
+            "lat": 13.739650999999999,
+            "lng": 100.540555,
+            "description": "Sala Rossa is one of the finest Italian resturants in Bangkok. The pizza here is the best pizza ever. Sala Rossa is located at the Grand Regent, a resident building in Soi Mahardlekluang 2. The area is safe and people walked pass through out day and night.",
+            "images": [
+                {
+                    "id": "1a5d0b7f596c36209199d8e2c0c8101e.17",
+                    "url": "https://lh3.googleusercontent.com/W6JFccQFRmCjAmjE8bgQR4x_DymvVnm22g5tg56vqjd6Plq8MpVQs2C-ygw5yvuZq1ilT0QkQFvWplN_28cVxn-ZBEAc"
+                }
+            ],
+            "address": "2-2/338 Ratchadamri Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1652852598705"
+        },
+        {
+            "id": "c33988cf54314781abb86ee21c3cd949.16",
+            "hashedId": "7e6776f902ce6675f694a570a8aff3e7b4b72b5a",
+            "title": "Spirit House at Medical Student Dormitory",
+            "state": "RETIRED",
+            "lat": 13.735121,
+            "lng": 100.536974,
+            "lastUpdateTimestampMs": "1501109880520",
+            "images": [
+                {
+                    "id": "d96fa4079a7f48f287ec5e4d10d5d851.17",
+                    "url": "https://lh3.googleusercontent.com/k5vAg7HYioPpiCv67YZ47BR3d2SOQCriHg9lhhG0pjswnZ5vdtzvyWfAatM4zTLQlfDfcZQS9JEZPgTq5RzmYpDVU2Y"
+                }
+            ],
+            "address": "1873 Ratchadamri, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c401735cf33d46e69833e246da95223d.16",
+            "hashedId": "10b1449041086dc6fdcbf6588a85cac9dfe7247f",
+            "title": "The Royal Bangkok Sports Club",
+            "state": "GAME_REJECTED",
+            "lat": 13.738351999999999,
+            "lng": 100.534899,
+            "images": [
+                {
+                    "id": "5faf6d782901445ea31b4b582f880e13.17",
+                    "url": "https://lh3.googleusercontent.com/Urc6f6LdYz1Mw9yk3ArA3-gn1wLnbjn-B3hQmAZ4tfryKVZoYvJ3gshblupDvMDP-qCimmrHsVC1A3uvZxMCjtNKSg"
+                }
+            ],
+            "address": "1 อังรีดูนังต์ Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c5445cf725334408b116a8d380d87bf8.16",
+            "hashedId": "4ff182ba9c1aab1a81d6aed91c09539b77005805",
+            "title": "Buddha PatimaRattanaSantiSuk",
+            "state": "LIVE",
+            "lat": 13.743063999999999,
+            "lng": 100.539698,
+            "lastUpdateTimestampMs": "1501109724387",
+            "images": [
+                {
+                    "id": "d9a12421d0bc4874801615d2f7fdedbc.17",
+                    "url": "https://lh3.googleusercontent.com/LUQ3NDYtWWAsGzgvPbPyWrv6Vkm4naSGBQcIa9yfRByhjrTCHm5UVo7O73ZkEEcTH-w8_DYcioG-HVm7cV1rGba7w-E"
+                },
+                {
+                    "id": "7ed19307e9994e998aeb632c47a1648e.17",
+                    "url": "https://lh3.googleusercontent.com/d1a1oMoUrvTHZ3SX-jpOOX5UoNJq4ou5K3D8au_tA0TV0wtPOknWb3OdrOXYnw24HWFQk-MN7spMDXQJCVHhqof1wqQ"
+                },
+                {
+                    "id": "3abe58fc92e64c2c9f0a7eb05ebedde6.17",
+                    "url": "https://lh3.googleusercontent.com/D9T_VVFNpkKxVDt5LXxb6IunRfpiMaHBvXtWrxkeTu_TdJ0VPx00jaP8Dn1uplfGCwDMfCnMH8N65gYXVjJHiv6CAQ"
+                }
+            ],
+            "address": "492/1 พระรามที่ 1 Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.263
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.15
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.263
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.148
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c9e030b8022b4a1189cf333dceb1c245.16",
+            "hashedId": "bac13a6341af1ea354e50d1f1591beaf965047fd",
+            "title": "Fountains at JETRO Bangkok",
+            "state": "GAME_REJECTED",
+            "lat": 13.739533,
+            "lng": 100.53968499999999,
+            "lastUpdateTimestampMs": "1501110048594",
+            "images": [
+                {
+                    "id": "628dcd85202d4480bd901150a4961738.17",
+                    "url": "https://lh3.googleusercontent.com/9UqmAyVzcD_foni33LqMzxvwLrU6DrabxCagZsoO4hb30YFj1nYkf3x1wtxXWZbHOnktTCFOnjaQ1My0JMIr5JA7LlW_"
+                }
+            ],
+            "address": "BTS.ราชดำริ Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ccca323845073596b042ca2c077559a5.16",
+            "hashedId": "21a56b97fede9c2079c5e4d1f91d5b89ba415390",
+            "title": "สนามบาสเก็ตบอล MDCU",
+            "state": "LIVE",
+            "lat": 13.73514,
+            "lng": 100.53692799999999,
+            "description": "สนามบาสเก็ตบอล คณะแพทยศาสตร์ จุฬา",
+            "images": [
+                {
+                    "id": "b9289fc1ae5e3a9f8df5964c08b46f05.17",
+                    "url": "https://lh3.googleusercontent.com/dZ1OLDWNdQO8ZBXuRawaowTQPgWQMlkh2WlcT8OygzZfMUTlfYcWU0ABSezYMQFCmEEg7hx-glu3xMO2vpHYSqfRISLW-QNbb4RylRMI"
+                }
+            ],
+            "address": "1873 Ratchadamri Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "d6c0e675e07d7dad0e401c06c5e97f34",
+                "name": "Basketball Stadium"
+            },
+            "qualityScore": 83.562096,
+            "categories": [
+                {
+                    "id": "d6c0e675e07d7dad0e401c06c5e97f34",
+                    "name": "Basketball Stadium"
+                },
+                {
+                    "id": "e6dec091dd91ca8527bab87102b76206",
+                    "name": "Basketball Court"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1677804251169"
+        },
+        {
+            "id": "cf69a02ed9dd48b182c9f93cf2bf7243.16",
+            "hashedId": "88942a4cbbb8adb57e5ad2324a865e03a0bf95b0",
+            "title": "House Temple",
+            "state": "LIVE",
+            "lat": 13.735002999999999,
+            "lng": 100.53894299999999,
+            "lastUpdateTimestampMs": "1574769569010",
+            "description": "Shrine at Baan Ratchadamri",
+            "images": [
+                {
+                    "id": "d38178b858c54f42856f0ec4dcc80c74.17",
+                    "url": "https://lh3.googleusercontent.com/2CK0bHI8EZTtlCW-ay9mD-C2XuxlxQ-Yx6UX8zLzMuvVBos11rGHmVepsRkbtxy0BBgdmgGP594wGJhtB_H46WlxpQ"
+                },
+                {
+                    "id": "320c9513e4f146afb5eef8375e8bcfd6.17",
+                    "url": "https://lh3.googleusercontent.com/5o3few6Qy641KLzgRQvdOs0_tZb9RAU3UCzv6OzJkRCYMgDkYaq5znk60j8xv0aYCYaEcDYdQ4t_xnnkI7j4R_L3k_M"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.962
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.227
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.135
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.962
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d4a881f299164e7d9fb533c092c98c89.16",
+            "hashedId": "035d8baed03db01ce071275ce67f2a91d1b58640",
+            "title": "รูปปั้นช้างคู่",
+            "state": "LIVE",
+            "lat": 13.742922,
+            "lng": 100.54016,
+            "lastUpdateTimestampMs": "1501109968981",
+            "description": "ตั้งอยุ่เกาะกลางถนน",
+            "images": [
+                {
+                    "id": "5e48495a735c4a6380b526736dbf1e03.17",
+                    "url": "https://lh3.googleusercontent.com/RdmVJzoULVSRIktV6yaS9Rtczi1oo51vFbsH3_6rrhCmj53wGduSIRdDVWYY0ss-2P0unMhRUMLY-DqqN9uFxCVrfg"
+                },
+                {
+                    "id": "82297da604ae47858c66f7b0951678f9.17",
+                    "url": "https://lh3.googleusercontent.com/YQEJn5rWYpqeElJ0wKflFa9KHrjntuIkwlJw4_p1zeEM6iZ2Rb8dd-huHmNP9nIr2ytHLvE3Lk_yBeYV56tKKMqcuWcd"
+                },
+                {
+                    "id": "abc66359a45f475a8b7c192512a5eb59.17",
+                    "url": "https://lh3.googleusercontent.com/xj7AWcAzVuKRasZMZYKLGts-JAcmbO_LJFAjunkz592y1m102Z-YWwpjzwASPyKOJ1Aj_RYlJ8kHhmh662x7zyhRgw"
+                },
+                {
+                    "id": "b513beaaa0ea479eb181c762d406c950.17",
+                    "url": "https://lh3.googleusercontent.com/v0FTV60FhRFbLwYBfK0x6piG5R67Qy7ysHhdCTrb-9A7voSaHaqoZ4FM0bWYDGQmv8Q7n-tKinofLg0drnJMzVHOxM4"
+                },
+                {
+                    "id": "2cb83077929d4fb3b6bd3f2d3d5d6ef8.17",
+                    "url": "https://lh3.googleusercontent.com/z7Pd5Kh_JBjbxcbyrZB28upyLKqziuqyDU-VZtbFp5jONKGq5jJDyn4dHhYxY2ZbmB5DvYaF7P9o5-QLBgSYgda9ojQ"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.894
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.428
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.894
+                },
+                {
+                    "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                    "name": "Road",
+                    "score": 0.189
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d592151c42aa411cbe0d5d8ead0800e6.16",
+            "hashedId": "8d99899b9a108106f5c2ef1fbefbebba7ebe0aa1",
+            "title": "Four Season Symbolize",
+            "state": "LIVE",
+            "lat": 13.740898999999999,
+            "lng": 100.539846,
+            "lastUpdateTimestampMs": "1501109304951",
+            "description": "Anantara Hotel Siam Main Entrance Bell",
+            "images": [
+                {
+                    "id": "dd0182c68ba34ea7be70f1dbbfbf0df3.17",
+                    "url": "https://lh3.googleusercontent.com/mea_XVZuYpAao4tgzgNL3xsBDKM33_NnotiDULLxIN_Whbq5TVYqqxXkzg7LffuaB0kYHpyCa1GjrKp8_14dEmF1Jqo"
+                },
+                {
+                    "id": "5faced277778407ba6e89ef38a7ff8f5.17",
+                    "url": "https://lh3.googleusercontent.com/fhPYoFvY_BPTbwsWI9_a_lCtfRxALvvX4rDed4g4iSL5kcL2cjpIFg8E4JdGBAS8lW44LI_UGThzoib6MjZNlCV6MIs"
+                },
+                {
+                    "id": "d74ee899aaea4fb5b42ae021e79fde63.17",
+                    "url": "https://lh3.googleusercontent.com/y9-dc-zbJR9o4h_C0p-wgUVOi_6M2tTdYRh_GpBitSAO4dWksHA6drPUtOp7rRKvP2PTxs7daXR7DN-4xofuseXjcpY"
+                },
+                {
+                    "id": "6a28c0024b6941f599d5b92107310169.17",
+                    "url": "https://lh3.googleusercontent.com/yc5j2V8cXr3NqZcVxHfJe0MSJlIAB7CD8uEv1zXDYuNeYd7k-rEbSPcfV8yqmyutsKjsUFfbOtgtJj8usfGSxPeRNeY"
+                }
+            ],
+            "address": "159 Thanon Ratchadamri, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel",
+                "score": 0.464
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel",
+                    "score": 0.464
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.197
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.132
+                },
+                {
+                    "id": "dd0bfa07dfc4ac59c2deae67eb67ef25",
+                    "name": "Sea"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d84600eadad7457ebd8c07fbf140934f.16",
+            "hashedId": "9cf8461e831cd0bf0f712088ddcb5c9801b99981",
+            "title": "Magnolias Sign Board",
+            "state": "LIVE",
+            "lat": 13.742712,
+            "lng": 100.540065,
+            "lastUpdateTimestampMs": "1580989960644",
+            "images": [
+                {
+                    "id": "cf126b50bcfa485bb2d0b196674ab7e8.17",
+                    "url": "https://lh3.googleusercontent.com/mtMlRoCrme1sLK2GQQAVhh05xvXBcfuW3c07SmcPpOgAyLea6bbKYW8_v_nQ69ch93VEByigaQqGiN-5sZxModrpmfM"
+                },
+                {
+                    "id": "3f783c5591814526a7fe8d886212ad7c.17",
+                    "url": "https://lh3.googleusercontent.com/9g4RW5Hal8XbC4RTh_F6tfp1RSye48H9-RO9Snp4o1sVPA2acHDHwZ3rTaq7Z-Adwr8NY2EGFiL19z19804HSAHxw4o"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "ce64859076051dec2b34827e1b0bd37f",
+                "name": "Informational Sign",
+                "score": 0.353
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.184
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.257
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.353
+                },
+                {
+                    "id": "d129e72664470c55acaea6ae18983a3a",
+                    "name": "Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "dcc5f53a9b364254a84de3f82ca6908e.16",
+            "hashedId": "a8f214d5fa7cdbf27a3036f217ef92332456eb23",
+            "title": "ซ.2",
+            "state": "RETIRED",
+            "lat": 13.738325,
+            "lng": 100.543122,
+            "lastUpdateTimestampMs": "1639373937682",
+            "images": [
+                {
+                    "id": "3ca5d993ac2f4dcba0600ef98eccc932.17",
+                    "url": "https://lh3.googleusercontent.com/2YCeYNQ7CDOLbZBl-iFHtTnEdAgS5LUmIU3X_zHwmWQGJnyFALxWPQNlrSllF4HXO7dEqUSWj1dp_zdv089Syg6Lnpw"
+                }
+            ],
+            "address": "Lang Suan 2 Alley, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.238
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.238
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.148
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.127
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "dd8ab333c3d84356b8afa7cd4e360896.16",
+            "hashedId": "781625f7dc5593f0dbb1da8ac577255009c520ff",
+            "title": "Golddenland",
+            "state": "LIVE",
+            "lat": 13.741112,
+            "lng": 100.542273,
+            "lastUpdateTimestampMs": "1501109545947",
+            "description": "Mahardlekluang1 BKK",
+            "images": [
+                {
+                    "id": "0834f760c70f45078ae233c1be0a8f42.17",
+                    "url": "https://lh3.googleusercontent.com/LsLb4yV4entykemY4zS0yfppSa2vL0G6OVevjfvmPLL9Y9JB-8zDOpXWQ6r7lABHdTHwMyD3RDGAZkWgd_Dg6618COo"
+                },
+                {
+                    "id": "f12b1617c9d73481805234be26b192bf.17",
+                    "url": "https://lh3.googleusercontent.com/zSAI8MN6nuHVV0TMjNtQ4WPbKDqBoylhRVRR9tylm29FojgODVJRIgYeKjoJzlVIkE9z19PJg4eXaKUsksaOMHGVzr9spf-ewr8imS8"
+                }
+            ],
+            "address": "153 Soi Mahatlek Luang 1, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.272
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.272
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.117
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.094
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e0989211a3dc493799ef7dd6344d9a90.16",
+            "hashedId": "4a2519bdb26fb094eb2d695663a181ed6604d4ce",
+            "title": "King Board",
+            "state": "LIVE",
+            "lat": 13.738208,
+            "lng": 100.534891,
+            "lastUpdateTimestampMs": "1501109659103",
+            "images": [
+                {
+                    "id": "0f29165d8aa14327ae3491e27016fdb8.17",
+                    "url": "https://lh3.googleusercontent.com/RHJ4-d4FMfiYtyehWbmjlH5jx-ERTGxfcj-K2P5Nqmuv-g-e2FgDFzjXoD4eedal4biTwoIWh7E_AncSLP8Dn1Tbzps"
+                },
+                {
+                    "id": "fb3846744e0a4c43aa5de5e146752d95.17",
+                    "url": "https://lh3.googleusercontent.com/h6A8LuPqgT1MnkfQrzwc4PS_v0wJZjryIhH7QyacHQXuNAGV_QNqlhMrr5kyKMCkjgc4e7G4OZh4hqMUe7g7yhbuWEk"
+                }
+            ],
+            "address": "1 อังรีดูนังต์ Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.225
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.225
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.189
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.193
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e182f30267d64d548179b26590bf57ed.16",
+            "hashedId": "0e267b2e0f2475a967f19ef3e84738038c86ef51",
+            "title": "Elephant",
+            "state": "GAME_REJECTED",
+            "lat": 13.742916,
+            "lng": 100.54000699999999,
+            "images": [
+                {
+                    "id": "9377594dc94941f7a444e7e2f11ffbbe.17",
+                    "url": "https://lh3.googleusercontent.com/OsdR3XzTHa3u0m3MQJrFJzRrR3_mxr_QwMZ2QvWy1Ys8YJSSwbfFP8FsHLBz_W4qORuYV2pxUC2SeCZSw1lhMK6xwf8"
+                }
+            ],
+            "address": "Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e4dce5e83ebe45adafb2c6d4807bc716.16",
+            "hashedId": "8610247c9282c1e499c22cbfca93a22d12f9bc72",
+            "title": "Spirit of San Siri House",
+            "state": "LIVE",
+            "lat": 13.739975,
+            "lng": 100.542135,
+            "lastUpdateTimestampMs": "1501109336123",
+            "images": [
+                {
+                    "id": "204c1dc3778d4368aefb52d22f5b17ce.17",
+                    "url": "https://lh3.googleusercontent.com/tv-c5WhsWLYOFCYdXQ01fGPp6HnjHrYMRe_m0Fq2JbVn2ocT3DAgEyvqrFv-qLQKIojR5ZnCgd_MmkVHD7s9QLTZjw"
+                },
+                {
+                    "id": "c321bf9843294c32af31f8027f4961c2.17",
+                    "url": "https://lh3.googleusercontent.com/qLhKCbksW2plbHURzq16Uu1OprNrUPPw4uPm-F7eaZ-PAlivWc8ZAk27zwJkWGyPTfuhmSBq4uGokud-W0_GhU2YPEY"
+                }
+            ],
+            "address": "Soi Mahatlek Luang 1, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.249
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.157
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.16
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.249
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ea96a7b13b8d49b29bac3a27a9dfba8e.16",
+            "hashedId": "4b23799aeedb6bed6871056873da63524f23c843",
+            "title": "Regent House Shrine",
+            "state": "LIVE",
+            "lat": 13.736092,
+            "lng": 100.539115,
+            "lastUpdateTimestampMs": "1608640738535",
+            "images": [
+                {
+                    "id": "2e62bbc6597b470c9689bb1deaaca892.17",
+                    "url": "https://lh3.googleusercontent.com/oGTxKDYWkaEr4OCTo6pGmUdbmyFlvDmpGY5IHoj5vSFtXPHwMzfRScTXTd53UIAJ01TeCRYmku0f8kDGOwHQtmeY7Oi-"
+                },
+                {
+                    "id": "b76eb7165a684955b2123ec029715207.17",
+                    "url": "https://lh3.googleusercontent.com/Qor6ZGQj1Qtfvo54tMdOkCDU8J65IfTjKOFOpvpre6L6MybFNfvXYEZd8K99PjXLS8kDD9iXgCIymzXdCqVaFMucxU0"
+                },
+                {
+                    "id": "cce76dec91b748b0895151fc7417ec3c.17",
+                    "url": "https://lh3.googleusercontent.com/-82pejJtsUlvwwKTsQ0pVf66kEwxPTpDlMPheTkGSRGba-aq8_jdQuId2ub_UFyh3bs9dLVXQrV_e73LK5y5SzjQd3v9"
+                },
+                {
+                    "id": "ee5457594963439881f3aa3f9371bb63.17",
+                    "url": "https://lh3.googleusercontent.com/kxPpjlYGpzZTS2_u6v9DXKbeYuS5y3tGt1eubejYjBrYbJ64m3SqtxJyAe5V5IIpwzXZgZhrxle3Q0ztSKSuCJW_EQ"
+                }
+            ],
+            "address": "241 Ratchadamri, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ef1d082b4c193a7c937a00fb49b50841.16",
+            "hashedId": "6f5794a0c896b3dd3c09c72097e3f500713d082a",
+            "title": "Hoppe Coffeehouse (ฮอปป์คอฟฟี่เฮาส์)",
+            "state": "LIVE",
+            "lat": 13.737352,
+            "lng": 100.542794,
+            "description": "Hoppe Coffeehouse - ฮอปป์คอฟฟี่เฮาส์ ร้านกาแฟย่านหลังสวน ที่คุณสามารถเพลิดเพลินกับรสชาติกาแฟของแต่ละประเทศในร้านเดียว เช่น ไทย จีน ตะวันตก และญี่ปุ่น",
+            "images": [
+                {
+                    "id": "704b18cb495637eb9f801a7177823d45.17",
+                    "url": "https://lh3.googleusercontent.com/69qhlipybF0xGz-kD6GKgQ3hTX9BcZbZyOiuxZ0HfGzya0I74ZH-aOsthWGp-5xpq1tJtzxOmj1FX0SN6rb5aIq-0SjBmIb9NLk2Hvk"
+                }
+            ],
+            "address": "26 Lang Suan Road Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "qualityScore": 86.99772,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1669165645011"
+        },
+        {
+            "id": "ef9e562dc1a1445e9d899dacc04aa5dd.16",
+            "hashedId": "34d6cee9a9853fdd9e842adcc346755abd5647cb",
+            "title": "Statue in Water",
+            "state": "LIVE",
+            "lat": 13.741126,
+            "lng": 100.540301,
+            "description": "Anantara Siam Bangkok Hotel\nFormerly the Four Seasons",
+            "images": [
+                {
+                    "id": "fc63a407d96b4411b94cf2d64e1c1f07.17",
+                    "url": "https://lh3.googleusercontent.com/svSon63WQVKIS-tKxaQ7UxmhNdJmjpIW7Bf263Htpr7o-GzlpJxid2gTwV5TI5dQxcpBsJfWM3JIUVW2muNuBmlD7w"
+                },
+                {
+                    "id": "5895748269f44a62a2c856e2ed3ecdf4.17",
+                    "url": "https://lh3.googleusercontent.com/5nGOZun2_VYRlewHkNTSsY2EVyUIZfN-APhiR1JLUd9YZKTiLY0kNoaHlA4ZJHqt1YB6OK6rUXe5yj7ASYmns8lMPQs"
+                },
+                {
+                    "id": "438d8388db054ae7878553f5f6b85489.17",
+                    "url": "https://lh3.googleusercontent.com/287w6ibkjwBidhB7uxDzYuFQoWG8hQpU0wp3Cp0VGbkKNsTjx_g2bFAArX4G1ZDf1G5gkimnEtX72rNjIFHOEEBUDW8"
+                },
+                {
+                    "id": "2bdf0ba854ba4a7db795e6ffa964983d.17",
+                    "url": "https://lh3.googleusercontent.com/SyE_NPCM014vgecHozBLtDzuSP8uCgylI3P2m4aqcx_9yW7z_mubeuS3HJ5jt99XrGE1Pzeu3YU0kOZmAHjIiVi9fg"
+                },
+                {
+                    "id": "1a5a75edc9c1407da37fcb88283e4be6.17",
+                    "url": "https://lh3.googleusercontent.com/71RrCsV9pNSyBN1dF29unuYnyAsF3TnUfVEVTx0Gy4V10jpHqF8y0W_7ALdzIuSFEQ6tY2AZoSy43M5snVdxUIG2Lg"
+                }
+            ],
+            "address": "153/2 Soi Mahatlek Luang 1, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue"
+            },
+            "categories": [
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f03e4c9301543807b664b90df2ce7bb8.16",
+            "hashedId": "f483011bb3bb32dd4784cf12a7d36312566123e5",
+            "title": "ป้ายโรงแรมคอร์ทยาร์ด (COURTYARD)",
+            "state": "LIVE",
+            "lat": 13.740718,
+            "lng": 100.54222999999999,
+            "description": "Courtyard by Marriott Bangkok (โรงแรมคอร์ทยาร์ด โดย แมริออท กรุงเทพฯ) ตั้งอยู่ใจกลางเมืองกรุงเทพ บนถนนราชดำริ ซึ่งใกล้ห้างสรรพสินค้าชั้นนำ อาทิ เซ็นทรัลเวิลด์ สยามพารากอน อมรินทร์พลาซ่า แพลตินัม และอื่นๆอีกมากมาย",
+            "images": [
+                {
+                    "id": "3b61677f0f17322e9ae84d8b62fa1e1c.17",
+                    "url": "https://lh3.googleusercontent.com/NK45_OL_WfLMKRI-oonweKGt0BTdhEUKqDFJ8QFR1OoQsfM47LxQTEVXepKFMMV7x5NK3ODE6y5hUpyAUl-LY0AF0YRN7ufqHkOYqIy8"
+                },
+                {
+                    "id": "b6ddf7ed6c353428be854f0f95082823.17",
+                    "url": "https://lh3.googleusercontent.com/dOz1lv0lf7uyd2w5_HSWpqGDcpRCJC4IaJK1IE6--1GhroJr-zDTHAacI4y0oxXB1DKBtjmpF_Z8c8YoiyhVKy6wLwL2ROgDOdrNqIKj"
+                }
+            ],
+            "address": "155/12 สารสิน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel"
+            },
+            "qualityScore": 95.695984,
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1675086523069"
+        },
+        {
+            "id": "f1fa4c0e4e6c45879da8ff8148536645.16",
+            "hashedId": "53b8b07fbad6bc1678ea0b9a0d02f4b64c5d9e62",
+            "title": "Duo Elephants at 4 Seasons",
+            "state": "LIVE",
+            "lat": 13.741508,
+            "lng": 100.540188,
+            "lastUpdateTimestampMs": "1501109544327",
+            "images": [
+                {
+                    "id": "9587ffb8524e47d8a0d5082d5eae88e2.17",
+                    "url": "https://lh3.googleusercontent.com/GgcCYooepD7YTnSSEyZUn3c-aP3jAf7sYRRI6cgw0GNibYDKyRl3jq1TJMI18gA5L1JsUqleSpkOIqhKIOd7k2VXaZI"
+                },
+                {
+                    "id": "75eda1b6f0c44e338f4e2be1e6310ca9.17",
+                    "url": "https://lh3.googleusercontent.com/8h_L9QOLsjYD-KpisJmI0LQpfLvFzFMXS438YM6puFtBwP3IVkYEGozavJCP6ohoWJ65XEXCJyT9iwKVCs6O_ADzag"
+                }
+            ],
+            "address": "Soi Mahatlek Luang 1, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.705
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.705
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.356
+                },
+                {
+                    "id": "dd0bfa07dfc4ac59c2deae67eb67ef25",
+                    "name": "Sea"
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.054
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f35e246a32a14bef8d36fff6aef7ecf5.16",
+            "hashedId": "13880ebd275b9c019992fef55251c4d402baaf48",
+            "title": "Log Waterfall",
+            "state": "LIVE",
+            "lat": 13.742925,
+            "lng": 100.539098,
+            "lastUpdateTimestampMs": "1574592463813",
+            "images": [
+                {
+                    "id": "c25dd12855654422a8b5ac8e4e3ffdfa.17",
+                    "url": "https://lh3.googleusercontent.com/uRNv0N2TxrxHtYp1HTuN518vadUDxAr1kVDrsBNaQwqLFgqnBpndBcvJHNx3i9m1GybF6DWjYXh_VQYBFLFeQmMOe91D"
+                }
+            ],
+            "address": "492/1 พระรามที่ 1 Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "679f6d7db0ea1baab169927ad223186c",
+                "name": "Waterfall",
+                "score": 0.32
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.197
+                },
+                {
+                    "id": "679f6d7db0ea1baab169927ad223186c",
+                    "name": "Waterfall",
+                    "score": 0.32
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.145
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f4ae39368b793f33a3c5d8ea89ba891c.16",
+            "hashedId": "eaf50552a286564e19f4ce25e31076e050a6e6d6",
+            "title": "Spirit House (Sindhorn Midtown Hotel)",
+            "state": "LIVE",
+            "lat": 13.740886999999999,
+            "lng": 100.54248,
+            "description": "ที่สิงสถิตของพระภูมิเจ้าที่ เพื่อปกปักรักษา ปกป้องดูแลบ้านเรือน เคหสถาน อาคาร สถานที่ต่างๆ รวมทั้งเรือกสวนไร่นา ตามความเชื่อของคนไทย",
+            "images": [
+                {
+                    "id": "624e9cc70716396380b3ee628f6ab216.17",
+                    "url": "https://lh3.googleusercontent.com/MvcgFAKohMhsycRmXkNiOQuB74V3biDPPHZSTY0QP2UVa8FR41UtovJIn1GLXy9IXSmHb7V3EH2c5SlUWJybeAl9GRFsjtuQtiuCLbo"
+                }
+            ],
+            "address": "155/12 สารสิน Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10330",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 93.20829,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1674865664005"
+        },
+        {
+            "id": "f54c432ef85f468680266601c507bab4.16",
+            "hashedId": "e4f242199d994a96a19046520196d7b82aaa7fcd",
+            "title": "สายไฟฟ้าบางกอกเคเบิ้ล",
+            "state": "GAME_REJECTED",
+            "lat": 13.734741,
+            "lng": 100.53890899999999,
+            "lastUpdateTimestampMs": "1501110003823",
+            "images": [
+                {
+                    "id": "cc26710760bb42dfb7031310cc5afb3a.17",
+                    "url": "https://lh3.googleusercontent.com/XtmBDTd51Rhnq-cTEQmqWE5uqTX_Cz5ivEz5var3Iw977Zfd3J65rM-usuGMwb6jX7tJHQbjtQ7Plp2IIUx8Kff28bs"
+                }
+            ],
+            "address": "สภากาชาดไทย แขวง ลุมพินี เขต ปทุมวัน กรุงเทพมหานคร 10330, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "กรุงเทพมหานคร",
+            "geoStateShort": "กรุงเทพมหานคร",
+            "city": "Bangkok",
+            "postalCode": "10330",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        }
+    ]
+}

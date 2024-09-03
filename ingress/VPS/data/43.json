@@ -1,0 +1,2237 @@
+{
+    "pois": [
+        {
+            "id": "00717e7fc2f14b689bd27c61681c6828.16",
+            "hashedId": "5c2e7593fcb35bd10502925775f67985738f9717",
+            "title": "พระพุทธ",
+            "state": "LIVE",
+            "lat": 13.81463,
+            "lng": 100.504718,
+            "lastUpdateTimestampMs": "1564597025067",
+            "images": [
+                {
+                    "id": "8b6dfe8cc933435ca03bf40d0b93e90b.17",
+                    "url": "https://lh3.googleusercontent.com/wPPkCwO3UQtvK8aWf6ZXlkvMeXg_XlbaQ7g6DsFBfM3GxfX6k2VIlkdBM4b4pg96IRpJQivmR6he_K8UBa14ZLHFZo6J"
+                }
+            ],
+            "address": "Soi Lum Phatthana 1, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.389
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.146
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.291
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.389
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "09e4286599f033ab80215879fded2822.16",
+            "hashedId": "dc6cbea7c59b26b22da6dae9e68d4155162b7ec3",
+            "title": "Spirit Shrine bang Kruai",
+            "state": "LIVE",
+            "lat": 13.810044,
+            "lng": 100.509738,
+            "lastUpdateTimestampMs": "1626182458242",
+            "images": [
+                {
+                    "id": "0b3c72b2acfc37408bfd416bf36ed3a9.17",
+                    "url": "https://lh3.googleusercontent.com/dGWHQw4CvMcXTIJHdI4FnEQIQXZJkykghIMrMZQ_vdY8JFqbb7UGJ1vucU2aoqH01XH0xOYJoqt63QLzLFJRdw"
+                }
+            ],
+            "address": "38-39 Charan Sanitwong Rd, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.332
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.309
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.224
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.332
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1625644563965"
+        },
+        {
+            "id": "0cb58cf5fd9c4c5094f5aea20508bf3b.16",
+            "hashedId": "9434845e1429f686dea64096c438d15fd07fc4f4",
+            "title": "ศาลพระภูมิ",
+            "state": "LIVE",
+            "lat": 13.811003999999999,
+            "lng": 100.50455099999999,
+            "description": "ท่านปู่สันทนะและเจ้าแม่โสภิตา",
+            "images": [
+                {
+                    "id": "a321b0ae03ff42b68ebd678e74e68dc5.17",
+                    "url": "https://lh3.googleusercontent.com/bolCJ_kur8oNBa5U9c9mp0DtH8IuHPR-NG5Em8HCwNAUdE6kmbCuuOzGhpL0C9nx9PG34ou7co0zVtqZgXHdJcQZxFNi"
+                },
+                {
+                    "id": "ae35080708c33709b41a7d2c909ebddf.17",
+                    "url": "https://lh4.ggpht.com/x4E9qYiCYmB0lsHA42krv6vezG_gnvcFYdfF9PA81nb0lRlwBrXWD4htU9OI_i67rNv_kc9rG-vKfz1NVW1e"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1110671a28364675816b01b88e6d9cc0.16",
+            "hashedId": "5cdbee523662cba7e3a34cadb131ce5e1fbdf15b",
+            "title": "EGAT BBL Krut",
+            "state": "LIVE",
+            "lat": 13.809885999999999,
+            "lng": 100.509575,
+            "images": [
+                {
+                    "id": "c4c8bd032f2b43af92a0b3bad5aa7eca.17",
+                    "url": "https://lh3.googleusercontent.com/6l3m_NODCBKBi9OOLrSK9xQ-IT_AcMZaPIIN2oMo0yPFFCaDAkrjL311IGbNAYtyIjNnPQFv1XVe6bLBRGuwcdjZIA"
+                }
+            ],
+            "address": "Charan Sanitwong Road, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1697b337f1c04d58b2ad55ef7064296d.16",
+            "hashedId": "cd2c8181c16eb4250e689f3be4fef94d20c7a28b",
+            "title": "Shrine",
+            "state": "LIVE",
+            "lat": 13.81153,
+            "lng": 100.503643,
+            "lastUpdateTimestampMs": "1501109701335",
+            "images": [
+                {
+                    "id": "4cca6d9433d047788e32e86d915c645b.17",
+                    "url": "https://lh3.googleusercontent.com/_VLKbhkhQvf_mIBh2o-2bVx8sLENhAil_ZBBUX7BG-IrKBAx0T_y0mePguFwMs09G-6wJiwyAj3RCwWoDipEshHAhCeT"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.687
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.687
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.177
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.126
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "17efd610d4de3a93a764dd525f73556f.16",
+            "hashedId": "efd45adfb7c64786074132ba9b35ac7dca7c80fa",
+            "title": "ป้ายสวนน้ำพระทัย",
+            "state": "LIVE",
+            "lat": 13.813597,
+            "lng": 100.504851,
+            "description": "ป้ายสวนน้ำพระทัย กฟผ.",
+            "images": [
+                {
+                    "id": "6c74c7d16d193cf0884d02e1ab580e91.17",
+                    "url": "https://lh3.googleusercontent.com/HKODET0eHIqNk54B8TkUbuce3gUZrHBHB_WAiv9zLx2spflPeHDUg4ludQqHb6Yc4fHUAqJE24ysvppoPc-u"
+                }
+            ],
+            "address": "Unnamed Road, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1637745778174"
+        },
+        {
+            "id": "251b6e01b4013a2ebcb413bd89d611e9.16",
+            "hashedId": "b976c5e9404301ff017d0f79ed105d8fb0f276c1",
+            "title": "ต้นยางนา",
+            "state": "LIVE",
+            "lat": 13.81165,
+            "lng": 100.506889,
+            "images": [
+                {
+                    "id": "a4bd3377e65f3e27bf3b1ba3905ddc23.17",
+                    "url": "https://lh3.googleusercontent.com/5Ov-kbIz5HF_pp6hfs5fyHLnBZrGVqw6ASiIC4-a4PSTfIp0x7uAR5oRaUHIAYupzYSzpWqShyeXRU8X-Tfx"
+                }
+            ],
+            "address": "Unnamed Road, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture"
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1632990005723"
+        },
+        {
+            "id": "26513dfa5d6b45afa7b05013ed86e2f3.16",
+            "hashedId": "dfd6053959ba36fe498f914ab1088e03d684e0c1",
+            "title": "รูปปั้นเทวดา",
+            "state": "LIVE",
+            "lat": 13.814055,
+            "lng": 100.504522,
+            "lastUpdateTimestampMs": "1565066226258",
+            "description": "Shrine",
+            "images": [
+                {
+                    "id": "e1d6936bffba4109a9a5459caf2f61d0.17",
+                    "url": "https://lh3.googleusercontent.com/qzI8Ba82bx9iXE3Oa2MRfeA5ms0obCy4SmeXpBBK7P7C4LwiXcfqZNOIiJY931tI2-YcL2OWHeYl8jOqZ-7MmTWgKFU"
+                }
+            ],
+            "address": "Soi Lum Phatthana 1, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.909
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.318
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.543
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.909
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2b200f68febe328bb0c44c2219373c16.16",
+            "hashedId": "472da3b1afc70094a5fb510da13268dd1443afd5",
+            "title": "ระหัดดนตรี คีตราชัน",
+            "state": "LIVE",
+            "lat": 13.813882,
+            "lng": 100.504921,
+            "description": "ระหัดดนตรี คีตราชัน กฟผ.",
+            "images": [
+                {
+                    "id": "4f5eb0f1d776356bbab672a4cceb7265.17",
+                    "url": "https://lh3.googleusercontent.com/VICS4IVIEiINpynJWI7kh6w7zh0s89DB_C0jvHJnf6TixrDTUaWa20hW1vsksqCSVK4tmeTr-n_Pzwn8VPhg"
+                }
+            ],
+            "address": "ลานจอด เฮลิคอปเตอร์ การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture"
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638183504546"
+        },
+        {
+            "id": "2bb37df87821424d8241e207ca0fcf0b.16",
+            "hashedId": "8e55c2591251bd18db6b40ef8bfd126a0f338868",
+            "title": "ศาลชุมชนบางกรวย",
+            "state": "LIVE",
+            "lat": 13.809804999999999,
+            "lng": 100.508721,
+            "lastUpdateTimestampMs": "1501109607319",
+            "images": [
+                {
+                    "id": "ac01a8943e8546428566de569a727467.17",
+                    "url": "https://lh3.googleusercontent.com/VvXSu-JAS9Bo_S_7zFSwC9eKkeTu99C9IRL_g40DiW2cYIJUd0cD7ynQt94c_dldLOaDsTlHVdnHxy9Sc5s4dlh-OOxi"
+                }
+            ],
+            "address": "Charan Sanitwong Road, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.158
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.158
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.127
+                },
+                {
+                    "id": "84e574daec6b8d56073510921571bbcb",
+                    "name": "Community Center",
+                    "score": 0.155
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3072911cd45c4bab9ce2984923738a98.16",
+            "hashedId": "5b633a12337e6150e8571df55b0d26c134ca3ecf",
+            "title": "ช้างประชาสัมพันธ์",
+            "state": "LIVE",
+            "lat": 13.812009,
+            "lng": 100.506367,
+            "lastUpdateTimestampMs": "1501109670906",
+            "images": [
+                {
+                    "id": "59ff11194c7c49588509fd067c51e5b7.17",
+                    "url": "https://lh3.googleusercontent.com/3bEZrIcj_bO5nfnPf8-r6RYbTkKweuk1o0p6MunLb0YUopossWXWiI1ALEa8WsHiRHY-KqvtDV5wQ7kqfgHmgweVNFs"
+                },
+                {
+                    "id": "b9393441cc59448587286dda5b7a8cae.17",
+                    "url": "https://lh4.ggpht.com/seaEiULO1Ybceqq7ykSppD1WHdTryxhH9tRCV0qoHAKkej5ZsYtVBz6fzJ_-BNhfR0wvLEGkKBWPV5Jc8K1Xvg"
+                },
+                {
+                    "id": "de1a73f23eec4a2ea4bf8842d180f78a.17",
+                    "url": "https://lh3.googleusercontent.com/N7gnOja17TzEs4Wp7ukpvoVhC34Kcpr8lFN9FESRLuXB7i4npxLDa5qjNajN1qXOdEV7VoMnh9iG6vkwBGvVD8yLNEB4"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.469
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.469
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.251
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.103
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3260009cf99647a98cbd916af8c267c7.16",
+            "hashedId": "2604fe61bbc3fdcd26ba0bc24d5e3c1c3710a87b",
+            "title": "ระหัดดนตรี คีตราชัน",
+            "state": "GAME_REJECTED",
+            "lat": 13.811485,
+            "lng": 100.506613,
+            "lastUpdateTimestampMs": "1501110197737",
+            "images": [
+                {
+                    "id": "d74099ae238e427a8f8bc38d52df8e52.17",
+                    "url": "https://lh3.googleusercontent.com/2MHkcdE01Euea2z6QIyf_FXfqBLV97IjKX4AtzXq22JhVdl1aYjmcrhBct7lciny5xhWfTNSD8K9ehVtK6q6PDXsgGs"
+                }
+            ],
+            "address": "Soi Puemtongkum, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "345b69f5d27e4238a5b2aff5d2307ea8.16",
+            "hashedId": "b27590b492c4e81e693c886127ee49d876d2be24",
+            "title": "ถ่านหินแมน",
+            "state": "LIVE",
+            "lat": 13.810281999999999,
+            "lng": 100.506225,
+            "lastUpdateTimestampMs": "1501109696813",
+            "images": [
+                {
+                    "id": "4415a84dd9d5467eb15899192e920e83.17",
+                    "url": "https://lh3.googleusercontent.com/8CzeU4k1yPWGNTd8FXhGUYbf7ZLUUb2TDezOo4eZX7XZrbbU95xNqh_U1cyAR5uinXj5O6_JIiW0H8ywiQEGpnKptx8"
+                }
+            ],
+            "address": "Soi Puemtongkum, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.459
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.145
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.459
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.122
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "375c4a86255843c99b89b38b1da4234d.16",
+            "hashedId": "8a290324b430832b60fddbbec2904180035acc89",
+            "title": "EGAT Entrance Shrine",
+            "state": "LIVE",
+            "lat": 13.809502,
+            "lng": 100.509254,
+            "lastUpdateTimestampMs": "1501109415500",
+            "images": [
+                {
+                    "id": "36e7c0fbf09c4f7c9a55208962c47699.17",
+                    "url": "https://lh3.googleusercontent.com/4i-T-h2LwAJnIV96rrGqjfUSk3VdC7F_R0trPCzGJpyrx0P2ybURLcC6yc-LRMbPD2BAet8ECFK0IMvMfNcGIiX4RvI"
+                }
+            ],
+            "address": "Charan Sanitwong Road, Bang Kruai, Bang Kruai District, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.157
+                },
+                {
+                    "id": "99cdfc5b63c22f6ce6707865db95afe3",
+                    "name": "Gateway",
+                    "score": 0.197
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.465
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "423b2ee1d20d422b8974a87f7d3916ba.16",
+            "hashedId": "eb79e09aec3e620a4073cbb89bd468eecd699e23",
+            "title": "สามเณร",
+            "state": "LIVE",
+            "lat": 13.812895,
+            "lng": 100.50549099999999,
+            "lastUpdateTimestampMs": "1501109929188",
+            "images": [
+                {
+                    "id": "f6cffc95f0a9431aaf3f478bd9df0c99.17",
+                    "url": "https://lh3.googleusercontent.com/f39p3HIKTRelfWp1PvxT1wj4YufefBfGKDz8rkuc9N8efriR6thynWBuZW9pT1eK0cZTDvYn2aICM3egJQRw5wNdKADy"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.316
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.145
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.316
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.109
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4c5b1d99bed345f3be80d5d67fbbdb26.16",
+            "hashedId": "db21b748963b38b1ac7539317f197fc2987896de",
+            "title": "Gold Shrine",
+            "state": "LIVE",
+            "lat": 13.81153,
+            "lng": 100.50409499999999,
+            "lastUpdateTimestampMs": "1501109855597",
+            "images": [
+                {
+                    "id": "295bf43a540145e3a5165b6c1f2f2b73.17",
+                    "url": "https://lh3.googleusercontent.com/7lrfpcYOAUHsVDr4bdLTwZCXFyPFXV3E5NXx9Qig8dw325gUnsZ_kqYNMSX3_RvJSgu5dLct7COWsSh-cFEACboiNgeh"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.327
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.318
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.327
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.212
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4f20204ff2f14f259d0b8721ebcefc33.16",
+            "hashedId": "9208f4dc9e4f73fe1afc456b5f7e302925a31539",
+            "title": "Shrine",
+            "state": "LIVE",
+            "lat": 13.811264,
+            "lng": 100.502642,
+            "lastUpdateTimestampMs": "1501109698378",
+            "images": [
+                {
+                    "id": "4e162d47d18243a8a6ee1f531238d76e.17",
+                    "url": "https://lh3.googleusercontent.com/Q-GB5z62kjMi66JCKrGbHrPnomF5Yu5oBLQfdUko-xarQsWfTW-1xgabqb_fYFJsMUiCda_B8UcJ9JO0lDN42sjg54r9"
+                }
+            ],
+            "address": "Soi Khun Pheecha, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.687
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.687
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.177
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.126
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "594510c1a69d44ba84873803e43eefe0.16",
+            "hashedId": "f87f13deeebfbf452b45b2d55ca57b28a3ea3f20",
+            "title": "Old Power Plant Railroad Memorial",
+            "state": "LIVE",
+            "lat": 13.810868999999999,
+            "lng": 100.50733699999999,
+            "lastUpdateTimestampMs": "1501110179636",
+            "images": [
+                {
+                    "id": "d5bb459fc7864106bccb8cc8b6a84b20.17",
+                    "url": "https://lh3.googleusercontent.com/_WuHt3ShS9qWCIkGTbH5ECJ36A9CUp798T9HNjU5Rm4Baf14fcPJJVbLMJMQFc5nmg125ljzl8bzFkVC12Fjrv5iDhgC"
+                },
+                {
+                    "id": "64045b2a50e043dfac07fd6c5e135fd3.17",
+                    "url": "https://lh3.googleusercontent.com/8a-F1dKLZJ3CUoK-C-7SIyt9HyTKJ3Q37dcZNiBqRC4ZVm-gW1dEDR-ib16MJ6a-d72AuYZ7N-Svj17bC77fbimsrx7U"
+                }
+            ],
+            "address": "Bang Kruai-Sai Noi 2 Alley, Bang Kruai, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.193
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.147
+                },
+                {
+                    "id": "5e666d29bae7bd68b339b5284fdfe25c",
+                    "name": "Power Plant"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.193
+                },
+                {
+                    "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                    "name": "Road"
+                },
+                {
+                    "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                    "name": "Historic Structure",
+                    "score": 0.14
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5a82e28f67ff36ba8c9d7fe3b6f3687f.16",
+            "hashedId": "0e1dd290eb721627769709449cc1c300a90bbb99",
+            "title": "Shrine of Lord Muthutadevarak",
+            "state": "LIVE",
+            "lat": 13.809035999999999,
+            "lng": 100.502105,
+            "description": "A shrine for local land spirit.",
+            "images": [
+                {
+                    "id": "88fec49143a33dd3a6c95e234e3cce49.17",
+                    "url": "https://lh3.googleusercontent.com/gSKasrKz7-5qovROJSLmrAHzoRqPqzUA5t9L4lKPjdADYZbmYWEa6TfMBA3rRH7DEOi5R_fTTHFyaxWKE-oqZe9rbhXNmHyixtM5KFoKgQ"
+                }
+            ],
+            "address": "Soi Bang Kruai-Sai Noi 8 , Bang Kruai , 11130 Bang Kruai , Nonthaburi, ตำบล บางกรวย อำเภอบางกรวย นนทบุรี 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "นนทบุรี",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "ตำบล บางกรวย",
+            "postalCode": "11130",
+            "mainCategory": null,
+            "qualityScore": 99.02404,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1702870531659"
+        },
+        {
+            "id": "601c7cae344d4eb7b244769ab9c3264a.16",
+            "hashedId": "ef3f3a14ea5d2cf36c22a1cf885f57e296308e34",
+            "title": "Jar Fountain",
+            "state": "LIVE",
+            "lat": 13.81134,
+            "lng": 100.506856,
+            "images": [
+                {
+                    "id": "bc03d915a5124735b676ed100162a1de.17",
+                    "url": "https://lh3.googleusercontent.com/0ws-_fx15-d32InXFUYDb77HNLL6pR6vyznbL3aG9FIxX3Ilz0k05W0EnBaxRn1fETmSmNqlA64i5akdp_QP-fuMnw"
+                },
+                {
+                    "id": "f10a5ee016e549e6850304f3e7a16260.17",
+                    "url": "https://lh3.googleusercontent.com/nhNMw4dYO3dNJh7IzB_QiXO1vX_7hV8fVNpPTgm-GVxIxOkvTVQxcZuDX6nAmLGskVwV3KVqXMzO9C0bJylUlQw5RfQ"
+                },
+                {
+                    "id": "c12335b90c574c339fbd80cb6e1154cb.17",
+                    "url": "https://lh3.googleusercontent.com/jg-wEPQBRQBW6mzNsjAz4VYm2c9-tU2wsJnGPpU13jPBlSJJEyqZ8RZIY1WKhjfda_XtwIgoKuju4UlSMZpRr5efXx0"
+                },
+                {
+                    "id": "5b64feedb28a469d9bcfe7af80331d1e.17",
+                    "url": "https://lh3.googleusercontent.com/HsFnhM35E-ptgQxpfIUccDDLnScbs37PqcgH0V-50_j0DbBnH2-70A7pNqYnjAZu2QgKWhztHcBEDfj82BOKKHnm5Q"
+                }
+            ],
+            "address": "Bang Kruai-Sai Noi 2 Alley, Bang Kruai, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1660134139427"
+        },
+        {
+            "id": "72c1e3623b19476dac76e35eaed51c72.16",
+            "hashedId": "d36c313097631943e109cbe81222dacf31ba008f",
+            "title": "น้ำพุ (Fountain)",
+            "state": "LIVE",
+            "lat": 13.811136999999999,
+            "lng": 100.506092,
+            "lastUpdateTimestampMs": "1501109845538",
+            "images": [
+                {
+                    "id": "f77c7fdad1e34adeb1090398f71c049b.17",
+                    "url": "https://lh3.googleusercontent.com/IJbw_jtwBYewHipCfwIVUcgif6vgZJb7QckVbXyJY6PPL6ZOSlO-YIAhDjLH3OovqVW9HbmZEm5E9IE8nRgVjuho6Wg"
+                },
+                {
+                    "id": "ccb3ddc010c748df8fb6ddf9255c661d.17",
+                    "url": "https://lh3.googleusercontent.com/GTgc3d3aMcoMB1gxKpvc5jcJNEmlhJUHkVLZMtlqve_yKgAam_VXw7svZLSSGYcD2TySakhKP1PRaGblBHmwoShI0cs"
+                }
+            ],
+            "address": "Bang Kruai-Sai Noi 2 Alley, Bang Kruai, Nonthaburi 11130, Thailand",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.948
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.043
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.153
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.948
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7352976051d846c689dff9f0fd565736.16",
+            "hashedId": "65bc9dfffca15937653b736b366a5ca4b4c9d67d",
+            "title": "บอร์ดเฉลิมพระเกียรติ์",
+            "state": "LIVE",
+            "lat": 13.809222,
+            "lng": 100.509599,
+            "lastUpdateTimestampMs": "1501109062283",
+            "images": [
+                {
+                    "id": "0a88518153c94f1b925c56016c3046a1.17",
+                    "url": "https://lh3.googleusercontent.com/47aoYwMbW0zgVC2XGTeSiEvyFCGerlZNR3LHeCHqs4gG_oCJ3PvvhYhMnClDh0HAqp39z79cgkW3-D6r4aCjP6jKoCg"
+                },
+                {
+                    "id": "2dc18660d2204bf082e3dffb0008f474.17",
+                    "url": "https://lh3.googleusercontent.com/L_10we_pOEbWhI_JacLNyM4Xwjw5uSivB_Bta6xN8_OSm7gb0-gbWhn4-YF5CQHErSP6MlbTrEBoahcb4G7QrDpoDdo"
+                }
+            ],
+            "address": "Bang Kruai-Sai Noi Road, Bang Kruai, Bang Kruai District, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "2e7cb063c63fee882e8212c6a88472d4",
+                "name": "Plaque",
+                "score": 0.288
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.288
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.167
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.277
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "774e381136da3d4e820c50af92f043eb.16",
+            "hashedId": "d522661ca0b773d37a383c4ddbdbc53267239923",
+            "title": "ศาลาริมน้ำ สวนน้ำพระทัย",
+            "state": "LIVE",
+            "lat": 13.813016,
+            "lng": 100.504764,
+            "description": "ศาลาริมน้ำ สวนน้ำพระทัย กฟผ.",
+            "images": [
+                {
+                    "id": "4fe222a3f0c5305dac922ae690e0ab6b.17",
+                    "url": "https://lh3.googleusercontent.com/jlNk55NAUK4BvanDYkzEpZVLMBXl56tLkyh7LnxDYyOasgu1ZDuFBAamINCpAo1yYVoTkpgaWgUIwYvsnLPA"
+                }
+            ],
+            "address": "Unnamed Road, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park"
+            },
+            "categories": [
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park"
+                },
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo"
+                },
+                {
+                    "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                    "name": "Rest Area"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1637745700578"
+        },
+        {
+            "id": "7c62d312209f48cb8ed27571b393dc9f.16",
+            "hashedId": "be6ea53039e1b98dc05abd6282f551530df6bed1",
+            "title": "Long Live The King Board",
+            "state": "LIVE",
+            "lat": 13.809090999999999,
+            "lng": 100.50988799999999,
+            "lastUpdateTimestampMs": "1501111118501",
+            "images": [
+                {
+                    "id": "3c15b7ffbab7448283fefd55ff3db539.17",
+                    "url": "https://lh3.googleusercontent.com/pgx53fECAIW1UcjLALmNbKwmwU6E99o83A_AqX7EtjhYNmkEnhOEwssq6cLlqQTEeoSS2sropybwNnZAKCveRPPBpyg"
+                }
+            ],
+            "address": "Bang Kruai-Sai Noi Road, Bang Kruai, Bang Kruai District, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "ce64859076051dec2b34827e1b0bd37f",
+                "name": "Informational Sign",
+                "score": 0.239
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.201
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.197
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.239
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7cb4f690470c46a0a2d7707668d6aa22.16",
+            "hashedId": "c14bba9296716d4596b547ec5721459a3aec9eea",
+            "title": "ศาลตลาดศรีบางกรวย",
+            "state": "LIVE",
+            "lat": 13.80919,
+            "lng": 100.50892999999999,
+            "lastUpdateTimestampMs": "1501111197154",
+            "images": [
+                {
+                    "id": "189398e9c4744855a04a47afa4812a88.17",
+                    "url": "https://lh3.googleusercontent.com/l3LY3HuX99RHXHM-VcRI6yZNFbm1MK5Df0DiTjdCknEWqIjFVxFOZi9olIraCOoAKXrNvzFm4uLPx4aihVUwjIAXh_Do"
+                },
+                {
+                    "id": "8012ce1d1732497f9fd883b50a3e1c26.17",
+                    "url": "https://lh3.googleusercontent.com/IsoRSNhGKMGyVdzOgvKMEg53s8nWB9hiRELcHyNMLjJZdxxkDjtwLhmYPPeyBqWnyVEoU9Z4qvCh_r3RrdHi3pAipqWN"
+                },
+                {
+                    "id": "8829c4df2d99383fa6982462962f678c.17",
+                    "url": "https://lh3.googleusercontent.com/xsvhpuaFg5tUDGhUhwHwY-znYtgPHMeHcawDgQbd7IpQDZDz-5IbIYA1cnljWXUOhPC_FHUeXj6KDD25LCc"
+                },
+                {
+                    "id": "fcdef38243153b01a04b90a9fd28f26c.17",
+                    "url": "https://lh3.googleusercontent.com/NrFWicrw-tqAOOKUsQrJGBPAH4dQMvGaSJUO-7AGpKPo9tOucAwkBOVgq52Xl1yYl-O5Tfi1_xXYNhrBfz6hJNhRECvS"
+                }
+            ],
+            "address": "Thanon Bang Kruai-Sai Noi, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.194
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.194
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.098
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.093
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7ea961cbfebe3ee8986c3ad89897d343.16",
+            "hashedId": "131f38bc0c743cbf892dcb46e6c7cd8fd5f1f62b",
+            "title": "ประวัติสวนน้ำพระทัย",
+            "state": "LIVE",
+            "lat": 13.811729,
+            "lng": 100.506745,
+            "lastUpdateTimestampMs": "1624973051790",
+            "images": [
+                {
+                    "id": "289411fab962396d8e474a9fec3cc8c6.17",
+                    "url": "https://lh3.googleusercontent.com/7aULFvlveoP23xZfMGN0BvMS8yNQxuVh7mo6vqzdXZqlpVstXDi3e8X9epqna4yRBGJ0lzt3vRRdR19Lk3cj"
+                }
+            ],
+            "address": "Unnamed Road, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                "name": "Historic Structure",
+                "score": 0.265
+            },
+            "categories": [
+                {
+                    "id": "b962c8dc17b777624defd08a7f66a247",
+                    "name": "Historical Sign",
+                    "score": 0.236
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.225
+                },
+                {
+                    "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                    "name": "Historic Structure",
+                    "score": 0.265
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1624449448908"
+        },
+        {
+            "id": "889e9bd16a3d46859258fa68df7c77bf.16",
+            "hashedId": "86ff9e8bee3222e153e696b6ae0e3efe05464841",
+            "title": "Kamthon Sindhvananda Sports Center",
+            "state": "LIVE",
+            "lat": 13.808038999999999,
+            "lng": 100.504352,
+            "lastUpdateTimestampMs": "1616147006376",
+            "description": "EGAT's Sport Center",
+            "images": [
+                {
+                    "id": "07f15ac0e3b4430c83758b491f751286.17",
+                    "url": "https://lh3.googleusercontent.com/p1RwmUNOOqe94AGQgY2c2t7thWAGxQ5kovclvj4l9th409RkNvG-ZAPoDVioPyMfdy7LcamWXmZLZYKKZTTGouPrirc"
+                },
+                {
+                    "id": "fd0df918e48d4685b1acf84a0fa38d44.17",
+                    "url": "https://lh3.googleusercontent.com/mBqPAql8pY_JXdi_Utiwl8trHSEVBazbJ9ehuihlr1c85lafgMotJ3H-thKM3fIDKvREP6_9OgJ3SCHSsc7pcEbCllM"
+                },
+                {
+                    "id": "0abe31f712954450ac6b826dcda73804.17",
+                    "url": "https://lh3.googleusercontent.com/H9zBKd2d03DUUsLBQmsqlgBBM4H4kXX-qWu94t5dD1a_a9kW5emUloSuP-4-n1kspnIe-fACG2oc8xsXV2usHmw1h94"
+                },
+                {
+                    "id": "9f0607a89aa1485785af358e40fab9cb.17",
+                    "url": "https://lh3.ggpht.com/8ALXe2z2S8rJwO31aIDoJ7PXF7oLj8uknDvGwxggqWinO3XhsauCPapONbiufGtsm530AVDzJbBG0MczHgfkzQ"
+                }
+            ],
+            "address": "Soi Sunthon Siri 1, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.539
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.539
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.274
+                },
+                {
+                    "id": "6596a4588b531e81c79c68200b34df19",
+                    "name": "Indoor Recreation",
+                    "score": 0.324
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "88d85a7b640a41c7aa635ca4928cfe79.16",
+            "hashedId": "be6eace43b86b329fa503aa8a1b23e7ace36a377",
+            "title": "เทียนพรรษาหลังสวน",
+            "state": "LIVE",
+            "lat": 13.81184,
+            "lng": 100.504764,
+            "lastUpdateTimestampMs": "1565008921872",
+            "images": [
+                {
+                    "id": "df73a08397e64a54b99cb428ce1f3b4b.17",
+                    "url": "https://lh3.googleusercontent.com/KRZMkt2hhjglojPrnWGN2kGK9tE2yTsF78oSd11RLmkU5xSfifqaOTiVESLHddY2S-gzjRhkN3gnYmlk8xYr0xWBlC9N"
+                },
+                {
+                    "id": "586fc1ca9d72499faf9b0259897c547c.17",
+                    "url": "https://lh3.googleusercontent.com/uoA1IlslkkOlIOBaHQ5olHHpP1IO4Ue2MAyLM9V-FTwTE7dBcNt1KMHhrM7jm_LedZdHRlJhTKoZx01xMLWQj-dt_D4"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.313
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.313
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.152
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.231
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8d4323bbe3b642f5b7fac3cdf24cc037.16",
+            "hashedId": "d5abd5bb02b8e447acafeb2d2067c588329eca4a",
+            "title": "Ganesha and Fountain",
+            "state": "LIVE",
+            "lat": 13.808783,
+            "lng": 100.508911,
+            "lastUpdateTimestampMs": "1501109984296",
+            "description": "Ganesha and fountain in Sri Bangkruai Market",
+            "images": [
+                {
+                    "id": "2d68ea20fada433eb50c6fb5c289974d.17",
+                    "url": "https://lh3.googleusercontent.com/eJx-k-5m_T87ahAWEEP_wcqZWe-cU921qAbr_MNnQYMdm-96K5adgn1wdrpUmMMTNPu-dc_kaQ2KIVMRh96UQ8DANg"
+                }
+            ],
+            "address": "Bang Kruai-Sai Noi Road, Bang Kruai District, Nonthaburi 11130, Thailand",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.981
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.11
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.981
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.209
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9346f30b075d3aee8ed35f3cced30af0.16",
+            "hashedId": "560d5e2fa96b11783c4ed0c0709be63278475529",
+            "title": "พระพรหม บางกรวย ซอย4",
+            "state": "LIVE",
+            "lat": 13.806550999999999,
+            "lng": 100.504753,
+            "description": "พระพรหม บางกรวย-ไทรน้อย ซอย4",
+            "images": [
+                {
+                    "id": "11a17647b1e93912bcbda6c9328a9ffb.17",
+                    "url": "https://lh3.googleusercontent.com/fZb7dtdjqfyBYJY0pqf3Ote-KJZBmUWE8vj7Vllue8jXfnUuN77iCo9B-pme5XNqxEGXQ2T_SHw0n_F5f3sWLZrBzEVi"
+                }
+            ],
+            "address": "Bang Kruai - Sai Noi Rd, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648725920795"
+        },
+        {
+            "id": "9b8beef9255f495fb03b6f6e7aeacfdb.16",
+            "hashedId": "d53bf7bae44953e376257bb0850bd8f0b2866e18",
+            "title": "EGAT Sign Post",
+            "state": "LIVE",
+            "lat": 13.809856,
+            "lng": 100.509384,
+            "lastUpdateTimestampMs": "1501109853330",
+            "description": "Electricity Generating Authority of Thailand.",
+            "images": [
+                {
+                    "id": "e4181dc4e35b424c8cb1479a640a5039.17",
+                    "url": "https://lh3.googleusercontent.com/bpOIxUEZlYX7MYUFPMQ4AKfxa9-n_xA1z0GSYEAlVxiwdDFh4A2POc6VKUA3hbsyLALb4uO4mH8c2KleJCbtOC1F01A"
+                },
+                {
+                    "id": "214950588e4f4a85a3ee4debdc30416e.17",
+                    "url": "https://lh3.googleusercontent.com/JvpbyUjtNkqKMGzj1L7WBLTmv6B4inN7R3eLvHrke6ArDurCZ7x84ApwTnwXIzGpuYQE5xifmctMltkAqEjxQ6U14Ews"
+                }
+            ],
+            "address": "Charan Sanitwong, Bang Kruai, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                "name": "Post Office",
+                "score": 0.711
+            },
+            "categories": [
+                {
+                    "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                    "name": "Post Office",
+                    "score": 0.711
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.229
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.376
+                },
+                {
+                    "id": "d129e72664470c55acaea6ae18983a3a",
+                    "name": "Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9bf3f168d9544148a5a254bd1c64672c.16",
+            "hashedId": "6f18441a0c584e16f6af32deb3be9ed95d83264c",
+            "title": "ที่ออกกำลังกาย6",
+            "state": "GAME_REJECTED",
+            "lat": 13.811791,
+            "lng": 100.506897,
+            "lastUpdateTimestampMs": "1501109951840",
+            "images": [
+                {
+                    "id": "7d7a9c82724b45468f7052051c2d4bc2.17",
+                    "url": "https://lh3.googleusercontent.com/4odmu2qxSO0iv_PYtM2Hm_mxvz6L7jXXdhsqcns5mA44tNICc_LyuRFJCKOInaSFQpnXHYoAuaFjQDAm6hela1TjkBs"
+                }
+            ],
+            "address": "Soi Puemtongkum, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a71f513022073ec0a652ef722084b7df.16",
+            "hashedId": "664c27257a86c8ef843a911e3799d4655ca75960",
+            "title": "ลูกตะกร้อหิน",
+            "state": "LIVE",
+            "lat": 13.8081,
+            "lng": 100.504545,
+            "description": "ลูกตะกร้อหิน",
+            "images": [
+                {
+                    "id": "e7be256140d936cb954ab4e901f4db0e.17",
+                    "url": "https://lh3.googleusercontent.com/el6vDgSD2EruquKWigaUpILy0_Dbq3cmDtzMqwClqgIsu2--fsMIcV-hnp8eBL76qNWqr4-0-kudzQbxa0rJ0N1qOSxUUAjQRIh6R8aG"
+                }
+            ],
+            "address": "RG53+7R2, Bang Kruai, Bang Kruai District, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue"
+            },
+            "qualityScore": 75.10593,
+            "categories": [
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1696865712712"
+        },
+        {
+            "id": "ae7a2e0277cb4031b338c320a7b1dfaf.16",
+            "hashedId": "d5bcca1ef3fc8cf2a470e953ce806bf1acd20789",
+            "title": "Red Shrine",
+            "state": "LIVE",
+            "lat": 13.813331,
+            "lng": 100.50430899999999,
+            "lastUpdateTimestampMs": "1527058221641",
+            "description": "S",
+            "images": [
+                {
+                    "id": "df8faa518701424abc79f6b3640d3ff0.17",
+                    "url": "https://lh3.googleusercontent.com/eEoUrKjHstJP-r-qhqi05uIe1spzo85J_GAEHHzqA3ZvyHFWUrPIQbtquGimivmHKpc_VkAAMkfMTLVjueIrwz5P26k"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.282
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.282
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.195
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.145
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b3d993dd10a447a294e1a41c28b3d435.16",
+            "hashedId": "fc08e1fe68738136026e35a7c79810e051f6a8fd",
+            "title": "Fountain",
+            "state": "LIVE",
+            "lat": 13.811838,
+            "lng": 100.505575,
+            "lastUpdateTimestampMs": "1567737080973",
+            "images": [
+                {
+                    "id": "4d422ffeebb54c99af0f391f4ed7ceb2.17",
+                    "url": "https://lh3.googleusercontent.com/muVyZ9eWfw18whFBG5A4cDqa69bE4lRIRWnxSxHl-6OJ3dvGRHZ9CZbpJZdDrVMiN2zI2bO9Y-cqB3g_Dj-QQfbEo74"
+                },
+                {
+                    "id": "a6bbbebc062d4d3f81e130e315391654.17",
+                    "url": "https://lh3.googleusercontent.com/g9uNnZyAmqkrvrBQGAaAsRGsZltp-OWFZG8IGsn0bc01Z-_nRVCRBGlg2ejRTfBQktvwMfu1_kfqzE15w5NlTxnfCfOY"
+                },
+                {
+                    "id": "d183bcd9221e48d882c66893b11d4601.17",
+                    "url": "https://lh3.googleusercontent.com/SIOKuYIzIawVlf8tOBHV8e-9UeEZLX8V0ZCbGz5EowIumaoPnt7_DfgwaWP1fY2A8b4lOgQ-kCSEz_LMTXAKmViXRAo"
+                },
+                {
+                    "id": "c8b668210a9a4feea484fa2e29ee677f.17",
+                    "url": "https://lh3.googleusercontent.com/p05aR4z1E-737R9Lq9FQz5iqdrqndqeIV-x4_DfqEl7XwvN-DrZTMoaqWSnVbdpfH7nmtEZHsL6Pf_fhpXEAcqdkyY4"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Bang Kruai, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.976
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.123
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.976
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.036
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660169793683"
+        },
+        {
+            "id": "b7e67af0a39d4ff6bdcaecdbffdcb8c6.16",
+            "hashedId": "8189751e4fc8bddd3cbfd394fadc749b670e3879",
+            "title": "Rock Sculpture",
+            "state": "LIVE",
+            "lat": 13.811033,
+            "lng": 100.506315,
+            "lastUpdateTimestampMs": "1565898112882",
+            "description": "Petrified Wood",
+            "images": [
+                {
+                    "id": "02547b5f8be54e249d22eddb76e4e416.17",
+                    "url": "https://lh3.googleusercontent.com/XBEmhgMYz7z5lo42-PUzanRUZY_twtuSGYrXSnXJGvO6JpUTz_y77NyChz43IRms-MWgHZ_-qmmk2KB4ZfSNPJ6JvkQ"
+                },
+                {
+                    "id": "f871d009580e4acc82e50cfa1da63e8d.17",
+                    "url": "https://lh3.googleusercontent.com/xFVf3C0h1vvrprpHscTiJsKtQ-057KRvLpM5tIRUXbaDywKnpViXDbGwxZQ9-tr1JkHTY5WK2pQYfdvj7dc9h1dgrsD-"
+                }
+            ],
+            "address": "Bang Kruai-Sai Noi 2 Alley, Bang Kruai, Nonthaburi 11130, Thailand",
+            "mainCategory": {
+                "id": "0a6e75ed4c6b438f713e2966dd181250",
+                "name": "Rock"
+            },
+            "categories": [
+                {
+                    "id": "0a6e75ed4c6b438f713e2966dd181250",
+                    "name": "Rock"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.919
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.097
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.233
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "bbeb6fd0dcd24048ac702ded0b3c754d.16",
+            "hashedId": "9367e20c4a445795229dcf979965194e0b237e26",
+            "title": "White Shrine",
+            "state": "LIVE",
+            "lat": 13.812066,
+            "lng": 100.503993,
+            "lastUpdateTimestampMs": "1501110071302",
+            "images": [
+                {
+                    "id": "83607832a27249a39b8b75488f0c3ea2.17",
+                    "url": "https://lh3.googleusercontent.com/oFSUPIzP0LpwfnJ48fYAvdY-XAAhx9pRzqEKZzy56yrvHoy6jH09GsjzkVac6hl6gfK3IhCPhQksO0naS4N-2HH8sw"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.404
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.404
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.138
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.297
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c8d424fdfcdb3566b0cfeeff72dbfa4a.16",
+            "hashedId": "2be6e5dbc7902b45af724ff7bd8bcf01ef12f932",
+            "title": "Glowing Owl",
+            "state": "LIVE",
+            "lat": 13.810127,
+            "lng": 100.509959,
+            "description": "นกฮูกเรืองแสงหน้าป้ายรถเมล์",
+            "images": [
+                {
+                    "id": "83d3f056ebc63e21a795cd56093a93cd.17",
+                    "url": "https://lh3.googleusercontent.com/8Y_-JAn_IdI1AaK2d2kffP5PmaPSnYxmi7myNEgloOkQ3DjwCMv8wh61JyvXbCL2Fd562l6ZyG1ggmQhNs9ZmOSxx90"
+                }
+            ],
+            "address": "Charan Sanitwong Rd, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1656922111672"
+        },
+        {
+            "id": "d399a2ea323e4aefa1a121d6edc8f1e5.16",
+            "hashedId": "7bae6f957dd2c639b1636e92db512a786183bc60",
+            "title": "นางเทน้ำ",
+            "state": "LIVE",
+            "lat": 13.809268,
+            "lng": 100.505183,
+            "lastUpdateTimestampMs": "1501109658114",
+            "description": "นางเทน้ำ",
+            "images": [
+                {
+                    "id": "348158a1b8bb426b817dbf74e905f1da.17",
+                    "url": "https://lh3.googleusercontent.com/uXlJCdKYcOzZIy6oY4lrFTL0lYD_1NvQKbWkRF6D-p1BQzFtqtpN1UmGVCvpu_JzcAK12xBQiBesO4Y_VSCYcJzDK18"
+                },
+                {
+                    "id": "12e076e1bf234255af44969e4e3d907c.17",
+                    "url": "https://lh3.googleusercontent.com/RS4K4PKLzM-2lzToHMliIHPHIMj3WlXtfTRT5OAl8Ch-VrW_E1POZJq8mWR9PkWVwD3N6P0nupvpKF_cFpZkZygvdlg"
+                },
+                {
+                    "id": "4fc44f14b98835a39dc87eab27869a0b.17",
+                    "url": "https://lh3.googleusercontent.com/mLqxSNSPeDr_laX-0dDSUAyhKEWMUp8QE_i4Ickvi3d6_V6PjvXz_Y4Vb8Rerli6rtMZ4y3vXSMdcL0PoM2n"
+                }
+            ],
+            "address": "Soi Tiphayanate, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.282
+            },
+            "categories": [
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower",
+                    "score": 0.096
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.254
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.282
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d921ccbe33e2403093cd440672fb0520.16",
+            "hashedId": "1eff06532fa9efe68a4287930872dea06346c041",
+            "title": "พระพุทธสิริสัตตราช",
+            "state": "LIVE",
+            "lat": 13.809966999999999,
+            "lng": 100.50645899999999,
+            "lastUpdateTimestampMs": "1513319055381",
+            "description": "พระพุทธรูปปางนาคปรก การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+            "images": [
+                {
+                    "id": "c963f8c6ac6145e8a7bcf0e8c2da0fd7.17",
+                    "url": "https://lh3.googleusercontent.com/nRxrIUKigd-OcSw7V1Z-D3_fpAHY9azbCQBIYNnos6kHV59nUq4XhgFUhHs_D3P8xj6OuE4RMQrhzUzW12CqWQSbIw"
+                },
+                {
+                    "id": "d24a5475171e440887932c7f62249f8c.17",
+                    "url": "https://lh3.googleusercontent.com/wqbiizLhY2U5YLL8RbvceipDRsUU4f8FPluUW4IJum3t5bLtF2V7jVzHj20lCXgFgiWZt5Jm_T-zNmHwgDFTuEraLo-1"
+                }
+            ],
+            "address": "Bang Kruai-Sai Noi 2 Alley, Bang Kruai, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.193
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.131
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.193
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.131
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e0e0f0564cee4e9e8e60f7553106f3f6.16",
+            "hashedId": "d3a5620a24d2733087ea80cbe142d31d9b72c16d",
+            "title": "นางตักน้ำ",
+            "state": "GAME_REJECTED",
+            "lat": 13.809332,
+            "lng": 100.50529999999999,
+            "lastUpdateTimestampMs": "1501109749879",
+            "images": [
+                {
+                    "id": "a28fd3009e5049ff9511057c870ec449.17",
+                    "url": "https://lh3.googleusercontent.com/MFNUn_ZSNOPfSGTn2fT3Mxuwy2bDfZf_b9C_HNeXAZgY5pwMEYhqkdDcIQ8owm9Ny0UiWMOwPUkXMye_ieCLuQHm3w"
+                }
+            ],
+            "address": "Suksan, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e34ebe916cf04558bc6d07d4ee8c38f4.16",
+            "hashedId": "3066ee5aa164e706b6b5638ac54daeedffe0413c",
+            "title": "Sri Bangkruai Market Welcome Post",
+            "state": "LIVE",
+            "lat": 13.808636,
+            "lng": 100.508541,
+            "lastUpdateTimestampMs": "1501109568854",
+            "description": "ตลาดศรีบางกรวย",
+            "images": [
+                {
+                    "id": "fdb72c1719f9458798e7af5d7bd76422.17",
+                    "url": "https://lh3.googleusercontent.com/Jjs_dlVVaFjf-5r0BiLOA-oWBoqOKQR2q5mkBxTG7uMWo4xAEC5TC4axzKurg5OkOzHqmjD-NSKzbdT5bpvzhLyXGbI"
+                },
+                {
+                    "id": "ed357f648d8c4fa8b6e5a575b9e26d00.17",
+                    "url": "https://lh3.googleusercontent.com/brctW_0ubvFaIPEBTqtfWOE6TB0egEiB9zGXcG-cFMRLwxaMP9hTgf2aZFB76flzSIbTuRK_zIqeKiZnCaim0_ytJLQ"
+                }
+            ],
+            "address": "Thanon Bang Kruai-Sai Noi, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                "name": "Market"
+            },
+            "categories": [
+                {
+                    "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                    "name": "Market"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.265
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.067
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.123
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "eb2e8188ad544ba4b515c493a5170d9a.16",
+            "hashedId": "bbaff00972e643d068958c701115e0157465c748",
+            "title": "กังหันน้ำ",
+            "state": "LIVE",
+            "lat": 13.81149,
+            "lng": 100.506659,
+            "lastUpdateTimestampMs": "1501110166103",
+            "images": [
+                {
+                    "id": "afe3c3c727b647d9bdb4d0a095ce8229.17",
+                    "url": "https://lh3.googleusercontent.com/hnxe4KFl_RItALITsFqTIhB5GqlcR6XNHDZKTkp9oU2_jiw8L2KZp20lf9LDzlQBj3HtYfFgXq8D7drWK__WjU4AvVY"
+                },
+                {
+                    "id": "cbd16d77bc174dd1a97c86e1d0489659.17",
+                    "url": "https://lh3.googleusercontent.com/mBLVaDZWslfP03iWToXiGjMr_rTM47PBHBWfaN9LU-KJ3FKyIGYDnF3Ropt5f2xSEe-qFtuVx7mZjy1mOH9Uj86izbg"
+                }
+            ],
+            "address": "Soi Puemtongkum, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "c4b5687432c6064274a92f5f7951583b",
+                "name": "Windmill",
+                "score": 0.458
+            },
+            "categories": [
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower",
+                    "score": 0.323
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.233
+                },
+                {
+                    "id": "c4b5687432c6064274a92f5f7951583b",
+                    "name": "Windmill",
+                    "score": 0.458
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ed9375c9bf6e4c1295a20707f3768e4c.16",
+            "hashedId": "d0c4d1f4bcb3a7723356b8f843aefc9008ccebd1",
+            "title": "ที่ออกกำลังกาย3",
+            "state": "LIVE",
+            "lat": 13.811782,
+            "lng": 100.506946,
+            "lastUpdateTimestampMs": "1522059232702",
+            "images": [
+                {
+                    "id": "b1ba9909aaec4ee484be37c6d614722c.17",
+                    "url": "https://lh3.googleusercontent.com/VSuRO7Gbh4XdTpb7uowOtbTqN1EuDEqXfSqwncQbtpZ6C6oGEYaeAYpv9HyEu1IVTdkcVHyUdVyrVGNnR3NsPSkD1Pg"
+                },
+                {
+                    "id": "3a2037783b01362eb389e5e0d862b69b.17",
+                    "url": "https://lh3.googleusercontent.com/5KWIfCrl0ds4J5g9u8pmXP9A_bRcgdQpUT_DnmCM3DeCWDpVngnL2M9F9FTXMjLJ7YEDfuC322fUwrbKMsb4"
+                },
+                {
+                    "id": "2debe7b678d5341a9ffd7f0fcbf43af7.17",
+                    "url": "https://lh3.googleusercontent.com/6CAnzPjd5jPSYmNP43r-_XIkdkZ9uCoIx2H7Mtrf5MwD9hYMiky18NSJYGGA1hJenCt9b_4HSCw2UsqpM78w"
+                }
+            ],
+            "address": "Soi Puemtongkum, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "aae12013c0f49182495d12e50d9b5d5e",
+                "name": "Fitness Station",
+                "score": 0.536
+            },
+            "categories": [
+                {
+                    "id": "0302dc152f60e1c4b52e7a27325e970c",
+                    "name": "Outdoor Recreation",
+                    "score": 0.118
+                },
+                {
+                    "id": "aae12013c0f49182495d12e50d9b5d5e",
+                    "name": "Fitness Station",
+                    "score": 0.536
+                },
+                {
+                    "id": "c469083e12d884a1b9092e598e447412",
+                    "name": "Gym",
+                    "score": 0.268
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ee3198bcf1b93b3088c0c8998ca8aefe.16",
+            "hashedId": "0e79200151d494c04dd21470f9327ff4d273081c",
+            "title": "EGAT Gate",
+            "state": "LIVE",
+            "lat": 13.806823,
+            "lng": 100.506135,
+            "description": "ทางเข้า-ออก สำนักงานการไฟฟ้าฝ่ายผลิต",
+            "images": [
+                {
+                    "id": "134ca9a0c93e396c96540a5b2827021c.17",
+                    "url": "https://lh3.googleusercontent.com/4Z_KTbIkPkocAXofSEZKeHwmO-qppxiZk63qDtq_YpMClWLD6i5O1-OjDO1eET_0Ksw1LEZHUxZTgROmncGsEpUxxCY"
+                },
+                {
+                    "id": "dd1737efe859395faf1c96545c7e60a3.17",
+                    "url": "https://lh3.googleusercontent.com/aj-YmS2rzFr69rsk3UQCh8UKr-xzeaVqz6y3c0b6m0LfbNjucey58dQF2mSxPDg5YLJbsSMGPcxaN1PFweI_BMV8I8aOSbBsQPrC0H7W"
+                }
+            ],
+            "address": "RG44+MFV, Bang Kruai, Bang Kruai District, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 75.10624,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "99cdfc5b63c22f6ce6707865db95afe3",
+                    "name": "Gateway"
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign"
+                },
+                {
+                    "id": "d34e5713850d31ffab275cecd6b6dcbb",
+                    "name": "Doorway"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1647081134949"
+        },
+        {
+            "id": "f0633aa4fe494e1dbe1cad3247fa76f0.16",
+            "hashedId": "e8a8301c2adf48794ac7793766c5478f90047254",
+            "title": "His Majesty's Graciousness Garden",
+            "state": "LIVE",
+            "lat": 13.811629,
+            "lng": 100.506513,
+            "lastUpdateTimestampMs": "1501110557772",
+            "images": [
+                {
+                    "id": "fc5e0bcfbd57449db8ae1ef59498af99.17",
+                    "url": "https://lh3.googleusercontent.com/aeqR5EX-If4O7JQjRhd8Gf9Q4-tUO5baf-yUdTyMII7cxY4GzLQP2P8KsecqVp7nwhBg42pLXSXpDKM4jpmorFXeoSw"
+                },
+                {
+                    "id": "59fc3febe8544a30bb942641e607e040.17",
+                    "url": "https://lh3.googleusercontent.com/AAHCNgOE5Y8IuGpVWhMd0hqxFzjxeGdXoX-DqJ7aLGfqA9mDdOwUv7lTgRJ9NY5w1vlJ1deLJxioEN-h2937cesj6Tg"
+                }
+            ],
+            "address": "Bang Kruai-Sai Noi 2 Alley, Bang Kruai, Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "45929338fa74ec1e46190f4def203daa",
+                "name": "Garden",
+                "score": 0.588
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.147
+                },
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden",
+                    "score": 0.588
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.157
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f46bf9857afd493980147aeaf6852acf.16",
+            "hashedId": "e8ffae2e2a7d5aa97dafa6b7343a599d63e34c7a",
+            "title": "Queen Sirikit Portrait",
+            "state": "GAME_REJECTED",
+            "lat": 13.809750999999999,
+            "lng": 100.50948799999999,
+            "lastUpdateTimestampMs": "1501109729462",
+            "images": [
+                {
+                    "id": "9b1056ec60894ecfabd7d81e98955fdf.17",
+                    "url": "https://lh3.googleusercontent.com/khDVHN5kThDSvnCn7WWbMOYUDlXvILLJ7h2kLT_RK5SmY_uEziyr6GY3gimRO-YqJhRxLxsRy92djfKvI2w-mF25vQ"
+                }
+            ],
+            "address": "Charan Sanitwong Road, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f8acd00658983ec38e8c39f34c8879c6.16",
+            "hashedId": "d1852ddede15a5aa989b74f240ec743cda04d975",
+            "title": "เจ้าแม่กวนอิม",
+            "state": "LIVE",
+            "lat": 13.812659,
+            "lng": 100.504165,
+            "images": [
+                {
+                    "id": "e568545acb3c3fe39bcf8c0e46953ad1.17",
+                    "url": "https://lh3.googleusercontent.com/mahMxo3AkwrDEFMPSFwbuQjXWMJF7WPrZMo9lmgprEfe9fIhEzF_lI1kk5J44DWKY9t3FFaSNrUsg1WIwJX3"
+                },
+                {
+                    "id": "e6d95290d5983edf90f2587014263dac.17",
+                    "url": "https://lh3.googleusercontent.com/FnQIZsDLRbazX-p0rnzJbSGXlqDJYgWH2vf3doZzgWS18_ZPJOF-RPWxH_wI-E6ZnqiOJ6X9smcvzy-fZOwy9A"
+                }
+            ],
+            "address": "Soi Mu Ban Aphirat, Tambon Bang Kruai, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Tambon Bang Kruai",
+            "postalCode": "11130",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple"
+            },
+            "categories": [
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638253940781"
+        }
+    ]
+}

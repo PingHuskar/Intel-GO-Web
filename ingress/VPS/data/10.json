@@ -1,0 +1,2294 @@
+{
+    "pois": [
+        {
+            "id": "049aa57b3c774a469b20ab1f72d9955c.16",
+            "hashedId": "d4f3cd8fe56dea91d0d764495d44b4dcb91c5892",
+            "title": "Small shrine",
+            "state": "LIVE",
+            "lat": 13.710744,
+            "lng": 100.535331,
+            "lastUpdateTimestampMs": "1501111552778",
+            "images": [
+                {
+                    "id": "4560350cf29f4d4f86cb3da5be5de409.17",
+                    "url": "https://lh3.googleusercontent.com/cp4qZPh0cjAtE7Fwge4KcGHHzimzrsjRWNppIiTHbVhU-c75uu-IW-yaE9tzfJV8k_jOMOfbuo_gxOMCbAJKpscX2Hk"
+                }
+            ],
+            "address": "Chan 16, Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.39
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.39
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.187
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.227
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0b495e7d608a413c82485debe9a9ea78.16",
+            "hashedId": "86340855544e3384d3fa94ce5cc820d793fb78cc",
+            "title": "Seahorse",
+            "state": "LIVE",
+            "lat": 13.716896,
+            "lng": 100.529614,
+            "lastUpdateTimestampMs": "1501109320946",
+            "description": "Seahorse sculpture outside Sathorn Suites Naradhiwas soi 6",
+            "images": [
+                {
+                    "id": "422a5b3ac70d440ebdda9e86b5b08b17.17",
+                    "url": "https://lh3.googleusercontent.com/OywCC91j9dtOC3hpfZdXfQLiYckQNWs8h7mN81B8xjffBceY4FjbFfeO02yx0IFXVlfU1vV2oySGRWzP9gyhDKKpi4o"
+                },
+                {
+                    "id": "666df2472b88420b8871fd6f40138b45.17",
+                    "url": "https://lh3.googleusercontent.com/Osfds_C6G3mfnZOVIBX2xVdyiMmk2Hsgh8YsoudMGxC9YMMA8mnhK3fd7KejQB9hPKPtUsqR_m34vZzpKs0Q4nCDDk0"
+                },
+                {
+                    "id": "615d9a650d204b55b5255cfc7680ebfa.17",
+                    "url": "https://lh3.googleusercontent.com/cJsVwc4loiPqQWU28SqT6HYlpo5y6ZHixeJ8j5NPV-jL1FP0TCBqZ6I-Q-VvQ07PJdXpFtTBahcBGSbtRHqShsy1pT46"
+                },
+                {
+                    "id": "3522beeb364b49ba92d0ceb153a795fb.17",
+                    "url": "https://lh3.googleusercontent.com/mW_U4NrSDnZFLLyF6qpGXr73F5Fgmmcx7bgMBQbEunayaJreMfpX482q2VIDsJCpDB2bX2nfqmzpbTha60gknjevVA"
+                }
+            ],
+            "address": "88/1-136 Phi Chai 2, Yan Nawa, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.873
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.873
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.626
+                },
+                {
+                    "id": "dd0bfa07dfc4ac59c2deae67eb67ef25",
+                    "name": "Sea"
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.087
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0bd93fbbe0c848548678f14c1c4957e5.16",
+            "hashedId": "7a13d0db1329d948f4c663eebf33783de9333bdf",
+            "title": "Anantara Hotel",
+            "state": "LIVE",
+            "lat": 13.715902,
+            "lng": 100.53098999999999,
+            "lastUpdateTimestampMs": "1550141238763",
+            "description": "Luxury hotel in Bangkok.",
+            "images": [
+                {
+                    "id": "cb033a1721794590b834f3845f90017e.17",
+                    "url": "https://lh3.googleusercontent.com/22XOH-RGeK42BFYzM4AhoaboxWN5dovXK_f1UftESOftVi8dpkerpY4M1EEWCGoXPUdfqKdg9VXUAkOO7_0jKDh5SA"
+                },
+                {
+                    "id": "d6de7e97daaa4c90bc0e8534aeb3924a.17",
+                    "url": "https://lh3.googleusercontent.com/u9J_RkTJ6MdldpkdJf3qrz4fkLGkBjzWuXdC2xlUzXWtfvYsrY2L-XCJAfyLbtVd4mioqm2FCi8--jsxMSfwbf-7Cmpo"
+                },
+                {
+                    "id": "5a6c2402b1c6462a8d79fddbcff792a2.17",
+                    "url": "https://lh3.googleusercontent.com/chbIjfsDAlLoeDgXU44X-9FcsWNMjd58qBVxbVE0kwesxfNx-8gmce6da8_NxlUhic3P0VWV2JlMXfiJwh-tsHJ6"
+                },
+                {
+                    "id": "62f69d9dcb3346ae8d6357525e53e6c6.17",
+                    "url": "https://lh3.googleusercontent.com/GG82enpvUTYDAtDVmCVyGdVxq6hfsMlqMpnNxCVjFRJ-HbCLwaiaFZ2CQ9o5kFE0-LS9Xwk68fBaJzl84u2nMRFuQwg"
+                },
+                {
+                    "id": "deeeba5f80534e149f849ebc1f8e1e05.17",
+                    "url": "https://lh3.googleusercontent.com/Vv1rSML4fJ_XDOU5qw_1oS21SFwUg_xIFhtiDx9ugwsQiqLSUm7-4sdtCWiJPi9lhY_Etb-rUv_jHgDuTmFlxvs1nZQ"
+                },
+                {
+                    "id": "cf933ad2707f4755ab42f839521bbcad.17",
+                    "url": "https://lh3.googleusercontent.com/sTTxa1OWCRZ6eEXNl3es57f-f5-a9rrHJaJNZb2jQBgy1h0KMB5PUaOD5K40E0rvkEr4nJxpCfzLkn3mL38txIbxU0A"
+                }
+            ],
+            "address": "273 นราธิวาสราชนครินทร์ 10 Yan Nawa, Sathon, Bangkok 10120, Thailand",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel",
+                "score": 1
+            },
+            "categories": [
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel",
+                    "score": 1
+                },
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.169
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.178
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0d843d529898341d8d406b493dd61434.16",
+            "hashedId": "c9eabd8ac56557c2f8a12eb2640f658f1378d6ed",
+            "title": "Singha GM",
+            "state": "LIVE",
+            "lat": 13.70942,
+            "lng": 100.532899,
+            "description": "ศูนย์การค้าวรรัตน์ สาทร กรุงเทพมหานคร ประเทศไทย",
+            "images": [
+                {
+                    "id": "7739cae5cf833b1587bf3a5265b4e603.17",
+                    "url": "https://lh3.googleusercontent.com/dQTCHj6emqjFysFHXIcOB3jswrtouhbEsjfjsEUSBEcpnhoPk41m5QozHfwufpiUtYf7FmRnGL9afv2-iqNMT3EoPV70xA"
+                }
+            ],
+            "address": "390 Chan 16 , Lane 6, Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646282186135"
+        },
+        {
+            "id": "0e4040902dad443aa6e063902607f553.16",
+            "hashedId": "9df8318b9c42af38f33adbee88c843e68e6ab2b8",
+            "title": "JCK Shrine with a Lot of Zebras",
+            "state": "LIVE",
+            "lat": 13.716505,
+            "lng": 100.532724,
+            "lastUpdateTimestampMs": "1501109392386",
+            "images": [
+                {
+                    "id": "7c95a636ab1a4a12b806ad5f9d2b18be.17",
+                    "url": "https://lh3.googleusercontent.com/Wlv532AMGxhFgnkK-2ox7aNEwyGx16O4W0mFreqSIrnfmV5aC7YhbzAJIBLZ3ZnDtblPNNqIB3P4XO7Mva5iGyf3qA"
+                }
+            ],
+            "address": "78/15 นราธิวาสราชนครินทร์ Yan Nawa, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.552
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.16
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.083
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "15b6188d3a2e38d1a616b94a06470d12.16",
+            "hashedId": "d4a624519c8214675a4b0e167e27dcc3ee49d146",
+            "title": "Chinease pagoda",
+            "state": "GAME_REJECTED",
+            "lat": 13.709489,
+            "lng": 100.5333,
+            "lastUpdateTimestampMs": "1625577956833",
+            "images": [
+                {
+                    "id": "0011ca81d4a03b3e853a06f197a27621.17",
+                    "url": "https://lh3.googleusercontent.com/Yy49mCDJxITuuK23RqvvsmkLhCvEh4igbo-fPinSj_JPPFjxY0Wjv_1KJePr8efC9AGaD-ucnKeL_jjjzVmw"
+                }
+            ],
+            "address": "258 Naradhiwas Rajanagarindra Rd, Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1625038529788"
+        },
+        {
+            "id": "18f335fc0cfb4ff2a7a1163cfd855998.16",
+            "hashedId": "84817eb211ba56f9a36d6a98a7c9bcf5e646c65e",
+            "title": "Thungjaru Apartment",
+            "state": "LIVE",
+            "lat": 13.715131,
+            "lng": 100.527597,
+            "lastUpdateTimestampMs": "1501109473167",
+            "images": [
+                {
+                    "id": "45fd03a98abe40b094328091f928fed2.17",
+                    "url": "https://lh3.googleusercontent.com/lTTn0H1Z22raatCtr5LJc2XWITq1_56rIX1v0TfYheOm31bw5uSZUxbt8yHxXk5Tx5temPkjSbPwA9NQt-V56sIfRA"
+                },
+                {
+                    "id": "82f611fe4c8e4474b8a77c87624907d9.17",
+                    "url": "https://lh3.googleusercontent.com/fAmbHHlZ7CKGpiI_cN0iLr5BdHps69fjBDuXIupDDrbjVY6yfYokQtqi_mtkJqu9ROXcg5SoWKDUJ7zZr0RXqfz-Aw"
+                }
+            ],
+            "address": "Soi Sathon 11, Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.282
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.282
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.087
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.23
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1f0d2d24306e43a391abbda76e574933.16",
+            "hashedId": "709a290145c69619cb1b255b48d1d4077e7ce28b",
+            "title": "พระแม่มารี",
+            "state": "GAME_REJECTED",
+            "lat": 13.713994,
+            "lng": 100.527389,
+            "lastUpdateTimestampMs": "1501109651565",
+            "description": "ร้านแอนนา",
+            "images": [
+                {
+                    "id": "bf303319b099407dbc0b7192649afc4d.17",
+                    "url": "https://lh3.googleusercontent.com/pufREKP0NybrzumxUwYR7EyfvJmrqh-voLyQwMoyeXfUODW3vaa1UlYNn6nAZ_v1QusW0Yf-jfR_yszo5q0TIKSK9Vs"
+                }
+            ],
+            "address": "266 ซอย สาทร 11 Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1fa767b245e53b22af69d202539a9a04.16",
+            "hashedId": "316dc68824afc6f4793531975a382b6335c4ec7c",
+            "title": "ironman part",
+            "state": "LIVE",
+            "lat": 13.714003,
+            "lng": 100.53651099999999,
+            "lastUpdateTimestampMs": "1626787457900",
+            "images": [
+                {
+                    "id": "ec6da2305afb351b9a786a75b2f60537.17",
+                    "url": "https://lh3.googleusercontent.com/ChpDdBpZhpE-3163NYTxS8C1os24sdJdd47Pa_9OrQzu3uLTmjFOKwa7LGAe-gklqmp-CS7cb4DB_PzoFX9b"
+                }
+            ],
+            "address": "2 Naradhiwas Rajanagarindra Rd, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.641
+            },
+            "categories": [
+                {
+                    "id": "22d5224ca0d7eafd78d83afc36d0ad0b",
+                    "name": "Monument Object",
+                    "score": 0.152
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.641
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.36
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1626688407376"
+        },
+        {
+            "id": "1ffeeb3bcd283a978c6fdbf4ce0b992b.16",
+            "hashedId": "5b5e1e5fc941df5e23a334bf7d7f05e5e85a25d7",
+            "title": "Dragon pole",
+            "state": "LIVE",
+            "lat": 13.709439,
+            "lng": 100.53361,
+            "lastUpdateTimestampMs": "1625578066295",
+            "images": [
+                {
+                    "id": "8dd24397c25d3c68a0764281880dd29f.17",
+                    "url": "https://lh3.googleusercontent.com/hHVW0EOYVkuJqYsqIghCSCsFXlHLKqmlgwDbigY6N5yE-g7sbc6VqPj1CLl7mFTy9mInM4Be5Sxr_OoadW5b"
+                }
+            ],
+            "address": "47 Chan 16 Alley, Lane 11, Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.71
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.186
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.71
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.559
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1625031541889"
+        },
+        {
+            "id": "2d391488097634168137f5f66827e3dc.16",
+            "hashedId": "7055efbd8ce78f20926f33429a098bc45df552f5",
+            "title": "ศาลพระภูมิเจ้าที่",
+            "state": "LIVE",
+            "lat": 13.712192,
+            "lng": 100.530891,
+            "description": "ที่ที่คนในชุมชนไหว้สักการะบูชา",
+            "images": [
+                {
+                    "id": "2fa76c1ebf2032ae8c5b388cefbf9d0f.17",
+                    "url": "https://lh3.googleusercontent.com/KTG-cKi40Mxk0kN6BPuMormwQ-wFYIVwtdpMpcEwBMEchyj-WByQUW8AocuOPf5vSSZuzXS-rrZ8tmGiBa9ceb5EUjyu_6FJdb17MQJ6Uw"
+                }
+            ],
+            "address": "73/2 จันทน์ Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1688640643777"
+        },
+        {
+            "id": "2ff543df864c34d4ae8f666fdcd155d3.16",
+            "hashedId": "e4217b5900f6f620f164e67c145d34c27208cce5",
+            "title": "ศาลเจ้าพระยานฤมิตร",
+            "state": "LIVE",
+            "lat": 13.710500999999999,
+            "lng": 100.528007,
+            "description": "ศาลเจ้า",
+            "images": [
+                {
+                    "id": "e3725011961534ec9d9f3360742dcc2e.17",
+                    "url": "https://lh3.googleusercontent.com/wG0M3hym7JysGEr1ULZY81DS6KakxQzi5bv7Nh68LWQEyIjp6Z6wk_pZVax2tOCR-ztSnMrAlCKK8P6E_C54bFp-vpKQ"
+                }
+            ],
+            "address": "198, 8 ซอย จันทน์ 23/2 Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648545430465"
+        },
+        {
+            "id": "30112b018a12428c9300a92978bc3d87.16",
+            "hashedId": "430b3b9feb10e3dfb78551eb078f19d9e1e31d36",
+            "title": "LPN Shrine",
+            "state": "LIVE",
+            "lat": 13.710087,
+            "lng": 100.533903,
+            "lastUpdateTimestampMs": "1501109552973",
+            "description": "Shrine",
+            "images": [
+                {
+                    "id": "dc510e0af1ab4e4c8e28a3002c13e675.17",
+                    "url": "https://lh3.googleusercontent.com/CXi_edg5cYJV0_RpKDqbzBnuuuCy82pyCk4hsi6KhEJL7ho1WY-utOin4uBvUDILgk7eKKMEaNN2H-AoqxHiRqFT9Q"
+                }
+            ],
+            "address": "1609/3 นราธิวาสราชนครินทร์ Thung Wat Don, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.655
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.655
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.131
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.191
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "339f8d0ff4c7478d9f70783ebe8a3f38.16",
+            "hashedId": "2f0b376883f2ae2ef34e2caaf71633308cd06201",
+            "title": "Holy Shrine",
+            "state": "LIVE",
+            "lat": 13.711782,
+            "lng": 100.53484399999999,
+            "lastUpdateTimestampMs": "1501109482276",
+            "images": [
+                {
+                    "id": "45c0b937e5f94ea491121ebfb423a294.17",
+                    "url": "https://lh3.googleusercontent.com/npID0XIj4jsOo0KL7iyC0IZaPui5itLIOAqFzBq776uicWqS6LWoE6bGcU_HJjjz5GVyNxrdTgzguuuDUhKV5RmX5lc"
+                }
+            ],
+            "address": "9/3 นราธิวาสราชนครินทร์ Thung Wat Don, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.732
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.732
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.258
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.139
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3645066b8d904098a3e76a74aae49c00.16",
+            "hashedId": "6cd502855b6a1ddea4f165470e1496e45709aa09",
+            "title": "Lumpini Shrine",
+            "state": "LIVE",
+            "lat": 13.711297,
+            "lng": 100.535144,
+            "lastUpdateTimestampMs": "1501110229840",
+            "description": "Narathiwas",
+            "images": [
+                {
+                    "id": "013d945af6a6468c9d59cdf8f471e2af.17",
+                    "url": "https://lh3.googleusercontent.com/8TWDABZTRtE7pZ4LZkYTCpf29wqRWrJS2ce9EQEDcERxzPq-6lKJSlSTzap1JFyrobyhMWJesIGd0fFzJv7Aoh-I7jI"
+                }
+            ],
+            "address": "116-1206 นราธิวาสราชนครินทร์ Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.474
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.474
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.188
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.348
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "386c0ff84c4f4a239e703c8c39b159a8.16",
+            "hashedId": "37fada032215fe426d0cad107c61eb6106e6132d",
+            "title": "BRT Station - Arkan Songkhro",
+            "state": "LIVE",
+            "lat": 13.717132,
+            "lng": 100.53275,
+            "lastUpdateTimestampMs": "1501109724790",
+            "description": "BRT Station",
+            "images": [
+                {
+                    "id": "47fd2a1a9c144c32b65769b2e212ebef.17",
+                    "url": "https://lh3.googleusercontent.com/p7vJxtCQVRAkk-4FYgNPdjqwXJPCRJSn-_G0qtogQRwgPW3aiJek8vrzJb3QGDW3i9HnTySnvAg3d8hOVfUGUzgUP5E"
+                },
+                {
+                    "id": "ec8478b5e5b84770b04e75d5a8274cf7.17",
+                    "url": "https://lh3.googleusercontent.com/meel4LSZItYURM5aqnbru-QPFazd65A4eTMYd5YoNZ9GjSlhcWGoxDIsMD_CyK8u7d55FJJr_13aQA9sniLym4EMzk6Y"
+                },
+                {
+                    "id": "d0be28ed98bf41f0bbd59a3d724eb76e.17",
+                    "url": "https://lh3.googleusercontent.com/bYJLEpmtls6ZSPmaa-5cznBebSNi5cRsxrEZxZ92yTKnLmO_v5x8wiA3GBeuq-PxM3t8egHKM-l2SLZ1uYlKq2eujTRX"
+                }
+            ],
+            "address": "78 นราธิวาสราชนครินทร์ Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "db55bc74a2fbefe1b15371ade71559b4",
+                "name": "Train Station",
+                "score": 0.863
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.443
+                },
+                {
+                    "id": "b6182b3598cfcfca5631c3252b134183",
+                    "name": "Transit Stop",
+                    "score": 0.11
+                },
+                {
+                    "id": "db55bc74a2fbefe1b15371ade71559b4",
+                    "name": "Train Station",
+                    "score": 0.863
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "39fe257bf5e032e89a52efb3071e3ed1.16",
+            "hashedId": "ffaa1add2b047d6d5569b0c310ab8e434294209c",
+            "title": "ศาลพระภูมิสภาอุตสาหกรรมฯ",
+            "state": "LIVE",
+            "lat": 13.711772,
+            "lng": 100.535865,
+            "description": "ศาลพระภูมิ",
+            "images": [
+                {
+                    "id": "53984a1e3e0533db9a06441abe046294.17",
+                    "url": "https://lh3.googleusercontent.com/hegABoc3WDRK3FydbguWduWAtDWGIMC-krC34yfaYzheJovlqocxU7_bMT-7AI7Nlw2CJvGRY5awj53JZt6H2M47SOI"
+                }
+            ],
+            "address": "2/1 Naradhiwat Rajanagarindra Rd, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1670660967721"
+        },
+        {
+            "id": "3cb1a3d4e7b04634a33b116ac1070d60.11",
+            "hashedId": "a1dd237fb74ba69ff09df16b5a88ac51c629497e",
+            "title": "BRT Technic Krrungthep Station",
+            "state": "RETIRED",
+            "lat": 13.712422,
+            "lng": 100.535052,
+            "lastUpdateTimestampMs": "1501109807999",
+            "images": [
+                {
+                    "id": "435264e2e2c1434fa8aec856bf20c7a1.17",
+                    "url": "https://lh3.googleusercontent.com/RYL_yb7RzMM3HwvIO9wwvZsEJd9seSp3SICAfujCCwm1-rZppgDIIH8K0q87nY3m1XGz0rUp5Fy2HFFED2Y6b88EeQ"
+                }
+            ],
+            "address": "BRT technickrungtep, Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "43757f7dc2cd33d0a71c31fda2859c8f.16",
+            "hashedId": "befa223ccb49bcbfa6a6ab88c5e9206e1060952a",
+            "title": "ศาลชุมชนไก่ย่าง",
+            "state": "LIVE",
+            "lat": 13.709057,
+            "lng": 100.529997,
+            "description": "มีอายุมากกว่าสามสิบปี อยู่คู่ชุมชนมาช้านาน เป็นที่เคารพของคนในชุมชนมาก อยู่ปากทางเข้าออกของชุมชน ใครเข้าใครออกจะยกมือไหว้เพื่อเป็นสิริมงคลกับตัวเองและครอบครัว",
+            "images": [
+                {
+                    "id": "5d5c2d52dd543b789dbea34c4900c656.17",
+                    "url": "https://lh3.googleusercontent.com/yHozTSd08ygY6e_kQzgrLDXToyE9u63BpmfUXfFoFX3Ov_FzUseLmCXF9SA7i-fWYuPF44-v-yJ8IMOJ36svKrn_V99euTXTUBILWZNE"
+                }
+            ],
+            "address": "341 ซอย จันทน์ 16 แยก 3 Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1688628711373"
+        },
+        {
+            "id": "476f534dba1148f58f0539f23f0cacb1.16",
+            "hashedId": "4e1c2896423ffe1557713489ccbc2f830982d82a",
+            "title": "Street Shrines",
+            "state": "LIVE",
+            "lat": 13.713223999999999,
+            "lng": 100.534233,
+            "lastUpdateTimestampMs": "1501109282121",
+            "images": [
+                {
+                    "id": "b06fe1c677cf428c8cf3ac275b119fd1.17",
+                    "url": "https://lh3.googleusercontent.com/UpUbB1dt-NALHJslQy_tJly8q0U_b0JL6N8tFASajdWGRrYjBZVRdrRKWsDlC2CJt9CIAjrZTAwCZruiF_-3mmBssw"
+                }
+            ],
+            "address": "1561/2 ถนน นราธิวาสราชนครินทร์ Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.337
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.337
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.177
+                },
+                {
+                    "id": "93a0f087aafe93f75819f28e06f049fb",
+                    "name": "Tree"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.164
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "48298305e9a443e6a7130290d32c33cc.16",
+            "hashedId": "de4851ee58297730b6190c8460370ce397c9e69a",
+            "title": "RUTK Sign",
+            "state": "LIVE",
+            "lat": 13.713253,
+            "lng": 100.534887,
+            "lastUpdateTimestampMs": "1501109511964",
+            "images": [
+                {
+                    "id": "7ef639424d3a485d839d857618e334d7.17",
+                    "url": "https://lh3.googleusercontent.com/S8h2eBHBAMPs9Saayfe_cd9-19Z2ufKxleucpyDtyjklwTb5qpg-PXMMGV1wT02U6-ks2UXtRjsuraTzhqraCdeS9b4"
+                },
+                {
+                    "id": "d2db5ea8f415471d99ddc96083d2cd23.17",
+                    "url": "https://lh3.googleusercontent.com/nepQi2sdCOEjZXOeqf7rcCFeSn2jw2EEuKSxtoGegCk1kufAFG8KEFx64CyHDVQ3t32-HgPNST8m1dOpDK2iiRipVA"
+                },
+                {
+                    "id": "b63f96280d9a42128ca514b504203ece.17",
+                    "url": "https://lh3.googleusercontent.com/Wqs7KHIY_7tL_ZBXeHaEbgqYkE9ZWeCRjeA7DbFvNuFW0JUoJA-UXwWpI_a2lwQIR30WMc9eWRv78X6Zxm_S7Vj4sbA"
+                },
+                {
+                    "id": "262f4ea456fe3e5c928bec612cab6413.17",
+                    "url": "https://lh3.googleusercontent.com/FHTi3D-CyFJoSIMdGSLgQZp5_5Ng-YesQijJHRZD_waumyevHthTgKtpr-f0rQocF9KG6JD3GGdevyied0mbouctV5wgYO2iF74v4G2H"
+                }
+            ],
+            "address": "2 นราธิวาสราชนครินทร์ Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.29
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.29
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.225
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.163
+                },
+                {
+                    "id": "d129e72664470c55acaea6ae18983a3a",
+                    "name": "Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "484a857d6d164e3382f5fd0de7b1553e.16",
+            "hashedId": "8bf174b7a385e4742743e158c069aeccd7f93fb7",
+            "title": "Kuan Yu Shrine",
+            "state": "LIVE",
+            "lat": 13.709397,
+            "lng": 100.533406,
+            "lastUpdateTimestampMs": "1501109546758",
+            "images": [
+                {
+                    "id": "2b7a004e67f04593a0914f317c8bd770.17",
+                    "url": "https://lh3.googleusercontent.com/Mj7GT5mcn7pc3qGS8xg-uO7oGWlbjufWTAVM204UsGZyBBIQroE5aTfYIFbRuAE3dln5Dug0B5NTadE6qJ_caw5IrnY"
+                },
+                {
+                    "id": "9674c3ed3d9f43faaeb6abd30f1993de.17",
+                    "url": "https://lh3.googleusercontent.com/Xi2JtaDmmr8pFRuo9Qd33Tt93k_z8NA6JEnuiy_svpY_L6pXdppvDI9taEav5sxK0fUOo-lPRk-g3n-9kd5t1ZgIGg"
+                }
+            ],
+            "address": "Chan 16, Thung Wat Don, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.349
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.349
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.156
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.133
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4894cb7a4e5f385093d46b637550aef9.16",
+            "hashedId": "58789da7f8f0bd9240232dd9e2e2cb02093f0b64",
+            "title": "เจ้าปู่พญานาค7เศียร",
+            "state": "LIVE",
+            "lat": 13.708801999999999,
+            "lng": 100.532316,
+            "description": "สิ่งปลุกเสกจากวัดคำชะโนด",
+            "images": [
+                {
+                    "id": "31e2b9a92da33e9d982141aba97967aa.17",
+                    "url": "https://lh3.googleusercontent.com/oeXQKjdJRw6WyZ2fLeNQ7G2BaZvq_euhsUotyDChvg-VDmZm12JOcS8pzouhfiQAwrVPVTJdby2q8uuC2RKccxP0_Gs"
+                },
+                {
+                    "id": "ceeea544b92f35cf9f6a5c6a8d6f9e9e.17",
+                    "url": "https://lh3.googleusercontent.com/jmAUw_5sAcMdzjb2ttb58-TAL9QhGIvYNU9-etswlip-YHEBV89Wj2z5PjbTTxQRWRmCdy9XALmGCpIueBLF4pN5A0fF"
+                }
+            ],
+            "address": "33-37 Chan 16 Alley, Lane 4, Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1653982830823"
+        },
+        {
+            "id": "4928a130feb142759b2b4e1c2606f0e5.16",
+            "hashedId": "adc1bc5f7fa4d2b3753752ec2950c4364f04e8ee",
+            "title": "L.P.N. Fountain",
+            "state": "LIVE",
+            "lat": 13.710939999999999,
+            "lng": 100.53549199999999,
+            "lastUpdateTimestampMs": "1501109793770",
+            "images": [
+                {
+                    "id": "7adde279e3c74bac823ea9ff44233385.17",
+                    "url": "https://lh3.googleusercontent.com/9EPbLCcy9kNzNAKULE6IGruzYN1XChxXxGVUh6LfFU6eqjjh8KIJHsryctpJpK9SgNnbinT-EBJoljtu0khCQrX4QYw"
+                }
+            ],
+            "address": "1430-1591 นราธิวาสราชนครินทร์ Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.9
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.093
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.079
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.9
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "55093638c3ad47f58439f3a0011597fb.16",
+            "hashedId": "801921c96719310b3674f9c128849afc2cf62764",
+            "title": "Apartment Shrine",
+            "state": "LIVE",
+            "lat": 13.714709,
+            "lng": 100.529046,
+            "lastUpdateTimestampMs": "1573033686261",
+            "description": "An imprint of protector spirit.",
+            "images": [
+                {
+                    "id": "c5b6143ffbd2401e9bd94b947fb8ae0b.17",
+                    "url": "https://lh3.googleusercontent.com/ZWwnwPROkFpQ6LCwn-92kslGIBRLQ5-119_ebmCHSevUa7i1nQTpw0dy_S4zoOG7t4sT9PZMREdKSeCl6YFfBa7FUw"
+                }
+            ],
+            "address": "Sathon 11 Yaek 13, Yan Nawa, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.678
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.678
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.183
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.187
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "56bc0c8ef36833059e83772a21d94020.16",
+            "hashedId": "f524a87d7b416bf4c8d50e7c22c4cf1a0195a59d",
+            "title": "สมาคมหวังสงเคราะห์",
+            "state": "LIVE",
+            "lat": 13.711796,
+            "lng": 100.531249,
+            "description": "สมาคมที่เป็นศูนย์รวมใจของชุมชนกุศลทอง",
+            "images": [
+                {
+                    "id": "2b0b40477c3c3fadbcb92f26cb68387e.17",
+                    "url": "https://lh3.googleusercontent.com/bSO7HWzSfYPXRVepQKL7E7FlAh2bCov5bI7Rr_j-tvgTPQO_a-TJtUteubXW_4u6naa5emqWuotKEoS-Z8Nbw8tPU88"
+                }
+            ],
+            "address": "527/44 จันทน์ Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1700225627681"
+        },
+        {
+            "id": "65500a74b21a42319ffa13ce655ea64f.16",
+            "hashedId": "864e6ab1b56f2206735fe126129ac85563e19c95",
+            "title": "Shrine of the Present Eight",
+            "state": "LIVE",
+            "lat": 13.715949,
+            "lng": 100.532466,
+            "lastUpdateTimestampMs": "1501109446648",
+            "images": [
+                {
+                    "id": "20b4b3b7cfe54255b9bfd6adcafddab9.17",
+                    "url": "https://lh3.googleusercontent.com/MhQ85FRWiVXZdUHVYnFUWOfm6_nTDSpknm-uqNB6ELr1A0GRjeq4kh3PfECgQtSrXbHiuisefYGJQB5Ghkxw8DNfm68"
+                },
+                {
+                    "id": "290103510fa747d290e92f4d47aa8aad.17",
+                    "url": "https://lh3.googleusercontent.com/Vn5UczltlVLb9-IlKsL6l5Q3DtTiBVRbg74GXs4JyQG3lRjSiBnjAnUZqzyogDPFvwbV89NaHMUQBnV8ZuTZX_05RGP8"
+                }
+            ],
+            "address": "Soi Naradhiwas Rajanagarindra 8/1, Yan Nawa, Sathon, Bangkok 10120, Thailand",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.195
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.252
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.415
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6d7491cfcc304fb48e679acca2cc09fb.16",
+            "hashedId": "03553c32287c9ad4805d2d5497f0cf5fe67d7a79",
+            "title": "Naga Pool",
+            "state": "RETIRED",
+            "lat": 13.713743,
+            "lng": 100.527687,
+            "lastUpdateTimestampMs": "1609332070540",
+            "images": [
+                {
+                    "id": "0c41dc2b9304411a8bc496a60a41075d.17",
+                    "url": "https://lh3.googleusercontent.com/0dMR9116JFg0gotrOcMlCC-15oejIeI-_8rCdAUOsfVGiZoN3dQXzY3NujUj51oR8BPC1YPcc_m6GIiJr9QBLx7sb1ZW"
+                },
+                {
+                    "id": "7e21d9ed93cc4b6f802ea4dce58db481.17",
+                    "url": "https://lh3.googleusercontent.com/VxkM-TwLM2NytEfuLSjT2PVWd4JlVXe9D-s3bECdJNM2tb4BDi-s3eViY_YnwVemGRZ5l8eVCwzfC-5TwOrJ-hsAqS5D"
+                }
+            ],
+            "address": "211 ซอย สาทร 11 Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7331193d0f344398ba7fb66be37f5d41.16",
+            "hashedId": "943782839552ee3d2757461b180cb570b9b7b5aa",
+            "title": "Left Lion",
+            "state": "LIVE",
+            "lat": 13.711727999999999,
+            "lng": 100.527346,
+            "lastUpdateTimestampMs": "1501109027261",
+            "description": "Chan 18/7 yaek 22",
+            "images": [
+                {
+                    "id": "e2bb187b01fc46a9a750b3938e8ea1c2.17",
+                    "url": "https://lh3.googleusercontent.com/lyOdEudt7qps2sAcDLdQMec2UNxPDM34drN3WIFjdVpcj8sSm0QtppQuTcS1J9pePAkStzWSu2z9MiVsYABQZYNIvg"
+                },
+                {
+                    "id": "9465a1fd95bd4bbaac954921022c4829.17",
+                    "url": "https://lh3.googleusercontent.com/CZXFeYFpxJ2WN6jHOcvUhV7w1O8CQs3qLWUacnjxa4oLf_7iDuYqDpmeDLR0p3D6uneuC7r-41TRRJ7hFGnj2UkGbLQ3"
+                },
+                {
+                    "id": "fd646763a8084b30a82c2434b5429fe7.17",
+                    "url": "https://lh3.googleusercontent.com/HXwcTc8B1Y1tSJntXuh9FvGkka8Ho6ZP0q9I7z92QhIaliBFTbn1-LIX4NqQgBYBxPrYHRq82UMo-DUCY5kaoke_0Q"
+                }
+            ],
+            "address": "25 Thanon Chan, Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.586
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.522
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.586
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.099
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8532af451e9a471f995776d053b7b31d.16",
+            "hashedId": "4e58c30fb898bbc5992236fe261f9d472b0a8d47",
+            "title": "GM Singha",
+            "state": "LIVE",
+            "lat": 13.708905999999999,
+            "lng": 100.531409,
+            "lastUpdateTimestampMs": "1501109519498",
+            "images": [
+                {
+                    "id": "92009f2a792240509d5637474b22e841.17",
+                    "url": "https://lh3.googleusercontent.com/2HT8WH3IywoUV5e8TbzViU4frQ_xRusi8zu30TDO_mGVDBfqDs9Jw5W9p6XS9Is5Me1hyEx7ZrCjlpJgeed3sp6WYq4"
+                }
+            ],
+            "address": "Chan 16 , Lane 8, Thung Wat Don, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.326
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.148
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.326
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.179
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8db43e90effe47c29385ce1457a276bf.16",
+            "hashedId": "1db7ae6025099f9c77c3171b72050155a6ef932b",
+            "title": "2nd Class Shrine",
+            "state": "LIVE",
+            "lat": 13.715841,
+            "lng": 100.527569,
+            "lastUpdateTimestampMs": "1501109322193",
+            "images": [
+                {
+                    "id": "ef3987322f8d462ea0911ab2575a19d6.17",
+                    "url": "https://lh3.googleusercontent.com/bsa4ak48o0qD7y3XoztCSiB29t-nN1phwC-TtGZBt5GAjE4oAOBs0zxz6D_NmJKrVwBdYxOH6hpnvjh7Z3pdtemcs7g"
+                },
+                {
+                    "id": "13ec223ec82049a2b927f08e8d405d08.17",
+                    "url": "https://lh3.googleusercontent.com/ScxPPBB9TpY1_zvNzrMQ6HDae4Q63I7udON9zAfndB8tEwZ0edWhbT1gftUDF2uVP3q6q9SL5yRXzl_CBsgPJG2q"
+                },
+                {
+                    "id": "8d0fc156abe54077955c8c3a4dcc533a.17",
+                    "url": "https://lh3.googleusercontent.com/3vI4GTe7wCdpn6OVl6jU8NoU0JzYQvwbOhy_U5J0aPU4RDpE6A3wkGdB3PvUxzQGByekKCiXdy2FL-XzV96lnJY19LBp"
+                }
+            ],
+            "address": "145/2 สาธร 11 Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.28
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.28
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.167
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.108
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8fe5f9fedea945a2a0e851e56267c8f2.16",
+            "hashedId": "b9671c44c0da4fff2578fa62698e2b74e46c77f6",
+            "title": "Double Shrines",
+            "state": "LIVE",
+            "lat": 13.716125,
+            "lng": 100.532786,
+            "lastUpdateTimestampMs": "1501109937503",
+            "images": [
+                {
+                    "id": "5b39183622664251a37a24254cd843a6.17",
+                    "url": "https://lh3.googleusercontent.com/VbWLq8lj_NQaq80iy5hO0w5NBbubp1yzTpG_-rh5-L6VlKVM-DA4pJMTs-tsVMeEaiCz57VMq3oxz37CtAGDLc8S2g"
+                },
+                {
+                    "id": "cf945efcd00d4f45828046b89e1e4165.17",
+                    "url": "https://lh3.googleusercontent.com/dblR7csOh7iwWAt6arq3isfH5uJrtFCwqF_PEh7r0r-gpPpkY2kfnP7aRZF2D1Z831ramCICHT2E0VmaxhXEm3-RDg"
+                }
+            ],
+            "address": "78 Naradhiwas Rajanagarindra 8/1, Yan Nawa, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.352
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.352
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.228
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.239
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9d3ba1a361c9455b80b79f2d339fb4eb.16",
+            "hashedId": "8555f78e1f218d5a1aceb996617edf2e3ac41b7f",
+            "title": "Chinese Shrine",
+            "state": "LIVE",
+            "lat": 13.712762,
+            "lng": 100.527163,
+            "lastUpdateTimestampMs": "1501109534869",
+            "images": [
+                {
+                    "id": "c12af92ba8f5459694f40c883de451ae.17",
+                    "url": "https://lh3.googleusercontent.com/beuWwDZXfjpawejU3A9LWxhGEWMmVsfuZLEHyu6FW_1YvDkMV-y4dV8BgUgRbSvLwVaSFxQ523AiBJ_bytC56-YAYw"
+                }
+            ],
+            "address": "96 ซอย จันทน์ 18/7 แยก 28 Thung Wat Don, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.341
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.341
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.316
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.252
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9f074d938fa043ddac28c8715043e657.16",
+            "hashedId": "27a2a301273646276cdd64567e3fd94febf6f03f",
+            "title": "White Shrine",
+            "state": "LIVE",
+            "lat": 13.715155,
+            "lng": 100.535935,
+            "lastUpdateTimestampMs": "1501110004916",
+            "images": [
+                {
+                    "id": "8d08353b10ae4b4ea596e20f14988170.17",
+                    "url": "https://lh3.googleusercontent.com/WXH5f-mdpJBvjYvtgUxQ8QkbZJzuaWFL6DPlTJrxfigtylAS1WyjrEuxD1ikG_29q2_7KJ7dBGkVPuf80qOAUqQeEek"
+                }
+            ],
+            "address": "1086-1092 ถนน นราธิวาสราชนครินทร์ Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.404
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.404
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.138
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.297
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9f5370addd7549258f99bf6e6dbdcf70.16",
+            "hashedId": "26713ffc3792c8b40d0a57a8bf07ab5a9a7ae90f",
+            "title": "Fire Tyrannosaurus",
+            "state": "LIVE",
+            "lat": 13.717466,
+            "lng": 100.532867,
+            "lastUpdateTimestampMs": "1501110081708",
+            "description": "It stands at the entrance of Naradhiwas 11 alley.",
+            "images": [
+                {
+                    "id": "ea4423ad07e74131bde2b488974e8661.17",
+                    "url": "https://lh3.googleusercontent.com/vyHZJUSI58swruvvPMIxW8IYi6J0j1j5TFtXUTCqxRhcVJ9OP0v8tFzSJDA_5aUXv3VYdqLVymsjxg0xZu3LgVKT94iQ"
+                },
+                {
+                    "id": "a7ba5c83552d4e9283dd4efbd31ab4a3.17",
+                    "url": "https://lh3.googleusercontent.com/hb5s1i2bs1jtFIXWIXN6XHnvUnFiX-RW_t6yYOf5qUYRqWuzVXC3Bl_b41tGTePLWvNrcIZPvn9KJG7hjCOiYCf2g3M"
+                }
+            ],
+            "address": "Naradhiwas Rajanagarindra 11, Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.366
+            },
+            "categories": [
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.101
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.366
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.243
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a119a63690bb42d9822d25658c8835eb.16",
+            "hashedId": "e0fe30aac88a1d78be72cc4b5f2b947ee049afe6",
+            "title": "Chinese Lion",
+            "state": "LIVE",
+            "lat": 13.7141,
+            "lng": 100.53385399999999,
+            "lastUpdateTimestampMs": "1501109584051",
+            "images": [
+                {
+                    "id": "316a6ed6cea04245be74711b2e539a57.17",
+                    "url": "https://lh3.googleusercontent.com/uvyqMQFmB1DqT255pPHpAH8YSouzmo9qHFuG0skXnHosNIPsurbaIJo-qL8PcRT1gSZCjZgNnSwfSE954Rpu7CpWvlw"
+                }
+            ],
+            "address": "72 นราธิวาสราชนครินทร์ Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.746
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.746
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.49
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.072
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a5fd7f456f56499cbbb3ef7a2cb3574e.16",
+            "hashedId": "ef62a3220a3acbd328ced6fd3b0347f0fc3dcc80",
+            "title": "ศาลพระภูมิ",
+            "state": "LIVE",
+            "lat": 13.712781,
+            "lng": 100.534498,
+            "lastUpdateTimestampMs": "1501109405795",
+            "description": "Spirit House",
+            "images": [
+                {
+                    "id": "e4e296ec7fda4d99a3bcd6e400dd5907.17",
+                    "url": "https://lh3.googleusercontent.com/1KaVMh85jZZ39wOKeKi1MlPuYFtF5UNZwNcmQPlPxWMLjrS7jL2PEpyOYwEFWkT6OzvdeiztsbgSmmdhh1EZlWvL9Kk"
+                }
+            ],
+            "address": "689 ถนน นราธิวาสราชนครินทร์ Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.197
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.197
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.156
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.14
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a61275c28ba64cefb6990549069a3ff8.16",
+            "hashedId": "6381f0857241aca05779aadc3ed1bcd3518dfb44",
+            "title": "Kan Plance",
+            "state": "LIVE",
+            "lat": 13.714202,
+            "lng": 100.52913799999999,
+            "lastUpdateTimestampMs": "1501109425429",
+            "description": "Apartment",
+            "images": [
+                {
+                    "id": "424b5ee1bdbf4f4cbae8d5ac99232027.17",
+                    "url": "https://lh3.googleusercontent.com/Le5KOH9ktvxI-qPJZdI0-u2TryJ2d2G6cWDv6x5jk3O1g2hBFhXb5QpFgxBjEFPRpdYT8umRa-Uj6rPbs7d8sgMR5Q"
+                },
+                {
+                    "id": "99400d8c246b3b4da54038c1598bf4a3.17",
+                    "url": "https://lh3.googleusercontent.com/sgX4h_Bxn6VZdSZDNbYUTJLKoDX1rD6-Ck3dXaARN5glxuujotyl0KaenhnA-pY1ipDk83VdmT5DqvU2keVxgNzX4i0LBRkV_4uROZk"
+                }
+            ],
+            "address": "358 ซอย นราธิวาสราชนครินทร์ 8 Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "074e62624e5af37799c3d3e98593e33f",
+                "name": "Apartment/Condo",
+                "score": 0.315
+            },
+            "categories": [
+                {
+                    "id": "074e62624e5af37799c3d3e98593e33f",
+                    "name": "Apartment/Condo",
+                    "score": 0.315
+                },
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.197
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.173
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ad396528824d482293e5c9794dffbb10.11",
+            "hashedId": "97d9be9ed1db08d429ef7515bbffc51c58b52ef1",
+            "title": "Elephant Ball",
+            "state": "RETIRED",
+            "lat": 13.717129,
+            "lng": 100.531089,
+            "lastUpdateTimestampMs": "1501109187291",
+            "images": [
+                {
+                    "id": "a5a6a910f6e247e99b3cec10fe0280fb.17",
+                    "url": "https://lh3.googleusercontent.com/tGU1FdY7P6--XPgdmABVz2JU2u5jf-wJx6Nt4GTl7kLqYChveiABCbTLFw_c7j1N5nYLO_be8M9vxUT-svxKKFBOrQ"
+                }
+            ],
+            "address": "68 นราธิวาสราชนครินทร์ 12 Yan Nawa, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c1c54902efdf4e93876504dac15e9322.16",
+            "hashedId": "6667fb0cca14932fc8b3399a47305e316a1c701c",
+            "title": "คอปเตอร์ไม้ไผ่",
+            "state": "LIVE",
+            "lat": 13.71382,
+            "lng": 100.536307,
+            "lastUpdateTimestampMs": "1501109475988",
+            "images": [
+                {
+                    "id": "88fc2d36dfdc4648b2b7ec3669b0ffe2.17",
+                    "url": "https://lh3.googleusercontent.com/xuyUXN8o7jk5y3nouq1xgLGlyiIsfrVkF7NKhlJ59kBz-Va3l6ww67mUcWmMQJMykp6wmZEQWPKpwFW9v8qHCqaQYKld"
+                }
+            ],
+            "address": "Rajamangala University of Technology Krungthep, 2 ถนน นราธิวาสราชนครินทร์ Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.774
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.061
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.774
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.089
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ca22a939f0ef4390a1d1faee8290a54e.16",
+            "hashedId": "875a7321919820b3582c13d64f6e7b8513e54a26",
+            "title": "ศาลเจ้าแป๊ะกง",
+            "state": "LIVE",
+            "lat": 13.713709,
+            "lng": 100.53403999999999,
+            "lastUpdateTimestampMs": "1501110113419",
+            "images": [
+                {
+                    "id": "d3cadf4fa10c4c27b27121cd84275e74.17",
+                    "url": "https://lh3.googleusercontent.com/VMcpGy091p0dXIAz_8xja2ylTDt1Kq5mxzpKc4JJqvNdo6zt2VnyKx_s2Eyk9TfeNXhbs65GKuGM1suEeOSD2frdn3mr"
+                },
+                {
+                    "id": "a82b068eb6ea4c9aaab87b69cad352c9.17",
+                    "url": "https://lh3.googleusercontent.com/GHyt3l0s_zEFtkyQTcC81O5g-kbMNDXaIyfNNgtMUu0KkK1QcfwL-ICJNbPsGJst2eu-BeJm9lmaVNCGeDvLMq2sj9g"
+                }
+            ],
+            "address": "45-72 ถนน นราธิวาสราชนครินทร์ Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.225
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.225
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.159
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.152
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d245905b70f2445ebde228edd139cd7a.16",
+            "hashedId": "431a366c7722c214462d978004318f6cc82ac71f",
+            "title": "Mariah",
+            "state": "LIVE",
+            "lat": 13.71313,
+            "lng": 100.527311,
+            "lastUpdateTimestampMs": "1501109241801",
+            "images": [
+                {
+                    "id": "c6c5aed1e1aa4513b2599e4347492d5d.17",
+                    "url": "https://lh3.googleusercontent.com/sdKWQoHRRx7qlIavbLlE9Q0ydaDr0GGR_mDoS4inFI-Z51iqQkZkEBir6dTLelsLb5RHDa6Jl56oGVbuHSvPjsaJFA"
+                }
+            ],
+            "address": "Soi Sathon 11, Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.52
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.109
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.52
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.126
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d47f4cd1754444fb99ef2d3250c8ba5e.16",
+            "hashedId": "565c7145756a5f95a4930489c90025806039b906",
+            "title": "Siam Orchard Fountain",
+            "state": "LIVE",
+            "lat": 13.714711999999999,
+            "lng": 100.532856,
+            "lastUpdateTimestampMs": "1501109923572",
+            "images": [
+                {
+                    "id": "59b799894ab245618dddb5a3b033295c.17",
+                    "url": "https://lh3.googleusercontent.com/2hyP5SVY0-j85X2F7KkSLxLYSe1o0Fe4Eh9JsUAzBlqZqhe8SfBAXgvCeVgrlyMP938FA02OOYo6CqL-M6MFmSK0U6w"
+                }
+            ],
+            "address": "267 นราธิวาสราชนครินทร์ 10 Thung Wat Don, Sathon, Bangkok 10120, Thailand",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.902
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.08
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.062
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.902
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "df29e6288e343e41be021b35c9e45e49.16",
+            "hashedId": "9424ddb3d1656807a45b3adcd5a060d187e75ed3",
+            "title": "สวนหย่อม ออกกำลังกาย",
+            "state": "LIVE",
+            "lat": 13.714720999999999,
+            "lng": 100.53448399999999,
+            "description": "เป็นสวนสาธารณะที่ให้คนมาออกกำลังกายกัน",
+            "images": [
+                {
+                    "id": "750c4b21d9183461a0062b6aac7b1454.17",
+                    "url": "https://lh3.googleusercontent.com/eo_jah4MZNtDV-78bk1Zb-rjNreKCoiU_CgahHOEOj3pvdHE1wLDuHOxc5ot3g0QbE8utsVKhX_xQ5zcSyxl2PXp3N3wp7EikFIplSI"
+                }
+            ],
+            "address": "1118 Naradhiwas Rajanagarindra 17, Lane 1, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1687517974105"
+        },
+        {
+            "id": "e1c99db5f6dc40d4ae4f5870db9a9fbc.16",
+            "hashedId": "64c2432a8c1bceb914db82d2258705b9d8ba896e",
+            "title": "Viva Kangaroos",
+            "state": "RETIRED",
+            "lat": 13.718107999999999,
+            "lng": 100.53161,
+            "lastUpdateTimestampMs": "1607664664991",
+            "description": "Kangaroo statues out front of City Viva shopping complex",
+            "images": [
+                {
+                    "id": "82951a98f07848259f04cbf96fd6cca9.17",
+                    "url": "https://lh3.googleusercontent.com/d67Xkfg3wM8Ueb5fc3pjHvezk4iRGV324qAjE-YuGbk32lf5Dst8s7Lr5-WVeT2-PkrUlGlv3mp07H54fTUdHZkOw5U"
+                },
+                {
+                    "id": "d2b76c05d32d4a18bd7a0334ea789403.17",
+                    "url": "https://lh3.googleusercontent.com/0IJHpAum6D7pgW-xz-o88evabrQKD4m-42oMYC2ZF2KdomyMprUD9lqkmQnIvaf1-tbx1zZ4R5hobvnZuJh0rRK6YA"
+                }
+            ],
+            "address": "Naradhiwas Rajanagarindra, Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e8f8bbfa00f14b01a515834e38a83cfd.16",
+            "hashedId": "f7d2be74c3cc589de308d51595e1fe33c6e5c84c",
+            "title": "Shell Fountain",
+            "state": "LIVE",
+            "lat": 13.716877,
+            "lng": 100.53304299999999,
+            "lastUpdateTimestampMs": "1501109492727",
+            "description": "Fountain in a Gas Station",
+            "images": [
+                {
+                    "id": "dfbb79bc4dc14c7b9c617be80ebd6aa0.17",
+                    "url": "https://lh3.googleusercontent.com/38sgqsIq81hwJzwwuqXTwxiOz7n8nWC9VnNR2NwS7YXXagUjpd71rqUWoQIDBNwsdztoRJIxYl_ofqOnHZV-rvhGPA"
+                },
+                {
+                    "id": "191ee82c94da4457a945cf065994f8be.17",
+                    "url": "https://lh3.googleusercontent.com/qXupU7b0v-9Cfn-uvM5oGeiHR1WwCt4v58ejH7GVStg3CkDHLzXXOzEJRr5h6kD05OrRQPiQ6M9sFX-PL_iqL_ZodQ"
+                }
+            ],
+            "address": "Johny Tower, Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.887
+            },
+            "categories": [
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower",
+                    "score": 0.031
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.887
+                },
+                {
+                    "id": "db55bc74a2fbefe1b15371ade71559b4",
+                    "name": "Train Station",
+                    "score": 0.033
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "eb849f4e7e9737dd96084626dbfb516a.16",
+            "hashedId": "5c3623d30c2ce5c69bc9293606632ce67158e7da",
+            "title": "spirit house at Nara 9",
+            "state": "LIVE",
+            "lat": 13.717668,
+            "lng": 100.53282999999999,
+            "description": "sacred spirit house at Nara 9",
+            "images": [
+                {
+                    "id": "94313ad9c1f33e4c93499c9226139d91.17",
+                    "url": "https://lh3.googleusercontent.com/qAbhDik84j-Ua7SahObGTyj1VE5NmeM14Ts6o5vRHMiZ_FznY9j0mFzishFljbiKcP0zrNz4zR_sYLKrD_Vi10qUVZs5"
+                },
+                {
+                    "id": "517db16fc3af3e1e904271516c5b382c.17",
+                    "url": "https://lh3.googleusercontent.com/7PEd5hTXRCZzOACCQDYijnf-aCOy9Eqw5XUp4ed33i4GNG4xJ4KxEFCcDrqeIpItvLYdI3Q0-GFeOoXwAQox6yD6fA"
+                }
+            ],
+            "address": "78 Naradhiwat Rajanagarindra Rd, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1639739728041"
+        },
+        {
+            "id": "ed87dd6b3fcb41bea0d9b3c34a361545.16",
+            "hashedId": "fe6c62b38715f5cc84cc339fbbb9307184988bfc",
+            "title": "BRT เทคนิคกรุงเทพ (Technic Krungthep)",
+            "state": "LIVE",
+            "lat": 13.712518,
+            "lng": 100.534669,
+            "lastUpdateTimestampMs": "1501109769353",
+            "images": [
+                {
+                    "id": "c4233b945cd9442283281b173be8dba2.17",
+                    "url": "https://lh3.googleusercontent.com/zjvOksx8Wsk1seKnHH9gVz712YA6UiNbIAbqfQioT5f06X_VMuoNrOorMAFjOTX06Fp4-fmEjigwQbhwG56a3eTWN2A"
+                },
+                {
+                    "id": "fd1462f7828a42b6b81a0db400d18ac9.17",
+                    "url": "https://lh3.googleusercontent.com/UUOGONzpYrHxWQ0ZYb0uOJP7wkfjtQTI_OC5PdzHhQr8tCY4Udhy_htLnjBVpy6oun6fRboY2dh-sbvsfvoaFsQuSgI"
+                },
+                {
+                    "id": "d81bbe8a03114ab0b6d130737d530cd4.17",
+                    "url": "https://lh3.googleusercontent.com/qgy_xjCTmnz_6r-fM1N_eQBlHnT32ANff1MjSr_noeB5_G2TpF_f-HXLuyvbeJwFMiI8MRYR2PhBoqI_voawEmRliP0"
+                }
+            ],
+            "address": "2 นราธิวาสราชนครินทร์ Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.412
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.412
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.232
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.171
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f30291c275734fff8d535588693d691c.16",
+            "hashedId": "63fbb46186bbe5b21d025268fffaa10d1bc6442b",
+            "title": "Twin Shrine of Phuphen",
+            "state": "GAME_REJECTED",
+            "lat": 13.715639,
+            "lng": 100.531751,
+            "lastUpdateTimestampMs": "1501109255043",
+            "images": [
+                {
+                    "id": "017ed78b9c9548b8b61de3be89dc3fc6.17",
+                    "url": "https://lh3.googleusercontent.com/sNS6J5cws9dHspPY1M6cfTHmOXgLCd9tWe6C6rnQengQ6lQrtZSIAEPkEV8Ltn8qCKTuL1b1wB6AfdF2HZgq5a5qBg"
+                }
+            ],
+            "address": "Soi Naradhiwas Rajanagarindra 8/1, Yan Nawa, Sathon, Bangkok 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f3f872f5aead3182914d128608befd6f.16",
+            "hashedId": "8baf7b3f6759cb34183229b3769f869ca138dba4",
+            "title": "พระพิฆเนศร์ประทานพร",
+            "state": "LIVE",
+            "lat": 13.716571,
+            "lng": 100.53370199999999,
+            "description": "ผู้คนนับถือเป็นเทพเจ้าเพื่อประสาทวิชาด้านศิลปะ งานสื่อสาร",
+            "images": [
+                {
+                    "id": "a44650f53bd13f8cb840ee8f16af9208.17",
+                    "url": "https://lh3.googleusercontent.com/-CZZBN-1n7HMQ0zjzrWIyVxNRgtpzyv281tRGynSn_-3mlQKgvFr7uFM22MK3U_VDyoT7NNNi-tv1DabHQ_lOUSmYR8"
+                }
+            ],
+            "address": "84 Naradhiwas Rajanagarindra 15, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646716151710"
+        },
+        {
+            "id": "f72f96d3acc5470d8e8b890ffae0a4af.16",
+            "hashedId": "ec33269ce70c5bd0c77388bc10beecdf2df320f0",
+            "title": "Birds Fountain",
+            "state": "LIVE",
+            "lat": 13.714087,
+            "lng": 100.527468,
+            "lastUpdateTimestampMs": "1609331979155",
+            "images": [
+                {
+                    "id": "fb2f9bc7b5ba4ec583394e8e0a883ed4.17",
+                    "url": "https://lh3.googleusercontent.com/9_xrHFxIxiYcTSPEAhGYH6C1QDtaD3lK5FfnFm0WKdH5iLGM0McFZHcM-Y5jXNQTIXWJkdwlOfkOdm1PBKF9E6q29Ho"
+                },
+                {
+                    "id": "bf480a6714ab4a1c979c917baa4766bb.17",
+                    "url": "https://lh3.googleusercontent.com/wI9P9Ibz0gCJDx-uWgzloNua5TrNQboJwYHF38fno9g6w1pcorT-byr-xMjj0ZrNG_tOPzUyvt9XFUlCeHpEaJz8dX6h"
+                }
+            ],
+            "address": "258 ซอย สาทร 11 Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10120",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        }
+    ]
+}

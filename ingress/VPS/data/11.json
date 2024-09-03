@@ -1,0 +1,1311 @@
+{
+    "pois": [
+        {
+            "id": "1a6cbd45cd6930d1aaea7544602f631f.16",
+            "hashedId": "c12de83f421fec300bf7bb5f7c11f0c78ebc4cc8",
+            "title": "ศาลาเฉลิมไทย มหาวิทยาลัยสยาม",
+            "state": "LIVE",
+            "lat": 13.722385,
+            "lng": 100.45335,
+            "description": "ตั้งอยู่ภายในมหาวิทยาลัยสยาม",
+            "images": [
+                {
+                    "id": "8a49ae1b050431eb8bd19ac281c252a6.17",
+                    "url": "https://lh3.googleusercontent.com/VjlAWAXnU8R7JDmwK2jb40XVEA4cixrzAsaIm9bhYXRGJiVpWTyzHZu9TgWoC49ew3S3ZKkKJsSFi1kutXKbi4XqipsZQsTC5ToAgDfL"
+                }
+            ],
+            "address": "11/2 เพชรเกษม 34 Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "9c7ac0bcc27549bcdc56088791be8ed4",
+                "name": "Performance Hall"
+            },
+            "qualityScore": 87.41077,
+            "categories": [
+                {
+                    "id": "9c7ac0bcc27549bcdc56088791be8ed4",
+                    "name": "Performance Hall"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1679229948309"
+        },
+        {
+            "id": "1b06b0ad15ec443086103a201a97a78a.16",
+            "hashedId": "fed4db4bbb97c2ad27106ed5a5d080af316daf22",
+            "title": "Prinn",
+            "state": "LIVE",
+            "lat": 13.729939,
+            "lng": 100.451385,
+            "lastUpdateTimestampMs": "1501110071000",
+            "description": "Village",
+            "images": [
+                {
+                    "id": "e87d407ac4f240d9a124f7336d77bc86.17",
+                    "url": "https://lh3.googleusercontent.com/2mxMCfLAnBQlRthMsk7RL0kVJc10kGf2OwqhUmlarwuMVwR_OMjt676jnYPbXzkVxplXrTd-P5sTWksmdcyqVQIvD7Y"
+                },
+                {
+                    "id": "913b4d6ea3c64360b0400c3fc53b81bb.17",
+                    "url": "https://lh3.googleusercontent.com/CKQle4RuL3s40z57wGcSI3OtrQZ_cvwZ4qpa1a5N0XRimUTFlIR4kIXZGOV91Tah6CcEm47B2tMDbgBOd50EcAU3Mw"
+                }
+            ],
+            "address": "43/1 Phetkasem 34, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.193
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.193
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.1
+                },
+                {
+                    "id": "88d738a252c2b8b3d6f0cc028d418fcd",
+                    "name": "Inn"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.163
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1baf813df30f4bef98736121ff8d9447.16",
+            "hashedId": "22188786678338bbd23e7114be879ae9b6d445bc",
+            "title": "Siam University Big Bell",
+            "state": "LIVE",
+            "lat": 13.722634,
+            "lng": 100.45247499999999,
+            "lastUpdateTimestampMs": "1501109273514",
+            "images": [
+                {
+                    "id": "0fe6958d39bd497f94621af0e5aa80ed.17",
+                    "url": "https://lh3.googleusercontent.com/mIloeZYv3Q6MQ1Cblh0csWV5-GCzEicTBVnJVzYrp9j2BxqZO7RXsyXsfJ6Ea3LxGEmuUcbJ1hqySHvCHd9Q0YeFWQ"
+                }
+            ],
+            "address": "11/1 เพชรเกษม 34 Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.577
+            },
+            "categories": [
+                {
+                    "id": "054e013fec1d9a7de056ddaae7badc82",
+                    "name": "Bell",
+                    "score": 0.221
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.194
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.577
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "36d262a99f9641e1a4b0b97017b89268.11",
+            "hashedId": "6aaa10d68d7661e33605271ffca619f97871a325",
+            "title": "The Garden of Peace",
+            "state": "LIVE",
+            "lat": 13.721696999999999,
+            "lng": 100.45356799999999,
+            "lastUpdateTimestampMs": "1616292326108",
+            "images": [
+                {
+                    "id": "e04e2afe13e144ddbd2e40f5c52d8991.17",
+                    "url": "https://lh3.googleusercontent.com/Py9-jMha8t6ELrHYUwYEnn427AK6MU-RLjs5Yvj2MbZ3c09CxAbC_kiq40wFU1XOWNvlUTWlcgmeXVvtnLO4-CRBaA"
+                },
+                {
+                    "id": "76e6c858a9c0404dacd5af1a661f8f4b.17",
+                    "url": "https://lh3.googleusercontent.com/1203XCzi6TVkGSHQLPI69or1rQEScsznCgzl0n96gVIWlnue1ZQPXlIGnYsPubTU_g1laPwiql0XATkfFdzz8Wgy1x5x"
+                },
+                {
+                    "id": "b360ed5ca88e4391b3312688cb576aff.17",
+                    "url": "https://lh3.googleusercontent.com/Ufz1ipcK3rotpS8fQT2bwclsi7q6i4eliqtz8931hInGQDiZ_5ManC43E9ZWXYSV6iqgwHBZFB6S8TtSVLcCBBSCM_VB"
+                },
+                {
+                    "id": "16e06de81ce64805a8b8a5a4849ee6ea.17",
+                    "url": "https://lh3.googleusercontent.com/RDmFrO51ChpPJ49kwiBfZ4wEP2z4qMLgUDLI-aESjCIwb6kpCYkEQ0aJvD71lpm2G6zZnaaiHmvtsgDo9avtioFNwUtBkQhi4B_kALW97A"
+                },
+                {
+                    "id": "dbd41581eae6423f8648b708e9bd78e4.17",
+                    "url": "https://lh3.googleusercontent.com/dfzgrNUQnHaXQRnqXmPd8ASLIR071tuMG-4o3bASpW-zZKg_Uj62xlC9YqGSgO-ydNY0lF0C5CwVrsErOgR5IORiMqgl"
+                }
+            ],
+            "address": "Soi Phet Kasem 36 Yaek 1-3, Bang Chak, Phasi Charoen, Bangkok 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "45929338fa74ec1e46190f4def203daa",
+                "name": "Garden",
+                "score": 0.753
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.129
+                },
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden",
+                    "score": 0.753
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.167
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1660202848546"
+        },
+        {
+            "id": "491f3c12380c40b68255c654f16d5911.16",
+            "hashedId": "81845977b5dd2a437d820385a57349ed734dba85",
+            "title": "Duo Spirit Houses",
+            "state": "LIVE",
+            "lat": 13.726624999999999,
+            "lng": 100.452332,
+            "lastUpdateTimestampMs": "1607437102777",
+            "description": "ศาลพระภูมิคู่ ของชุมชน เพชรเกษม 36",
+            "images": [
+                {
+                    "id": "4a885d0cb9c1444ea4b3ad5e508dbb37.17",
+                    "url": "https://lh3.googleusercontent.com/670uPiYxC4f6nlS20V3pYdvkM_TD-H5nbga_qeszY43IjYn1NR_sYh_fRqJskDD6_IObdYLK9lSnqeK2WTG35y9z6NMj"
+                }
+            ],
+            "address": "38/92 รุ่งฟ้า Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 83.34805858955744,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1606973271417"
+        },
+        {
+            "id": "73766d0803de43159d8b75563fb863f2.16",
+            "hashedId": "55d8058e79dbf184e2873a3592ceb3c9bdb71944",
+            "title": "Wall of Knowledge in Healthy Space and Learning Garden",
+            "state": "LIVE",
+            "lat": 13.723832999999999,
+            "lng": 100.453007,
+            "lastUpdateTimestampMs": "1601990691467",
+            "description": "ภาพวาดบนกำแพง แห่งความรู้ ใน สวนสุขภาวะ ของ มหาวิทยาลัยสยาม",
+            "images": [
+                {
+                    "id": "8587a07f30f6480aa5a8ab7ae2c6c885.17",
+                    "url": "https://lh3.googleusercontent.com/gdQ8eDgoHdkJZwCq1nR3RtHC9-8sk2Be8EDyBkp6QgADmt1P__Q_NX2HpxYZgypAEcrlDKGLj_hZ6W9R1SQdp-Jdpg"
+                }
+            ],
+            "address": "99 Thanon Phetkasem, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "2b084e300609a053b412f62cb6ad4ff7",
+                "name": "Painting"
+            },
+            "qualityScore": 79.54709652731276,
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting"
+                },
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden",
+                    "score": 0.483
+                },
+                {
+                    "id": "554c5b5e2b86c53bbede851962325300",
+                    "name": "Wall",
+                    "score": 0.341
+                },
+                {
+                    "id": "681f4a2e54687abe607c1d6e483ec4f9",
+                    "name": "Drawing"
+                },
+                {
+                    "id": "7ba2ba2f70af22e4cfafe42164ff85fe",
+                    "name": "Spa"
+                },
+                {
+                    "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                    "name": "Graffiti"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.639
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1601805838820"
+        },
+        {
+            "id": "73e99114ba7847d0a34b43fe253c4784.16",
+            "hashedId": "b60a1cc6a319770d9ad04cd516141c95e60d805c",
+            "title": "Gold Buddha Shrine",
+            "state": "LIVE",
+            "lat": 13.72921,
+            "lng": 100.451897,
+            "lastUpdateTimestampMs": "1592918661704",
+            "description": "ศาลพระภูมิ พระพุทธรูป ปาง พญานาค 9 เศียร",
+            "images": [
+                {
+                    "id": "30d5e5d552394478b0bdefc3a448e73c.17",
+                    "url": "https://lh3.googleusercontent.com/50RUAtcIEacH7M6iASJKB62O9aevxmeqgTSeCsuFXkt8TW50ZuM5KHAuimQaSrC7jH5K5gN_XNNaMKajpBiLms3iYA"
+                },
+                {
+                    "id": "5383c4cd799639f4bda70cea47870ef9.17",
+                    "url": "https://lh3.googleusercontent.com/l11040HHxwtgymXIAmWrSF9pG2ii-FoIXpCGVIin9aE1tuLKX3XKtA6j1cGf9pHYmEe_bIWFbdzcSvw7iIjII62dyM53yu1_iEWXsC0"
+                }
+            ],
+            "address": "30/1 Phetkasem Sai Kao Rd, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.555
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.232
+                },
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.555
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.415
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1592575821713"
+        },
+        {
+            "id": "77911ea9683a46ebbd28341d71e21c88.16",
+            "hashedId": "d86ccf44b4829029d153719bfd688a3bb7c1e9dc",
+            "title": "Shrine of Jivaka",
+            "state": "LIVE",
+            "lat": 13.722301999999999,
+            "lng": 100.45326399999999,
+            "lastUpdateTimestampMs": "1594732862809",
+            "description": "ที่สักการะบูชา บรมแพทย์ชีวกโกมารภัจ",
+            "images": [
+                {
+                    "id": "536bf228eebc4837bd2d32449d201332.17",
+                    "url": "https://lh3.googleusercontent.com/rYGIcoARfPRrZbafKaZkYeYLuJx2KDHg9JLix0gtoX6Nf_8FivyAeMEkv9RhwynljNOnMy6RtnH-AbybUffgBUKtqpQ"
+                }
+            ],
+            "address": "11/2 เพชรเกษม 28 Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.641
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.641
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.213
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.205
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1594470244916"
+        },
+        {
+            "id": "85401391079b470dbcb66239048da511.16",
+            "hashedId": "fc9b0f7e9f4f9b568e51df5435535b4d915f6324",
+            "title": "Bright Red Shrine",
+            "state": "LIVE",
+            "lat": 13.726341999999999,
+            "lng": 100.451852,
+            "lastUpdateTimestampMs": "1605018221181",
+            "description": "ศาลพระภูมิสีแดง ประจำซอยเพชรเกษม 36 แยก 1",
+            "images": [
+                {
+                    "id": "9e4fa0c74967445f9439788539e5f72e.17",
+                    "url": "https://lh3.googleusercontent.com/tpO5biKM3TGTVipCdpQnWtd_BhK4NElHqAUdj7EAA5KLK19dWz6G-2NxDAUlOC0v79e4enNoK-HCHE1lN3CcntwFBws"
+                }
+            ],
+            "address": "7/1 รุ่งฟ้า Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.391
+            },
+            "qualityScore": 87.41613008342027,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.391
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.14
+                },
+                {
+                    "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                    "name": "Rest Area",
+                    "score": 0.159
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1604473229495"
+        },
+        {
+            "id": "8776024d162d4462a119bb45c5f54c56.16",
+            "hashedId": "47e9de59659f2b7f78d4eeacbaba25902aea99d0",
+            "title": "Sea Time Tower",
+            "state": "RETIRED",
+            "lat": 13.729804999999999,
+            "lng": 100.451723,
+            "lastUpdateTimestampMs": "1601363430142",
+            "images": [
+                {
+                    "id": "929940ff687a4c3bab4b92bc89d08633.17",
+                    "url": "https://lh3.googleusercontent.com/9xKKFszzWr33t5dNmJFSFdigmluHC9jY2-o1XxIDf5l5cOxokKGKolL8T2Cff4k-mcxZKAuaKhMOY2OTksKeIr0ruJxW"
+                }
+            ],
+            "address": "30/1 Bang Priea, Bang Chak, Phasi Charoen, Bangkok 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10160",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8a4f454626c7442fbaabcb34aafa6658.16",
+            "hashedId": "317b077fe0e278376df3f202acad8573032786af",
+            "title": "Wall of Fitness in Healthy Garden",
+            "state": "LIVE",
+            "lat": 13.723633,
+            "lng": 100.452624,
+            "lastUpdateTimestampMs": "1610461477407",
+            "description": "กำแพงรูปภาพการออกกำลังกาย ต่างๆ ซึ่งเป็น ส่วนหนึ่งของ สีสันสร้างเสริมจินตนาการ ใน สวนสุขภาวะ ของ มหาวิทยาลัย สยาม",
+            "images": [
+                {
+                    "id": "9a066688626a4738837e69a4f2fd915e.17",
+                    "url": "https://lh3.googleusercontent.com/Ld06awi4WSeCqv4hSKyUnYHl6j4fbcosvWDWdR8UM-Mt0An04uJhJEQsVJy88_Y3vUdpR099Zu1SgCZtj10_MJJzuTupmCd6eSc_zNatUg"
+                }
+            ],
+            "address": "9 เพชรเกษม Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "2b084e300609a053b412f62cb6ad4ff7",
+                "name": "Painting"
+            },
+            "qualityScore": 87.58530046426475,
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting"
+                },
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden",
+                    "score": 0.391
+                },
+                {
+                    "id": "554c5b5e2b86c53bbede851962325300",
+                    "name": "Wall",
+                    "score": 0.367
+                },
+                {
+                    "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                    "name": "Graffiti"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.549
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1610383121139"
+        },
+        {
+            "id": "92ce8559b825490586a7702f43e91be5.16",
+            "hashedId": "f96a7672387246d31936973e576eb66e6e3fd731",
+            "title": "Golden Eagle",
+            "state": "LIVE",
+            "lat": 13.727732,
+            "lng": 100.45661899999999,
+            "lastUpdateTimestampMs": "1501109310838",
+            "images": [
+                {
+                    "id": "c5af1d08480245efb5261c5af0ff72bf.17",
+                    "url": "https://lh3.googleusercontent.com/vDNuyzuejXuoV3N1M__OUqZhuP4EUt3Ie7TnXUToPP0jnQCBygqlT6uhKnSSK5HeWwEIYt_qWuPEYsNif0ArJ9dp3jk"
+                }
+            ],
+            "address": "11 /19 Phetkasem 34, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.595
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.105
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.595
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.312
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9780f6c8f71c4f78bea61dafaa4b33de.16",
+            "hashedId": "6adc3babc0ec93e18ed1151ebbebb96187616c86",
+            "title": "Duo Red & Gold Shrines",
+            "state": "LIVE",
+            "lat": 13.7267,
+            "lng": 100.45155199999999,
+            "lastUpdateTimestampMs": "1597757305603",
+            "description": "ศาลพระภูมิคู่ ปากซอยเพชรเกษม 36 แยก 1-7",
+            "images": [
+                {
+                    "id": "286b0d36017f4df5bdba88ec1f21fd4f.17",
+                    "url": "https://lh3.googleusercontent.com/qez3S2tbih_82HRVglkIWb5ixpRPH39hznrfj1hXP0tnC64MYHNBQSgn-HJMVoD4cDWhP6tUGKizXGpljXp5G9HrrdU"
+                }
+            ],
+            "address": "177 Phet Kasem 36 Alley, Lane 1, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.224
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.175
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.206
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.224
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1597304249220"
+        },
+        {
+            "id": "980ad81e52b74f5c9c721f348ed61c07.16",
+            "hashedId": "9eedef043882c4786672b4249ad191054410e42a",
+            "title": "Thai Dancers Statue",
+            "state": "LIVE",
+            "lat": 13.722978999999999,
+            "lng": 100.451836,
+            "lastUpdateTimestampMs": "1603804589689",
+            "description": "รูปปั้นหุ่นจำลองชุดรำไทย ใน มหาวิทยาลัยสยาม",
+            "images": [
+                {
+                    "id": "661af7fca08142908ef2064b0a36f3c0.17",
+                    "url": "https://lh3.googleusercontent.com/8pmiacIamVkLITSQ2UPXu2wGPMhYp0QEEQ3eiLY3y5C9nGhJycdMzADMX2A5p69BluNGH0jLdWzfHd3LOyxYA1jzZUQ"
+                }
+            ],
+            "address": "58 Phet Kasem 40 Alley, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.867
+            },
+            "qualityScore": 72.08954624095485,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.867
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.228
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.711
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1603358190319"
+        },
+        {
+            "id": "99b457cf5fac43bb842b4c764a51c9bf.16",
+            "hashedId": "b5fe1dd26d3248c6bd994a928e46155cfbe1f592",
+            "title": "ศาลาการเปรียญ วัดประดู่ บางจาก",
+            "state": "LIVE",
+            "lat": 13.723052,
+            "lng": 100.455755,
+            "lastUpdateTimestampMs": "1611066203006",
+            "description": "ศาลาการเปรียญ ในวัดประดู่ บางจาก",
+            "images": [
+                {
+                    "id": "6250419cbdb449a99af2913850ed861e.17",
+                    "url": "https://lh3.googleusercontent.com/Pn2QwIjWccRUb5aGYEMSFksLyaayduHUqUajNlBZBHgVSyOnJfOvKscvD77WPiF7v9efhnYwhz-Cl4yWFz03WsW--Yzx2cZw58ShrY7vrg"
+                }
+            ],
+            "address": "165/12 Phetkasem Sai Kao Rd, Khwaeng Pak Khlong Phasi Charoen, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.952
+            },
+            "qualityScore": 70.58574176006368,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.173
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.045
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.952
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1610984138076"
+        },
+        {
+            "id": "a56e66902f674243b1d3b5ff4dd59110.16",
+            "hashedId": "b0442f4d5d58f6e0cc80aca9f748483bb99dd5ce",
+            "title": "Siam University White Dome",
+            "state": "LIVE",
+            "lat": 13.722389,
+            "lng": 100.452877,
+            "lastUpdateTimestampMs": "1501110038368",
+            "images": [
+                {
+                    "id": "eeb67dcf79e947ccb38d6983b0790344.17",
+                    "url": "https://lh3.googleusercontent.com/0yw5QdEtBDbi_-p4ZVS6omXDd7kSvPwr4YaqNhavEp7m414z-tD61m2vUj5ge6H23U-HymtYaoJh77eD9zOwDRi65vc"
+                }
+            ],
+            "address": "11 เพชรเกษม 34 Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.682
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.223
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.114
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.682
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a655cd1cac3743eab9ab5bb6d5812f69.16",
+            "hashedId": "8ea4ea8e8d133c8ad3a074a8970b1cecc8406eb0",
+            "title": "Wall of Fitness in Healthy Garden",
+            "state": "GAME_REJECTED",
+            "lat": 13.723673,
+            "lng": 100.45261599999999,
+            "lastUpdateTimestampMs": "1605623151885",
+            "description": "กำแพงรูปภาพการออกกำลังกาย ต่างๆ ซึ่งเป็น ส่วนหนึ่งของ สีสันสร้างเสริมจินตนาการ ใน สวนสุขภาวะ ของ มหาวิทยาลัย สยาม",
+            "images": [
+                {
+                    "id": "b79667fa41474729a2eb18a3659f8248.17",
+                    "url": "https://lh3.googleusercontent.com/2A9OZS8Tx9-ChZWg-I_zqFK4M-or5e_z9qHd1mV_Dx6MzYsmgWP3UsM9nPaxskUsZaqyurtQpBO3iNSNEEy7qxFP7fDw"
+                }
+            ],
+            "address": "9 เพชรเกษม Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": null,
+            "qualityScore": 81.35951671313654,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1605580403961"
+        },
+        {
+            "id": "b2e7542d2aac45799575b21071ca7d15.16",
+            "hashedId": "969ffc42a9d37beccfb13d615495fdf7113621c9",
+            "title": "Exercise Station",
+            "state": "LIVE",
+            "lat": 13.72383,
+            "lng": 100.45266699999999,
+            "lastUpdateTimestampMs": "1603804843963",
+            "description": "สถานีออกกำลังกายในสวนสุขภาวะ ของ มหาวิทยาลัยสยาม",
+            "images": [
+                {
+                    "id": "9c2f78a6f36745a28c3c06a21547e09c.17",
+                    "url": "https://lh3.googleusercontent.com/rHbH3hILpfgAkySgIgH_yFwVAmJDRNim_PelAE0_9n_VJ68olnMpKkztV9WzeMaAhxEhWvLgreFYf2v1eSXadXZJHkU"
+                }
+            ],
+            "address": "37/4 เพชรเกษม Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area"
+            },
+            "qualityScore": 92.23586016145114,
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area"
+                },
+                {
+                    "id": "3f961b2a437b5defa434b4b9b770a551",
+                    "name": "Sport Club"
+                },
+                {
+                    "id": "6bf4d9124b2824a437c04549c43ae05b",
+                    "name": "Exercise Sign"
+                },
+                {
+                    "id": "aae12013c0f49182495d12e50d9b5d5e",
+                    "name": "Fitness Station",
+                    "score": 0.577
+                },
+                {
+                    "id": "c469083e12d884a1b9092e598e447412",
+                    "name": "Gym",
+                    "score": 0.294
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.099
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1603716189801"
+        },
+        {
+            "id": "b4e95817d1f64f818106ece2b4100d93.16",
+            "hashedId": "e476e82ee5225acff053453edc43a5f74afc1f7b",
+            "title": "Do Dee Café",
+            "state": "LIVE",
+            "lat": 13.728005,
+            "lng": 100.45185099999999,
+            "lastUpdateTimestampMs": "1611066101875",
+            "description": "ร้านกาแฟ ดูดี คาเฟ่ บรรยากาศสไตล์ลูกทุ่ง ดูอบอุ่น ตั้งอยู่ในซอยเข้าได้จากถนนราชพฤกษ์",
+            "images": [
+                {
+                    "id": "7eef30cd1d1e4eb6aa1f2c88b6cd9458.17",
+                    "url": "https://lh3.googleusercontent.com/UjbLliexGVYumfZrt2D8Vh75tUkGIXICMnNR5PkmNZy_b9oH0IBw1EiJhKapLOuPvTcxzenGq_EkgVRsuQcqt9xmxWDGKkEIWNcdXg"
+                },
+                {
+                    "id": "a794e2e4515732e58bb14be34a4186e8.17",
+                    "url": "https://lh3.googleusercontent.com/f6oHbcVdGHafPJFsXpcPfo7CW42T66m9t9J9_6nfuFfGg7BdLuYm1zelpNrZdv-oHt99dTPHoqUdnDDvTi9LLiEZao9rP3XJORYQwZWP"
+                }
+            ],
+            "address": "11 Phet Kasem 36 Alley, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                "name": "Cafe/Coffee",
+                "score": 0.952
+            },
+            "qualityScore": 75.8867615892063,
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.578
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.281
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee",
+                    "score": 0.952
+                },
+                {
+                    "id": "93302cd2d36a9ae8304f4c8caa641b96",
+                    "name": "Noodle House"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1610938894967"
+        },
+        {
+            "id": "c1e79a58946442a19816b82bc6db6694.16",
+            "hashedId": "7c9df63e4fd427e3e53ed923bd4f8f1962c401cf",
+            "title": "สะพานลอย",
+            "state": "LIVE",
+            "lat": 13.727212999999999,
+            "lng": 100.45484599999999,
+            "lastUpdateTimestampMs": "1501109509141",
+            "images": [
+                {
+                    "id": "f74a0308bceb4b37a2ee64a086279837.17",
+                    "url": "https://lh3.googleusercontent.com/vuCxbIaF7dZUaDyngHKnghsy2463-sdzMWdls5ZWF0uRoI70SBDk_fjU7KFyunIG4Wmgy5i3oncz7O536xJb4aGyxQ"
+                }
+            ],
+            "address": "Ratchapruk Road, Bang Chak, Phasi Charoen, Bangkok 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "dd79312a6d6451fd0f2531d049cf7b61",
+                "name": "Bridge",
+                "score": 0.909
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.095
+                },
+                {
+                    "id": "81d0264e7408ac684b24889975be728e",
+                    "name": "Footbridge",
+                    "score": 0.716
+                },
+                {
+                    "id": "dd79312a6d6451fd0f2531d049cf7b61",
+                    "name": "Bridge",
+                    "score": 0.909
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e65b0f013a4348c88184de991c5d4871.16",
+            "hashedId": "0e54a8bb0cb7f6e897e3ebe921ab838984b720cf",
+            "title": "ศาลาวิรัช",
+            "state": "LIVE",
+            "lat": 13.726882999999999,
+            "lng": 100.456603,
+            "lastUpdateTimestampMs": "1589895392413",
+            "description": "ศาลาพระพุทรรูปประจำชุมชนวิรัชสุนทรสุข",
+            "images": [
+                {
+                    "id": "561ab213b381428d967bd08596b213d1.17",
+                    "url": "https://lh3.googleusercontent.com/qoo4OIapM3aQ-FGDv6Blgt4LGKs2wiuR4X8oxw16FYw8dVXPnhvorJswLWCV2iV8tGQ_KR6rhqnFCpl9ZtlBRVVae_U"
+                }
+            ],
+            "address": "22/26 Soi Sunthon, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "84e574daec6b8d56073510921571bbcb",
+                "name": "Community Center",
+                "score": 0.49
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.226
+                },
+                {
+                    "id": "84e574daec6b8d56073510921571bbcb",
+                    "name": "Community Center",
+                    "score": 0.49
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.473
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586386952185"
+        },
+        {
+            "id": "ec2040b453394166ab760290ce71655d.16",
+            "hashedId": "bdbd1bafd3d4cc278ec4f96fde16fc87ee9c3144",
+            "title": "Double Holy Shrines",
+            "state": "LIVE",
+            "lat": 13.722626,
+            "lng": 100.45418699999999,
+            "lastUpdateTimestampMs": "1602595112294",
+            "description": "ศาลพระภูมิคู่ ประจำซอย เพชรเกษม36",
+            "images": [
+                {
+                    "id": "0fbc88691ac04a8ab8e68398a1ed95db.17",
+                    "url": "https://lh3.googleusercontent.com/0kYD1-LqlARcAMBmH9RPzcszIwWMc8K4o_ukHBT1azsqVfDbVVIqW619bqSKAhqnVDSeYv19tOLWUJJ_waCQNn7JUQ"
+                }
+            ],
+            "address": "32/11 Phet Kasem 36 Alley, Lane 1, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.673
+            },
+            "qualityScore": 88.83961340370067,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.673
+                },
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.189
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.188
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1602025799365"
+        },
+        {
+            "id": "f4c93c31e72d4217b9ec65dbeb74a66b.16",
+            "hashedId": "a84ff8511e5bc422834763631229652f089cfd4f",
+            "title": "Arch of the Elephant",
+            "state": "LIVE",
+            "lat": 13.723156999999999,
+            "lng": 100.45192899999999,
+            "lastUpdateTimestampMs": "1501109871602",
+            "description": "Siam University Stadium.",
+            "images": [
+                {
+                    "id": "0eaf6e36a86a38988599325f246946ea.17",
+                    "url": "https://lh3.googleusercontent.com/dXZ0MKMgntqEcu5AUO3_KLJlvSJNryzBSzo_cgRjwwwBfeVlHvL5lX67PILVG6_h1ghCXnEaz9OsguOUoy8uYylckUjLyVmJbq9pbngGuA"
+                },
+                {
+                    "id": "cd7505ea1adc497ab0aeb081a5016ec6.17",
+                    "url": "https://lh3.googleusercontent.com/ACYGrL6-BnkgdI0QmbAj47qiQDf7Ag-xS26pquQUxQ4HMkeVA8sYzC7PjPcmUL00kGi49sSsx3pbX3jzA1Uc_OzxYTE"
+                },
+                {
+                    "id": "131d56e61f51413cb20091b0eb03006d.17",
+                    "url": "https://lh3.googleusercontent.com/QWApDuOpus0SMZeoefkpOI1kCzj3oHXbBLAGpH-X-m_D0OwCxZ8BkI_EasmHPFYDc3oqYMcJmnGIzUxiTHYiUham4k4F"
+                },
+                {
+                    "id": "530141f7492b41ddb6e209cdf6763f55.17",
+                    "url": "https://lh3.googleusercontent.com/PzfMnygDSyQK97b1QBmtMWWL-ABarEA-L-XGHS6IM3H1lYdrTuStQ7H2hGlWIEK-aFrRt-fbOqLjnnWMidMFUUx5HEM"
+                },
+                {
+                    "id": "a9c782d5cac13f14a193885a999b07b2.17",
+                    "url": "https://lh3.googleusercontent.com/zUCZ1kid5uiExvldqL_f8VqW8jiW-5AexVBAdZ0-GCCSqoD5yR4HIApmQhDixSOVWmJDf71z3NV_BWw7KkHpH5a21LmtcHtqJjUuvAE"
+                },
+                {
+                    "id": "8057dc318dd63018835c982a5dba2c23.17",
+                    "url": "https://lh3.googleusercontent.com/fChmAt74HX8uguZGCUeS4Xn8JwDVFn4VL25bIPUD1-v9W9pVpoATqwQtdP8fMkxkcNHcu0SFRKCbGcs2LvTcNOwh05uS19dOy_akW2CZ"
+                }
+            ],
+            "address": "28/7 เพชรเกษม Bang Chak, Phasi Charoen, Bangkok 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.599
+            },
+            "categories": [
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.358
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.216
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.599
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "fbf5299c1930464a8b03368c752b9bc9.16",
+            "hashedId": "a209efcba2a60004b2d1bd437ecf6f603d2e42a9",
+            "title": "Double White & Gold Shrines",
+            "state": "LIVE",
+            "lat": 13.725857,
+            "lng": 100.452681,
+            "lastUpdateTimestampMs": "1603805034011",
+            "description": "ศาลพระภูมิ ขาวทอง เป็นที่สักการะของชุมชน ซอยเพชรเกษม 36 แยก 1-4",
+            "images": [
+                {
+                    "id": "408c648e01764fa78d836eda4c98a3d0.17",
+                    "url": "https://lh3.googleusercontent.com/MmZ2mWl6UQJkk5wQ0MDit_Sw7KLBzq3s0G6GreIAypIOfvhNzPYndauh8OpZNtXj3RKAnTxEZ-FIs6hIasM-fg5n2c4"
+                }
+            ],
+            "address": "38/84 รุ่งฟ้า Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.368
+            },
+            "qualityScore": 83.97881811765986,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.368
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.158
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.145
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1603269090530"
+        },
+        {
+            "id": "fc85ee99a1e5427aba6728937883c06d.16",
+            "hashedId": "2e59a1cf3d0546ba5f0c252f6828d65f87a01ef9",
+            "title": "Siam University Sport Center",
+            "state": "LIVE",
+            "lat": 13.722175,
+            "lng": 100.452522,
+            "lastUpdateTimestampMs": "1595338134538",
+            "description": "ศูนย์กีฬามหาวิทยาลัยสยาม",
+            "images": [
+                {
+                    "id": "2b1f2645014c4c4d92582945f23ad5aa.17",
+                    "url": "https://lh3.googleusercontent.com/6Bvcll9sfm_dJ5QtOvuedvZF2tDV8dkonIVMOg7WxHMB_oyQ44FsDmY7XusiQBy_cdyUEEeePIjX_IQDSHpEu0UEdVk"
+                }
+            ],
+            "address": "235 Phetkasem Sai Kao Rd, Khwaeng Bang Chak, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10160",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.936
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.421
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.136
+                },
+                {
+                    "id": "5ee1e660d4060ff09be60064f9beff5f",
+                    "name": "Sports Training"
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.936
+                },
+                {
+                    "id": "f3675576bd8fb23a7fa5216dd69a1385",
+                    "name": "College"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1594928984461"
+        }
+    ]
+}

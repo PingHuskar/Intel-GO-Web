@@ -1,0 +1,2685 @@
+{
+    "pois": [
+        {
+            "id": "00b6130f7b9b3063bf0138442ce17b99.16",
+            "hashedId": "7a61ee34991ce85fa75063f455fe384ad46eb1e9",
+            "title": "ป้าย MEGA Bangna",
+            "state": "LIVE",
+            "lat": 13.645344999999999,
+            "lng": 100.681766,
+            "description": "ป้าย MEGA Bangna และแบรนด์ต่างในห้าง",
+            "images": [
+                {
+                    "id": "5a487904784d3d18bb738d76b67d2474.17",
+                    "url": "https://lh3.googleusercontent.com/m6D174-3BWYPQMrF-83aJmXIVqGJYfj_TLYswcbYvtG7BMbuYb2nOORqoXtXKJF9K3ZXNuroV-kVjF-uYPo_MDMcKi0kWMrxyxFS34JxvQ"
+                }
+            ],
+            "address": "JMWJ+4P Bang Kaeo, Bang Phli District, Samut Prakan, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 83.20228,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1662905315039"
+        },
+        {
+            "id": "00bd6263b1dc42cc85794a3d85974037.16",
+            "hashedId": "0436eea1890b8123d89e93b6be5fc632bc5724df",
+            "title": "Megaplaza Fountain Megabangna",
+            "state": "LIVE",
+            "lat": 13.647454999999999,
+            "lng": 100.681654,
+            "lastUpdateTimestampMs": "1501112492356",
+            "images": [
+                {
+                    "id": "0197485e2e7644f08161cfe5df1194be.17",
+                    "url": "https://lh3.googleusercontent.com/9esm4lASeW_AkYiCsVPoELzhKzdXKJPPqWBn5VFF-selJV8uAcjeRO-ZvhdOYMvU5J1BD69jJApBX93BuyE8WGVuQw"
+                },
+                {
+                    "id": "0db85aa76c8b4260a6df12e343f331ee.17",
+                    "url": "https://lh3.googleusercontent.com/4ADGgwnMT5cqP5bXlRNyceRoyv9gvh3x3okplKenloeKgA88drpc4d2MKKiJNTmAS_6WEmC28zLE3M4iHPBDZO9r4w"
+                },
+                {
+                    "id": "7ec95a3b0ab84597b294d16d300c156e.17",
+                    "url": "https://lh3.googleusercontent.com/lef-tINvU1SDuStGPax19v5N47KpvYroSIfwcnNO8fhpLfXvyKmJY2cu5awO_Ch-K0ws6cKY5Afx-dH4CRC7elQG_zc"
+                },
+                {
+                    "id": "7365f28e70c24b2188537c3c7c5c92e3.17",
+                    "url": "https://lh3.googleusercontent.com/MPT0YJqdSPB7J1OTWcjcF8bzA8AD_xITAj8jlVOH9ahYiyBa0MuyXg7yoysfKKM3Xcg1MnbmuUNYn2wY86CjBDvB2Q"
+                },
+                {
+                    "id": "683d576b2aff4386ac855a1a8de5deab.17",
+                    "url": "https://lh3.googleusercontent.com/WQtwKyM15yeijXq-yFd5-rGJf7evqL28keMaLP-DGNeEUcu4WBIgGRlYXXrVn-GDnFAIfNsjviBuXbECwsnCar480w"
+                },
+                {
+                    "id": "6cababe0872645279f1fe2a96745d671.17",
+                    "url": "https://lh3.googleusercontent.com/qXFeHHhQT9w3wHI48-TR3GRE2kUlKiZCYatfDcrnwbjtFsMWEfeuyR84fl8PhOqog_tJqR77jCftZRGqcoNLLIoI2Cw"
+                },
+                {
+                    "id": "ca8cbe959979461a839188db07f99cfd.17",
+                    "url": "https://lh3.googleusercontent.com/sxKG89cHZZMa1C-QVGWA7EzwSB5dvloPOA_8TwZNlZFEs-SSNywCAJmgi26flq-95fyw8muxFn5Rqepv-cYCONYS-g"
+                },
+                {
+                    "id": "378caa9f7ab14f4f8ffd8e21cb094146.17",
+                    "url": "https://lh3.googleusercontent.com/rEgOsjw5UXsYKvLTIR0ByqkOz-YPkeBNQlH4RP9NEQw-OtquKqMD6LXQ3ywKTFVzjlTSYXmXOBEAKXDJWo72_hjQtsU"
+                },
+                {
+                    "id": "72591ab210f840959f5368c5ac7f12af.17",
+                    "url": "https://lh3.googleusercontent.com/TP4JUddSp2ya-fSI6FdVeIGaOhtEESvxfafTgNu66ppqnfbpVi2D3vyteEe1ueKh7sMQviIynkQux3fOLwAkSi5QvSw"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.889
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.073
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.073
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.889
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1675229163739"
+        },
+        {
+            "id": "01a21611b42e42828431b9e96648f3d0.16",
+            "hashedId": "7960bcfaba966f6c5e834d984c0a6f0daaa237f8",
+            "title": "IKEA Fountain",
+            "state": "LIVE",
+            "lat": 13.645107999999999,
+            "lng": 100.68032699999999,
+            "lastUpdateTimestampMs": "1553959753715",
+            "description": "IKEA Fountain",
+            "images": [
+                {
+                    "id": "df315828c81c45fa84f532c7519b0805.17",
+                    "url": "https://lh3.googleusercontent.com/6KVn5ahqtihlH2J_bnMYOxCOlaOlU87d-PaINiaONvwe3ClUABqCdUTb0xyqVP5f0bt8OVxqwsZu7F9A_Lzt3KAvuMg"
+                },
+                {
+                    "id": "c40d01187983461b8147af0685fd082a.17",
+                    "url": "https://lh3.googleusercontent.com/lcz9Qh3ccr4po2u27-_UfcVMIDEJpLGxYoyMBwEZVpkkQ-3mUkOKRzoTeRZLDt1F5mTdDxiQh-DJlpFRKtw-FFiYM1Y"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.889
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.101
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.889
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.081
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1660234961229"
+        },
+        {
+            "id": "10bf81f9b59e43acbd5842ef83b08b86.16",
+            "hashedId": "66086240e6af63bddac60a7d8ff8dd7a427fed3f",
+            "title": "Elephant Playground",
+            "state": "LIVE",
+            "lat": 13.646647,
+            "lng": 100.679582,
+            "lastUpdateTimestampMs": "1580827209150",
+            "description": "At the playground in Mega Bangna",
+            "images": [
+                {
+                    "id": "09611ca188374eebbfb52707eb808df5.17",
+                    "url": "https://lh3.googleusercontent.com/gXE4IzG3L0PjXF9pNS9Ec05ecjlsH-UOe9Ypoy2ahDTSSS3Wr_rx4n6YZtfWHC0420GmYR7iVLmmKqCHaiqUr7h82w"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.959
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.959
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.208
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.559
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1c250f7800b03b17b03f8b13faf6bc35.16",
+            "hashedId": "764afdf3bb2ea58c990746dd15177750d204a6b0",
+            "title": "MEGA HARBORLAND",
+            "state": "LIVE",
+            "lat": 13.645116999999999,
+            "lng": 100.678169,
+            "description": "สวนสนุกใน Mega Bangna",
+            "images": [
+                {
+                    "id": "570f8acfced639bca184891a28602400.17",
+                    "url": "https://lh3.googleusercontent.com/CDdpBLPJavzMm7mFyqJ0CduW0qBcid7RtpoNVbWGALJXi6fsVtBKi9kQK8ru9KQnTm-gR5CpoI-p8T-98X5F51JtlnJwX96Hx8Txvu4"
+                }
+            ],
+            "address": "JMWH+27 Bang Kaeo, Bang Phli District, Samut Prakan, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 76.838486,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "75ac95c16508cd70f9c85fd790ee4319",
+                    "name": "Amusement Park"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1661155548081"
+        },
+        {
+            "id": "2304b63f8b3646cba392c0b8f240e33f.16",
+            "hashedId": "21b32e2b29dd5d94706aa5953d001c8b10c169ec",
+            "title": "Gold Tree",
+            "state": "LIVE",
+            "lat": 13.648109,
+            "lng": 100.682037,
+            "lastUpdateTimestampMs": "1501109420185",
+            "images": [
+                {
+                    "id": "e3f5ee616cc347b4abde3651004d596c.17",
+                    "url": "https://lh3.googleusercontent.com/ojqcg2NV4gV9swIdyvytwnW62uZlFb5DZoP_rglwKGtF3-Z3b3d6WNEm7_T-6W5cXBqvhv1xJwHb0ctnbb9SMw19Ihg"
+                }
+            ],
+            "address": "Unnamed Road, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "93a0f087aafe93f75819f28e06f049fb",
+                "name": "Tree",
+                "score": 0.479
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.334
+                },
+                {
+                    "id": "93a0f087aafe93f75819f28e06f049fb",
+                    "name": "Tree",
+                    "score": 0.479
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.199
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "239dde64a88646f58eded2c1ec022b06.16",
+            "hashedId": "013671c88fba8642fb397522af2eab90bf4aaf4a",
+            "title": "Big Diamond at Mega Bangna",
+            "state": "LIVE",
+            "lat": 13.648924,
+            "lng": 100.681601,
+            "lastUpdateTimestampMs": "1501109575188",
+            "description": "โซนเมกาเจมส์",
+            "images": [
+                {
+                    "id": "7b9eef37de924688b21627e4baef2f00.17",
+                    "url": "https://lh3.googleusercontent.com/iV56_L-IXgPjkM_JM3MOZDW-nhzAq1SO_yP9Ku3YW-jsM02stNwPpF_0eyRHVaeONAoXu7AoANMRHTfXQbgNqd6CCcE"
+                },
+                {
+                    "id": "eeb4cf893b714aa09a926b62a6846971.17",
+                    "url": "https://lh3.googleusercontent.com/AV8_1BXCihufFpicYPq0WU09g3L0nJKKMb-tpDOf1MiE-JXIACyg88-h_VUyU-ZqaeECLMfb35C2l6O6k9pjsLmpIak"
+                },
+                {
+                    "id": "dec386e90b9d4e4b84b25c56bd93e7ec.17",
+                    "url": "https://lh3.googleusercontent.com/TfOEg8FN01ON9nL0XgKSJdCekbCGLsQvUKdpY_FEnPV14NekeyAiV7EqlAv2D9FyLRZpG2TB6_iGaKE_uVwRR6pgrs_A"
+                }
+            ],
+            "address": "Bang Na-Trat Frontage Road, Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.309
+            },
+            "categories": [
+                {
+                    "id": "71eaa9e69b8a8ece009f8620d18d59ce",
+                    "name": "Other",
+                    "score": 0.081
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.309
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.094
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2642989f6f08428f83f0624dc726c7fa.16",
+            "hashedId": "e1c5843cb57bdd6106fcad126a0e15f2aa2355f0",
+            "title": "หมูแดงแว้",
+            "state": "LIVE",
+            "lat": 13.646597,
+            "lng": 100.680489,
+            "lastUpdateTimestampMs": "1553101813381",
+            "images": [
+                {
+                    "id": "8fad19aeff704c56b8a83e099032c1fb.17",
+                    "url": "https://lh3.googleusercontent.com/55q4DozLNEqroWCsX8BhZiuKY53KIrk0J7xj2HjvM6jKMCODB8HsHHGvnsJ4kATidU-dIw2NMHqb2ACOJaYxM2so4a4"
+                },
+                {
+                    "id": "69727b263cc838e8a72b67dcc63ddf9e.17",
+                    "url": "https://lh3.googleusercontent.com/oVbbqs6uGHB5AVLrFcEekw1mavzCS0NJDmJMOsnPho6zcEwSAYIGPwBBU8qOR20_NqdsrkpSu_pqHpl5KrIDsQufPJPdsQUCc5l-zhxK"
+                },
+                {
+                    "id": "b96828dc1c2047b4aae26d78f6dc0b86.17",
+                    "url": "https://lh3.googleusercontent.com/3OT0bI75z-Ai63V7qHc2n_l_VmwfJZvvRzUjSXgwAxV944BOpS6IQl_QTmNu2CIYw9fZGHIlY2Wq2ejQlSp1FKDcng"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.564
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.564
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.168
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.068
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "268339fe29e837a6a672a9210fb7dea0.16",
+            "hashedId": "059679ac3c2dcc2bcf8849ba2fb7d1378956db90",
+            "title": "Make A Smile",
+            "state": "LIVE",
+            "lat": 13.648442999999999,
+            "lng": 100.68025899999999,
+            "description": "ศูนย์ทันตกรรมที่ทันสมัยในห้างเมกาบางนา ตั้งอยู่ในโซนMega Money",
+            "images": [
+                {
+                    "id": "fb65bca9be3a3aebb44f2a66d2223c6b.17",
+                    "url": "https://lh3.googleusercontent.com/uJwh-ig90b2wPS4nQT4YobctpAib3qwRin67j09U6O8IkEpvl6_ulwfygNo7ZpUQNZwKP7BLJXF2XrGGYKW4Xj290uxIyVfc837MoQxs"
+                }
+            ],
+            "address": "38-39 บางแก้ว Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1696583466121"
+        },
+        {
+            "id": "2857d4dc38b2433e97ff00cb37740f0d.16",
+            "hashedId": "be915e409420b1972a4c6411cb7fa90aa58a96f1",
+            "title": "The Cave",
+            "state": "LIVE",
+            "lat": 13.643773999999999,
+            "lng": 100.677523,
+            "lastUpdateTimestampMs": "1589895730793",
+            "description": "Play area for children at Mega Park.",
+            "images": [
+                {
+                    "id": "78c62e7681b94d21a37d5da235f2f8ec.17",
+                    "url": "https://lh3.googleusercontent.com/0V8y5thpT_v7dmfx1m-5I55CTemq07kKJTy7VJhd6r5x-1bP2EDReH9FgoDUU-MDH82o_OhWPz13DBOqZd841jcxSGag"
+                }
+            ],
+            "address": "Mega Park, Unnamed Road, ตำบล บางแก้ว อำเภอบางพลี สมุทรปราการ 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "สมุทรปราการ",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "ตำบล บางแก้ว",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.849
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.849
+                },
+                {
+                    "id": "4f2fbe0c3d10b976661f05d867ac9499",
+                    "name": "Cave"
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.836
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.353
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586626819445"
+        },
+        {
+            "id": "3399c65fda7e434ab9d6171f268ab99d.16",
+            "hashedId": "1ab16ba4e5b88b5af03ab39ce03dccf86ed3b0a9",
+            "title": "Kingkong",
+            "state": "RETIRED",
+            "lat": 13.647416,
+            "lng": 100.681958,
+            "lastUpdateTimestampMs": "1600172326033",
+            "images": [
+                {
+                    "id": "a59e54f17dbd4b01bdcec520aeeebdcd.17",
+                    "url": "https://lh3.googleusercontent.com/2WGnRf0IfgOCnu_up0vCcKMhTdhzQaOQBa1cL4j_9uw1ZIuXb6EPGlO-pkaQveKTPgjGyPniYFWtI0H3UJmVy9L_nCA"
+                },
+                {
+                    "id": "2afefd1a4d8846c49159d16ad06afaf0.17",
+                    "url": "https://lh3.googleusercontent.com/Bzu68_i1P1xxJ2CY91kx_JoZlS9lvZmC8OPsL1A32laiYjt9e3XKLrRr2L0PSfssKmGWE6qyOuEByOI8W-O3BcOKiqE"
+                },
+                {
+                    "id": "37c295e630ca49178c0ce6f5f74d84ce.17",
+                    "url": "https://lh3.googleusercontent.com/S4fUHAsKLKQOyfWbZM_z4gQqi_pqfhg3VTkHJE7YixuhOZJc5oG5y5S5h5cDiNA3y36NimznOoeovgo_6Y7dEHPV4Es"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3e60c00bb32d474e9980711f11f07a13.16",
+            "hashedId": "2464a21a5b78311f6dd92f57bb894e210d40e58b",
+            "title": "ศาลพระภูมิเจ้าที่",
+            "state": "LIVE",
+            "lat": 13.647552,
+            "lng": 100.676023,
+            "lastUpdateTimestampMs": "1619529583473",
+            "description": "ศาลพระภูมิท้ายซอยไทยสมุทร32",
+            "images": [
+                {
+                    "id": "02c2ed52c5304977930a6aa0d2c053e6.17",
+                    "url": "https://lh3.googleusercontent.com/krBHxeewzroHq3qw6niI-pnMnK0_Okjy0duPHh0Rfpk4eufK9kYd0Kfa5dENVeLb6VmbjPmdG9cbblY6XT_sS6EpUc19OKBeZEuPbTCh"
+                }
+            ],
+            "address": "53 Thaisamuth Soi 27, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "5058742ab1f224fdefea0f7c699f0fef",
+                "name": "Arch",
+                "score": 0.3
+            },
+            "qualityScore": 88.2121756296367,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.154
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.3
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.217
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619059603896"
+        },
+        {
+            "id": "436447a927974c13943ad4a6ed2ffee7.16",
+            "hashedId": "49ed2260e6e89d92c2ea3df6fe84d93b249ded2c",
+            "title": "สนามบาสเกตบอล Mega Park",
+            "state": "LIVE",
+            "lat": 13.643212,
+            "lng": 100.67765399999999,
+            "lastUpdateTimestampMs": "1619529773835",
+            "description": "สนามบาสเกตบอลสาธารณะใน Mega Bangna",
+            "images": [
+                {
+                    "id": "07eba0ba072b424581e2e0ca0048ef32.17",
+                    "url": "https://lh3.googleusercontent.com/9U-LEV-BZx94DCNPbEscfKU8Ix-3OOluoPZC4Rtv5FW92aVtYvi1TAK078cS9gBM7zS1Hj7jem5LS--QVS0jA_Mv9DfrTC5fQko0EiE"
+                }
+            ],
+            "address": "387 Moo.8 Bangkaew Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.848
+            },
+            "qualityScore": 74.18808244023084,
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.166
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.583
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.848
+                },
+                {
+                    "id": "b2bc3821637de0ccc26e12d4842ddaf5",
+                    "name": "Football Field"
+                },
+                {
+                    "id": "d6c0e675e07d7dad0e401c06c5e97f34",
+                    "name": "Basketball Stadium"
+                },
+                {
+                    "id": "e6dec091dd91ca8527bab87102b76206",
+                    "name": "Basketball Court"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619414139821"
+        },
+        {
+            "id": "440ac55600e945a8a189558c21dff18e.16",
+            "hashedId": "49a6db8646a0928115ec4abb8e673bab6ae1756f",
+            "title": "Waterfall garden walk",
+            "state": "GAME_REJECTED",
+            "lat": 13.646702,
+            "lng": 100.681823,
+            "lastUpdateTimestampMs": "1589895387954",
+            "description": "ทางเดินสวน ที่มีน้ำตกเล็กๆ ในส่วนห้างเมกา",
+            "images": [
+                {
+                    "id": "a4c56c957f1844408ee55065766f2849.17",
+                    "url": "https://lh3.googleusercontent.com/6rFsDbDDEYMrp3urtErHN1sjWtCab4asJ34eAcEYIqsjkZ3ux7J-gepbN49fJrQVa9MDUWlOJG--FNqex8SrtKGvjjMI"
+                }
+            ],
+            "address": "38-39 Bangna - Trad Road Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586936908762"
+        },
+        {
+            "id": "47dbc2e3f8374462aa1b334b8d0d886b.16",
+            "hashedId": "0682e87ddae5b6e5fce2ef708c3494bb2766e07d",
+            "title": "Fountain at Mega",
+            "state": "LIVE",
+            "lat": 13.645964,
+            "lng": 100.681151,
+            "lastUpdateTimestampMs": "1610361278898",
+            "description": "Water feature by The Cube at Megabangna",
+            "images": [
+                {
+                    "id": "ef3806e35eda49a8901da2575c2ea651.17",
+                    "url": "https://lh3.googleusercontent.com/FJ67jUnymmGngsroyeF20tErBd4_KzSvufC2TA9wkqbaoTRYSSudN53jCGikNto7IgzNxPwTIO1zt5MpUukExYZAUPM"
+                },
+                {
+                    "id": "7f6b688392fb411aa1f0931cabfd1bac.17",
+                    "url": "https://lh3.googleusercontent.com/mvYemnt7Ksgl9FGSpP6JPOSAxQT57ZhBbVes5JpPC4quZaB5XDlPT8TNAEXuOA7VyHPQ5Qdwq9eN0TTmhDAixp9myzU"
+                },
+                {
+                    "id": "354e6fab0b9c488ca1fb5869ed53b49f.17",
+                    "url": "https://lh3.googleusercontent.com/50Fi7Nv8W_lCGehm3lmt71TySQqCOxDVpKouXypES00lZe_ULJo2vhDFYJEpTjL_pJjo1XSJ1nrzviWi-R21JIZsCQ"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1675225662534"
+        },
+        {
+            "id": "4c3ed8981ef0d13abed3928000000000.16",
+            "hashedId": "c4b95f36e39e81e9d984d8fc6efb73aec3f9c97b",
+            "title": "Naiin book store",
+            "state": "LIVE",
+            "lat": 13.645764999999999,
+            "lng": 100.67925,
+            "lastUpdateTimestampMs": "1663572328592",
+            "description": "Mega Bangna",
+            "images": [
+                {
+                    "id": "ea1674b1cbb138a4b8f8ca773d15526a.17",
+                    "url": "https://lh3.googleusercontent.com/52H3x8kCBkR0y9c7se3wmoO5ExetizBopzJWKzwpSHdTjpJox2R-icxZtXa1ygU6_1_rQmbwjw1-p-L0WWiGqJoHPpuCZxiKUtEywN7S"
+                },
+                {
+                    "id": "69c5c27aa27b3f5c9a60b2d8b95aca19.17",
+                    "url": "https://lh3.googleusercontent.com/OB9vGYk5gSApTsPXh1XKR8RHuIv1bjfkrv3LUiQzOGMeuVYZEGPtUmQuzy5QLJEMHsPa7syvQabCTsA4X4xeGevIPNREVIdOunJLsSKq"
+                }
+            ],
+            "address": "JMWH+8P Bang Kaeo, Bang Phli District, Samut Prakan, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.252
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.252
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.159
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.111
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "504c6dd3e4b051cdfaff645500000000.16",
+            "hashedId": "d50621edc61c70fb801881cb1dee5ecfcf756bf9",
+            "title": "Misty Mynx",
+            "state": "LIVE",
+            "lat": 13.647419999999999,
+            "lng": 100.680998,
+            "lastUpdateTimestampMs": "1666268084642",
+            "images": [
+                {
+                    "id": "4902d83ce8d03f2f952251fd950cc2bf.17",
+                    "url": "https://lh3.googleusercontent.com/HSVBMdhoJuMqZgb2tKEYK1CDgESQJAORpDPJIliTgW6cJcDPV8wd8tyAfkxR_TNB3oKqsWhvYEbCr-NF-NFxLhqvQJAqXLqd90G-5bwR"
+                }
+            ],
+            "address": "L1 , Mega Bangna , 39 Moo 6 Bangna-Trad Road km 8. , Bangkaew , Bangplee , 10540 SamutPrakan, ตำบล บางแก้ว อำเภอบางพลี สมุทรปราการ 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "สมุทรปราการ",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "ตำบล บางแก้ว",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.393
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.393
+                },
+                {
+                    "id": "93a0f087aafe93f75819f28e06f049fb",
+                    "name": "Tree",
+                    "score": 0.099
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.172
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619730015147"
+        },
+        {
+            "id": "514b1cff25214c8786953ba3956ec667.16",
+            "hashedId": "6c40d271cffadc819d4f4684229dcb37a4d4c187",
+            "title": "Mega Cineplex",
+            "state": "LIVE",
+            "lat": 13.647644,
+            "lng": 100.681085,
+            "lastUpdateTimestampMs": "1501109540614",
+            "description": "Major Cineplex Movie Theatre @ Mega Bangna",
+            "images": [
+                {
+                    "id": "7fd653f4b9eb4ab8b489d6ac198a0170.17",
+                    "url": "https://lh3.googleusercontent.com/cGckas23qHcIpZccTvOSxsOvZ-G3ZfePAxLQhd5fbQZjsYDBbxcJW4uaZD7LcO2o4vS52rmrFAn6tK2j8JE7rNv8hw"
+                },
+                {
+                    "id": "1537246bcecc43ada7e9a8f48a7df1db.17",
+                    "url": "https://lh3.googleusercontent.com/hsrLfBlPRhTSy_kiwWwhO0MalaZBbZI_93sz-ccCDn7_qRMfNbHub9bOsUM2Dqj8n-mETC8I11YH9dtlyhxrKRz2mSQ"
+                },
+                {
+                    "id": "36da38b33eca4ac48d1472830e4eb2b7.17",
+                    "url": "https://lh3.googleusercontent.com/GBrifKEL39d5mfv73pf-l-Z0l6ZEgNibBbQeoZpHLfr5xYKaHkEcmVURpOfORD8ooQBlmrx82iSxt7JKEtDkqwIz8du0"
+                }
+            ],
+            "address": "Bang Na-Trat Frontage Road, Bang Phli District, Samut Prakan 10540, Thailand",
+            "mainCategory": {
+                "id": "5539e5d8eda9b7ff5f9aba5db457cf47",
+                "name": "Theater",
+                "score": 0.992
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.177
+                },
+                {
+                    "id": "5539e5d8eda9b7ff5f9aba5db457cf47",
+                    "name": "Theater",
+                    "score": 0.992
+                },
+                {
+                    "id": "e121b879499ac131c3f0a561e095374f",
+                    "name": "Cinema",
+                    "score": 0.39
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1675229163739"
+        },
+        {
+            "id": "52e53d6b216c3db1bfbdc6749639a036.16",
+            "hashedId": "7396b25f70b80a7f39b5b9fc924fee1a2f203f25",
+            "title": "IKEA Furniture Land",
+            "state": "LIVE",
+            "lat": 13.644630999999999,
+            "lng": 100.678615,
+            "description": "ป้ายอิเกียขนาดใหญ่ในห้างเมกาบางนา ฝั่งโซนฮาเบอร์แลนด์ โดดเด่นสะดุดตา",
+            "images": [
+                {
+                    "id": "2f642de5dfc5389d8254546f552adf58.17",
+                    "url": "https://lh3.googleusercontent.com/BKpXlWsC4YI67wPklAOIafENkKlRaw7eqKXxNpD2mRX3c99Uz_J4FPw7JEiOsuAUX8oNfxI0-8QagOvjnhtjkqpuAhtmvw4bocSdR1A"
+                }
+            ],
+            "address": "39 Debaratna Rd, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1701064767165"
+        },
+        {
+            "id": "54b8bc4252c541ba8767e91a71fb715b.16",
+            "hashedId": "3ef00d0f27b615d35e93aeeb0a57c51a499ef53f",
+            "title": "Huapla Chongnonsea Shrine",
+            "state": "RETIRED",
+            "lat": 13.650461,
+            "lng": 100.679891,
+            "lastUpdateTimestampMs": "1660326841757",
+            "description": "หัวปลาช่องนนทรี สาขาบางนา",
+            "images": [
+                {
+                    "id": "f78967e200493646a5031b40c6417bd2.17",
+                    "url": "https://lh3.googleusercontent.com/-fa5CDleX7nU32uyZqYVUgjo4uyuJAHhCi0F30xuPEi8T0pl7rzqQ69dFG91Xrh8tCicZfstIGcFuhbme2u-ao17Yp8EofQWGszeplK7"
+                },
+                {
+                    "id": "2997e84b86f844ad90fbd58bdeac8197.17",
+                    "url": "https://lh3.googleusercontent.com/-SWJFvbee4h6B2n4a3UJI_osK5rRJdzke-LxUrftphOSGnmOMAC-ESGVWLd9mY0n9Daadd4TCmC9ImgXZ8OVnF50IbU"
+                },
+                {
+                    "id": "06f5b4f8536f363ebec8764cd58078f5.17",
+                    "url": "https://lh3.googleusercontent.com/55zfbY0YhdthccrYCW0cKOLgno9F0Me_g5h3wSyB6pCNNep2OAsJbjWye3xmq1ypCYqyskJOEuNPugkoJkl6DwURy8besFmgJLqtjXc"
+                },
+                {
+                    "id": "2c4fcf1ed9313a51ab9222de71dce2ae.17",
+                    "url": "https://lh3.googleusercontent.com/NzjctlY9xJztYmpqhjqUiLLJnh2395aBkPphbeS2473E5xOklbvUcQCpvGvAr6qIQOh-WWebi5bpw1GWfTMH-R-8TxE0wl5DKnC6WYw"
+                }
+            ],
+            "address": "Thanon Bang Na-Trat Frontage, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6070c1f9226c4d9d978b10ef8ebbe678.16",
+            "hashedId": "f4e4591344b5628829140acc0be93079b9296624",
+            "title": "Metal Pegasus",
+            "state": "LIVE",
+            "lat": 13.643332,
+            "lng": 100.678512,
+            "lastUpdateTimestampMs": "1619529764937",
+            "description": "ประติมากรรมม้าบินโลหะ",
+            "images": [
+                {
+                    "id": "2ab50ab12570430db77e412828689203.17",
+                    "url": "https://lh3.googleusercontent.com/1qLbw8nhuO2VGBLjWQHdQLKb7YKSiIH-hzS4eNUaWQBUl7OpsIV2lisjScxfI9VDdTACEzdbhvfc6qPu7vtvcHejKLCZOzyFEj2HawzX"
+                }
+            ],
+            "address": "38, 38/1-3, 39 Moo 6 Bangna Trad Road, Km.8, ตำบล บางแก้ว อำเภอบางพลี สมุทรปราการ 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "สมุทรปราการ",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "ตำบล บางแก้ว",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.947
+            },
+            "qualityScore": 89.86736990605662,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.947
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.344
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.069
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1619001885324"
+        },
+        {
+            "id": "61416475f503449fbfb2a0995d746db5.16",
+            "hashedId": "f58d20e0a1494ba8a72fb4fcbdc2257dc6208d19",
+            "title": "Ladder Dome",
+            "state": "LIVE",
+            "lat": 13.643797999999999,
+            "lng": 100.677904,
+            "lastUpdateTimestampMs": "1589899583770",
+            "description": "โซนพักผ่อนเปิดใหม่สำหรับผู้มาเที่ยว",
+            "images": [
+                {
+                    "id": "351927a38f514eefa34908da27f6dce1.17",
+                    "url": "https://lh3.googleusercontent.com/9wWGaNr8TjcUVUeZNrbKoOQLP_aF51xrgNIONm6IGG258d7eP4zqRLpoXMW_c0Jm_KE2TkchxOVbxIVLSWUmZmoLkl3N"
+                }
+            ],
+            "address": "Mega Park, Unnamed Road, ตำบล บางแก้ว อำเภอบางพลี สมุทรปราการ 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "สมุทรปราการ",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "ตำบล บางแก้ว",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                "name": "Rest Area",
+                "score": 0.641
+            },
+            "categories": [
+                {
+                    "id": "14f7dfc6568e3e21265ad27cd2e5308d",
+                    "name": "Pavillion",
+                    "score": 0.183
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park"
+                },
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo",
+                    "score": 0.14
+                },
+                {
+                    "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                    "name": "Rest Area",
+                    "score": 0.641
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1577261909675"
+        },
+        {
+            "id": "619ceab4c28e392fa3a072333181cb20.16",
+            "hashedId": "3ade46388fe34cdf6b606fac3b259ee95a96e821",
+            "title": "ศาลพระพิฆเนศ",
+            "state": "LIVE",
+            "lat": 13.642507,
+            "lng": 100.67807499999999,
+            "description": "เป็นที่เคารพบูชาของชาวไทย",
+            "images": [
+                {
+                    "id": "e0f2402fed8d371bae03fb401bd39e39.17",
+                    "url": "https://lh3.googleusercontent.com/oaBb7cg3-5D0C_jOOQPaX_dDFWPRq92gsTaK1Jp6rxtuD3YuqmuEBMmh6ffvDQNWxkTuVIvQge1m0yPQrOE4pPlZik2H3hwjEpn-0-M"
+                }
+            ],
+            "address": "JMRH+JCR, Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 71.38896,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646210593164"
+        },
+        {
+            "id": "634bb157de3a4a5486b44b39d04a1f7e.16",
+            "hashedId": "faa00bd135919446b3a298658c0c7bdf067b4d06",
+            "title": "Sand Dune Playground",
+            "state": "LIVE",
+            "lat": 13.646702,
+            "lng": 100.68128999999999,
+            "lastUpdateTimestampMs": "1615901332927",
+            "description": "Play area for children at Mega Bangna.",
+            "images": [
+                {
+                    "id": "789df1cdbef245c3897c49f2dc85b868.17",
+                    "url": "https://lh3.googleusercontent.com/Fn9c7GMPKIpxaZFzYEFl0Sf7v0c615aVrnXh9f7LSKRTHvYoIcfnWIHJqWgGOLBDtOmvwK8esIrZ3NgCx4uBtj4b5ti2bpHOpt2fx6_P"
+                }
+            ],
+            "address": "39 Bang Na-Trat Frontage Rd, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.972
+            },
+            "qualityScore": 80.54141676966107,
+            "categories": [
+                {
+                    "id": "0302dc152f60e1c4b52e7a27325e970c",
+                    "name": "Outdoor Recreation",
+                    "score": 0.089
+                },
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.972
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.604
+                },
+                {
+                    "id": "e117ee4f06266ce18d4e6b8c42fd4227",
+                    "name": "Recreation Center"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1615654336343"
+        },
+        {
+            "id": "68b72fb9f62f3f898e8af2b0abbeb85c.16",
+            "hashedId": "a7d53a123bfaeba95246c2d4d0f0747abfad0a5d",
+            "title": "Mango Mango Mangoo",
+            "state": "LIVE",
+            "lat": 13.647685,
+            "lng": 100.680488,
+            "description": "รูปปั้นมะม่วง ร้านน้ำมะม่วงชื่อดัง",
+            "images": [
+                {
+                    "id": "83a80c445c523b5091a7db3b5810c5ca.17",
+                    "url": "https://lh3.googleusercontent.com/uBPFx2frDBwhg7zZ8dUg5YxGzzkpd5WH74veVVEbGDKVFiqbl4Qysqy6QGjrtrwkzvM1g9OKHOfrGizCZm2M3DX-8pRm5VkRKGrn6yYsjw"
+                }
+            ],
+            "address": "JMXJ+35P, Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "75c8f71cff564169872f88bf420569ef",
+                "name": "Frozen Yogurt Shop"
+            },
+            "qualityScore": 82.91094,
+            "categories": [
+                {
+                    "id": "75c8f71cff564169872f88bf420569ef",
+                    "name": "Frozen Yogurt Shop"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "e2b08c90766ed57c1d5caafa2f467746",
+                    "name": "Bakery"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1674280542895"
+        },
+        {
+            "id": "6b0585fe41394566bf144f755df7175a.16",
+            "hashedId": "f0a0fa5eec4c299a7993421aa898d3bae5f8bc09",
+            "title": "Paul Frank's",
+            "state": "LIVE",
+            "lat": 13.646377,
+            "lng": 100.680859,
+            "lastUpdateTimestampMs": "1516334765559",
+            "images": [
+                {
+                    "id": "9f1dd93e2a87414da8ebdf08fbd8531e.17",
+                    "url": "https://lh3.googleusercontent.com/zsqtZTi0A64HUVlEoqg5BaQwOccdoZofzPkCu95nXIu9GoYS1W6yZ01wOIdZDPTirMrDChoW9geVhDZAGkuoVdy850Fo"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.331
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.331
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.215
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.173
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6cbe70f91f704543a7fbab26f54d360c.11",
+            "hashedId": "a9ed5fac2a6563bd87ca4b804b9fa508b26b7f73",
+            "title": "The Cube Mega Bangna",
+            "state": "LIVE",
+            "lat": 13.646106999999999,
+            "lng": 100.681146,
+            "lastUpdateTimestampMs": "1605364584333",
+            "images": [
+                {
+                    "id": "6235f11ecca74c7da3c97c8ddadc6035.17",
+                    "url": "https://lh3.googleusercontent.com/sOxspaP0kst9_2dlnugP2l9xcaKERDwo7jMdfaVgBAGcsh3ZU341nvSWa23eECqdDOXO9Drf6nv37BWj0nis4bAv2vs"
+                },
+                {
+                    "id": "99b3a3786dab4f31bab33a58e95c1682.17",
+                    "url": "https://lh3.googleusercontent.com/f95MoOYWCAlwhBEv8IWs78ksJr96NV0TZu8Nbw0PWh1XK1ve9M1ulf8aP-zybd6Ky0GjpLx1UPQ5fdOSRtxl4_VWfA"
+                },
+                {
+                    "id": "53037b889d7449979695a751347f6434.17",
+                    "url": "https://lh3.googleusercontent.com/wmllkFyXV9KpnOxbQZfFVclrQk8RRD9NKjN4NJlqj2QVhIHViKJO1WXl9TRpZIJU7n_BLQuDGxIhRt-NKRwaIKa2Tw"
+                },
+                {
+                    "id": "ba32b186ac524c10a230d3084f2fd40c.17",
+                    "url": "https://lh3.googleusercontent.com/N724PDtz9IXLnEjE_1110NsWAK-6uVHM_G1Edq1GjEgFd_mGVPID2w_Q0l7L9JDfTrKPWRh2QVcDfIOKPKvU9fpwD0Y"
+                },
+                {
+                    "id": "4038b18439144740b64cf2e8d65d9786.17",
+                    "url": "https://lh3.googleusercontent.com/6ixpfaCLhSmif0Qp4zWMUoXdU5QeVIricKJF2n_SMDsxEIoE3PJ-ruafFFYVQXmQ0UakgMBGYoPX7qHs3ZHGaniYlko"
+                },
+                {
+                    "id": "90b3de03f07f46f5a44b9521263960d3.17",
+                    "url": "https://lh3.googleusercontent.com/JoiR9CaTMF5wdmEsvSDqdrQZaqgD_-9stwNK5pNJGBxNeRy2k_pZZBaVTAN0AVhngiETucTeFhJx8jpZgBI7NrbTLQUj"
+                },
+                {
+                    "id": "0e07aee70c544c62a7df706a033322d2.17",
+                    "url": "https://lh3.googleusercontent.com/nB2xiLER_V9swEDjOI4ryHMeFchKpIx8p1HVggO8F0Sl4-dExDX1rXXWzRpMXLy38RTY0sIrNHwv4cR3nK6VQY6F0mgU"
+                },
+                {
+                    "id": "28f6622b68bf418d893cd10e97d67974.17",
+                    "url": "https://lh3.googleusercontent.com/W5dG4KtYDz8mPAqjfOci6cmFGurtDz8FlXcrxtz_HNYzr7deXyB7lH1C6ba_BNim7j1JgGZ_DiXKYB9sUPBgygnzsg"
+                },
+                {
+                    "id": "8868686d57134fd888dd0f1b96098442.17",
+                    "url": "https://lh3.googleusercontent.com/CpU5fk9NXtrIwpg1qHRmt0O7uKOEpUftqg0qAQ1UNV2pZcckeOQc9-FCGBpDCaD9VPWohS2ye1kSMMjqwDD-YGqm304"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.291
+            },
+            "categories": [
+                {
+                    "id": "71eaa9e69b8a8ece009f8620d18d59ce",
+                    "name": "Other",
+                    "score": 0.207
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.291
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.165
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660112789772"
+        },
+        {
+            "id": "7097da4b617c42afb24ee076e9c4ba0d.16",
+            "hashedId": "3e45119fa142b14a7e0fee307d652f91dbf43a9d",
+            "title": "Hulk",
+            "state": "LIVE",
+            "lat": 13.647357,
+            "lng": 100.679867,
+            "lastUpdateTimestampMs": "1501109238612",
+            "images": [
+                {
+                    "id": "5f83d40ba11642d48330860be9ea4094.17",
+                    "url": "https://lh3.googleusercontent.com/hXqzbn46LAjUst7KuWaVCk_a8i5SDo6-qC5NED2cu-RaYwu7-eCDm49ut03dTjqYhBYILsjuZCzlpKonUvL9yH2r7W4"
+                }
+            ],
+            "address": "Thanon Bang Na-Trat Frontage, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.485
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.05
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.485
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.272
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "73c415b534e1408fa45c8ede290a7c7b.16",
+            "hashedId": "13fb5d662fa9dd303b31a0a759e35e4e1c65faf3",
+            "title": "Swensen's",
+            "state": "LIVE",
+            "lat": 13.645524,
+            "lng": 100.680167,
+            "lastUpdateTimestampMs": "1614556114045",
+            "description": "Swensen's",
+            "images": [
+                {
+                    "id": "86e769ec0afa41eaae1b02c3f3578923.17",
+                    "url": "https://lh3.googleusercontent.com/5TXogi_PAGQ6k3uvTVZ5PaCJZUU9n8ADKkMwksHosaQLfPLXNZUZtTkZUwt9z-nds4A_Hl_Da-tzfSu1eKbqybOGdTs"
+                },
+                {
+                    "id": "55ab8c0e3b0c4e408febbdb18d22b60c.17",
+                    "url": "https://lh3.googleusercontent.com/o-bY1i_HYXC2pwbA4qD_wrhLxY3dJx5WBU7_9GSI1GonvSa7wjRAy_emxcXim8lvD2MtfDQHLdRoAe4j6IiPZbeluOg"
+                },
+                {
+                    "id": "c2a57a1bcbb94c37a2fcf30e8cb37bbb.17",
+                    "url": "https://lh3.googleusercontent.com/elc8PIyb9bpBCUyKQ6ryjMqiozrgygNh2XTbXDPogJgwQ9L3iBKRbWKa-Pl5oGJKJSShGCk8DSWX5R8Jq_Eer_r-IQ"
+                },
+                {
+                    "id": "994fc0a2758c46bca8fde32b007a21ab.17",
+                    "url": "https://lh3.googleusercontent.com/8jCH3pFHC3LUp4T1aYh_t_v3xrQJy9LwB0VC5GXEkGnPrgftoDSt6-hRaq0--Mi6TIFDvDbEHHIU0PDj-qwBgLJrPUk"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1675225662534"
+        },
+        {
+            "id": "7522223906db4f47b7b6b959a80ce593.16",
+            "hashedId": "8865a56373ea00e921c84088163189993c68fdbc",
+            "title": "Megabangna Tower",
+            "state": "GAME_REJECTED",
+            "lat": 13.646068,
+            "lng": 100.681168,
+            "lastUpdateTimestampMs": "1501109590088",
+            "images": [
+                {
+                    "id": "ae388cab2ab44a8f94c17576f3ad6f95.17",
+                    "url": "https://lh3.googleusercontent.com/u68jqVpFQtN4PsgSeHwm-V-6epO9jcBOMIsY9azivwMjL3EOtaNkiwFChqw9hXBL8u8valt6p5Lsk3i6nNfsGOCd0eLe"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7ae83003edd843f5bfb56206cb3a8928.16",
+            "hashedId": "bdd78f44121e9b38ef095eb6a7bfe71981d750c0",
+            "title": "Brokeblack Fountain",
+            "state": "LIVE",
+            "lat": 13.646573,
+            "lng": 100.68186,
+            "lastUpdateTimestampMs": "1589895820512",
+            "description": "น้ำพุสีดำบริเวณ Mega Foodwalk ที่ Mega Bangna",
+            "images": [
+                {
+                    "id": "60fa2ce32d52498b82eedf3a6643ec81.17",
+                    "url": "https://lh3.googleusercontent.com/s7oYCeeuH5WURGyYOSPr99VmiuT_XR-Yani09dv0UZeKTSMp6W7dfbTvkgrT92fMdSRjCHjckdVmURfaal3sk-hJ3g"
+                }
+            ],
+            "address": "Unnamed Road, ตำบล บางแก้ว อำเภอบางพลี สมุทรปราการ 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "สมุทรปราการ",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "ตำบล บางแก้ว",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.977
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.288
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.977
+                },
+                {
+                    "id": "e117ee4f06266ce18d4e6b8c42fd4227",
+                    "name": "Recreation Center",
+                    "score": 0.045
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586442798940",
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1675229163739"
+        },
+        {
+            "id": "83fc6bc9a1b940afb8bcf307725fa351.16",
+            "hashedId": "2d0c111ea1f1e552a9899af8d33c033e72304564",
+            "title": "ศาลพระพรหม ขสมก",
+            "state": "LIVE",
+            "lat": 13.645418999999999,
+            "lng": 100.676147,
+            "lastUpdateTimestampMs": "1618925081177",
+            "description": "ศาลพระพรหมที่คนไทยเคารพนับถือบูชา",
+            "images": [
+                {
+                    "id": "9c9a8a3a379f45ab9891856bcdd15a63.17",
+                    "url": "https://lh3.googleusercontent.com/y7OSzozIwjD4fp4MOnyBeWQTldsAarg8V_aJn6afEBFp9mIuAYcIHyY1IudQwEz3uxGalfSoJ9-lNjOkGv3PDyeFy3ohP09WOopj5OfYxQ"
+                }
+            ],
+            "address": "Mega Bangna Bus Terminal, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "5058742ab1f224fdefea0f7c699f0fef",
+                "name": "Arch",
+                "score": 0.264
+            },
+            "qualityScore": 91.22975323300066,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.186
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.264
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.106
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1618548525488"
+        },
+        {
+            "id": "89f6a11a596848fd93b1a42bf441ca90.16",
+            "hashedId": "c7a6fbb139f0140155731c405fc5099538261043",
+            "title": "Megafountain Megabangna",
+            "state": "LIVE",
+            "lat": 13.647212999999999,
+            "lng": 100.68197099999999,
+            "lastUpdateTimestampMs": "1501110118925",
+            "images": [
+                {
+                    "id": "a97af695725c42bb8f8a78c249cc44c3.17",
+                    "url": "https://lh3.googleusercontent.com/nVw6DlAL5zArBhJiE1yYzOFvt2GT6_rAkrIOKR8UsblkHXQyD7IFzAZe61n_Kvzx0EpcY4BQaF41hrk2mZIyVIxY3A"
+                },
+                {
+                    "id": "f9eafc2b55004d17883da69b6ecf1b0f.17",
+                    "url": "https://lh3.googleusercontent.com/5i9Dj0SOZclNBvJn3keMZWahG_npAO--o1PfifkI13TBDf9nhFffl-_LxnDlrF5P8i0EeCqo-dKbRRcu6N_lGm03mQY"
+                },
+                {
+                    "id": "4455ffed689f44c0a80048c9174b8370.17",
+                    "url": "https://lh3.googleusercontent.com/egWaEVFUsRgiCYJnLSycJ8-GROUYPH3N-FsyDxvbNUGzeX4DoXb-Hm9sfs_lo_WUb4e_SiBSaHR3yxxhkSbZdTpBdJ4"
+                },
+                {
+                    "id": "338645e2aa47483b826bb1b843af9642.17",
+                    "url": "https://lh3.googleusercontent.com/inFVFvm4P4g9S_BOymlS_gpdx8YWsFK0RtBFMRsfx6HWv_n3yDeAnIv8Rv-xVxXwhWB9xVHIaXf6VQfM9kHDrZU7bw"
+                },
+                {
+                    "id": "c1e52ee6b3944adf8a1d18b69773a901.17",
+                    "url": "https://lh3.googleusercontent.com/NaGdoyjiRrt-eJL1fEGgoWYjjTu-vPtaIRz_HrE6-MutJxO6dRfkzFiMKqrGjrVByYsgAYLardkHQmv0RWwKhDb9BxA"
+                },
+                {
+                    "id": "a2e209cda54c4b2898257e716199f6ff.17",
+                    "url": "https://lh3.googleusercontent.com/NenWzWmmCZUJgqrD_azYjLxlAx5a4JYtAHoZQXk-nPGLdyFhPrMt6I6k9njGVhzI_6DfE6aR5CPcm9w8q4IvIi0nuo5LqmKYgDAwK9uF"
+                },
+                {
+                    "id": "b3212ff1260949818234b6cb896e8553.17",
+                    "url": "https://lh3.googleusercontent.com/nwcN4DMuvRghzIKDgocSoDFxhrF0BxPeH8MC0S2chLr9JdHlXiu3MBrdl5BpJZSVRPjC8GDSObu3puGuyxiQ3uUieQ"
+                },
+                {
+                    "id": "5f3d8c346781480fa8de5e895fc6aeda.17",
+                    "url": "https://lh3.googleusercontent.com/hGcaH4d3vlVNuII3qQ9Ok03_sV7MHD-HiQ6MRenOpMBZasXCamEiDC1PUDP5lOLO9gaeDchf5Bdo3VE1P8GE7GWtWA"
+                },
+                {
+                    "id": "4e4af33619664a848207541067c71acf.17",
+                    "url": "https://lh3.googleusercontent.com/pdAksOutKtmeI3xde2MTnYI4LTQeSHx1iYxShUK4-dqhscBQ1_LiyrCEXrtYLhZY4qcJSz_rt8JTafob0UhuwBJ3T1Q"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.296
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.106
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.296
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "84e574daec6b8d56073510921571bbcb",
+                    "name": "Community Center"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.133
+                },
+                {
+                    "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                    "name": "Rest Area"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1675229163739"
+        },
+        {
+            "id": "954d3d99cfe04dcebe189987de9c43e3.16",
+            "hashedId": "fcc302b38ec662ea7ffe920b1e9ed8405ea0bbf0",
+            "title": "Crown",
+            "state": "LIVE",
+            "lat": 13.64509,
+            "lng": 100.679639,
+            "lastUpdateTimestampMs": "1501109415478",
+            "images": [
+                {
+                    "id": "a30ad17d31564ff1908325c77084202d.17",
+                    "url": "https://lh3.googleusercontent.com/9fKbbDJgHlabH6Mvc54YsRdKxKS9T0_fy8a0ejmkS7ivJvEEXxSx4MufeENBeU0BN3nR8CpEL0xGFAEnPew2q-1eJcg"
+                }
+            ],
+            "address": "Thaisamuth Soi 27, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.461
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.13
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.461
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.118
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9e96b5f9df1e40dbb11c35cd52fc9c71.16",
+            "hashedId": "b84af96638c6e6f5af65346392a85386c92d6012",
+            "title": "Mega Fountain",
+            "state": "LIVE",
+            "lat": 13.649021,
+            "lng": 100.681883,
+            "lastUpdateTimestampMs": "1616426666336",
+            "images": [
+                {
+                    "id": "9336f24993754aa3b17debb77d209ecf.17",
+                    "url": "https://lh3.googleusercontent.com/Zc3u3N_IJJMGF6Dyd7UOcJZBBUPSWYFKY5hoJ7OCixg_A5SdtrTohiM0uX-RvahtmDlF1ACpK_cNSc0lld2qberqOf8"
+                },
+                {
+                    "id": "67cfbb6f2a95386a8a5b979b61512ac7.17",
+                    "url": "https://lh3.googleusercontent.com/bJBs3zabPqCoTsQBlMDCfanl2JYvZySr5ZvMhoL4wnCRO3OCCGh7um8cH3w7Bt50Hpvew7390I-E25IMvjKQD4ijUNVzB1z9sRSAbH0W"
+                },
+                {
+                    "id": "c46a0f107f5c3c66907588f6f6606755.17",
+                    "url": "https://lh3.googleusercontent.com/H5nsE5mHHfue7tzIcx62pueExN_f4A0_RVxRrHjKl34-qrwalU5sriYWejsA4bbyd5h80pJG-HNt5t5zc3n2tV8BHyw0jmRUtoMoUeGa"
+                },
+                {
+                    "id": "ec0b68fff0ed3c7c8f307cb161fca2c0.17",
+                    "url": "https://lh3.googleusercontent.com/SXYVJDFEWk4KC-SR_XUd63pMOHHfnQKMzYJSfHEYrB_kVQfoddkZxurrppPyFJV8sTS-psyjQHo9JVtQyyCHsa0ddbr_JVpxNSlF0NXjWQ"
+                },
+                {
+                    "id": "26db8e1ea38f35f3888915be55f660eb.17",
+                    "url": "https://lh3.googleusercontent.com/y4_RouebXZYc1ya8H8dl7CybDRZ-Up1TSFiIddMsMkLZrDPzD-ceXaYSFJ5z_mPS1g8F1HevFpO-CNa7vC3U-37r-M8j4YpkVzbZxvo"
+                }
+            ],
+            "address": "JMXJ+JQ Bang Kaeo, Bang Phli District, Samut Prakan, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1675229163739"
+        },
+        {
+            "id": "a55c6345f0e3491ebb96b7b9aaa45f01.16",
+            "hashedId": "ba6df88f6105d08ac125cdc49fc9822473135b14",
+            "title": "Mega Park Red Bear",
+            "state": "LIVE",
+            "lat": 13.643709,
+            "lng": 100.677696,
+            "lastUpdateTimestampMs": "1589896814557",
+            "description": "A bear sculpture inside Mega Park, a part of Mega Bangna complex.",
+            "images": [
+                {
+                    "id": "106b60ffa2b6487c91668f72c043e669.17",
+                    "url": "https://lh3.googleusercontent.com/rssDdmXZrhjgaCpePya2jMZDSAHzHW2uOFv8idbBnBwCx4TwDUgHHTBDFkovphQ9KCXpTXQDfUd391d99YGEltiPF_M"
+                },
+                {
+                    "id": "e465926975c74537bd2e7989b844ea84.17",
+                    "url": "https://lh3.googleusercontent.com/I1Pm4do2NTLj40Ka8vsKHUHerDzCLYyhTnNA_9e_zdO_yJ8F1tkS1eq5W83fvAfkUCfaBi6IscYC5m2yoppATSkQfQ"
+                }
+            ],
+            "address": "Mega Park, Unnamed Road, ตำบล บางแก้ว อำเภอบางพลี สมุทรปราการ 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "สมุทรปราการ",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "ตำบล บางแก้ว",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.941
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.664
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.941
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.507
+                },
+                {
+                    "id": "fbf264dceba337bf62c7b37c23021ab0",
+                    "name": "Iconic Architecture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1575557131152"
+        },
+        {
+            "id": "a6ab5d3d891a44759e9502119b14b8c0.16",
+            "hashedId": "3ec598d199ab9e160dc397ba58d689544d93967f",
+            "title": "Sub-Zero Ice Skating Rink",
+            "state": "LIVE",
+            "lat": 13.647832,
+            "lng": 100.680163,
+            "lastUpdateTimestampMs": "1610600581501",
+            "description": "Ice skating",
+            "images": [
+                {
+                    "id": "6299062507d2487d8568eacd5a01f7b8.17",
+                    "url": "https://lh3.googleusercontent.com/SoWeDcKED38vmIMHBQEwTGf4FVttuYEkVerLfdF1lttOuTF6G4pBoOLMuN8Uv5blW-VWCc413ONWyzHSYluCfGnKiQ"
+                }
+            ],
+            "address": "Thanon Bang Na-Trat Frontage, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "3e51df807bf99200649110c22a42bdc2",
+                "name": "Skating Rink"
+            },
+            "categories": [
+                {
+                    "id": "3e51df807bf99200649110c22a42bdc2",
+                    "name": "Skating Rink"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "aa3b7e415c4c41269984446846512de9.16",
+            "hashedId": "c721455f4bf49ceb245256337372208da380ff77",
+            "title": "Orange Fox",
+            "state": "LIVE",
+            "lat": 13.644971,
+            "lng": 100.678068,
+            "lastUpdateTimestampMs": "1616075129099",
+            "description": "orange fox",
+            "images": [
+                {
+                    "id": "bdc7c4e4159b397293a36ed5864caf43.17",
+                    "url": "https://lh3.googleusercontent.com/EC1DRKXj1k44gNiYIb4RMbSIS9YSHNy4VM6apk-jFFTTxuAEDGFIdLwZ110R4ynWRoxJZcUVZjc7TNIu7cDjwI8KpJDk3SLj2zFTNsDn"
+                },
+                {
+                    "id": "53f21804b6c74fdd950c43473e0f2cd1.17",
+                    "url": "https://lh3.googleusercontent.com/FCaopXc7sLiGEo7Uep_ixjoUGUUdL9HAv7ehqIjGtbggaobcTnTPztGECuyGLZZzgO9GTzHXYOKrkd4dEnXlsBnDlXI"
+                },
+                {
+                    "id": "47d412cbe7644df08c2c6eb0d9e45422.17",
+                    "url": "https://lh3.googleusercontent.com/VnCmrBQNCq74bEXYW5bAi9x07b2RqxD1780VNMT5-ugbt8pCUH2KiGLxkJOkEMoQK_nlSg4UlsiglFQzcBBoTndZRJQ"
+                }
+            ],
+            "address": "38-39 Bangna - Trad Road Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.198
+            },
+            "qualityScore": 79.43456592253386,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.116
+                },
+                {
+                    "id": "93a0f087aafe93f75819f28e06f049fb",
+                    "name": "Tree",
+                    "score": 0.112
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.198
+                },
+                {
+                    "id": "e1257015d3728776a14955e5a1a4f9de",
+                    "name": "Art Museum"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1580877760285"
+        },
+        {
+            "id": "add803c41c674ebd9f1859082720104d.16",
+            "hashedId": "594171493c22e406e3657eff26d85e4a14993755",
+            "title": "น้ำพุเต้นระบำ",
+            "state": "LIVE",
+            "lat": 13.644084,
+            "lng": 100.677467,
+            "lastUpdateTimestampMs": "1616154087172",
+            "description": "อิเกียบางนา",
+            "images": [
+                {
+                    "id": "a94215e3625848aba7eff0a5b463a328.17",
+                    "url": "https://lh3.googleusercontent.com/HDtSd4J2_jV0011z3fRU-haZUep5Kl4o-tjwx1GwwmD2yhHj0Ihnfg-EPWrMieuo7hNbqZ49bqiZRdqo967915hxpkI"
+                },
+                {
+                    "id": "9c061881b3ff369c8aa1e6696f296e33.17",
+                    "url": "https://lh3.googleusercontent.com/pIay2yQPvu8_DsQQBl59RfIk-X7MbLbqtlywWe0j4DUtg0BI1urrDzg7ZlMrG6TsJ4HmNhiYNIR04YFq98BihuYdi5GL0dcgA8pybrKeHg"
+                }
+            ],
+            "address": "Unnamed Road, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.899
+            },
+            "qualityScore": 71.44886559466285,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.193
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.899
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.112
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1575087772175"
+        },
+        {
+            "id": "b2be4bceff4c495c94b6f5afdceea191.16",
+            "hashedId": "d577c56fe7e2dd48036a739d99fe0cbcbc7014d6",
+            "title": "The King",
+            "state": "LIVE",
+            "lat": 13.647378,
+            "lng": 100.68048999999999,
+            "lastUpdateTimestampMs": "1554098833440",
+            "images": [
+                {
+                    "id": "0cf7bb5de80c4c86a1ef2295f08e05cd.17",
+                    "url": "https://lh3.googleusercontent.com/49o5nedpjUX42K_OO82_K1m5ndXFH6ml2CHTB0Dg19zYDJMtucyehfLVELYLX_jA73zj1mT81kS_zwpRdOuGmt4cMw"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.54
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.077
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.54
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.387
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1675229163739"
+        },
+        {
+            "id": "bbfde21ecebe4ba588685a9653bd8a16.16",
+            "hashedId": "9914734294d85b773719051aace1eb75e85031ee",
+            "title": "Mega Lake",
+            "state": "LIVE",
+            "lat": 13.646621,
+            "lng": 100.681579,
+            "lastUpdateTimestampMs": "1553611229250",
+            "description": "The Pool of the Floating Ducks",
+            "images": [
+                {
+                    "id": "d9eb29d73393447384ec7ac15169e307.17",
+                    "url": "https://lh3.googleusercontent.com/dizn-S4nB57ZeADowS_PxfGpvokZC8BHwO_lzu0_nT48Lf8C1o2veOrZntFbJfhRGAxNY3XmMMLpAnh00mkm56Rye1Ak"
+                },
+                {
+                    "id": "8f6c83d8a17f4eef991f542a9659c99e.17",
+                    "url": "https://lh3.googleusercontent.com/v3aG3WaHjnMxliOkY9bAJRUpR96eNTV53TOAgycp-98rilc11iv6IlZmwjr1o4mf6pVPIBkDmuGVuW_GHSiSxmXXXw"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "b2352c8c78169e35ee3fea56d0e57c99",
+                "name": "Swimming Pool",
+                "score": 0.699
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.249
+                },
+                {
+                    "id": "a0618d183634defa8a4cb6cbb8628a9d",
+                    "name": "Lake"
+                },
+                {
+                    "id": "b2352c8c78169e35ee3fea56d0e57c99",
+                    "name": "Swimming Pool",
+                    "score": 0.699
+                },
+                {
+                    "id": "e9d467d62c80efa1f813d7a75547f298",
+                    "name": "Pond",
+                    "score": 0.231
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c062a0f428613cc68447cceb01ad0480.16",
+            "hashedId": "8b9df91ffc976dbb815f0fa46eb640c8629fbdb4",
+            "title": "ชานชาลารอรถสาธารณะ",
+            "state": "LIVE",
+            "lat": 13.649061999999999,
+            "lng": 100.67993,
+            "description": "จุดรอรถประจำทาง รถชัทเทิลบัส รถแท็กซี่ ประจำเมก้าบางนา",
+            "images": [
+                {
+                    "id": "733731087af93676a84597ac6553d720.17",
+                    "url": "https://lh3.googleusercontent.com/1GO0u3d4rG8FYadoJMP8zASu51uCAzKD2lqCxVHRjSXLD2Zzg3MjEV2-Zgl0PvHcr-aZmnaVZ_9Z5xPx1qMWauTgxiUBNOCVY_RjCSyT"
+                }
+            ],
+            "address": "JMXH+GWX, Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "a131bf391f4d33906a7e32dbba5b8cd4",
+                "name": "Parking Lot"
+            },
+            "qualityScore": 75.72567,
+            "categories": [
+                {
+                    "id": "a131bf391f4d33906a7e32dbba5b8cd4",
+                    "name": "Parking Lot"
+                },
+                {
+                    "id": "b6182b3598cfcfca5631c3252b134183",
+                    "name": "Transit Stop"
+                },
+                {
+                    "id": "d35793f0bad09c8d77b0566efe9396a1",
+                    "name": "Bus Terminal"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638972186945"
+        },
+        {
+            "id": "c094cd01b6b64dd2ad41fe584ca27125.16",
+            "hashedId": "64aa8183b31995b668e4dfd7477ba41d1d2185e4",
+            "title": "Brahma Shrine",
+            "state": "LIVE",
+            "lat": 13.648379,
+            "lng": 100.682802,
+            "lastUpdateTimestampMs": "1501110131528",
+            "images": [
+                {
+                    "id": "e092f2a85f2442cbb3e7f28f1c20efc1.17",
+                    "url": "https://lh3.googleusercontent.com/4fkusxQBXfqRvZrQfJQNkfvYmnqZdb890Bjlt0FNU5R5qkufCdn1yH2vR8VuKjzRRl-1Y1XnXgtdWS_fk0uRH0T4FA"
+                }
+            ],
+            "address": "Bang Na-Trat Frontage Road, Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.551
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.464
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.271
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.551
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c0d123cd28004b6ab53c5eb0c2a6a9df.16",
+            "hashedId": "7d879dd0ba6256faf82dc5590d0263020ee05c4b",
+            "title": "สนามเด็กเล่น",
+            "state": "LIVE",
+            "lat": 13.648081,
+            "lng": 100.68182499999999,
+            "lastUpdateTimestampMs": "1589894956003",
+            "description": "สนามเด็กเล่นในเมกะบางนา",
+            "images": [
+                {
+                    "id": "f39973893b6445688eb9706aae7e7aa6.17",
+                    "url": "https://lh3.googleusercontent.com/jAFz_S77ZsD2U6jyOlRuUJG1Uf29o8GWAtlcFS3aTVX5p674w4lugxf2U9rFq_xxrYu-IGp6CDIQXyceQnsnCiZ0Gw"
+                }
+            ],
+            "address": "38-39 Bangna - Trad Road Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.994
+            },
+            "categories": [
+                {
+                    "id": "0302dc152f60e1c4b52e7a27325e970c",
+                    "name": "Outdoor Recreation",
+                    "score": 0.118
+                },
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.994
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.714
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586498366898"
+        },
+        {
+            "id": "e0e88eb92f2b41819aeadd035f51803f.16",
+            "hashedId": "9ce71bab01df512245a348fc1235812e9eb578bb",
+            "title": "เครื่องเล่นเด็ก",
+            "state": "LIVE",
+            "lat": 13.645316,
+            "lng": 100.680703,
+            "lastUpdateTimestampMs": "1600169209275",
+            "images": [
+                {
+                    "id": "0f4e1b98bf7f4adcbcf990be4c7c9f0f.17",
+                    "url": "https://lh3.googleusercontent.com/x10L7i9hrw2TCp6LBSsJBPPMrX2lvRhDJUDhJIuuk9ybtNwoa8WYlzmfE9HvfBDRkArF8guRR1gZN6cht6Ul0Py9FqHq"
+                },
+                {
+                    "id": "f0ae54ad56e944ac8524658dd6d7ce4e.17",
+                    "url": "https://lh3.googleusercontent.com/AMeT95cp02NK4pZJ5DjioQONddNkgdnbdi4KSJkFRTwe_tTpzY_AjTchXo25qtc_S-4vTBXn7alousry9xGR2DAJnev_"
+                },
+                {
+                    "id": "610c74fa3cd54c97b9029f8a216b075f.17",
+                    "url": "https://lh3.googleusercontent.com/sNtODihID-Y5SfuK_jzhz4twcjclDcFZIm0rNoe5F2XhvGYd0V9QSiF1KNxjQQc3xBO1ShkKhPNv6ZywrYRKu64psA"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.361
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.361
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.349
+                },
+                {
+                    "id": "befd3158924f17b31c9c18267df80225",
+                    "name": "Playground Set",
+                    "score": 0.302
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e6490685e6cd4c44ae7a5e2be9617c8f.16",
+            "hashedId": "809337e577791877fca140cde746ad7e5404e316",
+            "title": "Glimmer Eyed Owl",
+            "state": "LIVE",
+            "lat": 13.647079,
+            "lng": 100.67960599999999,
+            "lastUpdateTimestampMs": "1501109753807",
+            "images": [
+                {
+                    "id": "341c980a17e4462ead907b27ae46eb77.17",
+                    "url": "https://lh3.googleusercontent.com/86MlXG2YSF4beUNwxA7SmLLw8bxfW8oh2km8hFmhJAeRVqTqyCaF2Kn7hlGo7YOJb6f4fIQ1WazYaMUc93_Xo8rfj1E"
+                }
+            ],
+            "address": "Thaisamuth Soi 27, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.486
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.07
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.486
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.143
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e790d0772a2c3598a0336bffe4bf26ca.16",
+            "hashedId": "34e1b8e967c08b0b512a1c77bb06f0091187f7d3",
+            "title": "MEGA Terminal",
+            "state": "LIVE",
+            "lat": 13.648736999999999,
+            "lng": 100.67965099999999,
+            "description": "Terminal รวมการเดินทางรถเมล์ รถชัทเทิลบัส รถแท๊กซี่ ที่ MEGA Bangna",
+            "images": [
+                {
+                    "id": "fb2b9e5c013136438a146eb1e89291f6.17",
+                    "url": "https://lh3.googleusercontent.com/mJ_kssLB1zdwa0DcxiOdPIlauHuMA3NX0CF5zw6BW5GfLnC1caS3BJA5sWqgYNfe-n3Q2HBzWTRukeupgd3tGEyPilHEEP2cY5f4KiY"
+                },
+                {
+                    "id": "d992771689043fde9ccafa0a891a032f.17",
+                    "url": "https://lh3.googleusercontent.com/Rv34sHR4lZ401WkTtNS9bq1IHI7p9TbRO2xohAjsG5hEZmbXxp_k3b1gBmfj9_8CuXJ91ViEMLVPtpXfw9-q4FoVrcDzGvFV6b1PPvM8"
+                }
+            ],
+            "address": "Mega Bangna, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "13ddfdcc7dde346011a6366ae9316dc7",
+                "name": "Car"
+            },
+            "qualityScore": 76.90425,
+            "categories": [
+                {
+                    "id": "13ddfdcc7dde346011a6366ae9316dc7",
+                    "name": "Car"
+                },
+                {
+                    "id": "b6182b3598cfcfca5631c3252b134183",
+                    "name": "Transit Stop"
+                },
+                {
+                    "id": "d184b15bccc683c93a009381adb5e4d2",
+                    "name": "Shopping Mall"
+                },
+                {
+                    "id": "d35793f0bad09c8d77b0566efe9396a1",
+                    "name": "Bus Terminal"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1635880890886"
+        },
+        {
+            "id": "e803c99ad1db39f1a40a783c43c3045f.16",
+            "hashedId": "d7f71cd83ea9d577da6fe5d79378bcf42141600a",
+            "title": "ศาลพระภูมิสีเขียว",
+            "state": "LIVE",
+            "lat": 13.649624999999999,
+            "lng": 100.678225,
+            "description": "ศาลพระภูมิสีเขียวริมทาง",
+            "images": [
+                {
+                    "id": "4f3c63d52c4031a5bdabae06f0cf2526.17",
+                    "url": "https://lh3.googleusercontent.com/8mhfoW5sGSNEJsiIzQJgKPqILxQS2SA7thhDRepV4W6deShP29raRhex_UJPz31dY1tAljzTBCkNPUguB8gKcBah_XXdvMXvOGXEXmNFwg"
+                }
+            ],
+            "address": "JMXH+QGW, Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 86.305405,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "14b167a2dd35aa4ba0410139fde805f6",
+                    "name": "Hokora"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1649384935859"
+        },
+        {
+            "id": "ed9a169f0560346d8ee694641be5699c.16",
+            "hashedId": "b80edf4452099791ce9845e549f382661292dd27",
+            "title": "Wine I LOVE YOU",
+            "state": "LIVE",
+            "lat": 13.647162999999999,
+            "lng": 100.68148199999999,
+            "description": "ร้านอาหารแนวฟิวชั่นในเมก้าบางนา",
+            "images": [
+                {
+                    "id": "b869a59763b533cea22ebe8d7b5b44cb.17",
+                    "url": "https://lh3.googleusercontent.com/3ae3Fw3nQ4PwyC3xi0jr6SMYE9H7qFfyE_d5F4H0U_0ttkIVPEcrc4hOmqsss-AUBs0nqcFTPiutB689onkPGwO2mZpjSvl9Ac9rZj-uaw"
+                }
+            ],
+            "address": "1228 39, Moo 6, Mega Bangna, 1st Floor, Bang Na-Trad Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "591ec598a2b2eefef6b7210a6756b3d3",
+                "name": "Asian Fusion Restaurant"
+            },
+            "qualityScore": 80.44774,
+            "categories": [
+                {
+                    "id": "591ec598a2b2eefef6b7210a6756b3d3",
+                    "name": "Asian Fusion Restaurant"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1662142417166"
+        },
+        {
+            "id": "f42f1124bcfb4962aa5c7b204b4636e0.16",
+            "hashedId": "f166c0edcfdf27360553ed6acd874b3f0d8b031a",
+            "title": "Mega Gem",
+            "state": "RETIRED",
+            "lat": 13.647616,
+            "lng": 100.679318,
+            "lastUpdateTimestampMs": "1603106568554",
+            "images": [
+                {
+                    "id": "97850796555b4050bdc26040817d86bd.17",
+                    "url": "https://lh3.googleusercontent.com/TfOEg8FN01ON9nL0XgKSJdCekbCGLsQvUKdpY_FEnPV14NekeyAiV7EqlAv2D9FyLRZpG2TB6_iGaKE_uVwRR6pgrs_A"
+                }
+            ],
+            "address": "Thanon Bang Na-Trat Frontage, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f5c8e616899e3dada1a49ffa0f756cf2.16",
+            "hashedId": "0635139aa3714c99786695b4d11d160ca7b817ca",
+            "title": "MEGA bangna",
+            "state": "LIVE",
+            "lat": 13.649128999999999,
+            "lng": 100.68083299999999,
+            "description": "ป้าย MEGA bangna ศูนย์การค้าใหญ่ริมถนนบางนาตราด",
+            "images": [
+                {
+                    "id": "6bd61fafafaf3de9a5ea712431691e58.17",
+                    "url": "https://lh3.googleusercontent.com/tdymJ4SnziqzBjpTUnlwe3YN8vpGw6ekNrZSgE2aSfL_Z0owh3_iEOOglJo-7akNcNR37UVNCQZIsYrKk8n7n3XR0jceRZgFowiZgR2-"
+                }
+            ],
+            "address": "JMXJ+M8 Bang Kaeo, Bang Phli District, Samut Prakan, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 90.35634,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "d184b15bccc683c93a009381adb5e4d2",
+                    "name": "Shopping Mall"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1635980008765"
+        },
+        {
+            "id": "faea18fc893a4031a7570533c45d16bc.16",
+            "hashedId": "2fcb01dfccd73f35c59652b22012da6b5397288a",
+            "title": "BlueOceanSushi",
+            "state": "LIVE",
+            "lat": 13.645714,
+            "lng": 100.680717,
+            "lastUpdateTimestampMs": "1619114500886",
+            "images": [
+                {
+                    "id": "83442ada337341c3ae1501c4e10a8957.17",
+                    "url": "https://lh3.googleusercontent.com/hDeR9X0G6puK5rl7FcsEDjk-oyiT_IPErYRaOoscti9Xa5x_XWfWGqBfljuax-coCDvXsPDvH2nvk77VBhAv4OHIESU"
+                },
+                {
+                    "id": "cdd7c5c0b93e4e5c96b9bf8972ffae2e.17",
+                    "url": "https://lh3.googleusercontent.com/HbOsxfff6n4zWmq_cMNG1s_lD1ykHKrsjR5qL174op3UEkYcwb7LiaonCnztP1l4m8x_1dgIrf43767KGKX8kI_4pw"
+                },
+                {
+                    "id": "cf0995793af134838cc0ee29c8d8bb5e.17",
+                    "url": "https://lh3.googleusercontent.com/TTylHAuYhw4AXcN8Jrc8zzLOAL_RgODI7G4gtBSrjDw01yINa7R4i7n7vJn4r1PSPY28hAAS2rF2X8OWhfyrn56QGH258sNIJFSy3XmS"
+                },
+                {
+                    "id": "0744f52fc52337d38bf619272ea6dfe2.17",
+                    "url": "https://lh3.googleusercontent.com/16TB117mbk_5BxKOOA0AhgynlMmU6bYFX7um1LytmbcbAAH2voJXorXbyZgNdNu3h5EDQVGN0cufd4jF43ITUWluB7p-KSYAVnUbs5A"
+                },
+                {
+                    "id": "28e1da7b11084f3a9540f3241f951f0f.17",
+                    "url": "https://lh3.googleusercontent.com/HJoR3Gi8f8JshDCZFe78w0GWGxcSJy7P0gmuWbmCSKPSHIwqVxTZdkKHGyZenI7VapltH8hIY9wm95of1LoFp93jsp0"
+                }
+            ],
+            "address": "Bangkok South Outer Ring Road - 9 Bang Kaeo, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": {
+                "id": "2cb2078a28859a376087bcfb909c374b",
+                "name": "Restaurant",
+                "score": 0.51
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.51
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.203
+                },
+                {
+                    "id": "6003f5abdf27b6fbf3e88194cf9b76ca",
+                    "name": "Ocean"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.196
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660134139427"
+        },
+        {
+            "id": "ffa92aee3cc23200bce5a1a68152b9b8.16",
+            "hashedId": "7b8450891070693cc2e38bdb7411f7cfad403701",
+            "title": "ลานเด็กเล่น MOPLAY",
+            "state": "LIVE",
+            "lat": 13.648216999999999,
+            "lng": 100.681933,
+            "description": "สนามเด็กเล่นขนาดใหญ่ พื้นที่กว้างขวาง มีทั้งบ่อทราย,ลานรถตุ๊กตาและตู้คีบของเล่น",
+            "images": [
+                {
+                    "id": "b84acea57f0f3fe68668673cc2a7e8f6.17",
+                    "url": "https://lh3.googleusercontent.com/51a-Ns1c43zE1Q-dnyzAtmoA7gz7jpvz0OYTtXPWSQ9Y1f9JzRDXeybzJQj6mNhgegauAB4DHOxlw1WH1NivZbTMCDmrsfEnSSDmAUTuYw"
+                }
+            ],
+            "address": "JMXJ+8P, Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Bang Kaeo",
+            "postalCode": "10540",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1691128405516"
+        }
+    ]
+}

@@ -1,0 +1,4033 @@
+{
+    "pois": [
+        {
+            "id": "00a0bb1a3fd74a669cc16a66d27f2bc5.16",
+            "hashedId": "89be878fc8c22ec782025179495a85817278e3e2",
+            "title": "Nihonmura Fountain",
+            "state": "LIVE",
+            "lat": 13.73419,
+            "lng": 100.579546,
+            "lastUpdateTimestampMs": "1501112464470",
+            "images": [
+                {
+                    "id": "878e3d64bf0346598336263933dfc0e2.17",
+                    "url": "https://lh3.googleusercontent.com/8SMi__Wk6-PZ7cZormDy8VUM2ENlZqg23esP9maDWE0DelZzNjXfMJSnC0H84FFFMAvWM_WjkCqxwzkvTEzE5JxSjUE"
+                },
+                {
+                    "id": "2cf916a03c0f489c814532f84c61e16e.17",
+                    "url": "https://lh3.googleusercontent.com/yVno2h0Wt-Cv0MQvrt7uTDGYctxZ7FqKUT3QPrc8FQWE3ckEe70wzn_Sxhd0wHaw9IDBLv5VaW-8NXz7Vynz3jyli1I"
+                }
+            ],
+            "address": "85 ทองหล่อ 13 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.915
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.089
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.095
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.915
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0414ef7e730d301a9557b036755ab39b.16",
+            "hashedId": "99d12538e1beefcc3fb13b10ea1f9b7e9aaf9ec7",
+            "title": "Crying graffiti",
+            "state": "LIVE",
+            "lat": 13.732446,
+            "lng": 100.585501,
+            "lastUpdateTimestampMs": "1625578055164",
+            "images": [
+                {
+                    "id": "23f139b30b0230dd9c1e7de349ff5773.17",
+                    "url": "https://lh3.googleusercontent.com/Dv0Qb2P-fnBQhVvMV4ThFGvQR6Chc0i4DVohmDnJy1vLXko6b4EvG_BbdIrkZj7B0kuJwEdFQXirH4Hcy09n"
+                }
+            ],
+            "address": "9-10 Ekkamai 7 Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                "name": "Graffiti",
+                "score": 0.907
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.385
+                },
+                {
+                    "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                    "name": "Graffiti",
+                    "score": 0.907
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.339
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1625113975280"
+        },
+        {
+            "id": "05724d1b9b033da895f4a0bd52b99455.16",
+            "hashedId": "076ed76c5e73c9de59c6112ed12da74f961029e4",
+            "title": "Patara Shrine",
+            "state": "LIVE",
+            "lat": 13.736607,
+            "lng": 100.581385,
+            "description": "Shrine of Patara Restaurant",
+            "images": [
+                {
+                    "id": "f269f8eb1ffe31f5883a6ea54154d529.17",
+                    "url": "https://lh3.googleusercontent.com/1ZGTpbkp2p0oTfD0elcXGJ_eUBu5DIUuR9PfwQpCs_YjrjeTkZxSSvaGG6-B9JG7JMkWmr6RbJDqtUXqJYcV2bUVOdgcADo2b8iiqN2V"
+                }
+            ],
+            "address": "515 Thong Lo 19 Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 80.03931,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "2af59fdc43bebb070430e964dec80386",
+                    "name": "Palace"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1682464785106"
+        },
+        {
+            "id": "0b6e159e40054135a9b8229a1b20d237.16",
+            "hashedId": "909d36f3618897b55d388cd95ea772f0ce281aa2",
+            "title": "Niraikanai Thonglor",
+            "state": "LIVE",
+            "lat": 13.733219,
+            "lng": 100.580136,
+            "lastUpdateTimestampMs": "1610979577372",
+            "images": [
+                {
+                    "id": "7b3275c5efca47d8a7b5b0b64a961deb.17",
+                    "url": "https://lh3.googleusercontent.com/steY9n_1WTw-OvMdZ-7B8ctV6CE8hH5Y5MJcL_5EHA_aBNYbrkOhgnD9C5ddnJQ5Uc9mb1SEOToyfu7-PnwRIehG62c"
+                }
+            ],
+            "address": "163/3 ถนน สุขุมวิท Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0cf3d819cca7422d9a983d600c056033.16",
+            "hashedId": "bf8e0d504ee5be45460d8bc74e9c19aecf4e755e",
+            "title": "Big Scissors",
+            "state": "LIVE",
+            "lat": 13.73172,
+            "lng": 100.581633,
+            "lastUpdateTimestampMs": "1502887418998",
+            "images": [
+                {
+                    "id": "ac9e869aa6e94a0c9e9aa4e76daa0377.17",
+                    "url": "https://lh3.googleusercontent.com/hr7owTJLKmH7p3rvDV3cc_pe5oCG6IhVotSgr0cFn_tR0ELR-vM2HZZ0_u-4IBWZTDnpCJ_hBX00EbXeJpkk_aZWwSM"
+                },
+                {
+                    "id": "692390c823ad4ce0ac2727ac02ba279e.17",
+                    "url": "https://lh3.googleusercontent.com/3fsSSK8J0L2wgtgzI5JDOyuEZsvaOAdFEeDNJFAGysUTBDto6LlP7wQyrONRPQxlFuYRqqluYPsXMfNJhtiyY6xdfGY"
+                },
+                {
+                    "id": "a88d7beddc3d4612baad8cb1e0de9fef.17",
+                    "url": "https://lh3.googleusercontent.com/Uf4KMiJYXfW3E3SpaGiZ2eoJvUt-nRcFYqE4qH5V1Mf1GrazJDrFMtoRhApOpuplCkezk3idnfnum-GaamSR2qudvuc"
+                },
+                {
+                    "id": "a903865577014fb28a198a0653031060.17",
+                    "url": "https://lh6.ggpht.com/PAImtmSC6FlzOp-ZkIsOvse4sNg6H4K4Mn6YYBxdU93a17phnrLMqS-53cYWLty_PPf04wssD_-PpGboG3k"
+                }
+            ],
+            "address": "205/24 สุขุมวิท Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "mainCategory": {
+                "id": "33152bd27aa505da5e6bbd85fc5fe4c6",
+                "name": "Office Tower"
+            },
+            "categories": [
+                {
+                    "id": "33152bd27aa505da5e6bbd85fc5fe4c6",
+                    "name": "Office Tower"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.079
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.819
+                },
+                {
+                    "id": "7e7527926535a1fd272cb41b6305aa51",
+                    "name": "Landmark Building"
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.073
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0d6adbf41d2f3cc58fd2b8f50e6c512c.16",
+            "hashedId": "795d32bef11cacfd58e237fe890bc4ddc59eb258",
+            "title": "shrine of corte",
+            "state": "LIVE",
+            "lat": 13.731095999999999,
+            "lng": 100.582844,
+            "description": "shrine",
+            "images": [
+                {
+                    "id": "a10b69fb22f43c268bbe2dfce1aa4878.17",
+                    "url": "https://lh3.googleusercontent.com/BuP-TMU7B8qkIhQKHWhrMTVwzg-p0Szd2UaCT2anmiK0t2yQPijSV_1zfyxnMn1DOm7D5UJ90h7_djNLZBdvDVFGa2kyvtNgpoijfHOH"
+                }
+            ],
+            "address": "246 Thong Lo Rd, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1684741150736"
+        },
+        {
+            "id": "1291cd9463d64110801434df83aea428.16",
+            "hashedId": "778166f1aba181cef8371b237f6a8891a7aceaa5",
+            "title": "Pegasus Statue",
+            "state": "LIVE",
+            "lat": 13.736108999999999,
+            "lng": 100.583449,
+            "lastUpdateTimestampMs": "1501110607314",
+            "images": [
+                {
+                    "id": "fc1d2830e7a74b9cbe05718ec6c46ca3.17",
+                    "url": "https://lh3.googleusercontent.com/u6c8eMxVYJTH_gdEMP1md5h8xOdE8HzZi8vcaYh40WyNzmblP2rB7UK4s14nS6DbFzFVatKSL9C0K9cBKOhlbPvYXXQ"
+                },
+                {
+                    "id": "abac2f10a43d4325953511f2faeff40f.17",
+                    "url": "https://lh3.googleusercontent.com/xtf_1h4BtP71SgG7bXpeyd01MSTH4qkvQBIZOGhkw5y-chqf95k2nSc8-WAX86emMGh-x3-uWD1LnpDCYqK42d3_l46j"
+                },
+                {
+                    "id": "54a50b9ce7cd42678a07de8253d2f507.17",
+                    "url": "https://lh3.googleusercontent.com/_DnqnEZKwd5W22MCEypBfTb6f4jA0wQsflrhJZAsiBhCFyqo6zrC1tq-zj4TyOF3kC1zRnZogfV17mEHjQVW_OWYwIA"
+                },
+                {
+                    "id": "4fb761bb57174e248b81b6c6c4f552ee.17",
+                    "url": "https://lh3.googleusercontent.com/Cbl3yByJSsaFomWUKEx6vsdZQtOwpuOpuE_CDKAdzZ8phCfKhzCwBmofnwQ91vJodVNtFeDb7EVTkE2_0Open0F21g"
+                },
+                {
+                    "id": "f42ba7504b3b4acc8dbaaf1f41fb508d.17",
+                    "url": "https://lh3.googleusercontent.com/OT8xyZm_EXgwFGjePGO_2z37ovYEBiilgQqEOYv0wZgy6nGst-bXiZYH18O3kfOdgt7f8l57jilrcbQfgkRbqOn6Cunt"
+                },
+                {
+                    "id": "dfd71c12ec364b5985149f1031bcfc8c.17",
+                    "url": "https://lh3.googleusercontent.com/u91imT3S3aNXMrYRFip-LsiN2Gs2YDHjSmbCKRGXZRuWNCY9_lZzx1IeICmpc8ESSVMeUSOqjC2CeueALS2Wvo-TjO8"
+                }
+            ],
+            "address": "389 สุขุมวิท 55 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.942
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.048
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.56
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.942
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "16e45dcd2b1e45838bc0cb7391cd5f6d.16",
+            "hashedId": "782605e3ec7a087f5907f06669a25a8daa7d7c82",
+            "title": "Ganoya",
+            "state": "RETIRED",
+            "lat": 13.732394999999999,
+            "lng": 100.582448,
+            "lastUpdateTimestampMs": "1701185439426",
+            "images": [
+                {
+                    "id": "542212a51dbb4e8ea364468f1a256615.17",
+                    "url": "https://lh3.googleusercontent.com/bGbxhzeuMX0-6BW_z8d8qxe051xmxqyPWJGoztbP1apRiEbWjoBqRoa4DT1_eA0S-bnmBamFobJXHePLlAOL7lSbHgjV"
+                },
+                {
+                    "id": "2c4adb65f0504afb8c1f2b01e1914060.17",
+                    "url": "https://lh3.googleusercontent.com/7I1bK5umT3wdwTofC5aTgE59rb7H21hi7ldBMn8ZIou5gSBzB7cGoH_yplLSS_zv63MRR1YREudnS3NK08Du7_p-4IY"
+                }
+            ],
+            "address": "560 Thong Lo 10, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "17b41e393d084c669d4354e3f9b73870.16",
+            "hashedId": "e960d3ad5fde8b44b4bf938e3f7fcb5e18652198",
+            "title": "Four Stone Balls",
+            "state": "LIVE",
+            "lat": 13.735508999999999,
+            "lng": 100.57701399999999,
+            "lastUpdateTimestampMs": "1501110013328",
+            "images": [
+                {
+                    "id": "acc64470bcd84643855baf23773b4bcf.17",
+                    "url": "https://lh3.googleusercontent.com/IoKrR65EQeooHIxRRNmxlpbR_QQot8GdZQwALX3chUTdaAwLNXPRAWDC9h3wvph2ZPkRwCDzQAUgmCBG48oi3rF_AsE"
+                }
+            ],
+            "address": "2 สุขุมวิท 49 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.54
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.093
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.54
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.068
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1af599f7662c44d587cabd1cc5f320e1.16",
+            "hashedId": "79509a5a83d1f550fe18544c1569edb5e1795c92",
+            "title": "Mao Statue",
+            "state": "LIVE",
+            "lat": 13.732299999999999,
+            "lng": 100.58572099999999,
+            "lastUpdateTimestampMs": "1501110047945",
+            "images": [
+                {
+                    "id": "54b9e817e1564a37b5ba57d52bd28188.17",
+                    "url": "https://lh3.googleusercontent.com/aAFsIqwi5nVPNQBm0E3djik-fqsIs4kGa1EkrOYGalbSWj1NZMrdIsMwFiZ5nANkGgzXCdGkyAM4MOqUZ5l-u7Nt3Q"
+                },
+                {
+                    "id": "71309fb7b8894a099e27bd93a7558437.17",
+                    "url": "https://lh3.googleusercontent.com/opXV9Ze-TOPxZ4Xn_8K6kcfqp4JcWejD_QaUPefDDghpIQifmmcOmdzGfvjTrRKbqYIVtCHg-nTbEpWVtVPpVDb9dF7e"
+                }
+            ],
+            "address": "229/6 ถนน สุขุมวิท Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.934
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.081
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.534
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.934
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1aff30ebf76b3497a7425c9cbe9b724b.16",
+            "hashedId": "84aea85c90235511fa432f8867dcb75166dd96c2",
+            "title": "Miyabi shrine2",
+            "state": "LIVE",
+            "lat": 13.738470999999999,
+            "lng": 100.5829,
+            "description": "Small shrine close to traditionsl Japanese resutaurant",
+            "images": [
+                {
+                    "id": "911d2a65b71d3294a972d1d153321361.17",
+                    "url": "https://lh3.googleusercontent.com/vyW57JeIBXp1zBrlIrY1e02asut74H-5suJ37yv0rTE9GjnhjV4BgmSokR3tXZ0RYsRHK8QYlPXdsLWjBRVhlqgxAA"
+                }
+            ],
+            "address": "7 ถนน สุขุมวิท Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1656914374340"
+        },
+        {
+            "id": "1e711a473f35452ea1a9e295dbafbb9f.16",
+            "hashedId": "78a269dbce53625f5c5c5dd36cf429486080c7d1",
+            "title": "โคมไฟ OneOne Hotel",
+            "state": "LIVE",
+            "lat": 13.733794,
+            "lng": 100.582365,
+            "lastUpdateTimestampMs": "1501109481852",
+            "description": "โคมไฟ OneOne Hotel",
+            "images": [
+                {
+                    "id": "d697a6bd6edd49dea141398d7b1d877e.17",
+                    "url": "https://lh3.googleusercontent.com/02yy2jjqL-X2jZ5DJ0I89cQlvCXpMTJWLmCzg6UjUq-Sl5H4vIucjJYb65CSDFU7FPTZ5Sj8PjcfwyZZR3VdXlCkJe0"
+                }
+            ],
+            "address": "389/1 สุขุมวิท 55 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "28020d306dcc0a0173198d6be2829ec2",
+                "name": "Hotel",
+                "score": 0.995
+            },
+            "categories": [
+                {
+                    "id": "14f7dfc6568e3e21265ad27cd2e5308d",
+                    "name": "Pavillion",
+                    "score": 0.183
+                },
+                {
+                    "id": "28020d306dcc0a0173198d6be2829ec2",
+                    "name": "Hotel",
+                    "score": 0.995
+                },
+                {
+                    "id": "419b1c07a48480f45e51165d69222a8d",
+                    "name": "Lighthouse",
+                    "score": 0.396
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "21f9193789fb3b8da8ca360cbfb87cf0.16",
+            "hashedId": "08ea7923539cf65da6786763a7a7f66903b784b8",
+            "title": "The Cloud",
+            "state": "LIVE",
+            "lat": 13.732211999999999,
+            "lng": 100.58305299999999,
+            "description": "Art installation by Thaweesak Srithongdee (Lolay) at Major Tower Thonglor.",
+            "images": [
+                {
+                    "id": "49cc2ed2c4ab354cb5e9d82577b1309c.17",
+                    "url": "https://lh3.googleusercontent.com/cCZfC8gMWIU7CtWF7WiEa1Y_qcaDvyvISeG0CQNr7wr-xjI4Xb7uqDOJnHTxMuYloX5yG-ZBJSSJ7VR8g8CYFub5vA"
+                }
+            ],
+            "address": "141 Soi Charoen Suk, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1654069696406"
+        },
+        {
+            "id": "22a59ae6f3344c1ea66c04dde8890d66.16",
+            "hashedId": "3ed0b814758e0bd4732ae6a74013e0a89d67fa60",
+            "title": "Baan Bannavan Fountain",
+            "state": "LIVE",
+            "lat": 13.733887999999999,
+            "lng": 100.583624,
+            "description": "Illuminate so beautiful at night.",
+            "images": [
+                {
+                    "id": "ac268a067cc547e798efa46b351af51e.17",
+                    "url": "https://lh3.googleusercontent.com/ZkjR4BiUyioFBHtApYk0l5WnFinlz44gcnT65-yIVS6gpwA2AkdDRYmX35TOuEK-Bvwnh4tuR9QQaZ3QCDyGvB2FOA"
+                },
+                {
+                    "id": "0c5c560d9ec0452cb500397810b86751.17",
+                    "url": "https://lh3.googleusercontent.com/89B4PtcF5kS3LlH1hpgSEDklvzW94r3h3g0aMw2QkAWE4GH9iNx7jnivmq2TViCjkVhFxfZx1jWdERwO1kUVa8_QCPg"
+                }
+            ],
+            "address": "516 Soi Thong Lo 16, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "235fa688a1863d8f8a9adeaa69dd3d18.16",
+            "hashedId": "5df675515c2a7ca59a87f0a268e569df00bff22b",
+            "title": "Carving of the Arcadia",
+            "state": "LIVE",
+            "lat": 13.730678,
+            "lng": 100.57966499999999,
+            "description": "งานศิลปะที่แกะสลักอย่างสวยงาม",
+            "images": [
+                {
+                    "id": "32969b2c120733968e2bb18b9077bd6d.17",
+                    "url": "https://lh3.googleusercontent.com/-OZm6NQ1ULzLCL2qvwTauTAbBS0eg7lbm60atp-FX6AKAiSddU9M3DphZNMZJLA7q_zisqmVZKHkbpj6eALNbGgMp3g011s_s6cipW63"
+                }
+            ],
+            "address": "84/1 Sukhumvit Soi 18 Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "qualityScore": 92.44843,
+            "categories": [],
+            "availability": {
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1703144445785"
+        },
+        {
+            "id": "26c4721d6cfc3ccb8c45c0c0699b2069.16",
+            "hashedId": "aaeda602f3f741cb8c1bece3573c5d7661eca909",
+            "title": "Major tower",
+            "state": "LIVE",
+            "lat": 13.732113,
+            "lng": 100.583182,
+            "description": "...",
+            "images": [
+                {
+                    "id": "fba2559552e33f5296d3192f7523eeee.17",
+                    "url": "https://lh3.googleusercontent.com/7jPeNvq9qWjyQBVmjWwS6vY9o5U2BNOTRQDqd86qAXpKOgwaaZIApOTXN7zbhnQFVcD2mRVavCIRb_s9wGPBG81Qxe0"
+                }
+            ],
+            "address": "141 Soi Charoen Suk, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                "name": "Tower"
+            },
+            "categories": [
+                {
+                    "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                    "name": "Tower"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1649649210561"
+        },
+        {
+            "id": "26d9f6ce22cb47969cef833f65dbf8fd.16",
+            "hashedId": "a25383dfc7e9bb212a9163267f2191eec874b8a3",
+            "title": "Pink Monster",
+            "state": "LIVE",
+            "lat": 13.73237,
+            "lng": 100.584808,
+            "lastUpdateTimestampMs": "1501109011290",
+            "images": [
+                {
+                    "id": "bc3b55b571ec422da322eab93c7a8163.17",
+                    "url": "https://lh3.googleusercontent.com/iYJOaVhqbu5r727iwy9OjAXCwmOZgelFqvkd9SCifE-_k_PnzmmkbLLy250l-uawrXMZj7WjzHl9Mbo3fE1H66LJ4Q"
+                }
+            ],
+            "address": "159/1 Soi Ekkamai 7, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.326
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.326
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.151
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.153
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2906ff8ef7cd370d9d3c3ef78f08b264.16",
+            "hashedId": "534a4e3eeedf43ccc2dd2e0e4a66bb7f62f60ed3",
+            "title": "DRIP Tea & Coffee Cafe",
+            "state": "LIVE",
+            "lat": 13.734176999999999,
+            "lng": 100.578913,
+            "description": "地元で人気の内装がゴージャスでお洒落なソファーも置いてあるカフェです。コーヒーも美味しいく静かにゆっくり過ごすには最適な場所です。",
+            "images": [
+                {
+                    "id": "4f8d9f3910903f29a04671a4a6393254.17",
+                    "url": "https://lh3.googleusercontent.com/09rxyGxc-atGXOs2i1fT5vK8q9RWzIVHhHAOlWgRiUk2xCS_103u-8Oa8XAmqbTPl9b9FyoDH9t2K0BMEaie_a41PSelia8ksYRP75k"
+                }
+            ],
+            "address": "26/1 ถนน สุขุมวิท Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 88.575226,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee Place"
+                },
+                {
+                    "id": "b14df47e0aa6683793b20f5f49fb3456",
+                    "name": "Deli/Bodega"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1692714973517"
+        },
+        {
+            "id": "2ba2593b114f469aadf0be23ecaf497d.16",
+            "hashedId": "3f9fa7c092a33842426857733f583f1136d02aca",
+            "title": "fountain grass suite",
+            "state": "LIVE",
+            "lat": 13.732918,
+            "lng": 100.582701,
+            "lastUpdateTimestampMs": "1501109588601",
+            "images": [
+                {
+                    "id": "fef636a1e3634a2b882429270f97fdc0.17",
+                    "url": "https://lh3.googleusercontent.com/mIxyWOeoubkU9sy2DMTdpRKE0nYDy37S8VlOn2Wvx-snBqNd6v-up5q77JEYqyO6Qm1hwKW4kFjjBGh7Z7LvSV5Zqg"
+                },
+                {
+                    "id": "41293c4bfde946c9b46e1daef4d15976.17",
+                    "url": "https://lh3.googleusercontent.com/M3Yndy3x8YPMMkpsi4Z1m9S4b5BawIXmODmPEqUqOgMQ9sgLZBFOvZFHRJowq-p_TY7wQa0kxRKUTj8QMnPOkyMM4Ci4"
+                }
+            ],
+            "address": "Soi Thong Lo 12, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.936
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.071
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.088
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.936
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2bfa443c4f563d509532ec969730274a.16",
+            "hashedId": "670a73591e07ab598d7ce54f1b50e54d295c7dbe",
+            "title": "Schloss Shrine",
+            "state": "LIVE",
+            "lat": 13.733778,
+            "lng": 100.584769,
+            "lastUpdateTimestampMs": "1625578009266",
+            "images": [
+                {
+                    "id": "70aac99e018d33e797897fdb48a6fbf2.17",
+                    "url": "https://lh3.googleusercontent.com/fotUNMl8UAbiRFQYUEeQtKS5TgP9ZQTfxwQYWjosGVf-WyXdyY0FzUdf4V_sfxMvp4n1prOWjn4aT_Hk2oZq"
+                },
+                {
+                    "id": "38e6ba4ea08133e687f96fcf67b4f1ef.17",
+                    "url": "https://lh3.googleusercontent.com/n2PW3p8WyW-nzxKo56iSFGkuAiyq_G8qPj0mjRAbjGu3MsDjJ1pjAqEWZUK_jNK-lPAPCnztTzSrz3HaWgVt96dTiK6T9rXXE_GK2mW5"
+                }
+            ],
+            "address": "474/1 ซอย ทองหล่อ16 Thong Lo Rd, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.175
+                },
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel",
+                    "score": 0.121
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.13
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1625468280106"
+        },
+        {
+            "id": "2c5e9b3d588d3d0ca2fc9bdf99f44bae.16",
+            "hashedId": "dfd6a0742ad013a1301e67f5bf623247d781d13d",
+            "title": "St Gabriel foundation building",
+            "state": "LIVE",
+            "lat": 13.738532999999999,
+            "lng": 100.583535,
+            "description": "St. Gabrel foundation’s gate,it’s very beautiful.And also having pedestrian road safe and easy to accese everyone",
+            "images": [
+                {
+                    "id": "c2aa3a0b5ef8371bba31a20becfcc56c.17",
+                    "url": "https://lh3.googleusercontent.com/lknwLVzoOSJZUggi79M4KwFC0a63DE5sOkiizclf1M2VLVY4pNy7EljLsH-ZgoXFNnuVjWOD_9rc8LclQfMb0pAPVQ"
+                }
+            ],
+            "address": "1 Thong Lo 25 Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "eb6a935d6b62f1a033715156e12030e3",
+                "name": "Building"
+            },
+            "categories": [
+                {
+                    "id": "eb6a935d6b62f1a033715156e12030e3",
+                    "name": "Building"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1651810841395"
+        },
+        {
+            "id": "3021f51dd6434c18b2fc0aa4c1b5161c.16",
+            "hashedId": "32ece5d4e5f299380677a036fc227737a10ef6c3",
+            "title": "Jardin de Ĺamour Fountain",
+            "state": "LIVE",
+            "lat": 13.734772,
+            "lng": 100.58297499999999,
+            "lastUpdateTimestampMs": "1501109573022",
+            "images": [
+                {
+                    "id": "2dfb09cd2b794079964927f2144af73e.17",
+                    "url": "https://lh3.googleusercontent.com/aqYMtGPDC4tYPXsofkxnzx4OtHdrRu3KFm1iwFx7HeL3MlO2726ZLNXKVtnPs1n5nx28ZUGdORKGit0VHA-tOF_q06o"
+                }
+            ],
+            "address": "Thong Lo, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.956
+            },
+            "categories": [
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden",
+                    "score": 0.304
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.081
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.956
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3269e3e9769045ab9098732271e63d82.16",
+            "hashedId": "695660ec05006beba6c17fa30e668a33afd916a8",
+            "title": "Fountain Of Thonglor eight",
+            "state": "LIVE",
+            "lat": 13.731038999999999,
+            "lng": 100.581707,
+            "images": [
+                {
+                    "id": "97168016fe334838a948e59e1b821e52.17",
+                    "url": "https://lh3.googleusercontent.com/kDiry2rVBzYklt-hfnJK_jcajZz3F7SazB0rEPM6KkLCQcI2FWBR34Y59RuZor-xNeLVm4-oTMwNffNtM__UfwxSsA"
+                },
+                {
+                    "id": "8d8d2717df6e40c6aa5794caf77aa7cc.17",
+                    "url": "https://lh3.googleusercontent.com/b-0B75Ct-Fx27B10H08XSAmcKTtJNnT4JLfIowJg55Fx4Yi8b2yavVSPsLXEyNgf4-REP6elMIgQxJK00BCRNJJkv7c"
+                }
+            ],
+            "address": "162 ซอย สุขุมวิท 55 Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660245498271"
+        },
+        {
+            "id": "35bded0975a04973892e7890bd3e5847.16",
+            "hashedId": "836190738eb3b2819e5e1cb74fb9dbec6d27d2bd",
+            "title": "Mesamis",
+            "state": "RETIRED",
+            "lat": 13.732047,
+            "lng": 100.582056,
+            "lastUpdateTimestampMs": "1579239971904",
+            "images": [
+                {
+                    "id": "3de9cc230d3649849e4155f1d7a3daf4.17",
+                    "url": "https://lh3.googleusercontent.com/0hZZbZ5tdoJWvmoGoos3BAf1T8MUc9LFI9GVW_N4pdVGWdawaPzyG1RO9pl6IwpqMLHSR84tLbp6E0E6Z5IJjzvmicc"
+                }
+            ],
+            "address": "306/1 ซอย สุขุมวิท 55 Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "383e337991d74f068b3a6be7a5e22150.16",
+            "hashedId": "4cbc86618e9363195a2fb700ab092b8d777a9c62",
+            "title": "Samitivej Hospital Fountain",
+            "state": "LIVE",
+            "lat": 13.734534,
+            "lng": 100.57701,
+            "lastUpdateTimestampMs": "1692095154756",
+            "images": [
+                {
+                    "id": "1356034c08fd4a03abb045fde233ed2a.17",
+                    "url": "https://lh3.googleusercontent.com/AyXMDn-bZCxovF05g1AAB2mXEC7L6R3lHM1dQaDcshF-xYKHpRMoW0yf2kXs-4AQn0wYLVD-ReQs4RcmVNXIL7KoyPE"
+                },
+                {
+                    "id": "08ee5b55bceb480398917a48f32a28bd.17",
+                    "url": "https://lh3.googleusercontent.com/_US9L9SpcU_V4-ryAtYL3r-M5wyW4hYdLkqdnNNeyiL5dSFDsYqGm_jT23VFa2qDGw2YUb8Rqn6sAitXyDFKwQiyDkj5"
+                },
+                {
+                    "id": "d3a490518473417680ce44a66afe1141.17",
+                    "url": "https://lh3.googleusercontent.com/Nwg6RgVmlOo55mpbqW5kybIach9hE9KHYnwy5MgsxD4JC56bbXxfn5uJGgrEOVuS0z7M_3gpGo4IMumjT_AJHeSa"
+                },
+                {
+                    "id": "4bde189fbfb943ba89b1d0a6d8630c23.17",
+                    "url": "https://lh3.googleusercontent.com/vwmcNzc-WYYTowWdr4rCO3qThuPMpG-7D5k5vo1uSfN7fxktsoIK8bU95J3xPas0DYbCfeAij5urIs5FFFiDguzwWY9R"
+                },
+                {
+                    "id": "dfe499924b2a4abfbdd54dfb5bff2acd.17",
+                    "url": "https://lh3.googleusercontent.com/StkWhjDeWfbwL6KzMZH4b2PI_W6zVOFL39DG1nQUmWFJjXFAS4L52cF8VXpS8nH4bnxF3g9qDaQDPeZC4tqYVn7s5x8u"
+                },
+                {
+                    "id": "3274a1d176f0329689c1cbcf677f18f5.17",
+                    "url": "https://lh3.googleusercontent.com/3ry2M1-I4faOZB33vtsjpVW0JC_A9kDQRA56bFJDocBL9bKh188RwoHfblpcNwnPFjd_nowD-DuLnDXmtV4cRHgcuucsGwOt0bSG4MJJ"
+                }
+            ],
+            "address": "106/4 Sukhumvit 49, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.938
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.101
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.064
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.938
+                },
+                {
+                    "id": "c9591928484d4ea47225598026a7c86e",
+                    "name": "Hospital"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3a16b37e637f411ba5487669bd2259ae.16",
+            "hashedId": "6607cf62bc783dc40ef787f1f041b9c16b6af098",
+            "title": "The Mischief By HUI",
+            "state": "LIVE",
+            "lat": 13.733528,
+            "lng": 100.581307,
+            "lastUpdateTimestampMs": "1501110170152",
+            "images": [
+                {
+                    "id": "f11a24f60c574d6ab5a92518e8e8caf9.17",
+                    "url": "https://lh3.googleusercontent.com/akMm4ZdIuZk7txQpRGlqRh1TyhfIqDakDR01qhS2Z6nByQ9vWysg2fsrbS6tQPF8dUXnYYgL5K8OE5NqSUFlXpZm5g"
+                },
+                {
+                    "id": "94fc87bb577a42a29941b87dc6d7d98e.17",
+                    "url": "https://lh3.googleusercontent.com/bKri3Q4ey8FPx3pf2qbmESY9Vb2Hvi7Q24hlSKWv-PFXS7iSwkrJZsZZ1uxW8llN_vW4lngpdDjMR2PZcKn-DNKokA"
+                }
+            ],
+            "address": "251/1 Soi Thong Lo 13, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.339
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.126
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.339
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.187
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3af7bb9a4b3a41ce9c8150af24e1e02b.16",
+            "hashedId": "b864fd98b8ad0b3a3974b82632556f3cef4d247f",
+            "title": "ประติมากรรม",
+            "state": "LIVE",
+            "lat": 13.733874,
+            "lng": 100.582194,
+            "lastUpdateTimestampMs": "1574352247353",
+            "description": "OneOne Hotel... Sculpture in hallway to toilets",
+            "images": [
+                {
+                    "id": "84e9130b85d344498c1fe866381fc529.17",
+                    "url": "https://lh3.googleusercontent.com/qs2raxNCm-l70xX_Y1xm4Pnep0SvQvrnik1UWE06BtoD5iqH-VQ9vTl7b0oOJnkQCNhFVxPNOHmnvUXOwMR_ejZmgFM"
+                },
+                {
+                    "id": "d16f434f8ff2457c915741a64af851b6.17",
+                    "url": "https://lh3.googleusercontent.com/UuL7phVZtXThsLhQizTqujMLlqo6JHdSuzAY6-MFSmYEOlyb6uDMn0zUowNAFCi5oX9J5gEYX6kZKFfDh125YmvQH30"
+                }
+            ],
+            "address": "389/1 สุขุมวิท 55 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.974
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.974
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.4
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.07
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3bce9b98f7973bab8e830a48917527c9.16",
+            "hashedId": "090314ab484235758fad5af041e9f91ffbbb1b34",
+            "title": "Spirit house",
+            "state": "LIVE",
+            "lat": 13.733699999999999,
+            "lng": 100.576843,
+            "description": "ソイ49のスピリットハウス",
+            "images": [
+                {
+                    "id": "b737f33eaccb33cca7298d0b333363f3.17",
+                    "url": "https://lh3.googleusercontent.com/wuMc_oDand6l-s2HeZ2ii70fHczS4pFIyJOGTNDBEq_54ZYCmFCDHbNGpEOk5LXJ2ttG0hAaVQK-1XS3phykdP20fA"
+                },
+                {
+                    "id": "65e18a620baf39d290949fef3f761790.17",
+                    "url": "https://lh3.googleusercontent.com/T7u25fsKwt_2zSbR5mLPpOCOkVTN-WYu9IBrXULxnC9CIiJiyXprCCLPvS25SnnEp5ELx81do3K_ttDryeTrouB9q4LWzF5ZwVztEc9KCQ"
+                }
+            ],
+            "address": "104 Klang Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1655706200214"
+        },
+        {
+            "id": "3cbfc379ac6b49328acfebe5307f8485.16",
+            "hashedId": "47d5570deea00efc7f68a4ceec509c866d6eb958",
+            "title": "Small Shrine Miyabi",
+            "state": "LIVE",
+            "lat": 13.738539,
+            "lng": 100.582574,
+            "images": [
+                {
+                    "id": "3d77e3a67d2b480d8921a91b64c1f7b0.17",
+                    "url": "https://lh3.googleusercontent.com/Gl4Wrk4u8zd3k9JpikTqBMCIdeo-a3d5_vRsnzaYvReimXv79dDz4iywiaEDDPjhVciovefVsLwxrHKlku-NPTuDsws"
+                }
+            ],
+            "address": "11 สุขุมวิท Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4203c344760d3c56b9e9fd5cd7b3516d.16",
+            "hashedId": "c08382284f25f47ec97c43273ffafec6a0febdc0",
+            "title": "Homeplace Building",
+            "state": "LIVE",
+            "lat": 13.733614999999999,
+            "lng": 100.582443,
+            "description": "ทองหล่อ13",
+            "images": [
+                {
+                    "id": "db5086636af83b8894d1b130bf2bae6b.17",
+                    "url": "https://lh3.googleusercontent.com/ruwsZHl3HKXNkb4WRjDKa0TbBdRQ4xdms_AapbRmd36ILKmxgvJjJjjVTr59pk91ESPvavwFkl3IrOJa3Bg2TbFVie4"
+                }
+            ],
+            "address": "283 ถนนทองหล่อ Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "eb6a935d6b62f1a033715156e12030e3",
+                "name": "Building"
+            },
+            "categories": [
+                {
+                    "id": "eb6a935d6b62f1a033715156e12030e3",
+                    "name": "Building"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1659416267229"
+        },
+        {
+            "id": "422b8ab5ad2b3362977dd87ffb7d6afd.16",
+            "hashedId": "f1c45a5e7d332c9d12ee58e1457167ec52f6660e",
+            "title": "Shirne at Waterford",
+            "state": "LIVE",
+            "lat": 13.732887999999999,
+            "lng": 100.581216,
+            "description": "A shrine of good luck at Waterford",
+            "images": [
+                {
+                    "id": "de9a829e62ad31a28b624e2bd1327224.17",
+                    "url": "https://lh3.googleusercontent.com/1MzkQ9qcQuzIdqgLr0kWzbh7SBXeas5TK6aCT9tKEX2aYUZYilYFo8unjFhL5DD5fPM4D8YdBqmHoBIDIlLkaIQMWqsRVq6tccPBfok"
+                },
+                {
+                    "id": "42d55ef258ad36c1997e3dbf0456a37e.17",
+                    "url": "https://lh3.googleusercontent.com/geRBEZg8ZdskU4C5V1KMIuwa4HKjhflfOloOoT1IMXH7dz4gkSKExXJqICc973TjaSeVduxp9uaayRDX7SENCret57XXtmEdwwJSMglR"
+                }
+            ],
+            "address": "219 ซอย ทองหล่อ 11 Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 86.158,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1662570875161"
+        },
+        {
+            "id": "43b7f4f0ec27450e8642e313291c2a46.16",
+            "hashedId": "e8c2eea41a155fffff5a352be31b38348b42fcd9",
+            "title": "Cat Cafe Chico",
+            "state": "LIVE",
+            "lat": 13.732812,
+            "lng": 100.57907,
+            "lastUpdateTimestampMs": "1574273786437",
+            "description": "cafe and cat play room",
+            "images": [
+                {
+                    "id": "8f82b80a1c24382b958535f167b2f25f.17",
+                    "url": "https://lh3.googleusercontent.com/mZz8tpNvDcKqEmIjycbCkCRSIAmBvIXlwn23-W6sbV4NbP2kjProduu1sKGskcm9EHyXxjG70p79zVtaMa50woyRXzTBnGzhJtEP9Qev"
+                },
+                {
+                    "id": "1c1df789d4d246db9d10828960769e56.17",
+                    "url": "https://lh3.googleusercontent.com/wMwvOT38Uq3xDU0T9UVqeONd_iz2CDN7rC5xQBuRU8pybZQD3lQilaOuJ7J82t8xtlq9BmwBLKP1mV-ZT_0YwcbVX_bh"
+                },
+                {
+                    "id": "839837a090943e39b5ce85bd28117955.17",
+                    "url": "https://lh3.googleusercontent.com/Qy4VUpGj0BQCh5gDR7u-z-mbS5mjLWvEuZOY7CtMvFBiEefbTvB7RWrsvu2PvrgUJRdhhg04CayMm2c7C04ZQJI0gPqM-LcBzTzq5nZB"
+                }
+            ],
+            "address": "Soi Renoo, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                "name": "Cafe/Coffee",
+                "score": 0.505
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.192
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.34
+                },
+                {
+                    "id": "86ceb44f3bc29a71e188dfbb77d66387",
+                    "name": "Cafe/Coffee",
+                    "score": 0.505
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4475568dee834c30a645b8ea4c2a095f.16",
+            "hashedId": "13b89978d9c4aaaa4c184ba5e52f1f1b92fd9111",
+            "title": "Shire at Athit",
+            "state": "LIVE",
+            "lat": 13.734478999999999,
+            "lng": 100.578289,
+            "lastUpdateTimestampMs": "1574160724882",
+            "images": [
+                {
+                    "id": "2f273aea20124eaab3f366f8282bce15.17",
+                    "url": "https://lh3.googleusercontent.com/WZ6UI6bx0s1WjQRKOA-4cQSpfoK2aEri_UBEW_tIIXXsIPJP8Vg-7GTqpHCOJo_KR7v0aorxyMJigXthdowHSfsXhFA"
+                },
+                {
+                    "id": "8b53abd68c8c4784ba4a9cba67dac804.17",
+                    "url": "https://lh3.googleusercontent.com/-vyw8EYaFcOpkw4epGDH7Lg-Dac808QbgHolR3Ju4y46jdPWVvxUNsUVxlSFWxN_KdzwgAycgDMpouc9YtkuoLqs336-"
+                }
+            ],
+            "address": "Akkhara Phat Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.222
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.198
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.222
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.199
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4b92c2fd383547f281dbe60fcf45cf02.16",
+            "hashedId": "e6a3a684ba85003b64f36df6e8f7f33b705b7740",
+            "title": "Red Lantern",
+            "state": "LIVE",
+            "lat": 13.734122999999999,
+            "lng": 100.579999,
+            "lastUpdateTimestampMs": "1501109636960",
+            "images": [
+                {
+                    "id": "3c06327db59b42f384782f451b1da8d3.17",
+                    "url": "https://lh3.googleusercontent.com/_HkfYJFdXSRGYib7lCZ4wcUBa-sFTvw4YRz-Sayp8smBZpdGmKQSVUWEu0PdsivfZwr0rLn3WfLsBw8TsKI7rVbteyQ"
+                }
+            ],
+            "address": "87 ทองหล่อ 13 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.529
+            },
+            "categories": [
+                {
+                    "id": "0b5f589274539df5448573e8e11e5894",
+                    "name": "Lighting Art",
+                    "score": 0.097
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.111
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.529
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4fcc817219893906873c162e7f70c089.16",
+            "hashedId": "56a2409d08fd112f77ab01bbe06d1a716ab74ad0",
+            "title": "近江牛岡喜",
+            "state": "LIVE",
+            "lat": 13.731532999999999,
+            "lng": 100.578306,
+            "description": "タイで唯一の、近江牛焼肉屋",
+            "images": [
+                {
+                    "id": "02337a2b680336e0bede9ab1e1c1236c.17",
+                    "url": "https://lh3.googleusercontent.com/R8b36OVr-f7aoLpbXgEmkIJ1SgDH_uhwCUE5ZduW1vUwp_HoTKCrABv2ztuE_eL-D5u2FebLO2MhK7jFGHUVQySw93yt"
+                }
+            ],
+            "address": "100/1-280 Sukhumvit 53 Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1645787503932"
+        },
+        {
+            "id": "51eb71fcad814c85bfc201a52ab3fe48.16",
+            "hashedId": "4b1020d6fd3067ebe67b71781cac617eac56a8d6",
+            "title": "IVY Thonglor",
+            "state": "LIVE",
+            "lat": 13.737128,
+            "lng": 100.583524,
+            "lastUpdateTimestampMs": "1574097958645",
+            "images": [
+                {
+                    "id": "c612080b1a1c44449263ae95c551a388.17",
+                    "url": "https://lh3.googleusercontent.com/-xHC2gRF3iFhiiZx5JTptzsArAiyu3aAAIVZ0mJJLM96ZxkAHAmaSAuSNxcm8jVAX-m0AtNXuhE5JsnDHMOBO_EOGuCT"
+                },
+                {
+                    "id": "612ccc79f40441178a0ffcfbf678cbaa.17",
+                    "url": "https://lh3.googleusercontent.com/NOVUtWWexFqBS_JvZ__inFTrCKz1QEXItYlyMaycwmkY3UTE_1pT-AheqGgIQt-EMtmWXvyuu02hJDoONgACc0t6Tyml"
+                },
+                {
+                    "id": "7a295425d4644b11980f5a2d2c5d5ed4.17",
+                    "url": "https://lh3.googleusercontent.com/VgizYzLexKW5T_yTszptgHRPWbOD_LBL2E1qeptnykBB5jraYejFJbq9Gsszk_T96hyMTw8Y3yf2CM_ItyidCI76KHU"
+                },
+                {
+                    "id": "77ca3546d1c64f1aadd66657ad4189fb.17",
+                    "url": "https://lh3.googleusercontent.com/7YgnYnXPuyztFN_fAadLrdt7osLiqTPx69laPo4k58s_XCy523NzcG6d-HkDLK0h3iIbOBQDJ6TmoXyGXkhXuK4rEsmV"
+                },
+                {
+                    "id": "0e92dac166df4cbabeca237b70da2453.17",
+                    "url": "https://lh3.googleusercontent.com/Y2Oxs6fZXrZ4Uk0QZwbxRohLHEpFk2q935C0U0iFWTVRNhyabHaQmM1ZQKcqLk5YX-RDZzOrd4IGZzbWX7P2W_ddrA"
+                }
+            ],
+            "address": "413 สุขุมวิท 55 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.47
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.155
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.47
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.124
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660155384384"
+        },
+        {
+            "id": "55a2d63749473425a24f054c93e2f90c.16",
+            "hashedId": "004af0bf03df3499616f50502b5a43e917fbe27c",
+            "title": "ศาลพระชัยมงคล สมิติเวช สุขุมวิท",
+            "state": "LIVE",
+            "lat": 13.734580999999999,
+            "lng": 100.57690099999999,
+            "description": "ศาลพระภูมิของ รพ. สมิติเวช สุขุมวิท ย้ายมาตั้งใหม่ ตั้งแต่ ปี 2561 เป็น สถานที่ศักดิ์สิทธิ ประจำ รพ. สมิติเวช และ ซอย สุขุมวิท 49",
+            "images": [
+                {
+                    "id": "91a5ddd3cde13b74a8ea8be3fdc0c74e.17",
+                    "url": "https://lh3.googleusercontent.com/O5ipqNk0WA5o3COt91EXQC-BvQ7C0tVTbxm3CFwzbHtlqwGRBQ-BR9EBy8nJdICgWpR0TlvVNaz-9iUIYvk5O6_gS275Tw"
+                }
+            ],
+            "address": "Hospital Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646897543648"
+        },
+        {
+            "id": "5a5c98353f6f414ab155766f3028dc58.16",
+            "hashedId": "2b80237d7fbaa32b311f03c686b6fc2ada7ca370",
+            "title": "Piano on Display at Samitivej",
+            "state": "LIVE",
+            "lat": 13.734957,
+            "lng": 100.57654,
+            "lastUpdateTimestampMs": "1501109613705",
+            "images": [
+                {
+                    "id": "66b7b9bf35c84e5992d648dedc56c79c.17",
+                    "url": "https://lh3.googleusercontent.com/Nndfglhfp22_pr8BIGsVno89V4TiXDdP7BHB6TZQLwliF5KTKyLAWzMbJVDz1auvGhvD3tnjhnsLI84Lt2lPhBZGFJ4"
+                },
+                {
+                    "id": "9f4ff1709270418698ed761848929370.17",
+                    "url": "https://lh3.googleusercontent.com/hCLPh2WRXxKhruA_GVvQk9F_YWmUq6KWxRezzcFJDqVO2zYpEF6MM1cfWoQIl0T9pm4lFnBHR7Qh1FYEu0kl3s0aVh8"
+                }
+            ],
+            "address": "133 สขุมวิท 49 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "mainCategory": {
+                "id": "2e7cb063c63fee882e8212c6a88472d4",
+                "name": "Plaque",
+                "score": 0.215
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.215
+                },
+                {
+                    "id": "98acbe2c4f1faa93e92e917601a382d4",
+                    "name": "Musical Instrument",
+                    "score": 0.118
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.12
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5cae15533b4a37b8b133cbaabe1a5565.16",
+            "hashedId": "c7f970065ff47f783a693c4c26f9b6acde252574",
+            "title": "Crystal shrine",
+            "state": "LIVE",
+            "lat": 13.738586,
+            "lng": 100.58295799999999,
+            "description": "Beside in small trafic road and easy to walk",
+            "images": [
+                {
+                    "id": "4819a2606d6c3b80937e0468370f75d9.17",
+                    "url": "https://lh3.googleusercontent.com/kZ_JjwkOKthgOc4ozoZ9INv7DzUN5gtaSKGv3oaMHcEPdHpRljtGWATRhEg9tz6-KEjKWvsfaIN7wg3r-oLYlS8biug"
+                }
+            ],
+            "address": "459 Thong Lo 25 Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1656906873725"
+        },
+        {
+            "id": "5cc4b8b20d504022aa0567799af2cf1c.16",
+            "hashedId": "9a5c54710b12c41ac93634b6dc4fd465163e49c1",
+            "title": "Triangle",
+            "state": "LIVE",
+            "lat": 13.735040999999999,
+            "lng": 100.582557,
+            "images": [
+                {
+                    "id": "cf89df700e774055b2a26d8c8c9c667e.17",
+                    "url": "https://lh3.googleusercontent.com/WsuYe6bDZSczclFTwM3lUBrOZvZZfDXsN_h5pxnOmXHeHiQFY3oLsU65IiAgxeFgM_IVInYVwEh1_QUKZQ3rq0v8LxU"
+                },
+                {
+                    "id": "9417b138ff044c849f3732eca5f8a6d1.17",
+                    "url": "https://lh3.googleusercontent.com/tsGvOS_fdO7TiUMXutLntquznszSq_xx1ng--TEX1sAJO_AiZnpEiVe6wwdIH6aHf7dRRnAWypOn0HMc2S6q0tsAeH0"
+                },
+                {
+                    "id": "aa953d0f4f69419b8a8a730b33186fc4.17",
+                    "url": "https://lh3.googleusercontent.com/Nb5vvHCXR2FSXxWReoBcyr_OxjUGy-QLU1HEmBv48A1_yVXkCRw7WbfZzJ5bvQge0Fykrza4kzO72TnDWZnf3-RCkYAb"
+                }
+            ],
+            "address": "333 Thong Lo 17, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "63ad887ffe263e9eae7c462f1ffdce5d.16",
+            "hashedId": "02cb9e56ed66da40a7b2678f5fcf00a92bee3b8b",
+            "title": "Stone Painting at Arena 10",
+            "state": "LIVE",
+            "lat": 13.731613,
+            "lng": 100.58513599999999,
+            "images": [
+                {
+                    "id": "b7fa5ac66ac73c3880bba9b9ad3d713c.17",
+                    "url": "https://lh5.ggpht.com/qamR93kDRNHIMvWfY6Idc5JcWjzAE6xQjnhGePiC-stUzQGOkdPpHp3LnR6BwX7zLQJPooQQ4usMwOrr_X7Vhw"
+                }
+            ],
+            "address": "177 สุขุมวิท Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "2b084e300609a053b412f62cb6ad4ff7",
+                "name": "Painting"
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1631796085668"
+        },
+        {
+            "id": "65f64dc4c194316485d963502bc24b0a.16",
+            "hashedId": "99c60be21fcdae90c937d875cdaa3eb583e08534",
+            "title": "9:53 Community's Mall",
+            "state": "GAME_REJECTED",
+            "lat": 13.731581,
+            "lng": 100.578193,
+            "lastUpdateTimestampMs": "1627392254101",
+            "images": [
+                {
+                    "id": "6def1d07b6e23da6b9bc73ecb39b10b7.17",
+                    "url": "https://lh3.googleusercontent.com/KEuEK6JxNO5BHrQLeHPv6E1SLr59s65zBMDrGfpv-i1icNQjpdpEeTSjGdQusplbMLGLflQGR8kbR4Vod-N7"
+                }
+            ],
+            "address": "124 Sukhumvit 53 Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1626947334040"
+        },
+        {
+            "id": "6d6a750beaba46c09789ebb6437eca23.16",
+            "hashedId": "ea5d2018752ba106c940f1f03bfb71a8d2bf1189",
+            "title": "Thong Lo 8 Shrine",
+            "state": "LIVE",
+            "lat": 13.730998,
+            "lng": 100.58213599999999,
+            "lastUpdateTimestampMs": "1501109725910",
+            "images": [
+                {
+                    "id": "5f0cb01dc897407b85ea4096dae17d8d.17",
+                    "url": "https://lh3.googleusercontent.com/YucV8sDwkRa7CwTEfMP406B4lgWukmPlwhRt7ikGOrwKH1kM-7buE-qkkjjrL1AL_pW7W5ZMzZjR67A2Necr6Orplkg"
+                },
+                {
+                    "id": "2ba40e9a141a4b6b9a40874358245770.17",
+                    "url": "https://lh3.googleusercontent.com/zYaN4Lstt_SNF4_M3gzrva-Siw-3uRdu4EQ8tA-WrWIQ0gmRotOYvmi3g8Kac8mtk4u8dItMC-FXDj6YdnKlX7bjKX8"
+                },
+                {
+                    "id": "6706f9eea6f94d5989298310d97c19d7.17",
+                    "url": "https://lh3.googleusercontent.com/T6HYmT65eKl6WSM2H6sgPXTgAm-8Oh-Smmu3LLt3bXdjnfk1QjHJuj52tldjo51OXt7MkGnW8eRt-NAay2FzY7IDQ6Q"
+                }
+            ],
+            "address": "Thong Lo 8, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.099
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.269
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.302
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1660162567565"
+        },
+        {
+            "id": "6dda421e26ef48e5b00e82caec73ea36.16",
+            "hashedId": "91b2f8d911244a2ce76a175beb5d08af83d732dd",
+            "title": "Little Sculpture of Lio",
+            "state": "LIVE",
+            "lat": 13.733806,
+            "lng": 100.584363,
+            "lastUpdateTimestampMs": "1501109853178",
+            "description": "There is 2 little sculptures of Lio.",
+            "images": [
+                {
+                    "id": "62b676b9a9a94f7bbd681f86874ec2ac.17",
+                    "url": "https://lh3.googleusercontent.com/BCf53sYg7UebAdJN1rXwjW2gBzKooEso8iBL-fR78oiavz4YEVhxh3dDoT9AFNhQ_tI0HWWSNCP-KhUWfewACv_PL5HJ"
+                },
+                {
+                    "id": "79bbd3c4b7644883916a345e5bf682bc.17",
+                    "url": "https://lh3.googleusercontent.com/tcnyMEIYmYO800Ih3f-p4494P1XOsQHKirdbBhJJ6lni-gsqzy6Y74Lswr9nxmV7DiyqxNmppdrs5itEVwWzw9MGx8Q"
+                }
+            ],
+            "address": "506/2 Soi Thong Lo 16, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.955
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.955
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.165
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.051
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "73ab9889fbd43929802cb46ccaa35dbe.16",
+            "hashedId": "86e498886a2f0ea988f1ee9c42234678f49df77a",
+            "title": "Old Couple Statue",
+            "state": "LIVE",
+            "lat": 13.732405,
+            "lng": 100.582371,
+            "description": "Statue at Wine Republic",
+            "images": [
+                {
+                    "id": "c4a4c74d63b135ea98f558c9a2d943cf.17",
+                    "url": "https://lh3.googleusercontent.com/xJnu_h4nZmzrJdISHsjePulsf0tcNW95yk4IZoe13oBZ1AFwY9FbVDqwJsGebH9_3YsvlmybS8zhjbz1s9Id"
+                },
+                {
+                    "id": "01db39f787aa3d06807eeb456403c686.17",
+                    "url": "https://lh3.googleusercontent.com/14XRn5no9jTlNrUnh9kFLFBkIERowdbThOvmH4VikPLRhSXLmoGtjHwzStYxmIJbrP2xlVjnU9mbJL7KyhMx70bcSyhK"
+                }
+            ],
+            "address": "137 สุขุมวิท Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue"
+            },
+            "categories": [
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638848885723"
+        },
+        {
+            "id": "73c21bf4bec5430db368bbb54318bfb7.16",
+            "hashedId": "2d9136c2d9f93ff50d89d45ebfb8e7f3f441144d",
+            "title": "Kediglow",
+            "state": "LIVE",
+            "lat": 13.737352999999999,
+            "lng": 100.58387499999999,
+            "lastUpdateTimestampMs": "1501109196328",
+            "images": [
+                {
+                    "id": "2c5c9d2055684ebd8f22f59d89bab19b.17",
+                    "url": "https://lh3.googleusercontent.com/qdypUkfnwDZ_Xsostth6xRE5YmtIdrTkyCOgyS7ZJt8DhIu2elXuyNrhjpI8IkBOrdHFpBMp98wSBv6d6DoUVQY1zns6"
+                },
+                {
+                    "id": "fb332d506e484a1b94109e229e024ee6.17",
+                    "url": "https://lh3.googleusercontent.com/uHGz132uHakil9b5wdiyU3m6n7PkqeWM_FXJzezwKnD_erkG-No1QYnSELMfATo7jfrsb7LRhA9gK9UkRkWTawlwz04"
+                },
+                {
+                    "id": "45607401a352494ea1b3ba9836e1c90c.17",
+                    "url": "https://lh3.googleusercontent.com/iEbwJwCVurI-z2cxgvw-yNE_LTNnbQmbn7RrB_lazkx4tib9ydrRU2Vu7X6gmMA04gtJs5lCqvP-rSot3tco_hqNPA"
+                }
+            ],
+            "address": "898 ซอย สุขุมวิท 55 Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.456
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.132
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.456
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.158
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "812e460050943a788cb4035046f564af.16",
+            "hashedId": "a97fe580ab40250930cca348595991fa28b518a9",
+            "title": "บ่อน้ำพุ",
+            "state": "LIVE",
+            "lat": 13.731674,
+            "lng": 100.581993,
+            "description": "บ่อน้ำพุโรงแรม Grande Centre Point",
+            "images": [
+                {
+                    "id": "8d35c44d9937342e9569f5377fc223c7.17",
+                    "url": "https://lh3.googleusercontent.com/0AJHCXBzmJcDEcY8iJJmZymPGGD2_8qZNSgX4UInpe7vu6WS30HmrBqBwIbDkMZw4v7fsglPsqfdtrEVANYgNOBL443mvm5i3oQTRkQR"
+                }
+            ],
+            "address": "306/1 Thong Lo Rd, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "qualityScore": 97.299355,
+            "categories": [],
+            "availability": {
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1703137964654"
+        },
+        {
+            "id": "87455866774e39f6a6dd49710d82d135.16",
+            "hashedId": "00aae1c1c585e1cfadded7a64e706b0d8265cb8f",
+            "title": "Bat wall painting",
+            "state": "LIVE",
+            "lat": 13.73171,
+            "lng": 100.585028,
+            "images": [
+                {
+                    "id": "1c3c4330791b3625aaf327139c83b4de.17",
+                    "url": "https://lh3.googleusercontent.com/wp4M5WjCV8OgwrXWt2el7yodB94HiOjn8rwkO4x-fDMkcMw8BqD7CUjd8vjv4OY845F2KpB14fPq0GMbKWkGoA"
+                }
+            ],
+            "address": "87/126 Modern Town Buliding A, ถนนสุขุมวิท 63, คลองตันเหนือ วัฒนา, 10110 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "2b084e300609a053b412f62cb6ad4ff7",
+                "name": "Painting"
+            },
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting"
+                },
+                {
+                    "id": "554c5b5e2b86c53bbede851962325300",
+                    "name": "Wall"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1632902288549"
+        },
+        {
+            "id": "8a63a606ab123ca090916e33df3caccd.16",
+            "hashedId": "6cb38fb5afafe748e635d96b053fbbf62749b879",
+            "title": "Great White Statues Of 9:35",
+            "state": "LIVE",
+            "lat": 13.731698,
+            "lng": 100.578273,
+            "lastUpdateTimestampMs": "1627392379958",
+            "images": [
+                {
+                    "id": "12db5c0416af3b91908696815aec66cd.17",
+                    "url": "https://lh3.googleusercontent.com/R65cfWCI1Jrps6nWyOgeVx5MsKRJJsuMTxDeA68qZ3O-TyEw7fM-Ar8uOyST9d4qFU24Y39sqLh__7tM5Yy4"
+                },
+                {
+                    "id": "c44ea2fd2b0c30678522595d1658fb1a.17",
+                    "url": "https://lh3.googleusercontent.com/xz_t4OPofH8IrsJCZoN_MV7fO3Z-1KgrCjQ5K4naM2iP2OiHZQm7NnopuhwZ9kjMV5XBVndNP5-hCIr_Gdf6cOC0uoc"
+                }
+            ],
+            "address": "124 Soi Thong Lo 9, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue"
+            },
+            "categories": [
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1626947171416"
+        },
+        {
+            "id": "8f049545c2e74cb0b385712de65f0241.16",
+            "hashedId": "122b196d24c3539cd10fe511708969cb3f09cf99",
+            "title": "Shrine of Civic Place",
+            "state": "LIVE",
+            "lat": 13.733969,
+            "lng": 100.583255,
+            "lastUpdateTimestampMs": "1501109686103",
+            "images": [
+                {
+                    "id": "8a080b0876f04fe0a0e7939cbc24296f.17",
+                    "url": "https://lh3.googleusercontent.com/ljrx1DGOOWhZFAQ6LaXq-xx-EC4EINHZkHnMNLDLQ4cssuCzYYVlq28U0jBaWG-xqU6NQFY4q4ugR0UIK_Jjt2OdyA"
+                },
+                {
+                    "id": "27b79d9931c74dd18d19065e16585d67.17",
+                    "url": "https://lh4.ggpht.com/SjthqUV3zUejd6At22hMKFu5nVD-J0bTP3WNcnIFBMsyiRxcFBrWPRnh4xQIIhTGUwjldC0B7veg0zonaOhv"
+                }
+            ],
+            "address": "466 Soi Thong Lo 16, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.146
+                },
+                {
+                    "id": "999fc448411afcd33c4c924f9f5e4679",
+                    "name": "Welcome Sign"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.123
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.112
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "97f8ca774cf34bed8cb13a0215dbb9b9.16",
+            "hashedId": "4221d47e7395a408d167f1f9b3c70a963a80e169",
+            "title": "บ้านกลางกรุง",
+            "state": "LIVE",
+            "lat": 13.733684,
+            "lng": 100.58263699999999,
+            "lastUpdateTimestampMs": "1501110135958",
+            "description": "British-Town Tonglor.",
+            "images": [
+                {
+                    "id": "fc008ea93be24b898b8daa71646faea7.17",
+                    "url": "https://lh3.googleusercontent.com/QdJkIIDFxhqXpJAOiDvOBMEJaEJiSQknYJylurlGY3OiscbgH_wEUsjI_MaPRTdJIqrkPwv78eO5sS3I9R7qon0q50k"
+                }
+            ],
+            "address": "440/12 สุขุมวิท 55 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.45
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.45
+                },
+                {
+                    "id": "9bad4f33027ca1d80109986e055488fb",
+                    "name": "City Hall",
+                    "score": 0.123
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.157
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9b5fab1196e74383b8c6359517ed10ee.16",
+            "hashedId": "a53be1a28564fb2c7d1dd869bcb6f4da1f0d955c",
+            "title": "Nihonmura Shrine",
+            "state": "LIVE",
+            "lat": 13.734214,
+            "lng": 100.58025599999999,
+            "lastUpdateTimestampMs": "1501109810493",
+            "description": "Japanese village shrine",
+            "images": [
+                {
+                    "id": "1713584159e64375a0802d7e234b8236.17",
+                    "url": "https://lh3.googleusercontent.com/RI6KHVb3luGrN7j-SZCF-CTpKJ07wKVAwOMGuzwXL81cpZkbtlG8O7DtFkoxm8MQ84Q3ddweOloIzlLXnHdeDhOCKR4"
+                }
+            ],
+            "address": "81 Thong Lo 17, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.665
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.665
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.121
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.164
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9cc509a081c74db2b56895537282e703.16",
+            "hashedId": "b525e8f30b74aaacc913cc11cc54c124c0be9304",
+            "title": "Golden Tortoise",
+            "state": "LIVE",
+            "lat": 13.73353,
+            "lng": 100.57672699999999,
+            "lastUpdateTimestampMs": "1501109397881",
+            "description": "Oriental Antiques",
+            "images": [
+                {
+                    "id": "3f88a4ccbc7e4273928a66a61b319870.17",
+                    "url": "https://lh3.googleusercontent.com/djt5SoFP_I6Dq0P38eKZc0rWIbB6JKMoefLwKO3UmVzMDNzb9AJ3ydH-X29ghw1myvfblwqxRNB2jFLpCL8TEMO-NA"
+                },
+                {
+                    "id": "d599257f25c545889604b7d309a00650.17",
+                    "url": "https://lh3.googleusercontent.com/8nUX68ev8UXc2btBB2tBm6EtfQ1MK6rBmXTkX_cL6KcMwRApQOSVOa2m4b3RAINIPMewPO6LAlxKnzYTyJiajKnx-Q"
+                },
+                {
+                    "id": "4e43d1f0b0814d3ea6cd06f2d9ab47c9.17",
+                    "url": "https://lh3.googleusercontent.com/3cu4YeSRnPFBI6FFywSILrDavDz9i8YttAbCjfxB5Fin1dcTbXn_XwfN9yypbg-gJj-hzTZVdEmz4qXV_0xdNGjVNtI"
+                },
+                {
+                    "id": "bb25ea25fc21424ebced62debd9b5378.17",
+                    "url": "https://lh3.googleusercontent.com/Kab9x7qvc6LRp8VTMdDcXHnlcXmJquZsA-2nlNNZ2uX85DfOnEuo-Kr9XzEW98nWnhFAwce_4evb9ECG8o_BhbOEWw"
+                }
+            ],
+            "address": "48, 3 Sukhum Vit 49, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.634
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.634
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.349
+                },
+                {
+                    "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                    "name": "Historic Structure",
+                    "score": 0.107
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9d0f23ac2a5048de93e2dc1568d8846d.16",
+            "hashedId": "fd7bcc61907970da2515acd632de646960be6574",
+            "title": "Icon Shrine",
+            "state": "LIVE",
+            "lat": 13.737179,
+            "lng": 100.583807,
+            "images": [
+                {
+                    "id": "ea5253a53fb34c868753f5070b0b66cb.17",
+                    "url": "https://lh3.googleusercontent.com/AqPewGwY0gHaVxWQtco4TeH-Y9og4Ih-E5g71HeDmdNylBJuPzhyMCsS2vinREZcCsc0hzm0DHfRZ7d7vPQkrHKitWw"
+                },
+                {
+                    "id": "3afd2050158848c598752087234fbed4.17",
+                    "url": "https://lh3.googleusercontent.com/MTyLXWCmjXqG7QvfuGHi5K2k0v_lNBBGMzZIn0F6cx8qq2aZIGQFtxtvlQ0gfDBT10MRXdAH3mJJV91BESCSmsUEkA"
+                },
+                {
+                    "id": "461d9ed4b4b24695bce7e326d14eef76.17",
+                    "url": "https://lh3.googleusercontent.com/9dXyDTYKnSA_PJgIsTJ96r8d39ha3iJ1YK_3tk6zoQ5mYb17kLEv_bT6w5L4mORRrc-FFiuzthQ0uFm6rqzD6JlJhDoL"
+                },
+                {
+                    "id": "de6f55b551b9493790839f76c60da075.17",
+                    "url": "https://lh4.ggpht.com/Yu2TEYzOQexducM-nhjjaFDEohqr1-s5jbwBthcCmIeVlXIQuJjU-4mSJGxXCQzjrX2Cz8BQMkaFj7WWYkoRIg"
+                }
+            ],
+            "address": "898 ซอย สุขุมวิท 55 Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9f51eebe19073d58887df3221dbd03ee.16",
+            "hashedId": "5a72a8deeaece4bd2f8196d68faaf4b4ba47e608",
+            "title": "Thong Lor Fountain",
+            "state": "LIVE",
+            "lat": 13.733125,
+            "lng": 100.58227,
+            "lastUpdateTimestampMs": "1621344077404",
+            "images": [
+                {
+                    "id": "0fd11338b0a73928bedae2be75b99086.17",
+                    "url": "https://lh6.ggpht.com/2_3hxg6AZMFQhbW0-oma9TRKdgeW-76Jgp4N_bknya-bz_8WBY-7AG7g8Ms8UjGxYEVqnPHPHGrzWxmrWx4kVA"
+                }
+            ],
+            "address": "6/1-6/2 ซอยซอย ทองหล่อ 2, ถนนสุขุมวิท 55 (ทองหล่อ), แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพฯป, 10110 Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.903
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.22
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.903
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.183
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1620797061715"
+        },
+        {
+            "id": "a376f92778f14064a74713d82da41a26.16",
+            "hashedId": "8090e9cbfda902306851316b73b9f64c1da71900",
+            "title": "Thong Lo Soi 5-7 Shrine",
+            "state": "LIVE",
+            "lat": 13.729783,
+            "lng": 100.581015,
+            "lastUpdateTimestampMs": "1501109504688",
+            "images": [
+                {
+                    "id": "69c24759907d46d5ac150a03a9cf8cbb.17",
+                    "url": "https://lh3.googleusercontent.com/1QW-g9f1Of0UVkUXWfkM5rxxMSbhddic-tE35lzW7GqCyUFxWbuXsnw-FNO2mMUyYOTi4yZXLXEoqNGTADZeyWot-w"
+                }
+            ],
+            "address": "125 สุขุมวิท 55 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.123
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.384
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.314
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a6816fee837a329baf0133d2bdbd57ac.16",
+            "hashedId": "7dbe894b50e86910f064c43a4d1b52e582481c5a",
+            "title": "ศาลหน้าตึกเมเจอร์",
+            "state": "LIVE",
+            "lat": 13.732249999999999,
+            "lng": 100.58282799999999,
+            "description": "ศาลพระภูมิศักดิ์สิทธิ์ ใครอยากทำงานที่ตึกนี้ให้มาไหว้",
+            "images": [
+                {
+                    "id": "ae16cf60aba13e1481fbcb473953bc06.17",
+                    "url": "https://lh3.googleusercontent.com/KF_CKqfHVQExnkK8ENgnV4zct_gNUsxvAQJ8NsVIbjA_5rz-tbq71AvNi3e781aHC0BzZjsIaoaHcV8dT42VGburUmL2Wg"
+                }
+            ],
+            "address": "446 ซอยเจริญสุข, ถนนพระราม 4, แขวงคลองเตย เขตคลองเตย กรุงเทพมหานคร 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1649832892995"
+        },
+        {
+            "id": "aaf0d682c8b84a4d9923a65e987d5dd1.16",
+            "hashedId": "8453a8c1f27cd1f1ddc0d2b0a17eefbeffd77240",
+            "title": "4 Face Buddha",
+            "state": "LIVE",
+            "lat": 13.734879,
+            "lng": 100.577843,
+            "lastUpdateTimestampMs": "1501109471844",
+            "images": [
+                {
+                    "id": "bf3175b6966d4e88b131081bc5819975.17",
+                    "url": "https://lh3.googleusercontent.com/N8XnzbE23baJGoW43ElaIei2A5a3DyeA626dqAbWRYh8kXhOoe14b7sv7hE7Ilv5Tc3MG_8BawT7H-IyEAUTyPzg_vre"
+                },
+                {
+                    "id": "2f4116cc125446c1a091ced2e6fb6e5f.17",
+                    "url": "https://lh3.googleusercontent.com/HzqC9vq57w9SFjsV8UwOBkFVH1ORGTU68w5TFjydDn59fVJDLXzP6vX1haWMpu6NLdcW_jgzb_7zgFskCso_cvkFWg"
+                }
+            ],
+            "address": "9/1 Soi Thong Lo 13, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.465
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.163
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.358
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.465
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "adb9f060acbe4ae7aeef11a6314e5bf6.16",
+            "hashedId": "fd21565c314658351a4ff7625b4e38aeb4dfc40b",
+            "title": "Masjid Zhohirul Islam (Thonglor)",
+            "state": "LIVE",
+            "lat": 13.735602,
+            "lng": 100.58337399999999,
+            "lastUpdateTimestampMs": "1501109336254",
+            "description": "Zhohirul Islam Mosque.",
+            "images": [
+                {
+                    "id": "8ad39e4b31a64b59b28355ed6370ed68.17",
+                    "url": "https://lh3.googleusercontent.com/3I9T5v2T6nd-zywMZqafjzsszLr-tcYRDp363bd9vsUc2lRYoOFVPubxt7X7H9gEIsvWuC8skf1ugorSciTAkoX1viQ"
+                },
+                {
+                    "id": "d1c6e05762fb47d388b6e69ad378f2ca.17",
+                    "url": "https://lh3.googleusercontent.com/0kfkMBEla_9kMX0ZX0FGDErRD2582-lSAfG7EFjBv-kHDg6jGjZ1Hjk5Ld03CtLCBnJNUu9QFEa3w43UkRzgEclxcGY"
+                }
+            ],
+            "address": "816 สุขุมวิท 55 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "84fedc4282193fa7470d7b1cb8f6f06e",
+                "name": "Mosque",
+                "score": 0.999
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.077
+                },
+                {
+                    "id": "84fedc4282193fa7470d7b1cb8f6f06e",
+                    "name": "Mosque",
+                    "score": 0.999
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.034
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "aeb43fc0edd541619a06003ca15adc0d.11",
+            "hashedId": "91eb44728b2bab56087225def391b700e6a2dd47",
+            "title": "Eight Thonglor",
+            "state": "LIVE",
+            "lat": 13.730609999999999,
+            "lng": 100.58175999999999,
+            "lastUpdateTimestampMs": "1586285208814",
+            "images": [
+                {
+                    "id": "9055d2dbeb0a4837acb0b7327ce4e0f3.17",
+                    "url": "https://lh3.googleusercontent.com/vooS1EZB0c5VGBVWW5IQwlP13Ys2cU3ab_spet0szc-KWG3_xWLAFSB7Zvj3P5VGH8ChyBCl9cvw3s46s9vRuw3SZQ"
+                },
+                {
+                    "id": "bdb7865016a947299839e04923829ac4.17",
+                    "url": "https://lh3.googleusercontent.com/QbuN9stmiLtxNAjFBUOHSqQPzPzuMG_0-WTEInUJ1mz5KRFWeMzxjutqH3bmS0IdiR_YBeaYwSbqPh0Tdtt2G4R5RtQ"
+                }
+            ],
+            "address": "162 สุขุมวิท 55 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.371
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.114
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.292
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.371
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "aeead1df784433c09a9acc9689621949.16",
+            "hashedId": "4446e849f99a8dbabd21efbe0314a717476daceb",
+            "title": "The Garden of Samitivej",
+            "state": "LIVE",
+            "lat": 13.735132,
+            "lng": 100.576808,
+            "description": "The Garden of Samitivej Sukhumvit Hospital built at 1979 This is the peacful place for the patient. There are musical concert here sometime",
+            "images": [
+                {
+                    "id": "92aacbc7d960314f93bb1ad34522113a.17",
+                    "url": "https://lh3.googleusercontent.com/EKgDvUAwXyQVBhwLTaYQ0wGUGiGY4Y3FKILyhfkJOUTEb4zbx7O-OPBx5_7poiaMLPWhgsz9wKduPzsKl043vjdKxoYE"
+                }
+            ],
+            "address": "Hospital Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "45929338fa74ec1e46190f4def203daa",
+                "name": "Garden"
+            },
+            "categories": [
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648120825248"
+        },
+        {
+            "id": "b1d965ab5ae637c0aa1010b44a5786fa.16",
+            "hashedId": "7ff22f7f70c97d1e28631707e3a6be4c15b2e61d",
+            "title": "HANJI",
+            "state": "LIVE",
+            "lat": 13.738425999999999,
+            "lng": 100.57937799999999,
+            "description": "Taiwanese Hot Pot restaurant",
+            "images": [
+                {
+                    "id": "225606a6215d32f6b8873196194d2c86.17",
+                    "url": "https://lh3.googleusercontent.com/vRS6MXAa3dvAlHuqaHjbJEisrSDM54To3PvvoPbd1b1wEMJGqGHCEHOVV1Gs7xVYbakjuZ8l19KSKwkdtlFhWs0vcr5BvH3ogyruHDc"
+                }
+            ],
+            "address": "38 Phrom Phak Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 72.19157,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1691940557269"
+        },
+        {
+            "id": "b25730375d6649c194ab528a3ef4d593.16",
+            "hashedId": "a290df0179b0350378b8faaa618b28f19697350d",
+            "title": "Mr. Tan at Tan Tan Izakaya Restaurant",
+            "state": "LIVE",
+            "lat": 13.731874999999999,
+            "lng": 100.58478,
+            "lastUpdateTimestampMs": "1501109874731",
+            "images": [
+                {
+                    "id": "863b167fbb7b44fda63b9833c360b833.17",
+                    "url": "https://lh3.googleusercontent.com/gvwXBWuZxwFFtBERYOUkqNQGyziEjoNif2OBDBpEuH3w0TQthBaqbzbmTmEI7OZaMup15rDOP-Lw3Y1KhbGLWZ17zpc"
+                }
+            ],
+            "address": "Ekkamai 5-Thong Lo 10 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "2cb2078a28859a376087bcfb909c374b",
+                "name": "Restaurant",
+                "score": 0.337
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.337
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.322
+                },
+                {
+                    "id": "563933ce61718aea30aacab6fb85a42a",
+                    "name": "Izakaya"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.195
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b42eb6e74ce7342bae96a0f0ae3b9549.16",
+            "hashedId": "9850ee72827c9fcfccff23b8ca64c4d7d544c0dc",
+            "title": "Wattana Pocket Park",
+            "state": "LIVE",
+            "lat": 13.731708999999999,
+            "lng": 100.583413,
+            "description": "Small private park on thonglor 10",
+            "images": [
+                {
+                    "id": "6de79aa1b7ab3c8b9733f82d5cdc5b75.17",
+                    "url": "https://lh3.googleusercontent.com/udIgfKwU-558Io282s6JI6sHXdGqnR8bKHpoTbVZgYfCcTc0nQs18JZy3WTfFaZB96TvQkQ9g6qTHOnlG8i7mb8NpoY"
+                }
+            ],
+            "address": "115 Soi Ekkamai 5, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park"
+            },
+            "categories": [
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1657631765995"
+        },
+        {
+            "id": "b4a17bc5de3e3fd18076faea59fd0ab0.16",
+            "hashedId": "fdd137fd00bd3973690892a25f5c308053d0a5de",
+            "title": "ศาลพระภูมิ",
+            "state": "LIVE",
+            "lat": 13.734696,
+            "lng": 100.578875,
+            "images": [
+                {
+                    "id": "a03325d7731c30989a91d854b7556308.17",
+                    "url": "https://lh3.googleusercontent.com/B-zSxEgmWuSCH4N8lSbV1LpUV8pJYNfVGiK0GL3OZFRljXwMh-RhRK2fq7zW2JC3OLLopVDmEpcH_EryUO_jPQ"
+                }
+            ],
+            "address": "59/1 Soi To Sak, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1640869279886"
+        },
+        {
+            "id": "bf474b2477604e99989e25c672eb38da.16",
+            "hashedId": "0f70ad39f802f43cb2bc07323e5ecf6c796cab17",
+            "title": "Shrine at Thonglor 7",
+            "state": "LIVE",
+            "lat": 13.730379,
+            "lng": 100.581082,
+            "lastUpdateTimestampMs": "1501109803867",
+            "images": [
+                {
+                    "id": "8eea656f87404021a254ab3d2c99beb7.17",
+                    "url": "https://lh3.googleusercontent.com/F8Ia0RpzyZUAbuoOqXqQrhMvgOsMAB7CdjAidDMN2fvpo3-GO7JAEAzN7SJFmwzcYM6eDZfHb-YIpPCeWm_1ne42zfY"
+                },
+                {
+                    "id": "9455aa7fb8174112be9e5d081787af60.17",
+                    "url": "https://lh3.googleusercontent.com/2MTTB_pg46lbCQqF-GCGeepfglPMr3MH0xQ651a7E_B7xZJeV6GwqFjPHuInd8OWX0b3MQJiQ89bOAZAVT1w3GGdbrQ"
+                }
+            ],
+            "address": "Soi Sing Waet Lom, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.339
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.149
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.265
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.339
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c0f7cd59070d4cbc9c0e11452538c4ef.16",
+            "hashedId": "46617c73e152e9ad1a8db4c5bb75f9790cfe75e8",
+            "title": "Beautiful Shrine of DMHOME",
+            "state": "LIVE",
+            "lat": 13.736631,
+            "lng": 100.582973,
+            "lastUpdateTimestampMs": "1501109239783",
+            "images": [
+                {
+                    "id": "6e07670a14194429ad1133472a3c423c.17",
+                    "url": "https://lh3.googleusercontent.com/-PO2M7O6fuCL7xN1zXn5hEhvYl1I26-Y655FBoOb2KBlxH4_tZgSTHxnEnXgvH9VqsxlY9_3ed0jSbnDnxaEm_vrKeE"
+                }
+            ],
+            "address": "Soi Thong Lo 21, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.303
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.356
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.346
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c458d43a98793a3ba32e95867d07f6ff.16",
+            "hashedId": "3e4adbffbd301e7dce2543648e2106854cd23977",
+            "title": "Shrine of Raintree",
+            "state": "LIVE",
+            "lat": 13.731116,
+            "lng": 100.57820699999999,
+            "description": "Shrine of Raintree",
+            "images": [
+                {
+                    "id": "13f63d7243473756b81e59d90ee37851.17",
+                    "url": "https://lh3.googleusercontent.com/uo2tHvtTAt0-m_MUQeBoinskOdECOnHOK2hsl0QdbUj6TMMRHgmszGpgjivqMAaWGrA6-9OGghB8wX5uWYKcHbRgUtQNLdOYyBFadO2-"
+                }
+            ],
+            "address": "108 ซอย พร้อมมิตร Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "93a0f087aafe93f75819f28e06f049fb",
+                    "name": "Tree"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1681192813422"
+        },
+        {
+            "id": "c6bc848ec8ec49219991e9685ed8ccd8.16",
+            "hashedId": "96ee913952be373bc97d0fbb53bd60e5961b81f1",
+            "title": "J. Avenue Fountain",
+            "state": "LIVE",
+            "lat": 13.73429,
+            "lng": 100.58233299999999,
+            "lastUpdateTimestampMs": "1501110130180",
+            "images": [
+                {
+                    "id": "111bca14e2674d16b307bcd923c8ddc3.17",
+                    "url": "https://lh3.googleusercontent.com/K9GYJuNak4dZatJmJVHcAzNoDQuayQ2EeniYZagNyfQ8WJKaOFlqmLFXDC9rzWo74H6vllgPZ-17pZIpKFb6OHqRMKQ"
+                },
+                {
+                    "id": "a5fc0086cbf34693b0b92144509d78c0.17",
+                    "url": "https://lh3.googleusercontent.com/aVcouGdzg9K9fFb84Ik6V25sae4BZ3fXxYF-4Za2LuxCrXEswIftzcbdbM0nKGV33tZ8HIn0ieyWYiqm2oajItOMYw"
+                },
+                {
+                    "id": "4738a2403faf45aa86cbbde059cdf784.17",
+                    "url": "https://lh3.googleusercontent.com/4fPmFI9n4dCWYE6NO1Vpa1KHk5TPLbkLEKsiIFpKPXTi8dEopjk27Ae11gHmHvVwaedxdBFaVCpP1G42JuP7zkjxYY4"
+                }
+            ],
+            "address": "323 Thong Lo 15, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.919
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.141
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.919
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.04
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c74a2d352006475eab95c4ff895e2e9d.16",
+            "hashedId": "a0169fc3f3f169a81ed105f4625b0de923ca8dd6",
+            "title": "Front Fountain at Park Thonglor",
+            "state": "LIVE",
+            "lat": 13.736243,
+            "lng": 100.583232,
+            "lastUpdateTimestampMs": "1614695080143",
+            "images": [
+                {
+                    "id": "6d2dca70434e4879b9a38b94dd499263.17",
+                    "url": "https://lh3.ggpht.com/MGRR4vcA3MTS3FS9poqkgz9WytsFy3WHhvoUXiteO60LKPM6EWJR6j2hFQLikMMvGCdYrPj4mdwe5Rra1hvskA"
+                }
+            ],
+            "address": "555 ซอย สุขุมวิท 55 Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                "name": "Water Fountain"
+            },
+            "qualityScore": 70.69787220281988,
+            "categories": [
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.807
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.856
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.165
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1614306815046"
+        },
+        {
+            "id": "cbc51b82bb9c4d62bc703ba0163f432f.16",
+            "hashedId": "2a076a0dd90dbc954aef13e9f74fa2cf6bd9e2ca",
+            "title": "Thonglor Soi 6",
+            "state": "LIVE",
+            "lat": 13.730055,
+            "lng": 100.581786,
+            "description": "Thonglor soi 6 in front of atrika",
+            "images": [
+                {
+                    "id": "fa512493bf8f44dbb6933288417f09e2.17",
+                    "url": "https://lh3.googleusercontent.com/0RIT6K3ejU7zK9ca908wnNksb6oi79D4ZK4ERn3QBy_O98P_xWae8UgOOBNcA_A-IUVzlp23YmqXXGkaABea35l-h6uX"
+                },
+                {
+                    "id": "941c417aeb874769990e1e02f60af04c.17",
+                    "url": "https://lh3.googleusercontent.com/7ZiHNbooZRS-XXqWKus1tkzIVx8TlEt5YhIZ5RJsYb2h1kVZ545Qnxl8cBU_ZX6O6_jM_4f2S2-rCCb4I_IcssJMNFvh"
+                }
+            ],
+            "address": "Soi Thong Lo 6, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "cf544f6dbd604353b1894abe58e685f3.16",
+            "hashedId": "08830e8f2830f8d991305591b2e6350d838a5e8d",
+            "title": "Ramen Champions's Cat",
+            "state": "LIVE",
+            "lat": 13.731658999999999,
+            "lng": 100.58479799999999,
+            "lastUpdateTimestampMs": "1501109455138",
+            "images": [
+                {
+                    "id": "7fbef65b95124ca782a55c51dab6a5f5.17",
+                    "url": "https://lh3.googleusercontent.com/y4ZgULw1wUNIc4emvwCrAwIRd1Gx0zcLs3JkCeT4k6RIU9xef6zqlYrPJ_JZyM5tx4ybFeAlJryYSGUKHnjW9oJp5Q"
+                },
+                {
+                    "id": "ba4890a574924e7f9ceecf5aef022bc5.17",
+                    "url": "https://lh3.googleusercontent.com/Us5r7L5bZ3KXltNxpeFk0rQVBmb7K0NhB1MNGwcjKycXQvNP36fFdFXvG2Lh5DliDVlHM8_rBKP6GdUPmgJuGWfc0VY"
+                }
+            ],
+            "address": "157 Ekkamai 5-Thong Lo 10, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.471
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.107
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.471
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.149
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "cf963a549e744ed8b2f8f67f992a4dbd.16",
+            "hashedId": "f11a6e8efd824a506d9bc302685c81d5aa7aef83",
+            "title": "big beauty shrine",
+            "state": "LIVE",
+            "lat": 13.734941,
+            "lng": 100.58413999999999,
+            "lastUpdateTimestampMs": "1501109535018",
+            "images": [
+                {
+                    "id": "aec423543d034283bafe69df470d89e3.17",
+                    "url": "https://lh3.googleusercontent.com/MerzrKz955SJDEUeB3wqa1WUiiChGbRxKqGaVA4jc4zRqZ3IzRvD_nHo_DbVVBi3Go34uDXNrehe038NhY4CQoZgOHE"
+                },
+                {
+                    "id": "79df8916f3a7461e95bfb8d4d8592b8b.17",
+                    "url": "https://lh3.googleusercontent.com/fT654jYtzenVdd6nQVJzNRks_MfxMMUNT-mo-vCXjKpwv0lieFBvnyQu58E0UXTbympWxvJgYaQntjpG5SkCkMas8j0"
+                }
+            ],
+            "address": "546 Sukhumvit, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.177
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.394
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.355
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d0a0e3363e9d3b8583bbee7b854d57a2.16",
+            "hashedId": "75622cf5cdd3112961a47bf566b78df6f645d9be",
+            "title": "น้ำพุสิงโต",
+            "state": "LIVE",
+            "lat": 13.738696,
+            "lng": 100.580697,
+            "images": [
+                {
+                    "id": "a4d6b924451b3596bd62f3ac08556d6d.17",
+                    "url": "https://lh3.googleusercontent.com/C6jTufrNGkPvRBtbwIwrkRnWFRtYfUPYThlz3zE8dX13Y44E9u_M6LU7191KgNFw8ish89do4497H3RFYqwY"
+                }
+            ],
+            "address": "33 Sukhumvit Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                "name": "Water Fountain"
+            },
+            "categories": [
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1638352409045"
+        },
+        {
+            "id": "d241c06f5799464c8b85e177cb993064.16",
+            "hashedId": "8bc4cda8929efebd26cde6ee2239348ea863c273",
+            "title": "Waterfall at Bergundy",
+            "state": "LIVE",
+            "lat": 13.731745,
+            "lng": 100.58424699999999,
+            "lastUpdateTimestampMs": "1501109236365",
+            "images": [
+                {
+                    "id": "a8df2447ae3c400baffc7464610c6a85.17",
+                    "url": "https://lh3.googleusercontent.com/XI-rN9WyaG0Kn-udl5t94BfPLlHsW1ZkJzgt5RbBdN6zXkaxKINM8HUTDeQdagmXkq2TheEKl2wxKcRHsAC74pOMlv0"
+                },
+                {
+                    "id": "9f207c9b83394380ab89a9e7b2a28f4a.17",
+                    "url": "https://lh3.googleusercontent.com/dRPBhUDfzsHUSnYtpLr_UbzcCXiEZnFZn8T7fpSgVRnrfCQek2BJ42Z-dWZSJcO9DJaOg-2uhIZ5K5HgcZRqy4TUbRsP"
+                }
+            ],
+            "address": "560 Thong Lo 10, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "679f6d7db0ea1baab169927ad223186c",
+                "name": "Waterfall",
+                "score": 0.195
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.081
+                },
+                {
+                    "id": "679f6d7db0ea1baab169927ad223186c",
+                    "name": "Waterfall",
+                    "score": 0.195
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.12
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d79c00e5f559313984f39f0909d3339d.16",
+            "hashedId": "17d5f957d62d6f9eeb7582562eb82ef1864bb233",
+            "title": "Shrine Waterford",
+            "state": "LIVE",
+            "lat": 13.730175,
+            "lng": 100.579511,
+            "description": "A shrine that is a place of worship for people in this area",
+            "images": [
+                {
+                    "id": "678a6d0c9f2730c2b3d5053765008abe.17",
+                    "url": "https://lh3.googleusercontent.com/PthYSZBw1Upq-W2yGohQ04-LKYr1UXRcnXMLM-rGdFuJ4BWIn35QB2epvtzfN_zMJickt01L0PsfVvO19ieP_oKFi1b4ukHe_uT1bEXs"
+                }
+            ],
+            "address": "66 ถนน สุขุมวิท Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "qualityScore": 99.16684,
+            "categories": [],
+            "availability": {
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1703138565387"
+        },
+        {
+            "id": "dad446cf2bad4676ad1164152f439d1c.16",
+            "hashedId": "c41526f7d5bc2108f8046dece04e37d5d7262a22",
+            "title": "Shire at Samitivej Hospital",
+            "state": "LIVE",
+            "lat": 13.734060999999999,
+            "lng": 100.576876,
+            "lastUpdateTimestampMs": "1501109428472",
+            "images": [
+                {
+                    "id": "20c8c9801cde4993b25e32ede8abd9c2.17",
+                    "url": "https://lh3.googleusercontent.com/wC9txHT-ZUG45KXh55BLYm-CNj0-BzbcXDI5DtK34-xuojp_omeYk7W4uKu0fMiS4KfLZoynatRwIHDkoMkasm3qNpo"
+                },
+                {
+                    "id": "870b5ccae9a347d18487f3e03317d42a.17",
+                    "url": "https://lh3.googleusercontent.com/NP2DoP2doWENZT4x3wnFDmf6bf82o8GcWJw2olXC_GGIpO7os6h_kDFmGqSX9_Pr-AfY12bLQtK1nLQMqJLaY7GOMec"
+                },
+                {
+                    "id": "a0cb59600bd947acaa49cfc0216a50ab.17",
+                    "url": "https://lh3.googleusercontent.com/08HyOspwiebUSvk0j7NL4GrsJG1C35fyZMVYJq7_QM18oWdwplCoPc9_VEju16QEUgfM2Une21GVk8l3QSj1U8b0uUk"
+                }
+            ],
+            "address": "55 Klang Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.185
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.185
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.148
+                },
+                {
+                    "id": "c9591928484d4ea47225598026a7c86e",
+                    "name": "Hospital",
+                    "score": 0.112
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "df89a042557c43f3b4881a0c4138b5ef.11",
+            "hashedId": "f686f0545fbcb7d2006e72074db23c9cdc868fb6",
+            "title": "J. Avenue Thonglor",
+            "state": "LIVE",
+            "lat": 13.734444,
+            "lng": 100.5825,
+            "lastUpdateTimestampMs": "1501109358647",
+            "images": [
+                {
+                    "id": "f9013368f8af48f7a66c2ac180b00649.17",
+                    "url": "https://lh3.googleusercontent.com/Om_35a64UB_AFCezUMdS9NHg2ULdard6FJA0NUbJCn2emDuhMVxNLdJk6hb3xvbxR9wjCV-OCQfW7XZIl3NbF_a9JEdH"
+                },
+                {
+                    "id": "3c218ed845cc4076aedfa161b9873b45.17",
+                    "url": "https://lh3.googleusercontent.com/48BA5zhmsQeThBz5FQfrLkm2UDe2s_94UNPi7eFrxiJXfswyvcOQm_2sohzYB6nGSTZhaGEcjv77VA9Wp6waGp1RmoEC"
+                }
+            ],
+            "address": "Soi Thong Lo, Khlong Toei Nuea, Vadhana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.399
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.058
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.399
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.173
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e13dc99986fc3907876d205f39353fdc.16",
+            "hashedId": "68811983d777ab73ab6192c532b630dae57e3606",
+            "title": "ศาลพระภูมิ",
+            "state": "LIVE",
+            "lat": 13.734912999999999,
+            "lng": 100.584649,
+            "description": "ทองหล่อ 18",
+            "images": [
+                {
+                    "id": "158a3f62e93d30cd9b2d15baa3e61eba.17",
+                    "url": "https://lh3.googleusercontent.com/2gL-OeCVzIcEJQWcllG27cIlp5dJZRrdXB_UnbcwS0BYoYmN7oNCMUu1tmXQi4Yc9PSTLm0nbTfZWRgpi5fRyhiDBH0"
+                }
+            ],
+            "address": "550/56 Soi Sukhumvit 55, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648186596852"
+        },
+        {
+            "id": "e4f2ab1eb25940e09ce7765d23533afb.16",
+            "hashedId": "56fbe467eede6f817a150323372570278318b145",
+            "title": "THON KRUENG FOUNTAIN",
+            "state": "RETIRED",
+            "lat": 13.733333,
+            "lng": 100.58189399999999,
+            "lastUpdateTimestampMs": "1522902951632",
+            "images": [
+                {
+                    "id": "1657de370e0d4911a45eb76d19a57a4d.17",
+                    "url": "https://lh3.googleusercontent.com/yrEnbFwD_eE-LQmsvzoS970XeP3WIi7WpNtw9bNnIqS3O8juIszfyOgXGo-ZiPF7QQw3AsrwPMGe2YeDEuvoDdPMSPI"
+                }
+            ],
+            "address": "233 Soi Thong Lo 13, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ec8c7a035e8233a99e0193deefb8de4c.16",
+            "hashedId": "6cb795f345d12fb5ac27febd332ec1f913919c6f",
+            "title": "KASTURI shrine",
+            "state": "LIVE",
+            "lat": 13.731046,
+            "lng": 100.58290199999999,
+            "description": "shrine of kasturi",
+            "images": [
+                {
+                    "id": "d5ce8078c9f739e6a2682d931dbc95d0.17",
+                    "url": "https://lh3.googleusercontent.com/4T9uxewDnvcHBuzN1I6iTZ40VwlEI2mp08qPAK0TVv0VROOcdJA2_X9jsAdLw3JGR2WcK1nujj7t1la_ewf26NQcw0K5E4xj_GlHI4g"
+                }
+            ],
+            "address": "288 Thong Lo 8 Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1684727172375"
+        },
+        {
+            "id": "eead6f77d05f3998b2b4455d7434a5cb.16",
+            "hashedId": "807d981326fabfe482195a4d5baff4a785c2921b",
+            "title": "The Commons community mall and food",
+            "state": "LIVE",
+            "lat": 13.735111,
+            "lng": 100.58227699999999,
+            "description": "Community mall. Lots of goid food.",
+            "images": [
+                {
+                    "id": "d39e2d63e4483138802003c017d9c9f1.17",
+                    "url": "https://lh3.googleusercontent.com/ZvpfNQtq6288nAX4OcVniHrEd9Nh7IKChNWtAWLGSu_nwhsnc7TGzC-qlxFRGgiMlDD2o4jJMngC_Qh4TExvZgKkDI8"
+                },
+                {
+                    "id": "4a785832bc7b380486d256268225e7c2.17",
+                    "url": "https://lh3.googleusercontent.com/QSqe46fpFUBA64IZVvlAGomqSgkPOeFsxFeG28n0vXWSaF9FgLc_ixYZajnFFSXgBkGLPRBMvA_EEjAyHYIMS_-NXymDIWAlJ3yYyZd8"
+                }
+            ],
+            "address": "349 Akkhara Phatsadu Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646994021377"
+        },
+        {
+            "id": "eeb0d860119e49b79944da4b0be95bc1.16",
+            "hashedId": "4c441aadf5b30cab6fc54c69091822327101b119",
+            "title": "Absolut Bottle",
+            "state": "LIVE",
+            "lat": 13.731523,
+            "lng": 100.58492299999999,
+            "lastUpdateTimestampMs": "1501110089143",
+            "images": [
+                {
+                    "id": "835f0fee5d2440eb8aa5ceee876c9a92.17",
+                    "url": "https://lh3.googleusercontent.com/VAFscLvTmd39vxECP5Wg_wSzpZ3sHPGk7Brukk6YIjj0XF1AHLF-IG779eXqbAHErUiTe6Kdc0rqlz7oBASbTedhij4"
+                },
+                {
+                    "id": "f00a900be2234a849d5c594d3d6652bf.17",
+                    "url": "https://lh3.googleusercontent.com/79-NZ_8LGwmb5ixoQsGjtZQgy6GwjjnLt_1mtzzipoQHBROC6nKBEJWBGwInziBe0o4t5Hqg9Q4ZSTGnrqz_FlUew3hG"
+                }
+            ],
+            "address": "155 Ekkamai 5-Thong Lo 10, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.647
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.088
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.647
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.136
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f1bbfdd417a437b2873f836fdf088f95.16",
+            "hashedId": "2cf44324a94c308918cdbd5a33d67437042ccee3",
+            "title": "Vosana Shrine",
+            "state": "LIVE",
+            "lat": 13.735514,
+            "lng": 100.579062,
+            "description": "Shrine of Vosana Building",
+            "images": [
+                {
+                    "id": "3140edf49c593aa19144f6733fed278f.17",
+                    "url": "https://lh3.googleusercontent.com/Ueps8U3jqilY2hXo5f8ZV6w_T45JYFxtqkuxl65SJ316_AairoeiUPc_opyjSZPq8L5xLZmhTA4ZnO1zf3FV8BOg5OZBcqDPNaMTWhOW"
+                }
+            ],
+            "address": "45/8 ถนน สุขุมวิท Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1683191544727"
+        },
+        {
+            "id": "f286f83dbef04b98bd000ba6fb90f84c.16",
+            "hashedId": "eced89e0916c9f2f0775a127b95b3adacb7322de",
+            "title": "Archer Statue On roof",
+            "state": "LIVE",
+            "lat": 13.732185999999999,
+            "lng": 100.58229399999999,
+            "lastUpdateTimestampMs": "1501109741708",
+            "images": [
+                {
+                    "id": "e6ec4e3da9f2460dbdc65caf3faef352.17",
+                    "url": "https://lh3.googleusercontent.com/p7S4So9S8kBWc_hiqR655TKnsTIUdSAkYBsTvolqfaafna1kjMcDl18LyWoZHHmX4AoR3Lp56kBlLKfQpYqb8aGJ4Q"
+                },
+                {
+                    "id": "f2860d95464f43559e8268fbaa97845c.17",
+                    "url": "https://lh3.googleusercontent.com/H_n15miEaubupdRrgfI_9MPvhUzMb4Q6gj8RhjAw2enCTGq0RNNIQzVC6aDt6_wIWYTcNLwmje7ND3oPKtD0lOm9ag"
+                }
+            ],
+            "address": "308 ซอย สุขุมวิท 55 Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.549
+            },
+            "categories": [
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.063
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.329
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.549
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f63a9dceb05941e296337c5acacff4a4.16",
+            "hashedId": "9afd9ccc9c2d8ed74c0480925d5df429c8a3b3e6",
+            "title": "Ozake Tanuki",
+            "state": "LIVE",
+            "lat": 13.734598,
+            "lng": 100.582664,
+            "lastUpdateTimestampMs": "1501109589526",
+            "images": [
+                {
+                    "id": "6ea536b65956411880a425af927935a5.17",
+                    "url": "https://lh3.googleusercontent.com/ajsgdf5oIQjP7sVA_ORzQsXBKV6kgwmXhWdPL_uZWAq5uoCaZ9J9ZChMKhuvyU3AJHIkhI02kLXYcLci7RxkCJio118"
+                },
+                {
+                    "id": "ee559bfff67b4f08bf526aa387a52063.17",
+                    "url": "https://lh3.googleusercontent.com/OENotw5qzf1DhUDoTmzEiuoe11U7hNztpe4BePeZu7s5JxO_spS_GtSI1txW8WybEev8-l12jjnZ6rDSdbU9elYB8J1O"
+                }
+            ],
+            "address": "331/2 Sukhumvit, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "ce64859076051dec2b34827e1b0bd37f",
+                "name": "Informational Sign",
+                "score": 0.37
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.339
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.115
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.37
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f944fdbd77364c2b9e3ab5d543b9bf62.16",
+            "hashedId": "0d38cb7c2da0ff5898c98920680277a6ff61b706",
+            "title": "Home Place",
+            "state": "LIVE",
+            "lat": 13.733355,
+            "lng": 100.582262,
+            "lastUpdateTimestampMs": "1501110471839",
+            "description": "Home Place Thonglor.",
+            "images": [
+                {
+                    "id": "0d900b639b284b4a91a81c1a0978e96a.17",
+                    "url": "https://lh3.googleusercontent.com/WAuW_VhjkI4QG_ckjTm74Tw6TXcGqEJeRdF8vlDbn82A_h0L1gT4qjQCy4gN03Cs4TUNXkKgIZEAloF1hzK_Tdk3FBk"
+                },
+                {
+                    "id": "b9436ad1a23c45eb9882c0e4cfb95c97.17",
+                    "url": "https://lh3.googleusercontent.com/WmIU4MviYr7G0AjdhxYqOFgX8OSeQ1KQAJSW1wMSn1ZPLpnYlN24Nc5Eyc1Qx10X5ZrSIXbMD5eQrtMTPCUEarnVn6k"
+                },
+                {
+                    "id": "384889668c194b3383bf9a4e5aa7e402.17",
+                    "url": "https://lh3.googleusercontent.com/pawyiCFpNPtxWbsEY-JckgL6_3g2RtFCdkvDpUhkCBdbBs0u6IyM_-GhyPGAoBELlAmnquPAOldP8x6FD8xQ5bCJ750"
+                }
+            ],
+            "address": "400 สุขุมวิท 55 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.464
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.083
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.464
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.35
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "fd0f704e25d63535b26ade41a0aa6042.16",
+            "hashedId": "c58b41a590c2609a10fd8e10fd4f7f96bc14b791",
+            "title": "Thr Arcadia Bells",
+            "state": "LIVE",
+            "lat": 13.736640999999999,
+            "lng": 100.581042,
+            "description": "Decorative entrance to the Arcadia Building",
+            "images": [
+                {
+                    "id": "73bf0230fb4836dba01b5eef3ea8cb08.17",
+                    "url": "https://lh3.googleusercontent.com/ourQTLfzCIGQRJf7IHnYsqihKvLNSeVM9wGhy9AIxKH4YYqbguqGo41AjJe7xWJnP_3w5jXkjtmwcd6uNQxkSlTRBNS0k3XbNRIKdkBh"
+                }
+            ],
+            "address": "377 สุขุมวิท Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "054e013fec1d9a7de056ddaae7badc82",
+                "name": "Bell"
+            },
+            "categories": [
+                {
+                    "id": "054e013fec1d9a7de056ddaae7badc82",
+                    "name": "Bell"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1683791190540"
+        },
+        {
+            "id": "fdc8f6c0d9764629a39de7a8e101944d.16",
+            "hashedId": "30e158788af846415b6c73de24d4be1b913d8ecc",
+            "title": "Shrine Limoncello",
+            "state": "LIVE",
+            "lat": 13.731841,
+            "lng": 100.57968299999999,
+            "lastUpdateTimestampMs": "1501109277689",
+            "images": [
+                {
+                    "id": "d81e54e3c2d04fb6b2bfa989de2316ec.17",
+                    "url": "https://lh3.googleusercontent.com/qCDMnch5QDVP7RU5DSLvYGGSzs422K_zvo--9s3qugjlXO92IIyGltqE6fXnKIBYIoaB4lkt3bLs8-1jPjPauolCghvF"
+                },
+                {
+                    "id": "761c7923d84b4ac89583a82f85e130ae.17",
+                    "url": "https://lh3.googleusercontent.com/pG-8uJWXE6KVYxhBT-3TqmnMHz12q5cF1PmGnHpRdhjvbs5QjB4t_-BpxQ-0I2dZSXLHVOla-VW5ifvc7hEvVwP6V9LA"
+                }
+            ],
+            "address": "Soi Pai Di Ma Di Klang, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10110",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.185
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.118
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.122
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        }
+    ]
+}

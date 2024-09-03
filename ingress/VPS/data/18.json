@@ -1,0 +1,3723 @@
+{
+    "pois": [
+        {
+            "id": "0074fa0c344a43568e79e366b93bc332.16",
+            "hashedId": "9809f13666a9a3e7621eda7da2f76e0129f30e5f",
+            "title": "สมาคมศิษย์เก่ามหาวิทยาลัยศรีปทุม",
+            "state": "LIVE",
+            "lat": 13.853892,
+            "lng": 100.584201,
+            "lastUpdateTimestampMs": "1501112420420",
+            "description": "สมาคมศิษย์เก่ามหาวิทยาลัยศรีปทุม",
+            "images": [
+                {
+                    "id": "de565205ed794c28bff664f486e57441.17",
+                    "url": "https://lh3.googleusercontent.com/GiQyyON1E9Ve5OVtXQh2C0PswMCOrWmtSbPQhASA-7Ffam-mugQsoGIkttXrgHxQwhDpEBbv1Yn2Bcb6kiD4Qyei8Dk"
+                }
+            ],
+            "address": "Phahonyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.89
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.503
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.89
+                },
+                {
+                    "id": "f3675576bd8fb23a7fa5216dd69a1385",
+                    "name": "College",
+                    "score": 0.111
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0510b95e4e1c413b8f9d7d24cd9542c5.16",
+            "hashedId": "f784af5dc59fbdc9ac0017efd31136b65fb0d520",
+            "title": "พระทองคำ",
+            "state": "GAME_REJECTED",
+            "lat": 13.853615999999999,
+            "lng": 100.584796,
+            "lastUpdateTimestampMs": "1501111662175",
+            "images": [
+                {
+                    "id": "9b7dd7df023c48e4b8eeaa1244ba3e49.17",
+                    "url": "https://lh3.googleusercontent.com/UrBmp9v2zR_vkAUoG0LBjGRJAi1TBB80Hr_egmD50vLSvx7eclRQtFlXvaB5loJe5xkluODNvqYzW85s3TIK-xvarc7K"
+                }
+            ],
+            "address": "Phahonyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0a1cff31c4fa4810bca08752fb1562bc.16",
+            "hashedId": "55c892dd48424e0649a5e6f5ba9cba4f69518e85",
+            "title": "รูปปั้นเด็กรีๆข้าวสาร",
+            "state": "LIVE",
+            "lat": 13.850111,
+            "lng": 100.57831399999999,
+            "lastUpdateTimestampMs": "1501109832838",
+            "images": [
+                {
+                    "id": "6ccd5e49c035470fb7086bee7913766a.17",
+                    "url": "https://lh3.googleusercontent.com/ZsuWABQOFR5mj2wJm-sMGQ3H_87y8CgLcP0PcM4o1PQvjj-70MUV8dHTQ5FrEu3EFtpYdLTzyfUWZjHrQ2rqSFJ3Lis"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.887
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.068
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.673
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.887
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0b544d43b82849a593826d2d44523ebe.16",
+            "hashedId": "24d120f93d4e2d33d50e19f0c976e8127f6fff71",
+            "title": "Sixty Two Coffee",
+            "state": "LIVE",
+            "lat": 13.848452,
+            "lng": 100.580215,
+            "lastUpdateTimestampMs": "1501109335548",
+            "description": "inside Royal Forestry",
+            "images": [
+                {
+                    "id": "01a1771cce414684ae7b2ec336d86472.17",
+                    "url": "https://lh3.googleusercontent.com/BqCd6Ya_KoVQI1kmqr-gsHX3YXXFdijBbflJHV7xVqWjC1GAQIn6qzxKkfrO73aMqMY18uhLbK7DfFJPLW_eo5SnXd5_"
+                }
+            ],
+            "address": "Alley, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.275
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.127
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.275
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.23
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0bf9061572fe478dbe2481901ad51b18.16",
+            "hashedId": "1f79afdf076f7a3aad1d6135c62ac18c38a157b1",
+            "title": "Children Playground",
+            "state": "LIVE",
+            "lat": 13.854858,
+            "lng": 100.578518,
+            "lastUpdateTimestampMs": "1614297575139",
+            "description": "เป็นพื้นที่เพื่อการเรียนรู้ และเสริมสร้างพัฒนาการสำหรับเด็ก",
+            "images": [
+                {
+                    "id": "ca9e014ad61f3a9eb4260b3adf0c68ad.17",
+                    "url": "https://lh3.googleusercontent.com/Pdej5ocIspXvC5d1kyxEiMbdjKymwNqNQdOl4GJOMGX1u_lF4xruHfgDv1NM_gz0KCOJFD6Dfd8HeqaC7jZLEHoemqKuXn9AgMurx-4gGg"
+                },
+                {
+                    "id": "010ab8d866c54c4dbb12280b30873fa5.17",
+                    "url": "https://lh3.googleusercontent.com/JwuhFX8KLKyU-SXFjBk1iaT6E2EQYzLBITCPYtn5M1xc8ekDUEelAUQfKqFzWxeJV2daSD68wY6SulIFeNpRokCLr9Q"
+                }
+            ],
+            "address": "5/55 พหลโยธิน Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area"
+            },
+            "qualityScore": 76.11402190112098,
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area"
+                },
+                {
+                    "id": "75ac95c16508cd70f9c85fd790ee4319",
+                    "name": "Amusement Park"
+                },
+                {
+                    "id": "e117ee4f06266ce18d4e6b8c42fd4227",
+                    "name": "Recreation Center"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1606879672737"
+        },
+        {
+            "id": "12cc5cb8e0904b1aa5f4f5416bb8bfa9.16",
+            "hashedId": "4232efb736bf4132b9b63c6f1946e1b9b26efb0b",
+            "title": "Eastern fountain",
+            "state": "GAME_REJECTED",
+            "lat": 13.849072,
+            "lng": 100.580412,
+            "lastUpdateTimestampMs": "1501110668660",
+            "images": [
+                {
+                    "id": "1f9625a097204c3abc6aada49e0cd02c.17",
+                    "url": "https://lh3.googleusercontent.com/-PUeZo048AGk1f3AhbOUw85xT_gT-Pu-ts24K2DDuQN13isqUdgYlSSG_VCZElo_W_jnVvXKGPSvzj4OSIrjnojfXdI"
+                }
+            ],
+            "address": "61 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "151c4ce0d87d4f1eb8bfea791e0c16b5.16",
+            "hashedId": "340cbb8e746e16f23c405a461a29482a18d74994",
+            "title": "อโรคยาอุทยาน/Arokaya Park",
+            "state": "LIVE",
+            "lat": 13.854197,
+            "lng": 100.579036,
+            "lastUpdateTimestampMs": "1614457713144",
+            "description": "อโรคยาอุทยาน 77 ปี มหาวิทยาลัยเกษตรศาสตร์",
+            "images": [
+                {
+                    "id": "d73da2febbb04213824f5e5eff886aea.17",
+                    "url": "https://lh3.googleusercontent.com/ifLerRAJI-YLcE2PZwZoIGW3zQS9GRguX4pkEF5605KxkUiwEIyMqa-zoc1bojqUaSfKMCu6uzmv5k5vM_svppDunykh"
+                },
+                {
+                    "id": "dd41cd2e165d3acf984eb7ea5f3cc3ba.17",
+                    "url": "https://lh3.googleusercontent.com/H625Z0fKZZiPtn8Jpk3YEeGsNbPd0t7-CYWbgNoRW5AB7RZ__A1IGto7JHd8SK-kPO4jb-dFcdKoexgLoL_CSArwsUrNaKK5eTl8ZJgv"
+                },
+                {
+                    "id": "5fe004dc36823c019ef67e15605b567b.17",
+                    "url": "https://lh3.googleusercontent.com/0LkNNvcRKAHWrjLJesPWFLtiCi59qrMEEt7Jcptmak9GuRRIn744j8u1GIWOI_NUR7T86bwyxsql9lokLFCEZzcN7Zo"
+                }
+            ],
+            "address": "50 Tweesackdi Sesaweech Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park"
+            },
+            "qualityScore": 86.59901289088361,
+            "categories": [
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1582090473259"
+        },
+        {
+            "id": "17eb0a88dd00461481246560b0403f27.16",
+            "hashedId": "632aea369f0b40c18bb1325fe67798bd27371c9f",
+            "title": "อาคารสวัสดิการ มหาวิทยาลัยเกษตรศาสตร์",
+            "state": "LIVE",
+            "lat": 13.852870999999999,
+            "lng": 100.578496,
+            "lastUpdateTimestampMs": "1589897555233",
+            "description": "อาคารนี้สร้างขึ้นเมื่อปี พ.ศ.2546",
+            "images": [
+                {
+                    "id": "508215b5b36941a7a8a5973dd5d920e0.17",
+                    "url": "https://lh3.googleusercontent.com/5Y8IQSlD-XOFarVvwq2_tdg_KAkLEjnknNQ3cEgzGloXWuqQgddJThk_jhIGYPBIsyU5KsWk6aGvPcGINLB1En-zjtpj"
+                }
+            ],
+            "address": "52/168 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "9929f4fed77f8b5525b7fd2cd27cdebe",
+                "name": "Historic Building",
+                "score": 0.382
+            },
+            "categories": [
+                {
+                    "id": "9929f4fed77f8b5525b7fd2cd27cdebe",
+                    "name": "Historic Building",
+                    "score": 0.382
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.315
+                },
+                {
+                    "id": "fbf264dceba337bf62c7b37c23021ab0",
+                    "name": "Iconic Architecture",
+                    "score": 0.135
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1583264440906"
+        },
+        {
+            "id": "1b6db6ae4f24439d9fd8c9d418603ffc.11",
+            "hashedId": "a121f475574f1ba3455d67060813902fed77dbde",
+            "title": "Royal Forest Department",
+            "state": "LIVE",
+            "lat": 13.848949999999999,
+            "lng": 100.58038599999999,
+            "lastUpdateTimestampMs": "1501109201089",
+            "images": [
+                {
+                    "id": "06f891c01fb3446596ef07616b43dbb2.17",
+                    "url": "https://lh3.googleusercontent.com/MogztwXRQTi9Oz_BVj-4HvewlQC-UZcbDPtEwKsr1vrmfV_3clPYOciwrfGrCVsVkIgNa5bhmCKA1MIVx1mw9rPL34bK"
+                },
+                {
+                    "id": "56dc58be41ec45629628505d9355d00c.17",
+                    "url": "https://lh3.googleusercontent.com/yIvuyFN0_D4MgQidXXKIfhfbQ3NVWXBBy1I1Bk4z2en9J2kdUOnIb3cyQp52iQ5UR8Ua1u0CjzQHzN7E5K_JwxQbK0AR"
+                },
+                {
+                    "id": "4d5652569c8f456d9441c5a9222a4c2c.17",
+                    "url": "https://lh3.googleusercontent.com/IAcjgtiLE7waCS1uHUMZVjokiMjdZzwLPqsS8KmgywamoNHlgwEdxjHsO5_KrkRooPeEPyRmbw_bk68s-TlnvaSuJ3bC"
+                }
+            ],
+            "address": "Phahonyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "dcf7519b1ac5d695382589c6273b6472",
+                "name": "Forest",
+                "score": 0.663
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.428
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.287
+                },
+                {
+                    "id": "dcf7519b1ac5d695382589c6273b6472",
+                    "name": "Forest",
+                    "score": 0.663
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1be86c64882540229138fbe87754635d.16",
+            "hashedId": "469b8b3dd8be2b0a1ce37816776d8180d91a6ae4",
+            "title": "Fountain Pond at Sripatum University",
+            "state": "LIVE",
+            "lat": 13.854127,
+            "lng": 100.58434799999999,
+            "lastUpdateTimestampMs": "1501109345691",
+            "images": [
+                {
+                    "id": "3464d55cc5434737915e1ddb98ae74b1.17",
+                    "url": "https://lh3.googleusercontent.com/EbaBmEUvDgZV7_u5n7pWUw-_7Xh8ENjEYGQtH-niRGGfKLnh42_KGNGxjBwy284rHAmkUKqnfCVIauenYPFWdZvaOQ"
+                },
+                {
+                    "id": "0189bd84437f4dd8998cb0ffa60a98fa.17",
+                    "url": "https://lh3.googleusercontent.com/UcvYPzJ015xykF3jqt1tCHd1tvrmvjkxk5nbJNNq8SCvipHIMMTBDrIC5BoY7H5QzUudnatJOgaReok_Cu0060fG0W0"
+                }
+            ],
+            "address": "74-2408 Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.377
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.16
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.377
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University"
+                },
+                {
+                    "id": "e9d467d62c80efa1f813d7a75547f298",
+                    "name": "Pond",
+                    "score": 0.085
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "1e9e79b816fc4190b15c386316337e3f.16",
+            "hashedId": "fe59c0db653c054e5063f5443e041cf5e88fc069",
+            "title": "หอพักนศ. สุพรรณนิกา",
+            "state": "LIVE",
+            "lat": 13.852901999999998,
+            "lng": 100.58064399999999,
+            "lastUpdateTimestampMs": "1572074127047",
+            "description": "Part of the modern Kasetsart University Dormitory System.",
+            "images": [
+                {
+                    "id": "3fb2ec4b6ab1447fadd9bf1037aadd7b.17",
+                    "url": "https://lh3.googleusercontent.com/5-aL0ID-Khw62srVVIbVulMG-K70JddySEreOyUV4yVY7rRSiKlWAOz8cHEKqpkEWbme_dqQOX8o9LcTFO_CZK0gYSI"
+                },
+                {
+                    "id": "adad0296fa1b42579e99fc486ccce063.17",
+                    "url": "https://lh3.googleusercontent.com/bE7Bgik7gN9uuJojlH5Tf6e4tZVJj7CNP9f9pqHiK4CUkEII3sNCsu5xpCUqH7sMvmaIlm2yldrnbmY7M_Ns-g5o8g"
+                },
+                {
+                    "id": "fc35e64b16f04d47a2ef26813824cf34.17",
+                    "url": "https://lh3.googleusercontent.com/wmequAgDDQfltf7YrXzxN0bMxaLgWDswILFPgFdQKo28cK1Zq49ws8l_qQYiGNQy1JtgF73px_wVMa-aS8iOzg9zbOU"
+                },
+                {
+                    "id": "e8799e2e7f964ce3bfcc74d7204c45a9.17",
+                    "url": "https://lh3.googleusercontent.com/qVpcRFlW1FW4VIft3XQGbz94Ti3lrsYdDKwlzOQVmwk-fettfzbVqkSkQ8BM_O2vMnFkgpc5xKSBDPa84YtvKhlrOGk"
+                }
+            ],
+            "address": "Soi Phahon Yothin 45, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.382
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.382
+                },
+                {
+                    "id": "79081d968619d816177a1f42e84f0168",
+                    "name": "Gurdwara",
+                    "score": 0.083
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.182
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "206ffec3ec244b03a82e3e1e17563768.16",
+            "hashedId": "34219af2e2f34c44519db36a18ff4f0b7c088289",
+            "title": "Phaholyothin Park Place Shrine",
+            "state": "LIVE",
+            "lat": 13.852212,
+            "lng": 100.58235599999999,
+            "lastUpdateTimestampMs": "1501110027050",
+            "images": [
+                {
+                    "id": "4f54ed8414ed40e0a250db0fb3d977e0.17",
+                    "url": "https://lh3.googleusercontent.com/hTcE3IzYctSWUYF-ZL2MqLzcrsk_4j5JnKL_wJZ1klgp8QfJ8iJgp2VEYXuglyTLjr08GZBhRdDyMsZnBXET3tyZwqg"
+                }
+            ],
+            "address": "13/1-2,13/10-11 Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.196
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.783
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.09
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "20f79b6177404f5186a47ca449fe64c4.16",
+            "hashedId": "aeb7b2d908df1d25ca5f0700978222cbcd73bb82",
+            "title": "Sanparpoom BamBam",
+            "state": "LIVE",
+            "lat": 13.854194,
+            "lng": 100.583961,
+            "lastUpdateTimestampMs": "1501110177115",
+            "description": "Phahonyothin 49",
+            "images": [
+                {
+                    "id": "68e24c9c22ca4b0d90946616344ed18f.17",
+                    "url": "https://lh3.googleusercontent.com/rl0HTW__7oNwBHI62T2MisLX1TzIEKaopYJ7pWnJ1d4KprFftKAvpktbagxo-o9mA6ZiScIztK-imtyuduwCR7dHJdQ"
+                }
+            ],
+            "address": "108 Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.309
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.166
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.124
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.309
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "21c67dd2225e497997d6904942646bca.16",
+            "hashedId": "49a8d6c1036d3612b073b96a16a9f739e8cb2651",
+            "title": "กลุ่มงานวิจัยจุลินทรีย์ดิน กลุ่มวิจัยปฐพีวิทยา",
+            "state": "LIVE",
+            "lat": 13.850935999999999,
+            "lng": 100.57683399999999,
+            "lastUpdateTimestampMs": "1589895496327",
+            "description": "สํานักวิจัยพัฒนาปัจจัยการผลิตทางการเกษตร กรมวิชาการเกษตร",
+            "images": [
+                {
+                    "id": "080257469b8d3c1bab1d5c522aff1a05.17",
+                    "url": "https://lh3.googleusercontent.com/iviVP2dZHm2_fPjQ2vNyhmZGLh-gJlh-WMtFmrzCAXGR-E3tC8ooN9TC8duyms_8YZ_MTJlZ-HWbfW0nI9J5Mq1rL80"
+                },
+                {
+                    "id": "554620f0b1c44755850002fee344a80e.17",
+                    "url": "https://lh3.googleusercontent.com/cReDa6AM5TlxPpUkjV3p7m5lslK_jfHWhOELm_QQBI4H0ei11E0X6WpFjCz4DeKhaXiPjXSw1yox820rxFF9ZGZjrk4"
+                }
+            ],
+            "address": "50 ซอย สุวรรณวาจกกสิกิจ Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "ce64859076051dec2b34827e1b0bd37f",
+                "name": "Informational Sign",
+                "score": 0.426
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.384
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.267
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.426
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586821064097"
+        },
+        {
+            "id": "24c753ae98d43f1381a7b34f5918a316.16",
+            "hashedId": "e6dd6e2a89a00df333bea9603a520881e77c4168",
+            "title": "ส.เลิศอุบล",
+            "state": "LIVE",
+            "lat": 13.850406999999999,
+            "lng": 100.580837,
+            "description": "พหลโยธิน45",
+            "images": [
+                {
+                    "id": "3c23190ba6803d7c835b60d2980bc546.17",
+                    "url": "https://lh3.googleusercontent.com/8f5FJ_k8sLE3eE6epWMW2D3-N_5A1k42bCdyUUptScF6ei9DeAdmBPerKdvlGWQQnHJ08QfoWJjZgcLJgslQ24e-AUQi"
+                },
+                {
+                    "id": "16a8f932c5ba31b68b66cf72b8d3bc96.17",
+                    "url": "https://lh3.googleusercontent.com/zCGJM1Q_G3HCvQoZjv1WqqIc3r_J0_OQp9ZsNlR6rKL6YMgqhdvPgREQY-Aopa7EWzPxw46sO9_yXzlxpgUkO_uRVexg"
+                },
+                {
+                    "id": "4d189df0744f360cbce8d3013d3f4ddd.17",
+                    "url": "https://lh3.googleusercontent.com/KJH5XuvSE0IzVHAODXdHBrQ3cvTy_S3Iy_7yDcz8lHdVD0eVM10EnEikN5OPg1Fd5YCpdEqvX8nHErue0p-M3DQX2UQ"
+                },
+                {
+                    "id": "e60dc40bf357361387e77d5fc5a05d11.17",
+                    "url": "https://lh3.googleusercontent.com/APH_-6BoR5YVLQldVK44pJlNJamIRbvqymkNBqPLK_VGpaeoX1NJKJrPG2543Mq9OSq4X1fW-oZOLa4wEDETBwBNq0g"
+                }
+            ],
+            "address": "54/3 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1651495086274"
+        },
+        {
+            "id": "2910efd854524caeae827c81e3831615.16",
+            "hashedId": "e4f901cf0c16dc01ac7beae4e19ce1995076b0e7",
+            "title": "ช้างมงคล",
+            "state": "LIVE",
+            "lat": 13.85343,
+            "lng": 100.58436599999999,
+            "lastUpdateTimestampMs": "1501109630628",
+            "description": "ช้างมงคล แกะสลัก",
+            "images": [
+                {
+                    "id": "4851b45e2a8a44d5ada524f5dfcaebda.17",
+                    "url": "https://lh3.googleusercontent.com/HGsyZQlmqLLs95u02Jt1zv-7PozEV2YALddIYyGzO4rHr5NC9axNQYYeoecuttOAQg-2Egc_qZqacub21pT_3F4Bawc"
+                }
+            ],
+            "address": "Phahonyothin Road, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.748
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.748
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.494
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.402
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2f43e0888e10456fa9f204d3f6557653.16",
+            "hashedId": "48600a32264cc6baeef281df40b8efa4f18b1ac9",
+            "title": "Prapoom Tommmicrat",
+            "state": "LIVE",
+            "lat": 13.854559,
+            "lng": 100.582833,
+            "lastUpdateTimestampMs": "1501109923510",
+            "description": "Phahonyothin 49",
+            "images": [
+                {
+                    "id": "ff034166ee4c4678ae6bd858af7448bc.17",
+                    "url": "https://lh3.googleusercontent.com/FYqOWdihZgJmfRoJiWmCA_otQh259FXLjZpWBmAyD-2bCHu0fn7RrnRvD-su4Y4-DgcfxcJRTwmWpYi1CVaed2yEoA"
+                }
+            ],
+            "address": "Phahon Yothin 49, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.243
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.211
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.243
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.18
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "38554d6113fe430b90e1450461d2c95f.16",
+            "hashedId": "a15d85b7a47b265878509e7e9816e408380507cf",
+            "title": "รุปปั้นนูนต่ำทหารหาญ",
+            "state": "LIVE",
+            "lat": 13.848678,
+            "lng": 100.581071,
+            "lastUpdateTimestampMs": "1501109703046",
+            "images": [
+                {
+                    "id": "dc2bbd4e5b054e31a5c0f13526574596.17",
+                    "url": "https://lh3.googleusercontent.com/FTc9rwuM4P9aQheKhcf8BwpWwE5Bf5fdpvHJN2koWlj5Eq7WJy25lfKDNJKT0Qr1POOsm3-PV3c847Lp2TODKddBNWw"
+                }
+            ],
+            "address": "Phahonyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.44
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.121
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.44
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.174
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "399d7b410182422a8c83b856c0a5126b.16",
+            "hashedId": "bfd8d46c4ebee86789b431f80c22b48c6a965126",
+            "title": "Fountainat Royal Forest Department",
+            "state": "LIVE",
+            "lat": 13.848346999999999,
+            "lng": 100.579717,
+            "lastUpdateTimestampMs": "1501110048802",
+            "description": "Forest saving.",
+            "images": [
+                {
+                    "id": "3de2cc1d584c49aab097dd1312cdd6dc.17",
+                    "url": "https://lh3.googleusercontent.com/JyyAjOX2AXoiXbtLoLPgnuJFL-sPIWnDLLNCjd_2VQyLEzQf31KxHO3tCmTdarAsWNckkZtwIkFtHlT9YRp5fTfJrg"
+                },
+                {
+                    "id": "7e8c14c5e859437ebb7950a3b9ec2c01.17",
+                    "url": "https://lh3.googleusercontent.com/KzmI_1ekQvl1d9aUjYE669izS8TEFeGqg7aIvSxyQLLvbMX-jbjQ6smZC0gIiG_m7jHmncjB5PL6oHH_exGQmEHZ0OU"
+                }
+            ],
+            "address": "Alley, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "551636aeb6e23df07c0718884904c197",
+                "name": "Art"
+            },
+            "categories": [
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "c33a2ba4a53fe7a16c8ab7ad957162f2",
+                    "name": "National Forest",
+                    "score": 0.272
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.359
+                },
+                {
+                    "id": "dcf7519b1ac5d695382589c6273b6472",
+                    "name": "Forest",
+                    "score": 0.983
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3b7dcaeab8b34ce9b64a2ef763a9560a.16",
+            "hashedId": "b02ceba1f36bd0c627adaaa6f121a1b4e30741b3",
+            "title": "364 Years Ago Tectona Grandis L.f.",
+            "state": "LIVE",
+            "lat": 13.849077,
+            "lng": 100.57939999999999,
+            "lastUpdateTimestampMs": "1501109415008",
+            "description": "In Forest Department old wood.",
+            "images": [
+                {
+                    "id": "9a721665646a443dadee50a8ed832034.17",
+                    "url": "https://lh3.googleusercontent.com/c707PCMyqQXDdU19xAkQvn0WpBjYS_m3g9a_xQTvAQm5QjfWHssPTS7MC13TCAs5Vzlr-NGeqQ7jVs91hra0YrEjtPs"
+                },
+                {
+                    "id": "7174256618ad4657b540ad32007c3443.17",
+                    "url": "https://lh3.googleusercontent.com/KW5THqoS3APCzpPqESAoro6ixf-wMPTDxvQ6GjlcuD0mwew4pDs4EBXwz0GroCRrAoK_CfnemiRtV_gy-Hfbg1y9-LA"
+                }
+            ],
+            "address": "61 Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.266
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.236
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.266
+                },
+                {
+                    "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                    "name": "Historic Structure",
+                    "score": 0.144
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3f2c6c9744f031fc8663fd07a6f7636f.16",
+            "hashedId": "1b4de1041d81edfd4062b837a404f95bb99552b8",
+            "title": "rainbow playground",
+            "state": "LIVE",
+            "lat": 13.853157,
+            "lng": 100.579179,
+            "description": "playground for kid.ของเล่นสำหรับเด็กเล่น",
+            "images": [
+                {
+                    "id": "c597c65a91213a9f8d6e6c93cc1a8510.17",
+                    "url": "https://lh3.googleusercontent.com/VXbRFO8dseHFZyqLluaN3c17FUMCIaLMc13NzBpfwzJ1z56_Oip9aeE190PTh3DSRQ8l3pc00tMXRGP64n9mTH3n5lCB"
+                }
+            ],
+            "address": "52/159 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area"
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area"
+                },
+                {
+                    "id": "75ac95c16508cd70f9c85fd790ee4319",
+                    "name": "Amusement Park"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1644986702680"
+        },
+        {
+            "id": "4277ffb99528424ca05ac0e50941fc26.16",
+            "hashedId": "82c8b19b3044c1ff9349c95383fd0cf8129dd42e",
+            "title": "รูปปั้นเด็กเป่าปี่",
+            "state": "LIVE",
+            "lat": 13.849967,
+            "lng": 100.578492,
+            "lastUpdateTimestampMs": "1501110009097",
+            "images": [
+                {
+                    "id": "b82686a671944088b2723695aefc886a.17",
+                    "url": "https://lh3.googleusercontent.com/wSf5c3Nfvbrr_mXP4oZHGw439g7XQQCyRxZna4byciY_OfzgOtuvgdKfh-d1AVyhSYHP3_vLCiOIia2O17A39V7Bgg"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.803
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.041
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.589
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.803
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "43db1f29366c3bbc8ac184d21b496ded.16",
+            "hashedId": "c52d12abf31aa80e80fc7164bfe215f22ee33f2d",
+            "title": "ป้ายสัญลักษณ์ Too Fast To Sleep",
+            "state": "LIVE",
+            "lat": 13.854246999999999,
+            "lng": 100.578277,
+            "description": "เป็นป้ายแสดงสัญลักษณ์ Too Fast To Sleep ที่อยู่ด้านกน้าทางเข้าที่จอดรถ ซึ่งสถานที่นี้เป็นสถานที่สาธารณะที่เปิดใหเนักศึกษาของมหาวิทยาลัยเกษตรศาสตร์ และบุคคลทั่วไปได้มาอ่านหนังสือ ทบทวนบทเรียนเตรียมสอบหรือพบปะพูดคุยกัน อีกทั้งภายในร้านยังมีบริการด้านอาหาร",
+            "images": [
+                {
+                    "id": "804c22c6056a383782ca427768ed4649.17",
+                    "url": "https://lh3.googleusercontent.com/-b-ZSAsUOuPFt3GbU6-n5l9a2EJAfXK7sX-XqVpO-zFbkcf1WeXj9c-VaaUUEF2ZLYykzB88vD007ZLICnzNaV0ObAhv"
+                }
+            ],
+            "address": "5/15 พหลโยธิน Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646388918222"
+        },
+        {
+            "id": "44100b5ebff9456cbabfa78e99d4b442.16",
+            "hashedId": "033325845ff8f28e01607c77164817ffffcba6e8",
+            "title": "Brahmin Sculture, Sripatum University",
+            "state": "LIVE",
+            "lat": 13.853691999999999,
+            "lng": 100.584554,
+            "lastUpdateTimestampMs": "1609668642479",
+            "images": [
+                {
+                    "id": "b999cc6ff22d4d06828b9f430d53e125.17",
+                    "url": "https://lh3.googleusercontent.com/p2EKONthKnu1P4_0aK7MczsJARlI7cSMSPoSHc9JfCBDa9psUkBjOz3BoqVRIqfjw3qXHZHp0UHNy033d0lgIdGpDA"
+                },
+                {
+                    "id": "3411f448ca9e439589190947abf34c0e.17",
+                    "url": "https://lh3.googleusercontent.com/9FRdkMf_9r9ZkqYPieNc3nbrZcs2xyPtfHQtg92-NE3OmMw9VOq3uUmHLi2HZZ89Wa0FZHeqa4OYlg8miJ7TjcQ3jj4"
+                }
+            ],
+            "address": "2410 Phahon Yothin 45 Alley, Lane 2, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University"
+            },
+            "categories": [
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4626529b80b24790ae91f0ab82d08d94.16",
+            "hashedId": "087010d3d4e881ce6cf9126544d1425c0ee82901",
+            "title": "รูปปั้นเด็กบนสะพาน ซ้าย",
+            "state": "GAME_REJECTED",
+            "lat": 13.849884,
+            "lng": 100.578527,
+            "lastUpdateTimestampMs": "1501109711951",
+            "images": [
+                {
+                    "id": "0644d908c40e4ec9ab40c79bbdb3d1d8.17",
+                    "url": "https://lh3.googleusercontent.com/FjUJvOWpeYFO593EtqxCjxQToyTxXePSxUWwRPhGAI5kZGklycACWSjwOjMwWagd_mLjW0ibOxPUiQDq4TNzPS_zrw"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "467a2f6db1a045e8bc39a8b56ed2a1c3.16",
+            "hashedId": "4dfbe1fd11e9cbf7d927c0688f2dc109f0703c6e",
+            "title": "Forest management fountain",
+            "state": "LIVE",
+            "lat": 13.84883,
+            "lng": 100.57898899999999,
+            "lastUpdateTimestampMs": "1501109807114",
+            "images": [
+                {
+                    "id": "97f18d585c274be49f3fcc51a61ada7d.17",
+                    "url": "https://lh3.googleusercontent.com/nkNobhEv-galOspo54Q43PwGK8w79bxgHbke53PycJSfoebVfSQ_fjXo18yWchGu6J0nwDV4G-ZK1u6Shvelwjd4pw"
+                }
+            ],
+            "address": "50 Phahonyothin, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.721
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.135
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.721
+                },
+                {
+                    "id": "dcf7519b1ac5d695382589c6273b6472",
+                    "name": "Forest",
+                    "score": 0.072
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4b7632a58bb13677ad426cb89e14d9f9.16",
+            "hashedId": "2cd1bafa56077563c6a119cc3d732c7442ef6d22",
+            "title": "Royal Forest Department Station",
+            "state": "LIVE",
+            "lat": 13.849749,
+            "lng": 100.581374,
+            "description": "รถไฟฟ้ามาถึงแล้วนะเธอ",
+            "images": [
+                {
+                    "id": "adfc14ded0f13ca28071328051b13936.17",
+                    "url": "https://lh3.googleusercontent.com/y5QpdGEKH_ipA2yYMxuy9gbmLQCmqeI5jnPf3Fg_gAxFOYuBZU33REi4EeM9yudbYZYn91Q9dU9oUJ-0tFEwmK82LZBK"
+                },
+                {
+                    "id": "0e4d137d7968367e9cbf897696b764b7.17",
+                    "url": "https://lh3.googleusercontent.com/PGdoiLTYFdRWE8P6VZVOaVTv7WR5_ZXoJODNiBREIHGEegXaw3nMK1oFxksmMCno7ft-nd8SrQA_DaKLEdgzRBNgwtlxvjOhDDiaNDEd"
+                }
+            ],
+            "address": "62 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 80.37407,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign"
+                },
+                {
+                    "id": "db55bc74a2fbefe1b15371ade71559b4",
+                    "name": "Train Station"
+                },
+                {
+                    "id": "dcf7519b1ac5d695382589c6273b6472",
+                    "name": "Forest"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1649056738014"
+        },
+        {
+            "id": "4bcc571df302410e85b2623b05103536.16",
+            "hashedId": "aa18df5a6ef100729c192b0bed9001d0aec07392",
+            "title": "ปูนปั้นเด็กบนสะพาน",
+            "state": "GAME_REJECTED",
+            "lat": 13.849909,
+            "lng": 100.578445,
+            "lastUpdateTimestampMs": "1501109696106",
+            "images": [
+                {
+                    "id": "6e77284efbb34ceeba9636e1d3a1b11e.17",
+                    "url": "https://lh3.googleusercontent.com/9si5KmLVQEEE9VYbCZMBlfYJGV0OQ-3mqc9jexKfsNhToUkDQY79LDp9ZRBk4cEeHYvVNhUgrdCtcySaOuLqEndw-JU"
+                }
+            ],
+            "address": "Alley, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5003a247b3b24e0694b778d8b0600540.16",
+            "hashedId": "ca5195612647010c58d7b52364b916aca2087308",
+            "title": "ศูนย์วิจัยและฝึกอบรมการป่าไม้",
+            "state": "LIVE",
+            "lat": 13.849236,
+            "lng": 100.577907,
+            "lastUpdateTimestampMs": "1501109178650",
+            "images": [
+                {
+                    "id": "cecff18de81d4df5836720b56807a52b.17",
+                    "url": "https://lh3.googleusercontent.com/UWJ8CK44Hy-O3ElGhz7y9TgOrUpotaxItwKeB65dgXiIhe2rjp3D0ii4edCHp34NLzb-FqCOVRdzoPOz9tSK5gPolQ"
+                }
+            ],
+            "address": "61 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "ce64859076051dec2b34827e1b0bd37f",
+                "name": "Informational Sign",
+                "score": 0.292
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.283
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.292
+                },
+                {
+                    "id": "dcf7519b1ac5d695382589c6273b6472",
+                    "name": "Forest",
+                    "score": 0.08
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "559a67d7c8704125a27c7d7fd99959c5.16",
+            "hashedId": "921c5bc369155ddf0dad84204bb30435f3c51a73",
+            "title": "ในหลวง",
+            "state": "LIVE",
+            "lat": 13.849667,
+            "lng": 100.57951,
+            "lastUpdateTimestampMs": "1501109702568",
+            "images": [
+                {
+                    "id": "1ac88ff22fcd4c939b7e8a438b5238c3.17",
+                    "url": "https://lh3.googleusercontent.com/g2H3Qyptb3XIuUTmbmaMzx--eYeR1eS6-NU3u3LRjNkT73k4d9PRCzzvrrJlijCxudTkhio5QNhozwMrJ4RoNovTgw"
+                }
+            ],
+            "address": "52/1 Phahonyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.353
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.036
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.353
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.169
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5827d91da7064f7887f95815584b5293.16",
+            "hashedId": "6257f1b337f0add80f1b437c6ebb27e940187a20",
+            "title": "รูปปั้นเด็กเขียนหนังสือ",
+            "state": "GAME_REJECTED",
+            "lat": 13.849919,
+            "lng": 100.578687,
+            "lastUpdateTimestampMs": "1501109894942",
+            "images": [
+                {
+                    "id": "30d9f9686ef544438b229ef907795a23.17",
+                    "url": "https://lh3.googleusercontent.com/aeo5djjlNOSio7kf9lntWWS0KOett1jDpB-lFMD9eQ935bXA1fYYNpsbqxDfG6PG7J40CFr8yR9n2-e_ni9Cnfdz4u5H"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5a283af80d6e463692eeaaef923ef9d9.16",
+            "hashedId": "cc00219438119f2759cdf6043729274cc617745f",
+            "title": "ศาลพระภูมิ NRAECD",
+            "state": "LIVE",
+            "lat": 13.847714999999999,
+            "lng": 100.58003599999999,
+            "lastUpdateTimestampMs": "1501109558680",
+            "images": [
+                {
+                    "id": "31dd2c362dcc490fb635bcb54935399f.17",
+                    "url": "https://lh3.googleusercontent.com/EU60pCresnekHD5eWJLteFo3ZvSNHcXEKWBCIctpOSSEU1TTBAEa9ac8hgqUTHDTWIuPCktxZFcq8p4VEuSIsNgMYZ8"
+                }
+            ],
+            "address": "Phahon Yothin 43, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "5058742ab1f224fdefea0f7c699f0fef",
+                "name": "Arch",
+                "score": 0.632
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.139
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.632
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.083
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5aa51425b7553efdbec7db10495a51bf.16",
+            "hashedId": "f16ea664af1876f2bfcb315fccb70852c5b121ed",
+            "title": "พญาครุฑ",
+            "state": "LIVE",
+            "lat": 13.849753,
+            "lng": 100.581406,
+            "description": "องค์พญาครุฑขนาดใหญ่เหนืออาคาร",
+            "images": [
+                {
+                    "id": "038e2b3467653b4984e13f542ea5c7dd.17",
+                    "url": "https://lh3.googleusercontent.com/zTyRkUXL_fZjrRCOoMFOhmmsd5Y-x3U-QxfTWtetHFXDNy8jWbaMfVTTiF5ws51bsBcCj2bUbkH8Y6KNjVvW_3XXpi87"
+                }
+            ],
+            "address": "62 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 70.234955,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "79081d968619d816177a1f42e84f0168",
+                    "name": "Gurdwara"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646903292905"
+        },
+        {
+            "id": "60f72410995e421f9d43fe5d10eedec2.16",
+            "hashedId": "d8bd317c76fc9f9770932556d77a37739b8d1af8",
+            "title": "National Park Office",
+            "state": "LIVE",
+            "lat": 13.84962,
+            "lng": 100.57852,
+            "lastUpdateTimestampMs": "1501109771109",
+            "images": [
+                {
+                    "id": "bad4520b299f440ca5dc3d2fc6598451.17",
+                    "url": "https://lh3.googleusercontent.com/SQmIKOkU3sHrPmZjxAScd5fqAVtjUs5Di4i-ZQ6rEgWMqMqGddlY--mlOu8DMT_CcChG9CUp3QL5ue6Kt8pJLdNKJA"
+                }
+            ],
+            "address": "Alley, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.659
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.351
+                },
+                {
+                    "id": "6069c090185a0ce873ceb509a8da8ed0",
+                    "name": "National Park"
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.659
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.19
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "61ff7687dce748e1ad06538b5c13ab08.16",
+            "hashedId": "02367cd975ad6edcf4a979559782956d201d3e0c",
+            "title": "รูปปั้นเด็กเป่ากบ",
+            "state": "GAME_REJECTED",
+            "lat": 13.849991,
+            "lng": 100.578772,
+            "lastUpdateTimestampMs": "1501109178040",
+            "images": [
+                {
+                    "id": "5e46041975ee455ea323b9998d9a16c1.17",
+                    "url": "https://lh3.googleusercontent.com/Dg2hK6SHQfnx-z5wwxnn5MLi864UVT0mCfFfIt7Etc4AgQO4f5hywr8ZlDD0HOYC46_tpgovSks2yGL26WMBUjwrfg"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "65d4f4c1761f3ea7944aac56161d912b.16",
+            "hashedId": "a34a5cfc76e5daaca084014d4ccca1b7e43a94e7",
+            "title": "MRTA กรมป่าไม้",
+            "state": "LIVE",
+            "lat": 13.849948999999999,
+            "lng": 100.581451,
+            "description": "สถานีรถไฟฟ้ากรมป่าไม้ รองรับผู้ใช้งานบริเวณนี้จำนวนมาก เนื่องจากเป็นที่ตั้งของสถานที่ราชการหลายแห่ง",
+            "images": [
+                {
+                    "id": "76aad49f0dfb31299c8036d42c309598.17",
+                    "url": "https://lh3.googleusercontent.com/VSATMjYEairUccmkpps6NDj32QUFAJZzmFehpgVlHtTysMHpmFYPiXVmoWYDuzWUHnN5Cr8BZnJWOlmdSS_-Xxs_n0EC"
+                }
+            ],
+            "address": "2283/2 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1648727847072"
+        },
+        {
+            "id": "6e4b76c5b5873c89bfdbfcdfc07786b7.16",
+            "hashedId": "e5337adc701568157fbc6085c2d53c53e4888ab1",
+            "title": "Lovely Cupid",
+            "state": "LIVE",
+            "lat": 13.85022,
+            "lng": 100.580485,
+            "description": "รูปปั้นคิวปิดเป่าแตรน่ารัก ในซอยพหลโยธิน45",
+            "images": [
+                {
+                    "id": "f2a1ebddd3c23a08ba69521be4320c3e.17",
+                    "url": "https://lh3.googleusercontent.com/PUmofnmJ02K_kQcpDzoCXrjOtCPnZUFy89XwotkKIV8tsB6PpYeeSMpe5Jo0iNOQ2IHs3h07tWAq7xDT4e2p23ahoQ"
+                }
+            ],
+            "address": "52 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1654235728882"
+        },
+        {
+            "id": "71deef9da30633c29b189ef3ea1eb59f.16",
+            "hashedId": "5d695b488d060d8d447287349eaec9f64e5e4396",
+            "title": "ท้าวมหาพรหมปริทัตย์",
+            "state": "LIVE",
+            "lat": 13.851367999999999,
+            "lng": 100.57759,
+            "description": "ศาลพระภูมิ",
+            "images": [
+                {
+                    "id": "a574dfb7c0e53f46aa0e8e373513bb98.17",
+                    "url": "https://lh3.googleusercontent.com/WpIrxR0TlOvmJMptBzWk97njy5QEVY7w7_KfMB1UkRF0AqJ6gqwmZtI_UNn2ErApgJXQppxRsMrbP42GZN3KZCjlix-70bp66zNNurkHFg"
+                }
+            ],
+            "address": "52 พหลโยธิน Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1628573424792"
+        },
+        {
+            "id": "71f62e83879845e0b453dcf5e6b3a7a3.16",
+            "hashedId": "a89ded94fa6300d2555714d8baa27b396b4664e6",
+            "title": "นกเงือก/Great hornbill",
+            "state": "LIVE",
+            "lat": 13.854173,
+            "lng": 100.57820799999999,
+            "lastUpdateTimestampMs": "1619236661183",
+            "description": "นกเงือก ลัญลักษณ์แห่งรักแท้",
+            "images": [
+                {
+                    "id": "583ea6c16d3444e69626136f49ed9ca5.17",
+                    "url": "https://lh3.googleusercontent.com/fnoSyeJB2eNClZnfn_FP-gJeLrOV_kPlHjd9F6SwU-tvVOFO2JjF_kAIsS2Owigoo9muMw01Lr8HBhHyrhDyGb7BaVao"
+                },
+                {
+                    "id": "3e08f0c7a05a44fc80835f9ee8fcc9b5.17",
+                    "url": "https://lh3.googleusercontent.com/FbmeTWLe1w9lhlchejfSPCtTF6eHSCA2-xBEVCnhv-1oPNtnmZ5vN-S2VkHWIoOmy5tVKXGfbtAvV66E450AbhDBUdc"
+                },
+                {
+                    "id": "a0785a7e57e34169b8b4c561d32dfac5.17",
+                    "url": "https://lh3.googleusercontent.com/nf2ADHytQQXIJm2HuMyfRhw5xEQuXSEQ6xxVNOTCoKGUffGmX2lMEee6DW9tC7enB9SY4huIpf15QR2ivtq42f_LOuA"
+                },
+                {
+                    "id": "513ea89629514413bf489373c4910195.17",
+                    "url": "https://lh3.googleusercontent.com/vm6DRxhIHw_jtjcZez3zDzzKbYP36Z_q97CKK-7kJPf9rglPiQ6NBV7W470eQw2MV1E6K1_e9WoTdiM_z0TdA1bt-XlX"
+                },
+                {
+                    "id": "c2172ac429614d13a55a205ee8c83c84.17",
+                    "url": "https://lh3.googleusercontent.com/VzYE2iriaANtJ1NU1Cce1TP6o8nJm6uRxI9nL0IBJ1FynTbsnWx5RJ5Xo9VJy_ZrOsXp1UfJK5LgVJ-OyoMCnJ7gqrbx"
+                },
+                {
+                    "id": "3785c9bcaffd4f52b76200f1900090f4.17",
+                    "url": "https://lh3.googleusercontent.com/HqhrIBoi5X57VKeTAhfTObgGW9Ce2SFZyjjH3P7NvlOBc9nnMFXli5nzLLCQlOkHkQQFfK1YhL_9PdZ_G4d7ljTmfH0"
+                },
+                {
+                    "id": "53b595ba43f934ca80b21b66d573e3f6.17",
+                    "url": "https://lh3.googleusercontent.com/kcqJ0DjbX5zdHK_X1wGZklWuoJeSAqSBtS_LdxgQqyQCAz29bl3i_EH4XX3uQo9K9KrGKdBepDDwIV1xsVW-25NJBeZbksuSrte5I4bHPQ"
+                },
+                {
+                    "id": "8b8c060aa869427b8c51f3c2ba53b015.17",
+                    "url": "https://lh3.googleusercontent.com/Wq-yZ1c2dnjXrlt-bhKRRQKBCytatexllzWVt6o56rhsIZM6cdKcVUT4Gjpbxz62PS-2N7yVylzJ2c71cDtmL-LYbrM"
+                },
+                {
+                    "id": "2a2bac756a3736e09f1ed57bd6790865.17",
+                    "url": "https://lh3.googleusercontent.com/Wi9-879S3ecCxDRuq7jbCemw4hFMPcN25BhpacRlTgY2Bn3kps5JtrmuM2fJlOTbKPNvkKGQoQF3vN51xSb121aw0pyaunLPQ_0r6wq9"
+                },
+                {
+                    "id": "65d30783060d366d95b9d80b14d3f655.17",
+                    "url": "https://lh3.googleusercontent.com/txPlV1HjoxTkL82LxmWJYqaHTOOMd7yh4sNNPqAmxooHeSuQ80w4D4BFULvC94M9kUs7Aqnrm3jEpkz8sxHl4qOmynLeYdXzCtGZxT4apQ"
+                }
+            ],
+            "address": "5/9 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "qualityScore": 77.31468874199463,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1583631161413"
+        },
+        {
+            "id": "76cbba1753214dcc9f593f7afa447071.16",
+            "hashedId": "d2f3a4f30e8ab92560d5ddc3a4e7a932d5cc4bce",
+            "title": "ศาลพระภูมิอาคารสวัสดิการมหาวิทยาลัยเกษตรฯ",
+            "state": "LIVE",
+            "lat": 13.853114,
+            "lng": 100.579212,
+            "lastUpdateTimestampMs": "1589895279808",
+            "description": "เป็นสิ่งศักดิ์สิทธิ์ที่ คนในชุมชน และคนทั่วไปเคารพบูชา กราบไหว้ ขอพร อธิฐานขอความมีโชคลาภ ปกป้องคุ้มครอง สิ่งชั่วร้าย",
+            "images": [
+                {
+                    "id": "2d1dfe2a653749ef804a385ae7b6a4ff.17",
+                    "url": "https://lh3.googleusercontent.com/AI4Giqc1bJzPDElKunQu2fPGsey2KyPr7hj_8uN-NzYzMQakZSxNMr3nlk2V5Xq8LZmK24ocGgu5BFtjLDOevQ6yiwQ"
+                }
+            ],
+            "address": "52/153 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.189
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.119
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church",
+                    "score": 0.206
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1584497914685"
+        },
+        {
+            "id": "7ffa465eaa2046548368615fbffc576a.16",
+            "hashedId": "0dde45e3bc18842fa00fb7e0f889da1dcc88dfc2",
+            "title": "องค์พระวิษณุกรรม",
+            "state": "GAME_REJECTED",
+            "lat": 13.853627999999999,
+            "lng": 100.58475899999999,
+            "lastUpdateTimestampMs": "1594733102311",
+            "description": "Sripatum University",
+            "images": [
+                {
+                    "id": "f48f6355589741749f0aea051ffa834c.17",
+                    "url": "https://lh6.ggpht.com/Gb5BDNdGgYCoVJXAYWrSVy8LPVmuS4OcFazqhtP54-0Pm9dUa-o6T05RpTembPOjj8P59EY8VXpjeRNottpe"
+                }
+            ],
+            "address": "ป้ายรถเมล์ แขวง เสนานิคม พหลโยธิน Khwaeng Sena Nikhom, แขวง เสนานิคม เขต จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1594683909637"
+        },
+        {
+            "id": "84a7ab2c5b5f4663980f674b657845fc.16",
+            "hashedId": "d38658d80a4f8f07ace565b9606811f8e2f0d2e3",
+            "title": "Budha @Sripatum University",
+            "state": "LIVE",
+            "lat": 13.853477,
+            "lng": 100.585043,
+            "lastUpdateTimestampMs": "1501109365760",
+            "images": [
+                {
+                    "id": "18bc263660af4346a48ac2b9af3d2141.17",
+                    "url": "https://lh3.googleusercontent.com/oc3Nu8yY1S22f7mXGTTAfwhrVJ_e_Ra2-yoVUQowMB5TPE3hAmgzG1QSLZBJQxFNhTQJqYguoZfT7vz65g_OqDxybL4U"
+                }
+            ],
+            "address": "2408/2 Phaholyothin Road, Sena Nikhom, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.412
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.297
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.168
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.412
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8d68f1ec61e94cad961918d07fab03ec.16",
+            "hashedId": "9e8607a654232082e73fc59a878104e5a1596890",
+            "title": "นกฮูกนักอ่าน",
+            "state": "LIVE",
+            "lat": 13.853748,
+            "lng": 100.578628,
+            "lastUpdateTimestampMs": "1617129913947",
+            "description": "นกฮูกเป็นสัญลักษณ์แห่งความรอบรู้",
+            "images": [
+                {
+                    "id": "9184577f85833949b77b1de9ba94473b.17",
+                    "url": "https://lh3.googleusercontent.com/WJen1uOlZcmhqJ79iii9O704PgF0oIyJbA9-ODWhjMpWrosnglZv5NrPkp4YQ-WZnR3KTlEepCpz2-9oLyYwKDhB36SGF520OFyX6HcJ"
+                },
+                {
+                    "id": "3e6271da56034ebbb07355259205cce5.17",
+                    "url": "https://lh3.googleusercontent.com/jwxUOWvirPGgzQzEOl6kHD9Uc5fpSj1UYalfsT88D0DkhIZAxufoU0vET9wSY358AQ2iWAuaADj5v_OP6gODY2uHDjo"
+                },
+                {
+                    "id": "0dd4e050e0503d90be190abf00a4adcf.17",
+                    "url": "https://lh3.googleusercontent.com/oM00rWVq4fHoK4J5lU8Y2tQq7YrZR8rgBfc4c7Jovo7ZE6Qoz9EcZ-4G78ZSjQDcFIreBOOjL4CHmCRGqxdFOqpUcVmMp6xa2p8C3DU5"
+                },
+                {
+                    "id": "d501175915543554ab0cd359861e6f52.17",
+                    "url": "https://lh3.googleusercontent.com/WpEbn8td9u91zXmq0FgDFh6EmuO-wTWXY-NMVZda9FTGtaHZI6d4a0JGSW64tLIZEGQjtDg1cLBtEPguurNsxVKWyDFY-h_9KN8LYM6O"
+                },
+                {
+                    "id": "32fbe901294f3072b8f9b68fc7bcf86f.17",
+                    "url": "https://lh3.googleusercontent.com/RB8nsIQmPozX48CB5O1zPvf51pz7MFqoctgE18e4_9sY9WtPZpO-AcyWsJDc7h4AZuZwJgNemT4ASLZMIo3S"
+                }
+            ],
+            "address": "50 Tweesackdi Sesaweech Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue"
+            },
+            "qualityScore": 84.59859710824544,
+            "categories": [
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1580170265383"
+        },
+        {
+            "id": "920f49cd180649e38af9ad0f355a3b20.16",
+            "hashedId": "a1fe62face15a228a40483d093b73aa865495e2c",
+            "title": "ศาลพระภูมิ วนารมย์ อพาร์ทเม้นต์",
+            "state": "LIVE",
+            "lat": 13.849947,
+            "lng": 100.580479,
+            "lastUpdateTimestampMs": "1501109098550",
+            "images": [
+                {
+                    "id": "661631e2f97c466ca46986d8e64d12e4.17",
+                    "url": "https://lh3.googleusercontent.com/2ReSqfNf4hKyPZlWT9ZTZMJt0dmgmrBNJpWxw45eYMYy1MhQtleq_aUyDshzZd3pc6FWkBAC8J40_KeWVK4XWkNh4-xo"
+                }
+            ],
+            "address": "Soi Phahon Yothin 45, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.206
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.114
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.206
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.129
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "92852e0755904cd6a5a1328123f3b394.16",
+            "hashedId": "b58f8825203a202b0a17fbf35fb8367c8203d3b9",
+            "title": "พระรูป ร5 พหลพาร์คเพลส",
+            "state": "LIVE",
+            "lat": 13.851892,
+            "lng": 100.58229299999999,
+            "images": [
+                {
+                    "id": "52d18921061c44508ef7c3a2dbe159b0.17",
+                    "url": "https://lh3.googleusercontent.com/7bTg2Zd3FlzGjt-smb3h5aQndvbP0BuWCAvochbtKsxxLJUvUIIuPzrtIUzXv2u0bcEWGDei74yhFpOVu9tfFTcUiw"
+                }
+            ],
+            "address": "2549/12 Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "942df50c468342038e95119e40fe85ca.16",
+            "hashedId": "b39eae95f474c3e9176fc15aa3156c3b7781fd3b",
+            "title": "ศาลพระภูมิแฟลตกรมวิชาการเกษตร",
+            "state": "LIVE",
+            "lat": 13.85243,
+            "lng": 100.576768,
+            "lastUpdateTimestampMs": "1589895362695",
+            "description": "ศาลพระภูมิหน้าแฟลตกรมวิชาการเกษตร อยู่ติดถนน มีผู้คนสัญจรตลอด",
+            "images": [
+                {
+                    "id": "8d9c83b649d34b5cb50a7446ab211580.17",
+                    "url": "https://lh3.googleusercontent.com/dgVEg3zm9c72RMj0CwwT0-UhDyhwGiSBjegxZVyHn7kt46PUqaiY0zzHgrP1lvEMZPTnwkKUiM9hn26bCDnC8vX0cw"
+                },
+                {
+                    "id": "80267011c4cb4c46a0d0294c9640409d.17",
+                    "url": "https://lh3.googleusercontent.com/QWBNMPf8BbG9EomthfamP3Lus7pC894Oic45_-qqOJdKN71kKP8KGnusurp9AGb93nD4mtsBuae5AQJ_ucTmpzxNJLY"
+                },
+                {
+                    "id": "40be3723cf3f479cbb45e488a821462d.17",
+                    "url": "https://lh3.googleusercontent.com/Jf_BAlDJ1g4aCr8iabzS3xq8r18eiUOYNGffWaHBkB-tjv6i-ErnnO8QllRlgZSF5wpXwhugPIk2PW6Y8m9yRXC9N9nu"
+                },
+                {
+                    "id": "71881d82779d446b951e3f4d43640b52.17",
+                    "url": "https://lh3.googleusercontent.com/tuzdhPTNxeTF82l4D79QYk67U57rV6TDQjgnDe23sUT_wNp2RfDPz0FAot6S_KLn7K8kDTA_hgbJMAIv39me0Yi7yA"
+                },
+                {
+                    "id": "3dbcc48618a343a9a53807111e84651d.17",
+                    "url": "https://lh3.googleusercontent.com/lbIi8B9qFzKPi8RTMvbFlpjNO6_BI3T8mQvbFVXQ2z1C1S_I8O3tQPv5L8Qi1Cn-cs5Tc7AJJbPSHxAGmwyWl1QwWKM"
+                },
+                {
+                    "id": "49bddf8f0d4c4fbe88311fafe9cca210.17",
+                    "url": "https://lh3.googleusercontent.com/uPwhvkA5Ub9LB11bcIrZEbOyWPWoJHwn65tuy0EkRqqV0NTnrDO27bQN04Z-1KjjXauy_vHIqj2FhNes8LfAjJkNiw"
+                },
+                {
+                    "id": "dbe6fb59549335f983fc78a0028cf102.17",
+                    "url": "https://lh3.googleusercontent.com/U-GYUoZEJ9Nlfx3k3a8Xay4DQVV0KHLr-YBPIi_XT9ddpSfmDjvh-TJ3KEy3qFy3sCi7xnoJrjkkWV4FIGpGlu5wBaEb"
+                },
+                {
+                    "id": "8d9285fce79239caa6dd21c0bbe2116d.17",
+                    "url": "https://lh3.googleusercontent.com/KJheUrIg9QBn-W7tVIcmMhBtK6yxk8jM8xCNZCa6HzzHF35TWrWP3sCwJhEi44iwCl4C3dct9h5cuXSRB-CkGysSJr8"
+                }
+            ],
+            "address": "222 Tweesackdi Sesaweech Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.117
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.102
+                },
+                {
+                    "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                    "name": "Road",
+                    "score": 0.213
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1581901458405"
+        },
+        {
+            "id": "9592abed3dde43b4bee558649aa21d95.16",
+            "hashedId": "34c755264a166e9bac01ae11e5c651ffeb7b0068",
+            "title": "Shrine Of Father Dongtan",
+            "state": "LIVE",
+            "lat": 13.855972,
+            "lng": 100.580113,
+            "lastUpdateTimestampMs": "1573825797395",
+            "description": "ศาลเจ้าพ่อดงตาล เดิมเคยประดิษฐาน ณ วศ",
+            "images": [
+                {
+                    "id": "f413b8b680e64053a2159b3277ed8dbe.17",
+                    "url": "https://lh3.googleusercontent.com/RBvTcomMrXoQOq2Fo992mW1dVLr6V9Xk_Ck5alzZ1WsS_XPOW2-g32Yolkr05zq0pw8UUebMi8j4U5SWicrPwnKf2sEC"
+                }
+            ],
+            "address": "Kasetsart University, Soi Phahon Yothin 45, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.608
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.608
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.223
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.23
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "990c4f0640314fb08c8d9da45a13ef46.16",
+            "hashedId": "42188c895dc5195301dfb9f2be2f66ff6f5195fc",
+            "title": "ปูนปั้นลิง",
+            "state": "GAME_REJECTED",
+            "lat": 13.850147,
+            "lng": 100.578474,
+            "lastUpdateTimestampMs": "1501110401116",
+            "images": [
+                {
+                    "id": "e7a1d7bf9ab44fde9224414340bd938b.17",
+                    "url": "https://lh3.googleusercontent.com/avM2hlWtjxd0woYU6nCksLCSigXvIjai5mBfXlquyXU16Q1wB6uu4Ad3XngPb3hHP1RIebZFJNWlLZN9zW-2kUjPUg"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "99c2cf7065ae4240b40f7e25c3f907b3.16",
+            "hashedId": "ff251d085348759f87b78d76585161af7392c43d",
+            "title": "Forest Department Fountain",
+            "state": "GAME_REJECTED",
+            "lat": 13.849027,
+            "lng": 100.580277,
+            "lastUpdateTimestampMs": "1501109354244",
+            "images": [
+                {
+                    "id": "cd2c9c26b0f74c9791bda659c29ef12e.17",
+                    "url": "https://lh3.googleusercontent.com/BabKHxQd3sB9N5_KACHN4ni3wQ5utGEQ76MomnaSIIwH3pLgnYwIbKx5mqftVzUWuxrfz0iRyM_yMkMz0-IKG4rlcw"
+                }
+            ],
+            "address": "61 Phahonyothin, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9be13eea00894ceb87f5767a36458f99.16",
+            "hashedId": "c0c76e8a8b2b7e6c16b54973897d56e8d39ada0f",
+            "title": "Chatuchak Post Office",
+            "state": "LIVE",
+            "lat": 13.851251999999999,
+            "lng": 100.581999,
+            "lastUpdateTimestampMs": "1595261502892",
+            "description": "ขอความกรุณาช่วยกดไลค์รูปใหม่ครับ รูปนี้ถ่ายติดรถ",
+            "images": [
+                {
+                    "id": "ecbbf6755dac470196d7f283b1332e08.17",
+                    "url": "https://lh3.googleusercontent.com/DB5-uTtqqGAVbaiekTYTFiyPCGfV_lDuC9PXvrVreGYrGnMSMvSyySQbwWnsF_BCWO69Kem7jieskmzJClP5YoNZ_WBU"
+                }
+            ],
+            "address": "Udom Mit, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "mainCategory": {
+                "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                "name": "Post Office",
+                "score": 0.958
+            },
+            "categories": [
+                {
+                    "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                    "name": "Post Office",
+                    "score": 0.958
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.212
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.27
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9d2ab608b4af493e877ab8146ac25fee.16",
+            "hashedId": "fdc999c05e342a70d67c1294f76763bdf2f49246",
+            "title": "รูปปั้นเด็กตีตะโพน",
+            "state": "GAME_REJECTED",
+            "lat": 13.849884,
+            "lng": 100.578662,
+            "lastUpdateTimestampMs": "1501109519405",
+            "images": [
+                {
+                    "id": "cd64108903c8473789edba190c3a5f7f.17",
+                    "url": "https://lh3.googleusercontent.com/ENJ3UY8rjw1EZLuzHi6v4VLNER3FOZ701zn80I6Uh0DYnUVJ36Hc7cxS95iDOqE61y_q_TBdscs7IijcDkklGGyKll1F"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a21e562884723e59a7627cff538f3279.16",
+            "hashedId": "0149c9170e099bd1dcc61ebac86e1506b327e2ed",
+            "title": "Melting colorful bear statue",
+            "state": "LIVE",
+            "lat": 13.854223,
+            "lng": 100.577743,
+            "description": "Fiberglass statue",
+            "images": [
+                {
+                    "id": "38f78b8ee1c034ee83a513824f94222f.17",
+                    "url": "https://lh3.googleusercontent.com/vM33Var7j6WnM_g4jk2eEkO4Zn83f7zUUPqeGk-FgKrJytv90LGHPIYW_C3TAXD_DoHRp4hCTOTm_hjYwyPxpWoQsVjaPbX21CeCAFZ_uQ"
+                },
+                {
+                    "id": "a436ab3a747a3ff89a6401a4ecc0a79c.17",
+                    "url": "https://lh3.googleusercontent.com/QM5F9lAz_PK1ordWqnmXVPcZ8MThXdobZApJ_wg8y3awHGfSpmViJEnHpxSWfwQcoUzHqcObFVXRY-ycztYptCY0uvr8qA8m_neNdl0"
+                },
+                {
+                    "id": "e1f800dd48f43e94886ac66c9d753b66.17",
+                    "url": "https://lh3.googleusercontent.com/jGpTTWpqRS0c1n7XzoZ15pxV3SaBre67aY5uIXLf3ANGH7PhseKNhOM9eHLtpMtDD4ZyLuWGBZ7NDGpwwEWd-se_zlbWJ6PbrEyVC3E"
+                },
+                {
+                    "id": "dce9a470d9ed38c38a180ab02d5698eb.17",
+                    "url": "https://lh3.googleusercontent.com/yZKmkbPiICqyLZydgPuVMbOArUGt4W8FJMKeSgwsm3j7lJiWtIr0hcEd3EAMKFgSUwDOU1AFV9Iz2lkGCvyll_YGC7DxJ799FtjGuq7D"
+                },
+                {
+                    "id": "aa02170d5d3230f687af0f5b7cda3160.17",
+                    "url": "https://lh3.googleusercontent.com/decBK3MMchOaprn8MNVS9iTe8S7pQZ0vNNabqovUjYr0GWi95BBcYuypkAf4BLdfe_lGX5yxpWYuRqaYDDgECjIbQq5tcRGi7V4DdnS3ew"
+                },
+                {
+                    "id": "c94a3b88c0d83f5b9bb81f7a864f9be4.17",
+                    "url": "https://lh3.googleusercontent.com/Rm8FvGIdxVZDreWcRSfB3xwMnIlEHd8HrHIma9yxlT_AckVF5igjVyek_6pzGPMpLv7nxpSjQ9hbllCsECjJAwg650_TY2g4EVvCGs9o_A"
+                }
+            ],
+            "address": "5/31 Alley, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10220, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10220",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture"
+            },
+            "qualityScore": 80.879425,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1652609657692"
+        },
+        {
+            "id": "aa00fe8135c048828d9fe318f1cd8892.16",
+            "hashedId": "d4f4c88152c69df72dad89ef5d35ba8a86d32251",
+            "title": "Pra Prom Pamai",
+            "state": "LIVE",
+            "lat": 13.848689,
+            "lng": 100.58056099999999,
+            "lastUpdateTimestampMs": "1501109201452",
+            "images": [
+                {
+                    "id": "b4a5e25af30f447b9d5b2b673dd3bc09.17",
+                    "url": "https://lh3.googleusercontent.com/LYaksBrc6S-0Y3D-QrX1UNP280miwGta9FQU_tE1cp7Kgc77sQWvDO9IIKjYNod3BcEPdGMxoAX7ym6FJJVO6aCIIsk"
+                }
+            ],
+            "address": "50 Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "ce64859076051dec2b34827e1b0bd37f",
+                "name": "Informational Sign",
+                "score": 0.243
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.184
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.177
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.243
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "adf6a91115aa4be686cb42b27267f7c0.16",
+            "hashedId": "730222153126e563da606211c603216d6d2aa9e8",
+            "title": "รูปปั้นเด็กบนสะพาน ขวา",
+            "state": "LIVE",
+            "lat": 13.84986,
+            "lng": 100.57866,
+            "lastUpdateTimestampMs": "1617604070622",
+            "images": [
+                {
+                    "id": "1208b6215ac846e9a4d83b1518d77070.17",
+                    "url": "https://lh3.googleusercontent.com/ZB6Met3rfXtxXOphxWL3hPBymmvShk3tqFXdF5aMOoOIuny2kTrPshtww4zg9FKhSdbqSc1ce5r8Uly-XU3E5DDK61U"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.756
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.363
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.756
+                },
+                {
+                    "id": "dd79312a6d6451fd0f2531d049cf7b61",
+                    "name": "Bridge",
+                    "score": 0.109
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b091f99c1add3d2aafe4762e59a6a44f.16",
+            "hashedId": "f64654de234413e4578bb8550b7db151da97dfb6",
+            "title": "Royal Forest Department",
+            "state": "LIVE",
+            "lat": 13.848861,
+            "lng": 100.580818,
+            "description": "ป้ายกรมป่าไม้",
+            "images": [
+                {
+                    "id": "e08853a9a1813be6bf1405a7ca4a59a9.17",
+                    "url": "https://lh3.googleusercontent.com/OySKqZzcTyZcuMHu3kXKiCFyqKA0ITFNzVAqBRC6li1FLtjfEVhA0zW-z3qKhD49ZQTTm4CNokML3YrbzV-2QErhi14y77U9BjkAfoF0gQ"
+                }
+            ],
+            "address": "52/152 Phahonyothin Road, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 89.68105,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "c33a2ba4a53fe7a16c8ab7ad957162f2",
+                    "name": "National Forest"
+                },
+                {
+                    "id": "dcf7519b1ac5d695382589c6273b6472",
+                    "name": "Forest"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1682516926452"
+        },
+        {
+            "id": "b33062ab61b5416a9c59c8963af60a01.16",
+            "hashedId": "ef2b4cb46e54e275c94c5254de03f93e3faa88e7",
+            "title": "Forest's Hero Monument",
+            "state": "LIVE",
+            "lat": 13.849257,
+            "lng": 100.578323,
+            "lastUpdateTimestampMs": "1501110083162",
+            "description": "In forest department, memorial to hero.",
+            "images": [
+                {
+                    "id": "05b3d484bc37477ca28b627855f0a3a8.17",
+                    "url": "https://lh3.googleusercontent.com/XUBKQE_gLbNuozYyN4utGHIIQqUlmmrUakP-bjvJZL0cDEJO1jrea3cMTgiQAynWZB2pxbiYfbWkr3G_veb1ofjkqAYL"
+                },
+                {
+                    "id": "9a4d2d85972044df967ed51c0e3ed3c1.17",
+                    "url": "https://lh3.googleusercontent.com/EOExWuriuscEdpurDLD5iBRjD8ZUJljTuDbVSALKo9GhiarfcGYRq0pThm9k9cg0hc6a74sUcb2mKd8F3q9nK_E_KDA"
+                }
+            ],
+            "address": "Alley, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "dcf7519b1ac5d695382589c6273b6472",
+                "name": "Forest",
+                "score": 0.626
+            },
+            "categories": [
+                {
+                    "id": "22d5224ca0d7eafd78d83afc36d0ad0b",
+                    "name": "Monument Object",
+                    "score": 0.578
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.56
+                },
+                {
+                    "id": "dcf7519b1ac5d695382589c6273b6472",
+                    "name": "Forest",
+                    "score": 0.626
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b63fbc7a0447460ea977a87d282c3bff.16",
+            "hashedId": "569bca51b4e8fd3b55571b72251842c1b6e7d2e2",
+            "title": "ศาลพระภูมิเกษตรพัฒนา",
+            "state": "LIVE",
+            "lat": 13.853275,
+            "lng": 100.57784,
+            "lastUpdateTimestampMs": "1595924324494",
+            "description": "เป็นสิ่งศักดิ์สิทธิ์ที่ คนในชุมชน และคนทั่วไปเคารพบูชา กราบไหว้ ขอพร อธิฐานขอความมีโชคลาภ ปกป้องคุ้มครอง สิ่งชั่วร้าย",
+            "images": [
+                {
+                    "id": "c08ab2a949bb4d41bf99e7f06f35ff8b.17",
+                    "url": "https://lh3.googleusercontent.com/AHqgTr1mTqsNf1eFB2e3l0aO8vb2hIVU2qg5qtrykKvnTgSAJPehvi_EOO97Otnz03S_3othD5PmPY1lCpdix4Oko2cf"
+                },
+                {
+                    "id": "02b633cc76a83e90b251ef0700d19ee0.17",
+                    "url": "https://lh3.googleusercontent.com/gsdCorWeoh-L22K5M3yLq3L9CugJty8r_dpIDgaYECUmvFfdq5R7GBY88EOt2tTgtOFMA6X_jrtPSHkah7USAHinEqdEZUs7vLFuxNci3Q"
+                },
+                {
+                    "id": "08ca80469a0143c4b47b39c870fc5389.17",
+                    "url": "https://lh3.googleusercontent.com/IjjpJTY_NuE0gEkbwMCHn_UaQYvsV5W6i-jK6yFEtiQQW7CzxBqD5z-3VUZigwXgTak7bobmugs33oRyAWADtiyzUAM"
+                },
+                {
+                    "id": "01738f9a34294cc0916bae192717ced4.17",
+                    "url": "https://lh3.googleusercontent.com/wfS193vsv3sdwnl_FmwLAsPO07jXN7ChFi0i1arQd4jkRENtHnQgLAzTzT1oCkXpFoe6GnXkf-qc5JO33i14tjGMHpBI"
+                },
+                {
+                    "id": "d7a59f18f6cc42d5b4211eb9a331a60c.17",
+                    "url": "https://lh3.googleusercontent.com/zzQmg1T8qHybTUKH2qmZZDWe9A6RQV_DghGDHGXVxZLkDSOjzz9571XotavG-bzhgMkXJ4KpK8zqhQ9L28uPzJSgow"
+                },
+                {
+                    "id": "f3d8b7a816ca4db5aab1393893260367.17",
+                    "url": "https://lh3.googleusercontent.com/rOdq--Dn9yyxWTxeX_-R1vGBHj8GYkVojriP63_-VTCq1WlAt4l5hnYJV7Djz-yFNNXFL5fYpwRhO6B8u-8R2H0P0oI"
+                },
+                {
+                    "id": "f2c7c518a0ed4c42ad2df84e901e2f13.17",
+                    "url": "https://lh3.googleusercontent.com/TxJdGfSg9EjHVJNfNDePaD4jJUA2NgDo_Ez85ndlcyTFw9rynRvjBAR-gB2438NPdEdxqlSC4DNvNcURz77lDeuY_HM"
+                },
+                {
+                    "id": "37c0e6178ac03e6e8b59058e4bbe7e9a.17",
+                    "url": "https://lh3.googleusercontent.com/DJS7583Gwk8GOqA-Hv6dwvtWlH0gu5tKz-zCRHvlXLaEd6O2n8ftAhPw2qv-j5PftOBCawLfoMzLIwxY42LYcRDVmoHDTDQ5PVMQVst8"
+                },
+                {
+                    "id": "d46eec11b42d3d42ae5e9ee37691b1f2.17",
+                    "url": "https://lh3.googleusercontent.com/4ZCL9bvl37c0Ks6Ed55_MlBq4bhozIWea0JwshHGA5p4nrmoLRRP_YQq_bo8TeGU2C3eOnuyUECynGDkXX3qPNpt-rXRhs4ehnq8atUm"
+                },
+                {
+                    "id": "9bf432bd74ce3335847ed3a988c1a04e.17",
+                    "url": "https://lh3.googleusercontent.com/11H-EhyG4hwhp8NBDOu_SoFOe0VBjNSXRYpzPaquw2yj6Amg-FTva9ltmd-ujNTH0MDFEuKunROCzg1KflLBsI3CjYCCWh1BOUmOu8M"
+                },
+                {
+                    "id": "bc982d506d503008b73657772a2abb51.17",
+                    "url": "https://lh3.googleusercontent.com/nsj-E-TsXQsnVsJvPvxPvZATmTcqcVbmLqp5duvQqL9cjMowejXzDpigLsJs9OxAu_rB0VMy73E8g4uQ6umdYhjP1n_nMlt6bGW_q7g"
+                },
+                {
+                    "id": "f6370a2156a73e3c930fcfc6cf1c343e.17",
+                    "url": "https://lh3.googleusercontent.com/V4yC-tlah4rrZcRC0w-jfgLRcS58kYzbWnJNnS9RZWCj6s_SGun8QgduFlBubDQTZ2m6LLR6_DZig3ML6bLlcut3EJUsXUNDEN5jq4kz"
+                },
+                {
+                    "id": "0f2edf7a0170392c94ae5e6fdbc058cd.17",
+                    "url": "https://lh3.googleusercontent.com/hx3t60LvCgVNr12vm30iHeymd7Tr1FJ-B062wGuK7z9Fd-KP62eUCPTutUwcMMAHhj5lWe2XdQRDYDY6aOueV5ihy_GPNe1UrsQFHosB"
+                },
+                {
+                    "id": "34479369737433f19fd3f9439fda76d4.17",
+                    "url": "https://lh3.googleusercontent.com/l6kVf6JSW87y6C4YgiGBguD071xfG3oP1nnt6IpMbgMek4OO3VDNAEwc9R0aWQLoXs5ykhxxfmAq83G-v8jO_07ghzRDJOxfrZz1dvtC4w"
+                }
+            ],
+            "address": "5/4 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.14
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.123
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.14
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.107
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1581030938514",
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1660148922756"
+        },
+        {
+            "id": "b73f65c316de43bb90843682a089635d.16",
+            "hashedId": "d80fe095f6f1bac591ae272148cf5bd972b281f0",
+            "title": "อโรคยาอุทยาน",
+            "state": "LIVE",
+            "lat": 13.853902999999999,
+            "lng": 100.579667,
+            "lastUpdateTimestampMs": "1589900429995",
+            "description": "อโรคยาอุทยาน 77 ปี มหาวิทยาลัยเกษตรศาสตร์",
+            "images": [
+                {
+                    "id": "fc17c5541094460cba8dbce1c820af4e.17",
+                    "url": "https://lh3.googleusercontent.com/yAZxx3_UZ9JVBktdYsiOwEZ95G5G74I8dZv0WFdICjML08EdyGhvdvBtjK_a45IB6wd_1h7FQLS1E801FNQ1w4_qkPI"
+                }
+            ],
+            "address": "168/15 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                "name": "Park",
+                "score": 0.942
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.213
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.365
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.942
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586370130496"
+        },
+        {
+            "id": "b7c36c08695030c2af8912d54d03ec47.16",
+            "hashedId": "dff9a9d43c33281ee3600c42f52e82a3f57c4b87",
+            "title": "Phra Phut Shrine",
+            "state": "LIVE",
+            "lat": 13.850506999999999,
+            "lng": 100.57813499999999,
+            "description": "ศาลพระภูมิเจ้าที่ ศูนย์รวมจิตใจของชาวฝนหลวง",
+            "images": [
+                {
+                    "id": "e10df23d272b36be918e6e00c599f739.17",
+                    "url": "https://lh3.googleusercontent.com/PMpgh3B1SoyNyrM8JxsDitCEJGQSUeUWAI5J4Ni1kGwhuJ_dxcFxHOlYiXjXP5RAzfr8klFNiN81c70N88zESCJF2ORk"
+                }
+            ],
+            "address": "5 Kasetsart 4 Alley, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1651646026063"
+        },
+        {
+            "id": "b84c91ec92eb41dcb873dde92057ed58.16",
+            "hashedId": "41bc95a9f199061ce72c8489b6ac734bfd916e3f",
+            "title": "องค์พระวิษณุกรรม",
+            "state": "GAME_REJECTED",
+            "lat": 13.853634999999999,
+            "lng": 100.584784,
+            "lastUpdateTimestampMs": "1594732914945",
+            "description": "Sripatum University",
+            "images": [
+                {
+                    "id": "401849cf035a48c8b3212d680fe7b8ba.17",
+                    "url": "https://lh6.ggpht.com/kZF-txe3DybCfUIWUP09XiSbLAIdtsZ6JFRSEkdvm34TvLTCvMY_45lbjHdLZhFjZJPH7nXdyOuGCylljLHI"
+                }
+            ],
+            "address": "ป้ายรถเมล์ แขวง เสนานิคม พหลโยธิน Khwaeng Sena Nikhom, แขวง เสนานิคม เขต จตุจักร Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1594131389425"
+        },
+        {
+            "id": "ba2a28e21e9445b1a72e018cd0dc97ee.16",
+            "hashedId": "f797a7b1c124033abaff867591460fca296af523",
+            "title": "เสาธง กรมป่าไม้",
+            "state": "LIVE",
+            "lat": 13.849563999999999,
+            "lng": 100.57919899999999,
+            "lastUpdateTimestampMs": "1501109604191",
+            "description": "make from old wood",
+            "images": [
+                {
+                    "id": "abad66eb0ae74ebe9eb978b5cd5c1116.17",
+                    "url": "https://lh3.googleusercontent.com/Put6vnXLT0xIcgr35MVHNHCbTkAjoW9CVGIO-tZWdZXxH5nFT9BSSvCn0Rs6GSbSl1wLECF1N9Bzs4fiYCTRvuZYNQ"
+                },
+                {
+                    "id": "ea12cbcdd3834e2a9ee62b39dacdb4f9.17",
+                    "url": "https://lh3.googleusercontent.com/d1_5MxTPT3v7VzXp7ylVXh2duMWV7TTj8KcPcFgVRTXAwyzqK5WeqlvlWB3HQmLVLX2CnMqXFkrgYk6CYXBcFj0jiKM"
+                }
+            ],
+            "address": "61/7-10 Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.184
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.184
+                },
+                {
+                    "id": "93a0f087aafe93f75819f28e06f049fb",
+                    "name": "Tree",
+                    "score": 0.117
+                },
+                {
+                    "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                    "name": "Historic Structure",
+                    "score": 0.12
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "bb73836397124583904c03cd6c0dfde3.16",
+            "hashedId": "d67c3f3d6c6caa0845ec9ebceaf548236fc7d3f7",
+            "title": "นกเค้าแมวหิมะ/Snowy owl",
+            "state": "LIVE",
+            "lat": 13.853814,
+            "lng": 100.57895599999999,
+            "lastUpdateTimestampMs": "1619188420370",
+            "description": "เป็นภาพวาดนกเค้าแมวบนผนังที่น่าสนใจ สวยงาม มีเอกลักษณ์เฉพาะตัวที่โดเด่นไม่ซ้ำใคร",
+            "images": [
+                {
+                    "id": "729d844465f4306a9184fe950950b51f.17",
+                    "url": "https://lh3.googleusercontent.com/rB-oxeY3u17g2EAuecj9pq4uEbdZhKfGR9TEN8cAUUlmN2BVJ0UskaiaCi5iYYqSPO4uamFVXxs1H-p_kly59NItv2sUD06hOe0a7F8"
+                },
+                {
+                    "id": "ee8ca552c2bc44c7902e056afe3a6319.17",
+                    "url": "https://lh3.googleusercontent.com/GDfglWejChEjhXB6pSpbWz7Tuj08nFw4teOhoGO3J1NDQwJXtvaPclkNg7NLTE7j-IvDe17UGEd8BfywdOvgjVGjnqK3"
+                },
+                {
+                    "id": "3a3ed6fdffde34998c9e51d00a24b0c3.17",
+                    "url": "https://lh3.googleusercontent.com/UQnthM2AcjuiCAVyU4d-Wo3UFuRLi3CYFRp0WLVcoTdNN2xPc9xzGYgv9mga-jcc8DG8Y-pD1Myq0rD5tqaQu8MktAumSMVFo0qWdP4s"
+                },
+                {
+                    "id": "233245522db93324a8a9551785f58c5f.17",
+                    "url": "https://lh3.googleusercontent.com/9sWvuyOvEviKtkmCOOXRx8q3PDrQl9iyShH23-uH_LbO6aYj3uQklKE172G3dBYGK_nANpL1GajJXzCy6mt70EK9xL5HZVegBW6w7uMLfA"
+                },
+                {
+                    "id": "b468aac4718e3e0bae8d1d0298be6853.17",
+                    "url": "https://lh3.googleusercontent.com/hBDMAV3e_ey3xVNBtsju_6qEC5Ks_z4-wvtrm0X9_9Hd1obbUWPvctfN40l49ltxkU29OmipnvWXDeOM57713mZGxmCzAG8GFqnhpsc"
+                }
+            ],
+            "address": "50 Tweesackdi Sesaweech Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                "name": "Mural"
+            },
+            "qualityScore": 79.60409728588623,
+            "categories": [
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1584152379426"
+        },
+        {
+            "id": "be67cd5836c940459111dcef2ff561a6.16",
+            "hashedId": "d4356619c19900edca0304957a1cb4633e5a6090",
+            "title": "รูปปั้นเด็กเดินกะลา",
+            "state": "LIVE",
+            "lat": 13.850169,
+            "lng": 100.578633,
+            "lastUpdateTimestampMs": "1501109564588",
+            "images": [
+                {
+                    "id": "673f81e1f9c741898b00f4c7a841c0ba.17",
+                    "url": "https://lh3.googleusercontent.com/_n_QSluESdg8H0-HmLJJBfFrxnpyOb7m6kvvxj0p74BLf1RhGK5l1LYie4bKD08v4XxuOsOacPfsSy0rUwPwUO27vZg"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.869
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.083
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.625
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.869
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "bef6a9a1ec213adf9b8718d7428babf7.16",
+            "hashedId": "8c0dda9cefe512c9e02e1236b51336e16748d81f",
+            "title": "สถานีกรมป่าไม้",
+            "state": "LIVE",
+            "lat": 13.849668999999999,
+            "lng": 100.581616,
+            "description": "MRTA station",
+            "images": [
+                {
+                    "id": "e0a0f492a4ab35d5ad84198e7b80267e.17",
+                    "url": "https://lh3.googleusercontent.com/PGdoiLTYFdRWE8P6VZVOaVTv7WR5_ZXoJODNiBREIHGEegXaw3nMK1oFxksmMCno7ft-nd8SrQA_DaKLEdgzRBNgwtlxvjOhDDiaNDEd"
+                }
+            ],
+            "address": "เลขที่ 2283/2 ถนนพหลโยธิน แขวงลาดยาว เขตจตุจักร Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1676627263576"
+        },
+        {
+            "id": "c6d6c0eb5e1d3419b2a028aaab545f5b.16",
+            "hashedId": "e456262703dc23b90f45eac7c07fe99cdb60641a",
+            "title": "อาคารไพโรจน์ สุวรรณกร",
+            "state": "LIVE",
+            "lat": 13.848825,
+            "lng": 100.578014,
+            "description": "อาคารครบรอบ 100 ปี กรมป่าไม้",
+            "images": [
+                {
+                    "id": "f39af70e85913074828552439217591e.17",
+                    "url": "https://lh3.googleusercontent.com/Xs8t9htbuALW3grz6AB6pTBGVtYD8NjpMOqWj9lZTixYV0T5YF4VCELlo8ON7AosxoBHf7tOrJ9Y1y-TIwM9YNtGnetOaVe0kV0usfiJ"
+                }
+            ],
+            "address": "ชั้น 1 อาคารอนุสรณ์กรมป่าไม้ 100 ปี (ไพโรจน์ สุวรรณกร 61 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "33152bd27aa505da5e6bbd85fc5fe4c6",
+                "name": "Office Tower"
+            },
+            "qualityScore": 82.722916,
+            "categories": [
+                {
+                    "id": "33152bd27aa505da5e6bbd85fc5fe4c6",
+                    "name": "Office Tower"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1696768392279"
+        },
+        {
+            "id": "c8674dbd307342b2b9657b63a2966e3c.16",
+            "hashedId": "37d6c1c2c723ac03041127d94cadcb7e218a8bbb",
+            "title": "Sripatum University Fountain",
+            "state": "GAME_REJECTED",
+            "lat": 13.854277,
+            "lng": 100.584401,
+            "lastUpdateTimestampMs": "1501109641917",
+            "images": [
+                {
+                    "id": "1233bdbc223945949f646723118fc41f.17",
+                    "url": "https://lh3.googleusercontent.com/hExxC3WjxtiCSib3k9y7N6BhFMVHJYtnObhi9dRNGtBUZzepM3L0X5MMXG-L22fjmFWDnqrd-qTUNuTPE3ULJXVGmvw"
+                }
+            ],
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c9ab7b58d60836089fab6a796661468b.16",
+            "hashedId": "05722bec69cabc9c3e373c98cf5d169f48a87e52",
+            "title": "สำนักจัดการที่ดินป่าไม้",
+            "state": "LIVE",
+            "lat": 13.848619,
+            "lng": 100.578526,
+            "lastUpdateTimestampMs": "1622553749415",
+            "images": [
+                {
+                    "id": "4fb676c8d5d436c881f577a91c00ddab.17",
+                    "url": "https://lh5.ggpht.com/J0N7itRKmr-oZHQ3-LRCM2X6OBoSkEAQbv7WTuy9jQnEPl0wgh52df0FqjNzXpbc0bn_-qTXhGM3gmwSHLnnYA"
+                }
+            ],
+            "address": "12 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "dcf7519b1ac5d695382589c6273b6472",
+                "name": "Forest",
+                "score": 0.412
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.21
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.333
+                },
+                {
+                    "id": "dcf7519b1ac5d695382589c6273b6472",
+                    "name": "Forest",
+                    "score": 0.412
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1622191090654"
+        },
+        {
+            "id": "cc19540c7809402eae596a7488f4cf23.16",
+            "hashedId": "6950d23c5d12eea3627aa9d6edd5c91edcf74d64",
+            "title": "Directory SPU",
+            "state": "LIVE",
+            "lat": 13.85447,
+            "lng": 100.584835,
+            "images": [
+                {
+                    "id": "3c7fbf965466455d847e268aed86e98e.17",
+                    "url": "https://lh3.googleusercontent.com/FkXE59WYME4OXAyeZQZbx8D4ioorD4QAB2Cu6uiRKVIMjjcJtnZYzYPzgvF9q9c88IU9Jo7ldVAZGwlLz-m6_7cWkzUy"
+                }
+            ],
+            "address": "74-85 Phaholyothin Road, Sripatum University, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "cfd55267a4f64b0486103d7f41d3af24.16",
+            "hashedId": "7caf03cf9f6045cfdd91908476900fc8ba41756a",
+            "title": "Fountain",
+            "state": "RETIRED",
+            "lat": 13.849108,
+            "lng": 100.581898,
+            "lastUpdateTimestampMs": "1527144245990",
+            "images": [
+                {
+                    "id": "9f65f735ac864b728c798444a67f63fd.17",
+                    "url": "https://lh3.googleusercontent.com/-ZGHDVj3Khlil8-iax5s_qTYzWxr0IgMgl0qsjTvxQecs8cJNxSznv2Y2VD5ifk0ENG_yVXXYEkReddIPPjdzfYZrA"
+                }
+            ],
+            "address": "Alley, Sena Nikhom, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d0d692cb020f39e180bad8918e445b2b.16",
+            "hashedId": "3b12e9113e1a5fb122bb518617f9a406d1f1d4c4",
+            "title": "ศาลพ่อปู่นารอด",
+            "state": "LIVE",
+            "lat": 13.851550999999999,
+            "lng": 100.585571,
+            "description": "เป็นศาลที่สร้างขึ้นมาหลาย10ปีที่มีคนในชุมชนมากราบใหว้",
+            "images": [
+                {
+                    "id": "200f269b207b33ee9398338e1bdb5f95.17",
+                    "url": "https://lh3.googleusercontent.com/bFBFJSlLxdeCGB0Y33f6mCI-X9V-RpHH4mv7vD9IpHqV2jjziaP7U-dywWia8tgLzoXe6HKvwIcZGMWTTCUIa-KDGyHeVihz5AHVsZIhHQ"
+                },
+                {
+                    "id": "51fecdf8d78032fe889b0d1efb3165d6.17",
+                    "url": "https://lh3.googleusercontent.com/RmPe0odYoFZvzfzMDwX2nqLt3d7DItvvnVDwIOvwJl-nyYih0DU9xBsGlwquS2RzgXax0Mnr2J5dwQh7TQIa1YK8G-iKmRc_3UqgGLE"
+                },
+                {
+                    "id": "a28d973426543deca4ef81a0ea7e108c.17",
+                    "url": "https://lh3.googleusercontent.com/MxYNczVbfbq1EvHPzUavriTnO8E6fOSu1iqhEvA6grhHX2ToncHyZAPGQQcov28D2Ynb1x6b-yipJ4jTTpWpCx9TzJZ1EamZBtbcSEMg"
+                }
+            ],
+            "address": "2392/46 Phahonyothin Rd, Khwaeng Sena Nikhom, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1679382337818"
+        },
+        {
+            "id": "d5acc5a3493d4592a5b8e57c3a19212a.16",
+            "hashedId": "c13cdf67256c4118daec4722e6d494fcdd91da1b",
+            "title": "Southern fountain",
+            "state": "GAME_REJECTED",
+            "lat": 13.848825,
+            "lng": 100.580337,
+            "lastUpdateTimestampMs": "1501109336723",
+            "images": [
+                {
+                    "id": "dedccd3fa7954aa4a9407a9ad7d31d25.17",
+                    "url": "https://lh3.googleusercontent.com/xEFfCvnRWKiK3H0H97rR60UkpfJAmA0wuGIGI7CsJ0GbPl08_M-Hc1epZwx3Ioh9p8xACZdXhnY7r7BDWJ62YZPVAQ"
+                }
+            ],
+            "address": "Phahonyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d6790f5af7403175b1c71da691219195.16",
+            "hashedId": "75223a754d7a9dccf81430375892b3f76663a25e",
+            "title": "ป้ายอนุสาวรีย์วีรชนป่าไม้",
+            "state": "LIVE",
+            "lat": 13.849506,
+            "lng": 100.57831,
+            "images": [
+                {
+                    "id": "d633f0ab14be38fe83431b622506613b.17",
+                    "url": "https://lh3.googleusercontent.com/iArVFOV39NOhYvTjnGSleWhWReOD0eeHRQ2zRdTFMpeFdzGgkF7wR3i2EbHbjuuzRvsGcbiFyvSTc6G31EEt"
+                }
+            ],
+            "address": "61 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "22d5224ca0d7eafd78d83afc36d0ad0b",
+                "name": "Monument Object"
+            },
+            "categories": [
+                {
+                    "id": "22d5224ca0d7eafd78d83afc36d0ad0b",
+                    "name": "Monument Object"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1644836517752"
+        },
+        {
+            "id": "da9dc720f2c338139c56049a888ce464.16",
+            "hashedId": "47d9bea24c0680ea98816f394258987a8d45a5a4",
+            "title": "กรมวิทย์ฯ",
+            "state": "LIVE",
+            "lat": 13.849390999999999,
+            "lng": 100.58141099999999,
+            "description": "ป้ายหน่วยงานขนาดใหญ่",
+            "images": [
+                {
+                    "id": "c791253a2938357885ab5cf802c9fe30.17",
+                    "url": "https://lh3.googleusercontent.com/RaNfU2ObA3EQXxnYSe0gBWBuxN1jd8nZ--ZjKbKaUji5vxg6wMJQwVOzp0ha_kQedOU-fv5maGeN9-qG6RLU_bNqoQuqX_H2nUzbNGh5"
+                }
+            ],
+            "address": "Rta Chemical Dept., Khwaeng Sena Nikhom, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign"
+            },
+            "qualityScore": 80.1428,
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office"
+                },
+                {
+                    "id": "e246b9a08c64572cf23db540e3fc9600",
+                    "name": "Flagpole"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1652693238117"
+        },
+        {
+            "id": "dd530fc708513cc38253cdbad3ecc436.16",
+            "hashedId": "3f079a9b8d8d805db2bc9defa0c83011367c333c",
+            "title": "สถานีกรมป่าไม้ Exit 4",
+            "state": "LIVE",
+            "lat": 13.850133,
+            "lng": 100.581947,
+            "description": "สถานีรถไฟฟ้ากรมป่าไม้",
+            "images": [
+                {
+                    "id": "0d77985ca80b325d84a95216e501fba6.17",
+                    "url": "https://lh3.googleusercontent.com/R12c_YExZpieE4WMA8Mq2J2y9CvP7cEUcYvhDGbrUuk-kS02UiTPRUWtwXUArlJfHOpO7qXD6iGy-21uhi_QB936ToVj44cEHAiOBtpo"
+                }
+            ],
+            "address": "2285 Phahonyothin Rd, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1693451967093"
+        },
+        {
+            "id": "e2769fccc0a746758fa69f23a19ba020.16",
+            "hashedId": "d6fa3b324d98055ec7401229604d8c3db7ee0292",
+            "title": "ศาลาทรงไทยสีน้ำตาล",
+            "state": "LIVE",
+            "lat": 13.848068,
+            "lng": 100.57958599999999,
+            "lastUpdateTimestampMs": "1594958444091",
+            "description": "เป็นศาลาทรงไทยที่มีมาตั้งแต่สมัยโบราณ",
+            "images": [
+                {
+                    "id": "7f3b1b4a31534faabdce9c9a4f371655.17",
+                    "url": "https://lh3.googleusercontent.com/7XMBinypZMBOrivOeyYrNXAWA7bkBlJ8a7Fmizp8GpdfBilpfvwFHCWwp_Vqll1o1UG77qwG_3e-QOFAfKgm_sUr42q7"
+                }
+            ],
+            "address": "Alley, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "9929f4fed77f8b5525b7fd2cd27cdebe",
+                "name": "Historic Building",
+                "score": 0.733
+            },
+            "categories": [
+                {
+                    "id": "2af59fdc43bebb070430e964dec80386",
+                    "name": "Palace",
+                    "score": 0.202
+                },
+                {
+                    "id": "9929f4fed77f8b5525b7fd2cd27cdebe",
+                    "name": "Historic Building",
+                    "score": 0.733
+                },
+                {
+                    "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                    "name": "Historic Structure",
+                    "score": 0.374
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e95a76621dcd4de19de26bdf056ba2a7.16",
+            "hashedId": "76f3b1c2e853cd9ab9774503fd63733ac761ef4d",
+            "title": "Phra Maha Pichai Crown",
+            "state": "RETIRED",
+            "lat": 13.851747999999999,
+            "lng": 100.583935,
+            "lastUpdateTimestampMs": "1501109597676",
+            "description": "พระมหาพิชัยมงกุฏโรงเรียนสารวิทยา",
+            "images": [
+                {
+                    "id": "92380b43b85d41b5b45035d786bd90ad.17",
+                    "url": "https://lh3.googleusercontent.com/6v5ptg8ux1UZJ_i92VZgmziRCQWYdcHqMlODWxETa2S2AjadeTyKzIJBY-68OSeunWboBeEST7vFuHr_t1OswHP_q74"
+                },
+                {
+                    "id": "085881cb21554212856754cb7661b4cb.17",
+                    "url": "https://lh3.googleusercontent.com/FWE_LlVgmfuWyDzNBFEYwYxSa6Fwj9gdUZ79HX4gRR6ck6ZxfjUdWUVC49NVHKd5KR0wMLvJfb4HU8SIo5fLBf4iTcDw"
+                }
+            ],
+            "address": "2398/96 Phaholyothin Road, Sena Nikhom, Chatuchak, Bangkok 10900, Thailand",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "eca980c5a094410c81ec6923eee27123.16",
+            "hashedId": "2ad39223bbcd1980682df4ed1ab182b8f8d24f60",
+            "title": "Bam Bam Apartments Shrine",
+            "state": "LIVE",
+            "lat": 13.854882,
+            "lng": 100.582809,
+            "images": [
+                {
+                    "id": "b3e334f0c8c74de6b57b70699682b339.17",
+                    "url": "https://lh3.googleusercontent.com/U3ljmYW8qrYus8oP5gH8DkzmdTRb72Vv3tnqbIrmFNWAxxdHBxAogkkr6xx9mkyPH4UgzRHKeVYozpQ-WUu7JrAGfbg"
+                }
+            ],
+            "address": "Phahon Yothin 49, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ed606e2b84834a28b7ef28a38327a560.16",
+            "hashedId": "2e29e8aa638ae7e12d0e6ce5e958ce526c8e8176",
+            "title": "กลม สกุลไทย",
+            "state": "LIVE",
+            "lat": 13.85083,
+            "lng": 100.581927,
+            "lastUpdateTimestampMs": "1501109727428",
+            "description": "Shrine",
+            "images": [
+                {
+                    "id": "d75a6626daab4bbf824fc762d22e0662.17",
+                    "url": "https://lh3.googleusercontent.com/k2rJdINgY9yxmCpV3G4xkOuHlJDvoP4rMENfhubM9kvQe13uid1f3cZzA35v_9TfoNMkB_BenfqqrycwjkBYlrNg8rwr"
+                }
+            ],
+            "address": "2321 Phahonyothin, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.358
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.358
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.208
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.15
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f4884f33d4964d13860fcfd60d93eb20.16",
+            "hashedId": "752fbab70eaf186d1c39c6fc65a2b51807277ab2",
+            "title": "Joss House",
+            "state": "LIVE",
+            "lat": 13.853558,
+            "lng": 100.584075,
+            "lastUpdateTimestampMs": "1501109788596",
+            "description": "Sripatum University",
+            "images": [
+                {
+                    "id": "117d7ea6cf9e4ee2ba413972eb665707.17",
+                    "url": "https://lh3.googleusercontent.com/rlmqXhTYTall-7GNzFYbhGNKdkZTi03rYTibJEwXCYENCa0LWevM2icrS9rcJL4bRfUbv3_u_UKwua63F9xkh4Ypsfo"
+                },
+                {
+                    "id": "9460b4edebb9452caf6d288535eb8359.17",
+                    "url": "https://lh3.googleusercontent.com/Qv5GXQILgb2-x_n2YCP86mZg2_0c0WUrkcjMmIWM5KxyRC_ZfHpjbKn_48lO5Ah9URwCSXWCjPpAOKEPUydot5FI1A"
+                },
+                {
+                    "id": "952f4a30e35e405f94a5dde144315d13.17",
+                    "url": "https://lh3.googleusercontent.com/lvMhKZ1fSZj5Im1rIOrUVun_ddfb2sN-ZwmQngVqNa_F1Ip44yhdNlMz5l6WIYZyTOAAdqF4Own11qx-e0wCl_SkzhM"
+                }
+            ],
+            "address": "Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.888
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.224
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.888
+                },
+                {
+                    "id": "f3675576bd8fb23a7fa5216dd69a1385",
+                    "name": "College",
+                    "score": 0.091
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f808ec1418d7455c8b2a65ddd43621a5.16",
+            "hashedId": "85d42cc0e1e584f57cc9643e0fdda483cf68c7de",
+            "title": "60th Anniversary Memorial Tower , KU",
+            "state": "RETIRED",
+            "lat": 13.849509,
+            "lng": 100.57901799999999,
+            "lastUpdateTimestampMs": "1501110143042",
+            "images": [
+                {
+                    "id": "e7e2b6bb7c56402da628af9f2b7ada93.17",
+                    "url": "https://lh3.googleusercontent.com/0szJLCbiuDIEl6yyXUobqALB74Xi5YPHu0mU4cUYLvBwQ9j4vzmo4cZE_fny3Nrn_ESsuuZjAwEkvlz4zWVEZa_PIQ"
+                }
+            ],
+            "address": "61/7-10 Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "fc0a635c2b2747e0b623690baa00ef2d.16",
+            "hashedId": "af01c0b9e5a8f8650ddecbfa33375592a887a9c5",
+            "title": "Buddha Mandapa's Forest Department",
+            "state": "LIVE",
+            "lat": 13.849153,
+            "lng": 100.580743,
+            "lastUpdateTimestampMs": "1501109863052",
+            "description": "Beautiful mandapa",
+            "images": [
+                {
+                    "id": "5971b278d8e0400f813e7d79a8089a0e.17",
+                    "url": "https://lh3.googleusercontent.com/QshKNaHZAOTt8Ust7vAKbOunw8e0bWLfbRp4XSJPuZ4oswhah8gAYuLCjTmuMSrQEuJbYN2tRQVFtIEu77CONrkpn-k"
+                }
+            ],
+            "address": "61 Phaholyothin Road, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": {
+                "id": "551636aeb6e23df07c0718884904c197",
+                "name": "Art"
+            },
+            "categories": [
+                {
+                    "id": "551636aeb6e23df07c0718884904c197",
+                    "name": "Art"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.14
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.178
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.709
+                },
+                {
+                    "id": "dcf7519b1ac5d695382589c6273b6472",
+                    "name": "Forest"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1660224490914"
+        },
+        {
+            "id": "fe09649cde91496a850244d997df8efd.16",
+            "hashedId": "2f839355babfddfa71e0870cff6b46bc3d926e4c",
+            "title": "รูปปั้นเด็กสีซอ",
+            "state": "GAME_REJECTED",
+            "lat": 13.849966,
+            "lng": 100.578666,
+            "lastUpdateTimestampMs": "1501109348151",
+            "images": [
+                {
+                    "id": "ef342dfbd8cd4802ac9e104673bc9402.17",
+                    "url": "https://lh3.googleusercontent.com/n7bwdEOOQuByEKSOvIPz8XUDQuiYkqNWbJ7haMDF5Rm6ZUX9MLgmMaL54aBN9zAQPdnaQRsWcIPrexCSW8h2VJHL7Q"
+                }
+            ],
+            "address": "61/15-19 Phahonyothin, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10900",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "fe47e1af15683cfeb123fa542d0afe20.16",
+            "hashedId": "5c93cce41d2b120b4e946f34351ca75324590011",
+            "title": "Gazebo",
+            "state": "LIVE",
+            "lat": 13.848930999999999,
+            "lng": 100.58180399999999,
+            "description": "\n",
+            "images": [
+                {
+                    "id": "f3efa1c99d4539af8c415061a45504de.17",
+                    "url": "https://lh3.googleusercontent.com/8HCUv5CfvDXQkHvcJZAfzvgDAcZShOz_RCd-FBv6aaY79lWdbLgUg-ejpJwMf_dutTko1kLL4W-yyjNYSmqK3A"
+                }
+            ],
+            "address": "ป้ายรถประจำทาง กรมวิทยาศาสตร์ทหารบก 1 Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10220, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10220",
+            "mainCategory": {
+                "id": "deaed3fc05b15a909711363addda3ba1",
+                "name": "Gazebo"
+            },
+            "categories": [
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1632732091159"
+        }
+    ]
+}

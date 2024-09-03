@@ -43,3 +43,41 @@ ctlScale = L.control.scale({
     maxWidth: 200
     // https://leafletjs.com/reference.html#control-scale
 }).addTo(map)
+
+try {
+    const zone = searchParam.get(`zone`)
+    if (zone) {
+        for (let region of REGIONS) {
+            if (region.regionName && region.regionVertices && zone == region.regionName) {
+                L.polygon(region.regionVertices.map(a => regionVerticesToPloygon(a)), {color: `orange`}).addTo(map)
+                L.marker(getCenter(region.regionVertices), {
+                    icon: L.divIcon({
+                        className: 'parallax-marker label big',
+                        html: region.regionName,
+                        iconSize: [200, 36],
+                        iconAnchor: [100, 18]
+                    })
+                }).addTo(map)
+                map.flyTo(getCenter(region.regionVertices), 9)
+                break
+            }
+        }
+    } else {
+        for (let region of REGIONS) {
+            if (region.regionName && region.regionVertices) {
+                L.polygon(region.regionVertices.map(a => regionVerticesToPloygon(a)), {color: region.color}).addTo(map)
+                L.marker(getCenter(region.regionVertices), {
+                    icon: L.divIcon({
+                        className: 'parallax-marker label big',
+                        html: region.regionName,
+                        iconSize: [200, 36],
+                        iconAnchor: [100, 18]
+                    })
+                }).addTo(map)
+            }
+        }
+    }
+} catch (e) {
+    console.log(e)
+}
+

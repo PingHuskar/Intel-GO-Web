@@ -1,0 +1,2717 @@
+{
+    "pois": [
+        {
+            "id": "0274a62408184ee5b74f09ffd89a7d7f.16",
+            "hashedId": "c25a58cb798fb02b2fd7a2f01c4b538ecbf9b84b",
+            "title": "Samrong Post Office",
+            "state": "LIVE",
+            "lat": 13.646822,
+            "lng": 100.595709,
+            "lastUpdateTimestampMs": "1501112913667",
+            "images": [
+                {
+                    "id": "a94d03ec38654aed8cf5067b4dbd72f7.17",
+                    "url": "https://lh3.googleusercontent.com/XMMh2K1Ehj9QxZLonnxPx6TVHr1ff0IrnppH58DiRQ9qqdj22KddFJPHtbxviY0NDpWZ4ysNsPiNFyMyoE-kCTpHJ8k"
+                },
+                {
+                    "id": "a13573718d0f4adb9cd71248af0a9a06.17",
+                    "url": "https://lh3.googleusercontent.com/QoMacoN2VBTuWf5Xe-5LTkTzYj0F1evZXRbSUQ12JZ5Gbixr3irMxA6jhFoOLeIUp6O0fEpRH2KUMTCimVrcDNJBziKI"
+                },
+                {
+                    "id": "0a00bd7a4dcd4f718c0696fca87a950d.17",
+                    "url": "https://lh3.googleusercontent.com/Bz-q_PbGDzh2aveTaen8Y818NvVfnBBRJukSZPjYicPXrsnX9jRvOlXrzlcU-ZN0m_i1v4X9Zl4O7w67RDBNAQ0vz_w"
+                },
+                {
+                    "id": "ed2508df8b5242359bdbbcb339868fc0.17",
+                    "url": "https://lh3.googleusercontent.com/R9G-NZUGptR4APnCUgvRP4B2q0boeo8OZ7uprjucvO0OftAepGg2xJjbGhJV8mJiZBBplRZLPigWsfx7VO9vxs92qg"
+                },
+                {
+                    "id": "1e244d08eebb436684db0633d88b505a.17",
+                    "url": "https://lh3.googleusercontent.com/k-jhIXEROvR7WwdwtLQ_feM8tBfpc1uajclBmwLRpQxsa8fCVwlw_Kqjf7d3ACYJyTf8-VJ8RtVXoY4e_m7VHEHzpMA"
+                },
+                {
+                    "id": "081d8e6efbf04a1b842ac96f0e1d0bde.17",
+                    "url": "https://lh3.googleusercontent.com/VPmw3seEnLU_B7hdueih-LEvhmhqD_eZGDEk8W4ALwzcH9ToF4YPuhtozGI68JaZIUDW5UeIZGq6feN4Gka1G5P1FJ0"
+                }
+            ],
+            "address": "Soi Sukhumvit 80, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                "name": "Post Office",
+                "score": 0.975
+            },
+            "categories": [
+                {
+                    "id": "34f26c9f9efdf50021f3566c3ebb7ca7",
+                    "name": "Post Office",
+                    "score": 0.975
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.282
+                },
+                {
+                    "id": "cbae2226b4d446691579c26927801eb7",
+                    "name": "Office"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.197
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "035d5bebf7594b0caffa6d281efe152e.16",
+            "hashedId": "22c0a53c56ca75a0b475b1fcbf521e67344fa1ce",
+            "title": "Shrine of Big-C Samrong",
+            "state": "LIVE",
+            "lat": 13.649709999999999,
+            "lng": 100.59689399999999,
+            "description": "ต. สำโรงเหนือ​ อ.เมือง​ จ.สมุทรปราการ​ ประเทศ​ไทย​ 10270",
+            "images": [
+                {
+                    "id": "6f1eca059253484889355c0f855c6dae.17",
+                    "url": "https://lh3.googleusercontent.com/dV3h7lRKB7EcGSkRWLDWijuqV9EmJSvtfA13wwkGIAqIj86-AwQSHM3AMF9lU1VzBThxtvQHIik1gi8csaauyZADFw"
+                },
+                {
+                    "id": "698d6e0782634a61b5525bbe3958e919.17",
+                    "url": "https://lh3.googleusercontent.com/U26oatIfs3otyhT3Kei_m0tdxZaF5pzyjhIeUVj3Fpa7dfZTmaS-kI7d21j4OZktglxzJmhyONknekM8_9_BZbge7atv"
+                },
+                {
+                    "id": "006880277d224f01a197e29d5ff064db.17",
+                    "url": "https://lh3.googleusercontent.com/dWa7ULnO1MvDAe_578DB_9lx6bXPp6-CPCmuQGTE7xfTw7XRHBy2hXNwHcz1Y39S6v5ZWBpy_PT2pzowOgriHRemudux"
+                },
+                {
+                    "id": "5f219a59e0cf42dc9e9f16a78d451ae2.17",
+                    "url": "https://lh3.googleusercontent.com/9ITqEtiiPcJi2HD7zhZfXAyHshxOPbyRDleHqKgkASnsuP37-DU80cEfZdZlABps_KWvbVqEwNjTE78tBYPn-bdzRQA"
+                },
+                {
+                    "id": "69d5a49b9b8a4a2b9896c6f26670978e.17",
+                    "url": "https://lh3.googleusercontent.com/nZ4ri8O_AEpP3MJebHhfdv8Kt2qKy9H7QAiMxV-DEYlLbNaoo_tQj4gexbV0PubCfaucLSETHeRuemr15ug24B2urafz"
+                },
+                {
+                    "id": "14d1b80ce5b64dcc9b7bd98cfa3e7857.17",
+                    "url": "https://lh3.googleusercontent.com/SFyRrFjJ4SoRRKEqMLctnbINOsJavuT5eRSCxovWY7TMk92_2nTqthS2OyemlUnbSdvo2P-8jLWdHKydM7byxdcxpPg"
+                },
+                {
+                    "id": "528e4c55047f44d99df2e55925feec62.17",
+                    "url": "https://lh3.googleusercontent.com/JOAXw9IOyAH2uIzCgXndnUou_SbN2HYNF0I7Ph5dhTsGlB0-mufglAKq77ze2hHBKol86a9XAxduPbgONoDf3tUg_w"
+                },
+                {
+                    "id": "e4ddc32b61d345cc88a48e25bf8dc842.17",
+                    "url": "https://lh3.googleusercontent.com/uIBvEkI_epIJiIJwO0kg3JHRViUMyC-PGEYKGWD3w0ov_u2iN_IRNJGMr2PYHmmPGY0UV2k3wllRPU_-Qcs-Xg9E-A"
+                },
+                {
+                    "id": "7f17ee30cf294231a736c209ac9d484b.17",
+                    "url": "https://lh3.googleusercontent.com/36nw5Rn-svRo697lzEBFS7lqBOAnxDw9LFT0PHskK8Co4-sjxFte2C4kdp1-4sjMCv5CH8amork6UGiDzSiEg5JOW2o"
+                },
+                {
+                    "id": "18ed1e30ff3b3b37967989b4a7fdf5a5.17",
+                    "url": "https://lh3.googleusercontent.com/0ONC_aLH25mkBIE5HOkUfh662njEsoIxAQDPPBuY5zl4PsZmnWM3RCWwbbyi2R40HlHB9CPcu0m9xuW2n4v87f5m3zByXOj79Z10Y0WhRw"
+                },
+                {
+                    "id": "264746788f6633ae9875fefd9faf7080.17",
+                    "url": "https://lh3.googleusercontent.com/qA9Q4r3JWjqcqRqczBAYFq-fBRQ2TKDdkLeFfha1JT-Xm1MRFlRzuxnczPR0XiVSY4wM1PtmC8CNJIGFOYT2MfcsvIE3qT5Huk8aqcnF"
+                }
+            ],
+            "address": "Imprerial Samrong, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "079b92d0bf7f3213ab80b52e228fcab0.16",
+            "hashedId": "5525c0d92654e2a6d418c4604d716ccb8a9d7b10",
+            "title": "Graffitiสวัสดี",
+            "state": "LIVE",
+            "lat": 13.649474999999999,
+            "lng": 100.598582,
+            "description": "Graffiti สวยงาม",
+            "images": [
+                {
+                    "id": "169c73759aa8389ba138d0c3e53231fd.17",
+                    "url": "https://lh3.googleusercontent.com/g_Mf2L4D4eGifOz6xQMOVYeWNS1S70JnkwoEAII7Oc566rKj7lfS_4aieJsUAw1UF36QlaM-A5L4jMCRyFDM_rY9scRPTmpy7iPWQE7s"
+                }
+            ],
+            "address": "525/6 Soi Samrong Nua 3, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "2b084e300609a053b412f62cb6ad4ff7",
+                "name": "Painting"
+            },
+            "qualityScore": 88.55791,
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting"
+                },
+                {
+                    "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                    "name": "Graffiti"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1688790516063"
+        },
+        {
+            "id": "09133b6c98474c41aae5690873ec1568.16",
+            "hashedId": "7f3903e175305e2db406cdf0202291b6d64707af",
+            "title": "ศาลจีน",
+            "state": "GAME_REJECTED",
+            "lat": 13.650324999999999,
+            "lng": 100.593775,
+            "lastUpdateTimestampMs": "1501109535381",
+            "description": "สำโรงการแพทย์ สมุทรปราการ",
+            "images": [
+                {
+                    "id": "d7d40a00bc534f87991b9c5ab08103cf.17",
+                    "url": "https://lh3.googleusercontent.com/HUe-JVPq4whb0R1qaImDoXRllUrl3qdyb1pb6KbPa8Sl37SmkV-Ag3GCGkTec4JYcMCb0Vt4MmDEeu1w0X9JHerFgvo"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao, Samrong, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Samrong",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "09c41675516d4bf2b514e6eb750e0670.16",
+            "hashedId": "18027c5f219a0697ee52990697bedd4b16bf6278",
+            "title": "นครทอง",
+            "state": "LIVE",
+            "lat": 13.646593999999999,
+            "lng": 100.596453,
+            "lastUpdateTimestampMs": "1501109729456",
+            "description": "นครทอง2",
+            "images": [
+                {
+                    "id": "245a7aef0504416d98f8261dd8ca2e48.17",
+                    "url": "https://lh3.googleusercontent.com/n6IYFZpxajdC1CP-HE0eGt4XOTh0xvhnDrdnmr5u1PCzEZ7qPCr0s4rtRZjYZYsxJgyzzw_yMaQAOLQT11JC16eS7Ek"
+                }
+            ],
+            "address": "Soi Nakhon Thong 1, Mueang Samut Prakan District, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.452
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.452
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.184
+                },
+                {
+                    "id": "9bad4f33027ca1d80109986e055488fb",
+                    "name": "City Hall",
+                    "score": 0.12
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0a50c60dd06b4009addbca5fa593f8d3.16",
+            "hashedId": "71b415040e37d922019fa371562e0521c9e6184d",
+            "title": "Auspicious Bridge",
+            "state": "GAME_REJECTED",
+            "lat": 13.649464,
+            "lng": 100.593256,
+            "lastUpdateTimestampMs": "1501109887008",
+            "description": "Bell around of Bridge .",
+            "images": [
+                {
+                    "id": "12e758311eed4be6b713554a61cbf643.17",
+                    "url": "https://lh3.googleusercontent.com/9KLLTEVyHB9w7VchwcXEhoJZurPsnbumA_qTMJaF3egUG3dFpQKVyKxuxcMQvZqqPU-7nZK7OopNUThvQRn1Ra_KgBAs"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao Road, Sam Rong Nua, Mueang Samut Prakan District, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0ed0ba54a0d34093856cb70d3ca13b64.16",
+            "hashedId": "f989aa538d929eaa1447e045b380943ed6972b9e",
+            "title": "น้ำพุจำลอง",
+            "state": "GAME_REJECTED",
+            "lat": 13.650117999999999,
+            "lng": 100.59697899999999,
+            "lastUpdateTimestampMs": "1501109550281",
+            "description": "สำโรง สมุทรปราการ",
+            "images": [
+                {
+                    "id": "43b7f0036e10497bb210751cfec0c19c.17",
+                    "url": "https://lh3.googleusercontent.com/uqcmDRtkfli4BnUD1_HdSXxJOVU4N-IlxJLHXgUxhRt1naZ6ydJaqBx19ribfO5IaOb6Ytfh8till1X9DV_xKRvZp28"
+                }
+            ],
+            "address": "Sukhumvit Road, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "10e69a530b2742019d2fa55f283f83e0.16",
+            "hashedId": "34f37c88a73a5007eccd46acf50aa24b6c457127",
+            "title": "พระเจ้าอยู่หัวรัชกาลที่ 9",
+            "state": "RETIRED",
+            "lat": 13.64527,
+            "lng": 100.596392,
+            "lastUpdateTimestampMs": "1606201575854",
+            "description": "เทพารักษ์",
+            "images": [
+                {
+                    "id": "74d8d4ec00af4986b257a76f3a76b6e3.17",
+                    "url": "https://lh3.googleusercontent.com/KM7al4ItJPLTXpBWGq7b7cgYx6eSiKnwWUB1s3FAu1qABGB7HQa9wGUkb_xOUeSRZ_SXZgHjrWICOEBqg8MVMa9ZTw"
+                }
+            ],
+            "address": "Thepharak Road, Thepharak, Mueang Samut Prakan District, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Thepharak",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "11644a60e1b54e0b8f35abb9a7ac5329.16",
+            "hashedId": "5faca60a4f9becf379e00eb2a55de7d5451e8a61",
+            "title": "shrine at Metropolis",
+            "state": "LIVE",
+            "lat": 13.646336999999999,
+            "lng": 100.595474,
+            "lastUpdateTimestampMs": "1589913881984",
+            "description": "many ppl pray",
+            "images": [
+                {
+                    "id": "2bdb83d0c2be4e30b148e68eaaa14c61.17",
+                    "url": "https://lh3.googleusercontent.com/1Ocw3roc_0XlwOMh1iBO3H52zXk3GJxsw6tq-GvkabDdlQweHK-MT1YL0QL1jL2YmDKS4Zs8sIf5n-yVvuv8KsY_8Q"
+                },
+                {
+                    "id": "77659d83b01b317a83ff0431a09b2589.17",
+                    "url": "https://lh3.googleusercontent.com/fivEKr29DvD8TIKhSbtATeZc9Nebc6luaJeX5v7Ti_v1yb4VJB3XoASbglZNyKNgZigeDwDwWIOGmhgiB4yvOFZG5O5Z"
+                },
+                {
+                    "id": "34de61480c3631f082cb418fb5c32ffc.17",
+                    "url": "https://lh3.googleusercontent.com/HC571bwNtv9136emzMQOQsoFpt1sszQlChh9IW1UQmPD7gvnzhqbwGaErIQI4nRMvAHUaq94qzp2fW49n7mEOwoXq2ZNj0JYhCj3PLbVUw"
+                }
+            ],
+            "address": "190 อาคารเดอะเมโทรโพลิสคอนโด Sukhumvit Rd, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.329
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.262
+                },
+                {
+                    "id": "14b167a2dd35aa4ba0410139fde805f6",
+                    "name": "Hokora"
+                },
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.12
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.329
+                },
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586442261633"
+        },
+        {
+            "id": "14c7890496044d94a5af14c31efc6bf3.16",
+            "hashedId": "78374ee5fd6b8c43682de69938af4d1b27028db0",
+            "title": "B Market Shine",
+            "state": "LIVE",
+            "lat": 13.649353999999999,
+            "lng": 100.594456,
+            "lastUpdateTimestampMs": "1505358540971",
+            "images": [
+                {
+                    "id": "df153a0e97a34f8d869e19b68a11e47e.17",
+                    "url": "https://lh3.googleusercontent.com/bKCvvUh0oB_I2qmODJSPlYrzlyKyWnZ2gJfzJC-ZZXBd6J5CheQ91DRrvQTlrGDOrBKXaZmtCQ8Rsv0g8fb4P2DRDLg"
+                },
+                {
+                    "id": "a158de461a494aed81c36cc4ae5923f8.17",
+                    "url": "https://lh3.googleusercontent.com/55lAPGij6n_Brs6PsVGCQohKRLPZTCdkOXl4MFqJyHAf8EGGkNy-hjFwFQp2xBIvA0IkO88Q-6I6ZvsOrxXTw9bco5Tv"
+                },
+                {
+                    "id": "d73277647e6942dcb69c6d6d9c138cb8.17",
+                    "url": "https://lh3.googleusercontent.com/G4gbM6FZiJDvHmEA7qnlTn_bXGCEYKDTdjKqAVkGm087HeE8yXMkre7XihANuz04SNdplrbUio5whJz-LqprScUL6nE"
+                }
+            ],
+            "address": "ถนน ส่วนบุคคล Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                "name": "Market"
+            },
+            "categories": [
+                {
+                    "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                    "name": "Market"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.208
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.155
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.138
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "19cf56b10427478da2d78cfb633737f3.16",
+            "hashedId": "7230a6eee6a55b46885ed8e9e9611970e8aaa4a7",
+            "title": "BTS Samrong",
+            "state": "LIVE",
+            "lat": 13.646778999999999,
+            "lng": 100.59592699999999,
+            "lastUpdateTimestampMs": "1589896694701",
+            "description": "BTS Samrong station",
+            "images": [
+                {
+                    "id": "fd9fc3ea6b6340e8bb68bbcd3f04a67a.17",
+                    "url": "https://lh3.googleusercontent.com/nZ3LwZX6Kfg9aNf-NsTKXhyOmyEM5p2W6Yx0N8uzYKYBHlPds5q9WbVyP0rsELs7C2RiBtnCMHYn7uM2tMLGyzlwsXA1"
+                },
+                {
+                    "id": "fddcd302299644ecb1f5ac0eae7eed8d.17",
+                    "url": "https://lh3.googleusercontent.com/UmYEJO9GwXUvNlywH4a5_mhNTv6nh_zvGuti8k_kdDoOwsby6GK4cawLdluuNHDk5ubJve_fWE63l_JFOvxVF3Jfkw"
+                }
+            ],
+            "address": "Samrong, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.531
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.531
+                },
+                {
+                    "id": "b6182b3598cfcfca5631c3252b134183",
+                    "name": "Transit Stop"
+                },
+                {
+                    "id": "d35793f0bad09c8d77b0566efe9396a1",
+                    "name": "Bus Terminal",
+                    "score": 0.077
+                },
+                {
+                    "id": "db55bc74a2fbefe1b15371ade71559b4",
+                    "name": "Train Station",
+                    "score": 0.327
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1574952279690",
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1686687065175"
+        },
+        {
+            "id": "1a68b919c7ff313faaeae80586cd10b7.16",
+            "hashedId": "07929b55fdbeb90ca768a7e24ca3ce182d395d81",
+            "title": "ลานออกกำลังกายเพื่อสุขภาพชาววัดด่าน",
+            "state": "LIVE",
+            "lat": 13.647248,
+            "lng": 100.597589,
+            "description": "สำหรับประชาชนมาออกกำลังกายเพื่อสุขภาพ",
+            "images": [
+                {
+                    "id": "719fca823870399b98812fbde67e50a0.17",
+                    "url": "https://lh3.googleusercontent.com/KOqTaR7w07x4HCgGg2ll-USGyqJXkO4z-0cxWRCyjbJkf9pKTJIrK7W6QlZbE3HVmljN0qN8UgkmQTemwTKY_7RPw1sdifF3Iyjz8qE"
+                }
+            ],
+            "address": "JHWX+X3H, Samrong Nuea, Mueang Samut Prakan District, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Samrong Nuea",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "aae12013c0f49182495d12e50d9b5d5e",
+                "name": "Fitness Station"
+            },
+            "qualityScore": 91.14701,
+            "categories": [
+                {
+                    "id": "aae12013c0f49182495d12e50d9b5d5e",
+                    "name": "Fitness Station"
+                },
+                {
+                    "id": "c469083e12d884a1b9092e598e447412",
+                    "name": "Gym"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1642005907172"
+        },
+        {
+            "id": "1b23c6c42ecd4ef4b9db39d027c47881.16",
+            "hashedId": "3395ec807eeca77aa4b077720fa6ac5ef77bef17",
+            "title": "ปู่กุ่ยฮุก",
+            "state": "GAME_REJECTED",
+            "lat": 13.649075999999999,
+            "lng": 100.593105,
+            "lastUpdateTimestampMs": "1501110102353",
+            "description": "ศาลเจ้าพ่อทัพ",
+            "images": [
+                {
+                    "id": "8504d8f798e84309b01d0a6ee8977858.17",
+                    "url": "https://lh3.googleusercontent.com/IpXMkrIGv_EMcVHn4r0N8areGr-WlljG3nTJcj_59plrgioJqg47S4qBnxBEqM1FKryYvJ7srbrvamqZLLIJDitcDHo"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "239a2dc569ba40b4bb32f6d120ece78c.16",
+            "hashedId": "7b97850b1cffd2e83165950e58385b784fab8c75",
+            "title": "ศาลเจ้า",
+            "state": "LIVE",
+            "lat": 13.64433,
+            "lng": 100.595117,
+            "lastUpdateTimestampMs": "1501109569862",
+            "images": [
+                {
+                    "id": "89c4188e98ae488ebdadb1e3c9136568.17",
+                    "url": "https://lh3.googleusercontent.com/vJV4Cu4XS85mVLGauIk0qcOQqAkahqPGPXiL6c8R9XTw2D6PKIa6mDk3nCEezIo5H8g_wEjhpTp_I5Hh1BF7ip6zzA"
+                },
+                {
+                    "id": "76d3e286beff47f5872f0652a5b3a7ed.17",
+                    "url": "https://lh3.googleusercontent.com/BC1lNbNenLXEy00TMySCUHoqOiUcr_qhNLxVkH1CcIl_5b0S2SKEzCtS15_Itsfs-BgVpORMunXWMx2bWjztnqeLBQ"
+                },
+                {
+                    "id": "af450884bfb33b05a8f9005bc8395bef.17",
+                    "url": "https://lh3.googleusercontent.com/PYdYCRJceXo0lc1IMWV7AS6341fL-bOMXoTCNBRhKkEHpZpA300gqlVWw3CSLUrmxY4gZOAPYfp8D_IwJRljxCC4FsWIWGWwzsPu7Se_"
+                },
+                {
+                    "id": "e8105896bcb94738bae9bf9c04c6bc46.17",
+                    "url": "https://lh3.googleusercontent.com/J-yDO8fELWf-4I2X9irCxJEdSJXKZpDqRfmCY_9DFn0OK1mVy7xfj8eITSuMXOWx_E54uKWG82CPhJjQNJoFfQOfyg"
+                }
+            ],
+            "address": "Yaek Thepharak, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.34
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.34
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.108
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.274
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "25496ce12197472496a37c812d9c0bba.16",
+            "hashedId": "41ead5f7a207b5667a35383f269e1706b72bd454",
+            "title": "ศาลพระภูมิหน้าห้างทางขวา",
+            "state": "GAME_REJECTED",
+            "lat": 13.650032999999999,
+            "lng": 100.597089,
+            "lastUpdateTimestampMs": "1501109382429",
+            "description": "หน้าห้าง IMPERRAIL สำโรง",
+            "images": [
+                {
+                    "id": "a1a1619d87c2409da82e037e5d1120c6.17",
+                    "url": "https://lh3.googleusercontent.com/lMjogRGANabqDYkb14DK40pFgwQAEeEoJdvkEUCRPFHCFcEWed5fH0GSvOSNwFJjHkYQn5QLXl2k17skLOz-5v1xE40"
+                }
+            ],
+            "address": "Sukhumvit Road, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2946d464a3c946958fb2b46610e2323d.16",
+            "hashedId": "dbdbd66bb522fb25f6ccb205d7eacfedbb0c0bb7",
+            "title": "ปืนใหญ่",
+            "state": "LIVE",
+            "lat": 13.645373,
+            "lng": 100.59606099999999,
+            "lastUpdateTimestampMs": "1589895960938",
+            "description": "หน้าร้านทองเยาวราช",
+            "images": [
+                {
+                    "id": "4c298fff935243cf8fd67e05d3b3c257.17",
+                    "url": "https://lh3.googleusercontent.com/7ZULOeMJER8C2poBkymX8kCGVYntqHtE9YHVq-IQgpWYS15bvl5XW0WwymWyrptREJ0kcuHfXN4Ba2vm-LcbGW_o7Vg"
+                }
+            ],
+            "address": "Thepharak Rd, Tambon Thepharak, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.385
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.112
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.385
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.108
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1570350233256"
+        },
+        {
+            "id": "3097cdede0683a11971a5f8b686af801.16",
+            "hashedId": "cf88f3b07c30b644b1c262e7bba6ba98e7949946",
+            "title": "Samrongnuea Police Station",
+            "state": "LIVE",
+            "lat": 13.645932,
+            "lng": 100.595935,
+            "description": "Police Station for Public",
+            "images": [
+                {
+                    "id": "31af467d637e3940976e1e4a8968db8b.17",
+                    "url": "https://lh3.googleusercontent.com/_4V9XmVlDc8qk9k6A368vZXXQhQhm0-0qbvDu0VL7y7c5hlAUTO7bujRO-dKxiQ-VMLlZ6nkZy6FYPaEy0w0IiZTpR0tyZV2ErUcpXk"
+                }
+            ],
+            "address": "77 หมู่ 4 Thepharak Rd, Tambon Thepharak, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "81fe7420264801c81a7a66f3957885b4",
+                "name": "Police Station"
+            },
+            "categories": [
+                {
+                    "id": "81fe7420264801c81a7a66f3957885b4",
+                    "name": "Police Station"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1689653230240"
+        },
+        {
+            "id": "33001800796c4a8ea135a0337e2cd6bb.16",
+            "hashedId": "aeda3c1d477793de0fdbff13a0e36574334d6455",
+            "title": "Bumblebee",
+            "state": "GAME_REJECTED",
+            "lat": 13.650027,
+            "lng": 100.59712599999999,
+            "lastUpdateTimestampMs": "1501109291300",
+            "description": "Big C",
+            "images": [
+                {
+                    "id": "d7527b8170b549c69bdae3a93ef5fab1.17",
+                    "url": "https://lh3.googleusercontent.com/qlZpDgeqzMK2zBvy3nxORbkp_aqW2Tzyghxi-owRZ8zjp7HaWpuhouaxxGPErzKrV66VHtkDCdzqrHlXRnkBBb0-ujI"
+                }
+            ],
+            "address": "Sukhumvit Road, Mueang Samut Prakan District, Samut Prakan 10270, Siam",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3e6f7a872eac452791ac29d7c577448e.16",
+            "hashedId": "df07dfd197176b4c22e57b201437aafffcfac3c2",
+            "title": "พระพรหม",
+            "state": "LIVE",
+            "lat": 13.650172,
+            "lng": 100.597096,
+            "description": "อิมพิเรียมเวิล สำโรง",
+            "images": [
+                {
+                    "id": "336a4feebd0d4e3e8dc5b6437e0df019.17",
+                    "url": "https://lh3.googleusercontent.com/Fktqx9bHlzMsY5tUxiTzJ7v8c13ZvzYUua-j2xf1_3U5Lc41UNQLS4l8JmX4rjpVZLSIHU8HbufD-SiB_tMynSAgEZA"
+                },
+                {
+                    "id": "45f889e2c22c4ce0baba6b7041859dce.17",
+                    "url": "https://lh3.googleusercontent.com/tn1iJqK9wAIkMcbV3xgfaBeftzJoUE55AsKGN55gvTGatHtvI7GbGzgaFn7FsGoWCJkJvljgtDNpevDkVXKJGYqimeo"
+                },
+                {
+                    "id": "31ada27a5f2d40c39c43e9c4e789c7df.17",
+                    "url": "https://lh3.googleusercontent.com/SLfaov_NsyrBHbNUnTpPk_b8Q5Nj4ozI9Jn2kEyQlS1r1uT7M7BORZi9A7ELEUlFsWhaJ4fhfv-S6hTtzv3zr8wkSpc"
+                },
+                {
+                    "id": "abdc8a07e7d94ef9af3068827e643c76.17",
+                    "url": "https://lh3.googleusercontent.com/y1BrgBJ48C2LKSDRlxWEvE3nNTcIJQkYaFRwKx3xyeiFW3l2gOpjIFVtdLbwTvLUcedQuPxUXPQo7AOcjW_y9RPldA"
+                },
+                {
+                    "id": "3396a68ea88741c19a29a967ad6d49b0.17",
+                    "url": "https://lh3.googleusercontent.com/_nTPxWdHG0EL0EMH3oB2d6kaLOOJRv0CMk5hSHcJPV2PENGTbvvs7jqiEzEh5uHcZKHVrRF4_G4GGn8Rkn2NEbLotXM"
+                },
+                {
+                    "id": "7a1ef626e99e3e66a536a492097f84ac.17",
+                    "url": "https://lh3.googleusercontent.com/ZpvyeAoMYipgAC03bU4gApSFLSdfF4bJ_gtD_aq1zaXKKNoJMVyCorB0lhH_twZJV-wyXD1hb2IgdgywzyDOh0qcZ-K2pmfi567b19oX"
+                }
+            ],
+            "address": "Sukhumvit Road, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1693377379731"
+        },
+        {
+            "id": "42fe96fa46be3b9f856b8165acc1bb1b.16",
+            "hashedId": "29dab7c47dbb21067dc3274b93bcca5ba3e2e1f3",
+            "title": "มูลนิธิตระกูลผู่",
+            "state": "LIVE",
+            "lat": 13.642653999999999,
+            "lng": 100.59433299999999,
+            "lastUpdateTimestampMs": "1621948802366",
+            "description": "มูลนิธิตระกูลผู่เป็นศูนย์รวมของคนไทยเชื้อสายจีนที่อพยพมาจากเกาะไหหลำ ก่อตั้งเมื่อ ปี พ.ศ. 2498 โดยนายวรสิงห์ ฟูตระกูล",
+            "images": [
+                {
+                    "id": "b4d14ffa14b23aa98e7a5e42123e5d09.17",
+                    "url": "https://lh3.googleusercontent.com/SNxCabZS9GPZ2pTeDvxgLqhaCRHvcCOu09oKE_6biCqOSMTF0AoxbEbt5iDIc3YpG9LAv7J1d3AADzJaMM057ay0dXMEEWnf2TyMGGPY"
+                }
+            ],
+            "address": "55 Sukhumvit Rd, Thepharak, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 79.86911467845813,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.527
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch"
+                },
+                {
+                    "id": "b962c8dc17b777624defd08a7f66a247",
+                    "name": "Historical Sign",
+                    "score": 0.177
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.427
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1621654889638"
+        },
+        {
+            "id": "49bce2c5a88637ffb330878e71c11cd9.16",
+            "hashedId": "3f9c01563200df7ea64f8d04c21fe1c681b964f4",
+            "title": "ศาลพระพรหม4หน้าFt.ศาลตายาย",
+            "state": "LIVE",
+            "lat": 13.650265,
+            "lng": 100.59447399999999,
+            "description": "บูชาสักการะ คนทั่วไป",
+            "images": [
+                {
+                    "id": "df2200e3aac43443ac7c95bcabc0128d.17",
+                    "url": "https://lh3.googleusercontent.com/EfcPdzaFlua495vAha6MEbjue7X5JwZVNdB4Yx8e2eVBiuEwcx1sxTM6_YVBBvyxlrRhU6NDMFnp2po9_6cEYkPrGBi6bIqcLhXxjdU"
+                }
+            ],
+            "address": "MH2V+5R8, Samrong Nuea, Mueang Samut Prakan District, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Samrong Nuea",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "5058742ab1f224fdefea0f7c699f0fef",
+                "name": "Arch"
+            },
+            "qualityScore": 87.53321,
+            "categories": [
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch"
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1643463262311"
+        },
+        {
+            "id": "4a39b640d5bc4ccf8a7b62b176948983.16",
+            "hashedId": "4bcfca6f8a8a6f24168d981d5194f92851629244",
+            "title": "WatDan Chapel",
+            "state": "LIVE",
+            "lat": 13.647222999999999,
+            "lng": 100.599633,
+            "lastUpdateTimestampMs": "1589898508326",
+            "description": "อุโบสถประจำวัดด่าน",
+            "images": [
+                {
+                    "id": "dc1f6d56abe24d6294e9ce4a8615d84d.17",
+                    "url": "https://lh3.googleusercontent.com/OR3CaWv_LE3qfMLJF9yJGjONumCQmdFyfvB5mYsdS5C7Wx_L81hectHfiE_RDNaIpD24HtLkVbZS8SkRSL_YSVQmLg"
+                },
+                {
+                    "id": "73dcd269102938b9b5fd7f3e14e6c08a.17",
+                    "url": "https://lh3.googleusercontent.com/fqkdvjHWD3lPKwYfr9JrNm0mHQ7TkiJ6Txf_bARuwlYEa1VsKlXz_Qqjfi4g6Lvtvu-imgadpl5AsNoNvgC-0D3gfo7A_KXJYsNoOEWK"
+                },
+                {
+                    "id": "57e84beaea703590867a04c53d654792.17",
+                    "url": "https://lh3.googleusercontent.com/j0_FwocHgAzoeYNsg_bStQwsgsLnZgGstl-vhA4fbM15-5AtDTAJzeQOwTfvoVFr3ihEQTiF1DWlfUDF0XuogeylSmR_-P0jDPWbRgCv"
+                },
+                {
+                    "id": "5c5e6d26d45b378d8f543cf234f82210.17",
+                    "url": "https://lh3.googleusercontent.com/U3ZZJ0UwsSyGaMx-UiJ50BZPzEqaSjmXQcAdqlRwkcGXi782Q8PbgyYRtwEhfaF3CkSArR3noAvRIIzz7c3hfzHJIHohyldFPGkmjhqmwg"
+                }
+            ],
+            "address": "5/110 Moo8 Soi Watdansamrong, Sukhumvit 113 Road, Tambol Samrong Nuea, Amphoe Mueang, Samutprakarn , 10270, 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                "name": "Chapel",
+                "score": 0.305
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.192
+                },
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel",
+                    "score": 0.305
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.224
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1575462383967"
+        },
+        {
+            "id": "4b3e339a876d3adcb246385f9f4b8eea.16",
+            "hashedId": "3ceb81c2842339ab34e7d834b43b31ff8b4f829e",
+            "title": "shrine",
+            "state": "LIVE",
+            "lat": 13.643165999999999,
+            "lng": 100.59423,
+            "description": "shirne",
+            "images": [
+                {
+                    "id": "80c0dbb123bd36ac971fbe77281e4f0c.17",
+                    "url": "https://lh3.googleusercontent.com/UuPFOCd0Cas36sP8LGs5S-_-GhmimGk9ZakQoYwZYf9xdc5ujvcrc0Lbs36M5BwjR2-VTWIvOehmIAP8rf_sIXZ3Xi98Ilq_vK99DIC19g"
+                }
+            ],
+            "address": "99/46 Sukhumvit Rd, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 89.88022,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1644245302311"
+        },
+        {
+            "id": "52236890fb0945a897fcc34d42972f12.16",
+            "hashedId": "b373dc2b1a97827c87350959a9bf0c134e1c035b",
+            "title": "ศาล RS",
+            "state": "LIVE",
+            "lat": 13.642890999999999,
+            "lng": 100.593504,
+            "lastUpdateTimestampMs": "1501109775397",
+            "images": [
+                {
+                    "id": "4cedc63468fe42f8bc6aa551717ed55b.17",
+                    "url": "https://lh3.googleusercontent.com/KSYZNH3nC-1yke0OSzj_eSyyRaD30luTruYnY2Nu1yyzEMMf9FxP6QluNNOQbxCeQgISAgKKiNJVU3p4hXqAkslWjg"
+                }
+            ],
+            "address": "Phuchao Saming Phray, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.196
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.196
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.111
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.108
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "53c852f6e0f548ab9338a09a08955131.16",
+            "hashedId": "1e893a6ff98f04bcd9a202e5e911297c804088db",
+            "title": "กวนอูเทพผู้ทรงธรรม",
+            "state": "GAME_REJECTED",
+            "lat": 13.649201,
+            "lng": 100.593064,
+            "lastUpdateTimestampMs": "1501109182166",
+            "description": "ศาลเจ้าพ่อทัพ",
+            "images": [
+                {
+                    "id": "6b4b6b7498434d848f3503bf1e82e012.17",
+                    "url": "https://lh3.googleusercontent.com/LU9CMOCbVfnW_K8m6knxycEp6XJ0I4Zkvdu6x1mE7q3fEwxvPMmWCGNsh8saa_WaP9ugOfS2urN-WHSFD6Fde3Nd-S23"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "54685b4f55d6466ea90b5a80e815f732.16",
+            "hashedId": "63ea1873460d769e7db43e31f65d913fd02734ce",
+            "title": "Crematorium",
+            "state": "LIVE",
+            "lat": 13.646294,
+            "lng": 100.59981599999999,
+            "description": "Structure",
+            "images": [
+                {
+                    "id": "a91e2de188ba44da902d9bd7edc77ac3.17",
+                    "url": "https://lh3.googleusercontent.com/oDNJllzvdVbkISSJGNHh7lnXPf8NPHoVgMi1huWr3ozDeYSdNczaJ6fi9-F_K5Uorit1xo2Gyi3oqu2WObm0jZMnBE3_"
+                },
+                {
+                    "id": "8d0931322e904f5c97526f120a261647.17",
+                    "url": "https://lh3.googleusercontent.com/jWHE3a5wOI-fDwcJlqpgjVpT7uS6P2PO0yrZssjP2P17UTFKrHnLwN5g3-FOWMHXjl7cU6TkmR8CLAdsxSmtucYlVcI"
+                },
+                {
+                    "id": "27ebebbb706a4d08b3c56fa807a6b4a3.17",
+                    "url": "https://lh3.googleusercontent.com/3kxFGV1xTv8N2px4Ler8IXz8aWJ3EZAi_BO69Z5Uf-kJDodzS6aJ8NhTGWgHemNQtWtZvUTspRs6kdtPI8ECOq6UMT8U"
+                },
+                {
+                    "id": "c2e1874414b532e08aa8ba99d7739a54.17",
+                    "url": "https://lh3.googleusercontent.com/rA1_NZL341-LwNRAKxc2t93RXSTV5N_3ylMUdLGWVmr5MZELnsEGUgikyCpKjMypX665HTwJz0zAZByad8Z-OPqEFI6F9U69iJM9s20Z"
+                },
+                {
+                    "id": "b8eee75432883920a2a78362924a7095.17",
+                    "url": "https://lh3.googleusercontent.com/EbBYXlwBX6LennBvq8C3oNPJVDn2HHkq6FtqqOa1RoYNXO4Bu5lKkCLvZ8CzmildGTOI5CokwI_x6Z4xjGeKw_rcOnVBQgbu1mT9GOs"
+                }
+            ],
+            "address": "Soi Samrong Nua 6, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "5c5ceac1d46337d08f3cb05a0ec3a851.16",
+            "hashedId": "b89d54ec9f5fd10e713e20be6b3a77cc633a4dfe",
+            "title": "ศาลพระภูมิ พีเอสอาร์",
+            "state": "LIVE",
+            "lat": 13.642835999999999,
+            "lng": 100.598287,
+            "description": "สิ่งศักดิ์สิทธ์",
+            "images": [
+                {
+                    "id": "1fe828f465aa35a593cd8b81b93dda4a.17",
+                    "url": "https://lh3.googleusercontent.com/y7Ij0Ue-YAk772xB471UA5nxu5JmcDzb83jFPKn7kck4c24PH1gE4Zvm2j-Ez8snOVtsyWCQyAKS18MDW38JRvLiX74OUBTi4bkoDsgukQ"
+                }
+            ],
+            "address": "ม.7สี่แยกเทพารักษ์, ถ.เทพารักษ์, ต.สำโรงเหนือ อ.เมือง สมุทรปราการ , 10270 Tambon Thepharak, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "5058742ab1f224fdefea0f7c699f0fef",
+                "name": "Arch"
+            },
+            "qualityScore": 77.11088,
+            "categories": [
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1641444846434"
+        },
+        {
+            "id": "676b5661a1434c809aa233089a8ea301.16",
+            "hashedId": "52be74a93eb6a4ff2e062e13b4578b0a76b28528",
+            "title": "ศาลพระภูมิคู่",
+            "state": "LIVE",
+            "lat": 13.647651,
+            "lng": 100.593437,
+            "lastUpdateTimestampMs": "1589895634678",
+            "description": "อยู่ริมถนนในซอยลัด",
+            "images": [
+                {
+                    "id": "03c48dffc92244ab9c121e9f6ee46f14.17",
+                    "url": "https://lh3.googleusercontent.com/8QKbn0Dg-eJwZ3kFRMMW10vLiKu2l49D16VDBoT-PKVvMc8d5LV5ze6zSB72BFR4fkMW2hCADGxXgNLv_sFxtCXErVM"
+                }
+            ],
+            "address": "1509/2 ถนน ทางรถไฟสายเก่าปากน้ำ Thepharak, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                "name": "Road",
+                "score": 0.503
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.16
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.169
+                },
+                {
+                    "id": "f327194f0f0c1cf87fbf2ea720ff8179",
+                    "name": "Road",
+                    "score": 0.503
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1586542161368"
+        },
+        {
+            "id": "68c5b6a01e14332aa0f19a960c4d50d1.16",
+            "hashedId": "6b5c4d5718e1dfa1de45eece232d00a65b12c83f",
+            "title": "ห้างอิมพีเรียลสำโรง",
+            "state": "LIVE",
+            "lat": 13.650075999999999,
+            "lng": 100.596828,
+            "description": "ห้างสรรพสินค้า อิมพีเรียลเวิลด์ สำโรง",
+            "images": [
+                {
+                    "id": "5a50ea69ea72317aada3f6c2a86998bc.17",
+                    "url": "https://lh3.googleusercontent.com/uzppCH1_U-vtaE34agXzW_H2pQzc37fqf5GhLj3GoDYvrYaD7pME3sMQGGOkHC0SULedMlpRquBqHU82BBUTQToJjLHgzhxq3aJ5RX0"
+                }
+            ],
+            "address": "989ถนนสุขุมวิท, ตำบลสำโรงเหนือ อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ, 10270 Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "qualityScore": 90.25731,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1702920446668"
+        },
+        {
+            "id": "69442a831f1c30909f0466bce8c1dce2.16",
+            "hashedId": "881589bea6a6e39e8c537c4b597a0889cd40e364",
+            "title": "เครื่องออกกำลังกายนครทอง",
+            "state": "LIVE",
+            "lat": 13.647122999999999,
+            "lng": 100.597067,
+            "description": "สถานที่ออกกำลังกายชุมชน",
+            "images": [
+                {
+                    "id": "ed8b883da3383ec4b5c0fec1c47a7e50.17",
+                    "url": "https://lh3.googleusercontent.com/tMzq9hSNG8MlgyhImiWDVvSDbNQYAua8pR1tqPYJ48xfLc8k00KJKG8ZcehsB8C5gUy6M3IaZEfcm0YeqH4kSJIJ_oWB4xXRlVUqennYbw"
+                },
+                {
+                    "id": "e5883fbca3223363951456c1386ab3bd.17",
+                    "url": "https://lh3.googleusercontent.com/D8Zb3QLcXOW9cxVOymS6hBN-Fg_mrVCpuOfhb7_KM_4UDyHqhGAzIxo0pRM-Qqgfj1uyHjfA0dD_T5A7pXX_oZJfCb6ESPl_A3W0tLcFFQ"
+                }
+            ],
+            "address": "1255 Soi Nakhon Thong, Tambon Thepharak, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area"
+            },
+            "qualityScore": 80.56385,
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area"
+                },
+                {
+                    "id": "aae12013c0f49182495d12e50d9b5d5e",
+                    "name": "Fitness Station"
+                },
+                {
+                    "id": "c469083e12d884a1b9092e598e447412",
+                    "name": "Gym"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1681085311590"
+        },
+        {
+            "id": "6ff6c891a1de49ab8e51b7bca6bf538c.16",
+            "hashedId": "130c02c9951160f80651243f174e5cf99770b1b0",
+            "title": "โป๊ยเซียนโจวซือ",
+            "state": "LIVE",
+            "lat": 13.649161,
+            "lng": 100.59296499999999,
+            "lastUpdateTimestampMs": "1501109862023",
+            "description": "ศาลเจ้าพ่อทัพ",
+            "images": [
+                {
+                    "id": "ab88447dbd9047aaac497dd12b7832dd.17",
+                    "url": "https://lh3.googleusercontent.com/MqyIVmreMYjjRoOUXHrpjMi9EwxsLOOt_P3oEkt44gjLZwPWM_6-g67zTkJSDyhkIW5zfXql8JXosoVHV1ei2Q8pag"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.311
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.185
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.264
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.311
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "7005fe8a860d36cf9fe02f17394bade9.16",
+            "hashedId": "b1ae2ef1259c7d62e918da1f93522adf68fd16c9",
+            "title": "รูปปั้นรัชกาลที่5",
+            "state": "LIVE",
+            "lat": 13.647597999999999,
+            "lng": 100.599744,
+            "lastUpdateTimestampMs": "1627392155313",
+            "description": "รูปปั้นรัชกาลที่5 ในวัดด่านสำโรง",
+            "images": [
+                {
+                    "id": "33fe4af37f9035f7abbe4998096df986.17",
+                    "url": "https://lh3.googleusercontent.com/q36zj5AQRwBYY8zm7M5DSR7oKnVG5FlFXcNFGJqSeGKsxGqY9ep54YWlpeflxMDxSFP4N8N5J7g-hIk_js7pzpTit_k_CXtsgtHKirPO"
+                },
+                {
+                    "id": "d9a2d629500837d1b7e0742c0204f1d8.17",
+                    "url": "https://lh3.googleusercontent.com/zf--hgzcyMPV__c_FZwAcKsalD4G1ZRDr0L3zcH4MK2Z_e3ZMNeNNbOVc_IW4NanIkrqi7U7BWx6egNCTSK2EeVxPjr2D8ZS6JtEPMiU"
+                },
+                {
+                    "id": "92ce669e3e76392fa444c9aeba464ce0.17",
+                    "url": "https://lh3.googleusercontent.com/da6nsd9WNUN7y33t_VZVnIgKl8QwV8njFsggZL-wswBMcaPnuhqsZYBzdhxkC-Xri5MZ4NLUAaNVZnQH8JzZ2iSKF0YRbOkMHWolgyI"
+                }
+            ],
+            "address": "771 Sukhumvit 113, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 84.95914863056181,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "22d5224ca0d7eafd78d83afc36d0ad0b",
+                    "name": "Monument Object"
+                },
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1627103673893"
+        },
+        {
+            "id": "70099afcc3ae4691a37ab50510837eb3.16",
+            "hashedId": "2bffd87a499ce513cf9b98035d6b265814d72269",
+            "title": "Shrine",
+            "state": "LIVE",
+            "lat": 13.647656,
+            "lng": 100.596881,
+            "lastUpdateTimestampMs": "1502855886274",
+            "description": "shrine near samrong market",
+            "images": [
+                {
+                    "id": "f9b0c3ac491247be9bfb1f2480b8c1ed.17",
+                    "url": "https://lh3.googleusercontent.com/RcBb9WXzBxWAPpxglEt7P_OzNkYW6uzowhhbhNhUdNSTZMgr3zguESqfpWvwEn_EYEMfUbV94zRf8F6IeXEdp6gLNWsk"
+                },
+                {
+                    "id": "262aeabdca8d44eba9896088805ee444.17",
+                    "url": "https://lh3.googleusercontent.com/GlSiwZOZAhi-DQztsXctq2zF3S4_Q5UzIpoNKWjUlyWtdqX715MhS96Hsq1hZFCuN3Bn0SaXwag1O9jnPCizyQHcpYbw"
+                },
+                {
+                    "id": "373ad3d12c6640178b9e969cfe2b1d15.17",
+                    "url": "https://lh3.googleusercontent.com/Eof-xMonZHlHJBCn9h1eD8ph-IRzWWrpha8cb2tARzDluu2vPhU9xWtWmL_PmQsWhzZIvHmY7Kg7hx1ASXdJ1b87pj8"
+                },
+                {
+                    "id": "45be10d922724497bde3a42270bd032c.17",
+                    "url": "https://lh3.googleusercontent.com/p3EKQpL_gFNqGcJ-bQc-rlmg_CrXT7PyrMuFF1KjFlCOltmioidz6kPaRIEyMwDRI-iKX_pKkHZVX45V9oA_ldq2hSY"
+                },
+                {
+                    "id": "46b9e13dcfb246e59a6e0f3bf9c37c93.17",
+                    "url": "https://lh3.googleusercontent.com/fdE4nkOzhA9Xk5ShFbx4W8nmSIWlIb87ai6TH_6guutIc_-IDVrXldWj2vSj8bhppldXHy-p8oRKfHeFdFUscISBwzfe"
+                },
+                {
+                    "id": "b2f023f1b6f941eb9e1534bec3a7c0a6.17",
+                    "url": "https://lh3.googleusercontent.com/XoAt71Il5VPd2MrNparPyetrBHpwjP9Bkeu30JRUqm5S8ToxQqnw-ItE5Taa1fvhXTPcL9r7pVfpzDvoN4QCPSZo63EA"
+                },
+                {
+                    "id": "deac96d716994251a087412065805e17.17",
+                    "url": "https://lh3.googleusercontent.com/I3SoKnpVX-g27tJaPuBts5R0AWSTvmEjvHxNk05Hrw45ZXI71i4wrsCeC_s6CSbQp4ut3ZsEun1mQm4V9g5CeMR_i4k"
+                }
+            ],
+            "address": "Soi Samrong Nuea 2, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.78
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.78
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.155
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.245
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "73811b3c67d5413d858f667e2724df34.16",
+            "hashedId": "0df39c12cac3403632c8c59291a1b8207accc863",
+            "title": "เจ้าพ่อเสือ",
+            "state": "LIVE",
+            "lat": 13.648966999999999,
+            "lng": 100.593024,
+            "lastUpdateTimestampMs": "1501109121183",
+            "description": "ศาลเจ้าพ่อทัพ",
+            "images": [
+                {
+                    "id": "b4d28abbc2744d1294ad6b7a343d4238.17",
+                    "url": "https://lh3.googleusercontent.com/-Qw9hWD4ue_eimI4fOu2nuz58tkhsqoM3dYV6gJxq-LUdFXi5oU40k6gVgQwjLLePiKEnUuYuRSEjQWTfu_ADNp3bNRT"
+                },
+                {
+                    "id": "aed5267ab407448d806373121f56912c.17",
+                    "url": "https://lh3.googleusercontent.com/Ialm4qr0gBSYnN75NZCCm-R1ICLLo-MQhKByWia_UtYniTwHdTHf-9YkBQqJj1OtaKcGkSRPTZcoT72Z-exQaWFb9M35"
+                }
+            ],
+            "address": "ถนนรางรถไฟเก่า Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.729
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.372
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.729
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.061
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8b26dd0ef254335e93bda3c565477b63.16",
+            "hashedId": "5dd4ad22aaae4885b876412163fd88a7b0df448e",
+            "title": "ศาลพระภูมิคู่สีขาว",
+            "state": "LIVE",
+            "lat": 13.647946,
+            "lng": 100.59213199999999,
+            "description": "เคารพบูชาของชุมชน",
+            "images": [
+                {
+                    "id": "398cf78a22933e3992344632a5c91b70.17",
+                    "url": "https://lh3.googleusercontent.com/-wh5MB0yQuiKd-phM-BbnwRk7jv6HrH5WdZoTLhwuHqFnGGh_YweB_3eNoIyjeUpPhYPiZX3W7VP7CjPJgUYZZsEC3uk24ggcXYdepwL"
+                }
+            ],
+            "address": "398 ซ. หัวแตก Tambon Samrong Klang, Amphoe Phra Pradaeng, Chang Wat Samut Prakan 10130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Samrong Klang",
+            "postalCode": "10130",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 83.75905,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1683813375672"
+        },
+        {
+            "id": "8da7b231038b4e44a7f788147666d728.16",
+            "hashedId": "6c7bb4c609e00558d5fdd64ab691e8bd33224df4",
+            "title": "ศาลเจ้าพ่อทัพ",
+            "state": "GAME_REJECTED",
+            "lat": 13.649243,
+            "lng": 100.593087,
+            "lastUpdateTimestampMs": "1501109309637",
+            "description": "สำโรง",
+            "images": [
+                {
+                    "id": "0ce9a362695a4aa0b6bd695c0c87778c.17",
+                    "url": "https://lh3.googleusercontent.com/cAN35eqZQ09XD2xaLje-y9Koni_FB-TUaTrV8RyV3k_X5s8voIhkhsaSWUywuHgLtVWj2bv5mQAkGVJhdfhOhUiorg"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao Road, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8db60efda3fd41ddaed596fbf64918af.16",
+            "hashedId": "2982b0534da9262354b7c2af268ca1e8e672bcac",
+            "title": "Watdansamrong entrance",
+            "state": "GAME_REJECTED",
+            "lat": 13.647618999999999,
+            "lng": 100.600087,
+            "lastUpdateTimestampMs": "1589896069753",
+            "description": "ป้ายหน้าทางเข้าวัดด่านสำโรง",
+            "images": [
+                {
+                    "id": "347655afd3d44757a1d438aa32599994.17",
+                    "url": "https://lh3.googleusercontent.com/wcGeXkZUaUi-svIEjfRBv7FLXfeWW9K-662DjakeoP60pkFOX9eA33edUbqtFNPqj-R06xaCJ5u7NXF1bkOWql7nFkr-"
+                }
+            ],
+            "address": "Sukhumvit 113, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1578716715365"
+        },
+        {
+            "id": "9725afcf7d3444eaa20df520a7abc4c6.16",
+            "hashedId": "5297297636cd20c8634844e3ed264938ad0fcc45",
+            "title": "เตาเผา",
+            "state": "GAME_REJECTED",
+            "lat": 13.650267999999999,
+            "lng": 100.593623,
+            "lastUpdateTimestampMs": "1501109929795",
+            "description": "สมุทรปราการ",
+            "images": [
+                {
+                    "id": "8effc89e56e24c8aa21458767e6b5940.17",
+                    "url": "https://lh3.googleusercontent.com/DRZu9SG4Mz_QuwVDYC5md6_EzCqeW0yWBq2Gh1i8VgGqtbIxyJd_ug0xiHveIgUQ4Xj0PAlPgevwKBsJpKc27RA-4Qo"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao, Samrong, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Samrong",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "98fea43dd9633f16806bb7e5e861f4aa.16",
+            "hashedId": "b86f7a8b17c1b1106ce84dacb251ac726b451c2b",
+            "title": "ท้าวเวสสุวรรณศาลเจ้าพ่อทับ",
+            "state": "LIVE",
+            "lat": 13.648855,
+            "lng": 100.59238599999999,
+            "description": "บูชากราบไหว้ของชุมชน",
+            "images": [
+                {
+                    "id": "44592f0a0d2b3d5bbd02ec3f30818f41.17",
+                    "url": "https://lh3.googleusercontent.com/jCRZFaIYwVeGDTiHOOv61c7BESLvavUVT-5clrvF0tCo4Jj6NzhpQAqqE-deso5EUuTGsg_pG0RBA3yhbHZXVPwn9bBUrkn-3G2CeanHTA"
+                }
+            ],
+            "address": "JHXV+R2X ถ. ริมทางรถไฟปากน้ำ Tambon Samrong Klang, Amphoe Phra Pradaeng, Chang Wat Samut Prakan 10130, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Samrong Klang",
+            "postalCode": "10130",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 85.94661,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1694338934152"
+        },
+        {
+            "id": "9fce0eb571a53831a68ca34bfd54de0d.16",
+            "hashedId": "a8f7f8849db98c9c80cf592696699cec05c30c6f",
+            "title": "ศาลพระภูมิสีขาว ซอยเบญจพล",
+            "state": "LIVE",
+            "lat": 13.647561999999999,
+            "lng": 100.59768,
+            "description": "เคารพกราบไหว้ชุมชน",
+            "images": [
+                {
+                    "id": "3f62a81909cb3fbebfcc63d5eadbc170.17",
+                    "url": "https://lh3.googleusercontent.com/hgBMw7XpyaJecWmvzVZOXIAVDB5LtWc6JeUvbailqNw-N9gdBfJ49UTGMu3vyLXlIJu14pdBbSjjXuIw2v_T0fYh6HJgtCN30ho9tUP2"
+                }
+            ],
+            "address": "JHWX+X3H, Samrong Nuea, Mueang Samut Prakan District, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Samrong Nuea",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 87.49691,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1644825054708"
+        },
+        {
+            "id": "a27450d2476c3fc8bde668227d6766e4.16",
+            "hashedId": "ee6964bc31ec0bdd426df8a3a26731683781dee2",
+            "title": "ศาลพระภูมิสีแดง",
+            "state": "LIVE",
+            "lat": 13.648204,
+            "lng": 100.59289899999999,
+            "description": "เคารพบูชาของชุมชน",
+            "images": [
+                {
+                    "id": "ed375cad6d4b3736b87498f6a4ed4783.17",
+                    "url": "https://lh3.googleusercontent.com/CKT1YdEQyDTgWn3RrbVSxqvb4rca2SvD1kwJDekW3ccYS0rWRKRiF90JuLabLsSV0etouEtmDnyhBudKJULLt1nztIDp7fhQyi-1DPI"
+                }
+            ],
+            "address": "JHXV+552 ซ. หัวแตก Tambon Sam Rong Nua, Amphoe Phra Pradaeng, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 77.035095,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel"
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1687845635108"
+        },
+        {
+            "id": "a565b42bb0d843b4aba2c54772436703.16",
+            "hashedId": "8878c38a19a1c43c957e87a262c5e77e0d62b093",
+            "title": "ศาลเจ้าพ่อทัพ",
+            "state": "GAME_REJECTED",
+            "lat": 13.649274,
+            "lng": 100.592961,
+            "lastUpdateTimestampMs": "1501110033579",
+            "description": "สำโรง",
+            "images": [
+                {
+                    "id": "f114120b28154dc1bb1bda76348c40b3.17",
+                    "url": "https://lh3.googleusercontent.com/I4Ax9vAy0H8FwSdkHCJEDf6HbzHTPS_JQGyhk7ulvgEgrJDUWKGz5fVHAxk4xR3VoeU4bl07u9oMU_CfnhXxuO6Ks-Q"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao Road, Mueang Samut Prakan District, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "aeeb72c96fc4471aa7c4bd30d9c50561.16",
+            "hashedId": "6e1d7b011ee53e4569442ee51e2072482f2a88a9",
+            "title": "มังกร",
+            "state": "GAME_REJECTED",
+            "lat": 13.649071999999999,
+            "lng": 100.593064,
+            "lastUpdateTimestampMs": "1501109663948",
+            "description": "ศาลเจ้าพ่อทัพ",
+            "images": [
+                {
+                    "id": "9f91cfea98b14b319e511d2910902434.17",
+                    "url": "https://lh3.googleusercontent.com/Sx6Ieo2jLyXjdfcsT9as3jybkMWrTqIRNrff1m_1gyW0P52IqhuNaYrNdeXrU4tdwqsUMyCpXlDLqOiOuJ1JVFWB5a0"
+                }
+            ],
+            "address": "ถนนรางรถไฟเก่า Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "b7783e4f0d0046c0986f7c69862b77ef.16",
+            "hashedId": "8f8e51f4a63a6fe3c91ad59a7077ac5aa2d6ed87",
+            "title": "ศาลเจ้าพ่อทัพ",
+            "state": "RETIRED",
+            "lat": 13.647286,
+            "lng": 100.597805,
+            "lastUpdateTimestampMs": "1501109280298",
+            "description": "ศาลเจ้าพ่อทัพ สมุทรปราการ",
+            "images": [
+                {
+                    "id": "0b1514631b554fe7a81282e692775221.17",
+                    "url": "https://lh3.googleusercontent.com/7o9-jNN0kZdJu8-KEAdzUgX2rE5odruEEw6QSxXIIuIjXXrq161axBtetvLltcqM50-T_4bbMV-vO48YSavhb04trYI"
+                }
+            ],
+            "address": "Soi Samrong-Nua 2, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "bf1fce168644428fbce9aa3ba38ab84d.16",
+            "hashedId": "68491fc9b267dd62800efde413b70c279b77f983",
+            "title": "Grandfather's Shrine of Somrong Market.",
+            "state": "LIVE",
+            "lat": 13.648824,
+            "lng": 100.596479,
+            "lastUpdateTimestampMs": "1607437158452",
+            "description": "Grandfather's Shrine of Samrong Market",
+            "images": [
+                {
+                    "id": "162b8112cb7844dfa1f53f069f3b5a32.17",
+                    "url": "https://lh3.googleusercontent.com/IofmgE9sTvOFSHeOM_fCR39rwzzCxal0BqKVm5NEawWY8I5Cbtnns71l3UlP5RfWq7YsXsDyIAOMmOdKpwyYDrKP71g"
+                },
+                {
+                    "id": "a74d9a8ade8733aa87c62704afcccc9c.17",
+                    "url": "https://lh3.googleusercontent.com/8ObPuTNJqNBny3xKoIAgql1KPWHEyIXDxReAnOpReFs7wrpjdvRu6lMaX_cT2OtphR3FGF8ZXRhWnKni63bnmni7heAR9K4B337zLBxF"
+                }
+            ],
+            "address": "Den Chai Kan Tharuea Co.,Ltd., 518, 520, Sukhumwit Road, Tambon Pak Nam, Amphoe Mueang Samut Prakan, Samut Prakan, 10270, ตำบล สำโรงเหนือ อำเภอเมืองสมุทรปราการ สมุทรปราการ 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "สมุทรปราการ",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "ตำบล สำโรงเหนือ",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 88.53587115666178,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "0a6e75ed4c6b438f713e2966dd181250",
+                    "name": "Rock"
+                },
+                {
+                    "id": "0ad66fc5e0933cea1b335b7f19489c5b",
+                    "name": "Market"
+                },
+                {
+                    "id": "9929f4fed77f8b5525b7fd2cd27cdebe",
+                    "name": "Historic Building"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                },
+                {
+                    "id": "fbf264dceba337bf62c7b37c23021ab0",
+                    "name": "Iconic Architecture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1606978372148"
+        },
+        {
+            "id": "c07e96ed435148688e2b124a6427f433.16",
+            "hashedId": "b4562e57e0a61afc8442a1cd23624a987b98648c",
+            "title": "Kajonkrit Shrine",
+            "state": "LIVE",
+            "lat": 13.643217,
+            "lng": 100.59839,
+            "description": "The shrine that is located on Theparak  8",
+            "images": [
+                {
+                    "id": "e62a8d3bfc9d4768983ae7bdd558db1c.17",
+                    "url": "https://lh3.googleusercontent.com/kW7SAng2vRJpixJZjxX8y33lAfvgI-I4OEBCxjAAUe7kOH87vhpr15XHayGBHpvy9NmJOE34rGM68or_PXiNfljc2Q"
+                }
+            ],
+            "address": "Soi Thepharak 8, Tambon Thepharak, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c0c34504c5283fd79b2a9e21a49f89c5.16",
+            "hashedId": "0331e374b4a96b44cab8911b86aab2dc56b164f4",
+            "title": "ศาลพระภูมิอาชีวอนามัย",
+            "state": "LIVE",
+            "lat": 13.646749,
+            "lng": 100.592698,
+            "description": "เป็นศาลพระภูมิฝึกอบรม",
+            "images": [
+                {
+                    "id": "fadfebbc9dc1397fb7b84c6c760b8068.17",
+                    "url": "https://lh3.googleusercontent.com/sdaMPViptxj4DzdIn2wtr54F-U021uZ6qRUNOtNfp6lfg3yzk4iW27C8xdjcTVLJlS1a4UlGFr2WB_vHTOaXR-WQPRXYg7Gb6sjM09c"
+                }
+            ],
+            "address": "2 ถ. ริมทางรถไฟปากน้ำ Thepharak, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 78.216965,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch"
+                },
+                {
+                    "id": "a403ab24167f0564357ba8c266836b70",
+                    "name": "Courthouse"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1683303134688"
+        },
+        {
+            "id": "c1061f5717ee4e2fbff9d1f3a96d741e.16",
+            "hashedId": "a03868a12b612d82284591bd52d9b358554c5e99",
+            "title": "เจ้าแม่กวนอิม",
+            "state": "LIVE",
+            "lat": 13.649334,
+            "lng": 100.59320199999999,
+            "lastUpdateTimestampMs": "1501109255431",
+            "description": "ศาลเจ้าพ่อทัพ",
+            "images": [
+                {
+                    "id": "56649a47f8ee476e96057c446d214067.17",
+                    "url": "https://lh3.googleusercontent.com/Mcee7wj9ww6XaSfdLLIpAyU7bqaZSIYgFHU7reH4m-sE_hLeK22PjOvXGb-rHj4mED79XMAHxmVNOrssIS1_bBunxO2X"
+                },
+                {
+                    "id": "b38133b1a8df4d4baaac2e4b8856bd93.17",
+                    "url": "https://lh3.googleusercontent.com/RIaptrmUcYn1RcQuz8pww3ggn9bCzEAbnL_wxmduqHk2LsUuPHDhIi00MD08_R-Vupcsuo9MOG2qbFfx7FZZ_G0zPN0"
+                },
+                {
+                    "id": "ae714d7902a2490c8426f4a91650045e.17",
+                    "url": "https://lh3.googleusercontent.com/mYhbyBvXozcjoM8yfIPD-O_Pr-H3OmF3xeeQqBpENIYN3OzrQtRda0kMSAoGilp4giHS-Ig6spkEpKeC3z847J89LA"
+                },
+                {
+                    "id": "c19efdc7e736432ca0567ec6d2fb8ec0.17",
+                    "url": "https://lh3.googleusercontent.com/TEXoDdI1FKsKqIlWkKZH9t3eWc1Gx65JJdDAjpPkYMrB5FCjP_wf_JoO9IXgd5bImeekQQNTy_8UCFQ_Kve-jYtTHdE"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.381
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.374
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.208
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.381
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "cca4d6e985fc430f8e140186d094c7c7.16",
+            "hashedId": "da0fee8ecc3dda974eaebfbcb361050229fb8709",
+            "title": "บิ๊กโบว์",
+            "state": "GAME_REJECTED",
+            "lat": 13.650058,
+            "lng": 100.59709799999999,
+            "lastUpdateTimestampMs": "1501109827763",
+            "images": [
+                {
+                    "id": "1c0cc1c553ea40a183d92fda892153d2.17",
+                    "url": "https://lh3.googleusercontent.com/hqkH18-g5SpgEDR1J46xPC7gLOicCKsYV6EEwfTvoejTYe7SOwT_BnsZivw4xtxmdslaIyIbxXSKQxCPci3VRmuMWzhL"
+                }
+            ],
+            "address": "Sukhumvit Road, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "cddc84e63fa343899719f37425523992.16",
+            "hashedId": "b8c34871fffc69ba544a5a8d53c37a494a88cd49",
+            "title": "วัดด่านสำโรง",
+            "state": "LIVE",
+            "lat": 13.647546,
+            "lng": 100.600104,
+            "lastUpdateTimestampMs": "1560223872953",
+            "description": "วัดด่านสำโรง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในหมู่ที่ 1 บ้านลิขิต ตำบลสำโรงเหนือ อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ",
+            "images": [
+                {
+                    "id": "ff94586edfcd4895b24e9b22335aa2ac.17",
+                    "url": "https://lh3.googleusercontent.com/nIUf0oKLdYZSF5_zfXZ5wjzhVpFtjRMmq-tR7kSbl0YyUU4VvihtM9361FADGhzcl2Eqt6TjZE7LgWIqCY6iCZM1dw"
+                },
+                {
+                    "id": "a152ddd9a9ac49a9b4df2cf8b0a45b2a.17",
+                    "url": "https://lh3.googleusercontent.com/ydHI56gNvKc_029jE7y-FHKRpDNxqh3TJ48XJDzhsQ76OujsvVQcbrUEuoLN8obMBfUxFaTJPIDDqhMvGrVVbab1CIU"
+                },
+                {
+                    "id": "cb90fe2ad3614d91a3a9b3accfa5d7b2.17",
+                    "url": "https://lh3.googleusercontent.com/sE8SKHNVG6PU3Umcyh2VyjTRUOCrc4cQ9d0zBhwwT0OVVI88lETLPSGvqnhSWmbDadcl2dw1ohJH0-u2enu_KU65pLE"
+                },
+                {
+                    "id": "29a0d2675f774d35ab50537fafc3b02b.17",
+                    "url": "https://lh3.googleusercontent.com/FgG37lacoNXP3L_YYBprtCpKQjyqlZLtRwsl064czk4tTewdYA4KeELA9Ej_MGaAMCsL82_pbtM3QEJGEFIvKvb-3IQw"
+                },
+                {
+                    "id": "a043986c9885425a86f5062edbdbc849.17",
+                    "url": "https://lh3.googleusercontent.com/hH3wcST_xqdvHI5LpwpxUVpRuq2fLB0s9Z35eCQl2BbMK-3JJ9fgvHY_HQpUFY2AUmRv9Xrx5HbL2_ZxmgGvfszAkItF"
+                },
+                {
+                    "id": "ce7ca57a62b2351ca5023a186cb67d07.17",
+                    "url": "https://lh3.googleusercontent.com/aX9UvgKcAVLO1dTPsSBpXbFT5lGDQGlLGXLQOX8i5WvLACKWV9pfKrCItePPzFuunWLSMPJsctAAxuyercE15QaD9lD1pz3eoNbJ8TDD"
+                },
+                {
+                    "id": "ec2b478d698f45e5b676889fd2e0a696.17",
+                    "url": "https://lh3.googleusercontent.com/UaLx5pROnKpdcQS_b3VrhhSCEuCcGYNKe0BGILD-wQyfMRPVBb7g-UFUki47h4u4kqLmoD48Nd34czD3lRd6o9ppSt4"
+                },
+                {
+                    "id": "4457ae20909244f8a81e403eff14b36e.17",
+                    "url": "https://lh3.googleusercontent.com/6fwqeNkA1hsdJ48F8I_XWqMhPwxXo5o3wuzPyjEfSiCVCh6fFWqickxNV0estPN-iFkvx8BDU7OTWscCQ7jp30acig"
+                },
+                {
+                    "id": "fac30ed20ede4cae9d8a814c325d59a5.17",
+                    "url": "https://lh3.googleusercontent.com/88hmCNB2eZ0Y_MO35JFeac7Mu4H105plB9dnJfIRuqmP1EvbRiM_S57mzxJ9AOUiP9rzMu5PBVc0YwL6pOWyAjAW0fE"
+                },
+                {
+                    "id": "0bc2cdb7794238afa66859d7c77b5beb.17",
+                    "url": "https://lh3.googleusercontent.com/yTY-bpmZUAJiws8xKve_-CWhB1r0uCRcbVSu_MoXeK-u_uWwUNl4RP_2Cdf8Y-mEJL3LENX1qYdvFjuCWJEbcHn3Q6pwIqcwPjbG9JQj"
+                }
+            ],
+            "address": "Sukhumvit 113, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.916
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.199
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.091
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.916
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d6433218f51635428a3db9386c9b592f.16",
+            "hashedId": "868418642d679d38a1aca8322adba154e59b4191",
+            "title": "ศาลพระภูมิสีขาวคู่",
+            "state": "LIVE",
+            "lat": 13.647228,
+            "lng": 100.594825,
+            "description": "ศาลพระภูมิอาพาร์ทเมนทฺ",
+            "images": [
+                {
+                    "id": "181a54aaecc53b269f29e8352d475aa8.17",
+                    "url": "https://lh3.googleusercontent.com/-nk_S5A7FmavvAcdGJATjYju5UOdipE3efasudx_jqpFneFdZbZKnNYfxvpghIdEOAwEa6vzxPGA47olQvQbgASVyrV2bCKLFYSJ8Ki4"
+                }
+            ],
+            "address": "38/9 Soi Sukhumvit 80, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1695727063706"
+        },
+        {
+            "id": "d93d8633a4463bf2a83adccccdd045bd.16",
+            "hashedId": "cc85e42a246692260eeda3b8344ba5fd79eb7a66",
+            "title": "Water Tower Samrong",
+            "state": "LIVE",
+            "lat": 13.647692,
+            "lng": 100.59529099999999,
+            "description": "หอเก็บน้ำ ย่านสำโรง",
+            "images": [
+                {
+                    "id": "94e84e9385ba3e07a02af9e5f85d4687.17",
+                    "url": "https://lh3.googleusercontent.com/QxD977jiLscTjcK5JSnenmR7TrCgLhFiDdQJPVQvuNrZWpiwWWUQM-8P-F98UOCTqr8h9kJY8dCBPn9I82bNflWwlxBrBQkm1xVecLKb"
+                }
+            ],
+            "address": "424 Soi Sukhumvit 80, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                "name": "Water Tower"
+            },
+            "qualityScore": 70.111244,
+            "categories": [
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower"
+                },
+                {
+                    "id": "c59b6fab4753dcedd4e488ea844fb6df",
+                    "name": "Tower"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1671166728592"
+        },
+        {
+            "id": "da51c29a81ae3e6c8b5bc961118133c2.16",
+            "hashedId": "a2ff6a68d25cd9c43bf397b309353f19c2d7fcac",
+            "title": "Samrong Station (Yellow Line)",
+            "state": "LIVE",
+            "lat": 13.644938,
+            "lng": 100.596949,
+            "description": "สถานีรถไฟฟ้าสายสีเหลือง สถานีสำโรง",
+            "images": [
+                {
+                    "id": "a5905a33334737cebacecc3b46ecff68.17",
+                    "url": "https://lh3.googleusercontent.com/Q1ucp_2XHgVreQwEpcw6Hifb__-as642cUhluMYcRdv8T2JQXa4p2ysITNKMzTLe20QK2UdMW2g5QAYyJNsMxlfCAY-wZetgTp7hMLJH"
+                }
+            ],
+            "address": "JHVW+WRW, Thepharak, Mueang Samut Prakan District, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Thepharak",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "db55bc74a2fbefe1b15371ade71559b4",
+                "name": "Train Station"
+            },
+            "qualityScore": 78.73993,
+            "categories": [
+                {
+                    "id": "db55bc74a2fbefe1b15371ade71559b4",
+                    "name": "Train Station"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1695113296344"
+        },
+        {
+            "id": "ddbacbe5aa47492db386500edf89fcf5.16",
+            "hashedId": "62a9da2557d3d044100cb5e2edc9e152766656cd",
+            "title": "Spirit house",
+            "state": "LIVE",
+            "lat": 13.649645999999999,
+            "lng": 100.598001,
+            "lastUpdateTimestampMs": "1589895752974",
+            "description": "Pious for people",
+            "images": [
+                {
+                    "id": "6e16d1a1cdb2463d9956a7ded9a4e3b6.17",
+                    "url": "https://lh3.googleusercontent.com/AOFaPZYuxoze8WenC_DmwyGQX1FEZo2f-XpxG13usiZg4gCdljVEvEjeS7jVnpe3vgtU9EbWikjmuiMa8cOTdPtFkQPA"
+                }
+            ],
+            "address": "10270 Phon Sawang 1 Alley, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.111
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.125
+                },
+                {
+                    "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                    "name": "Rest Area",
+                    "score": 0.105
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1578356249522"
+        },
+        {
+            "id": "e64e36d359ca4ac184acee7511a69456.16",
+            "hashedId": "a3e5b47580cee7f581d1fa111eed43b1f059c664",
+            "title": "พระภูมิ",
+            "state": "LIVE",
+            "lat": 13.650207,
+            "lng": 100.593665,
+            "lastUpdateTimestampMs": "1557987577446",
+            "description": "สำโรงเหนือ สมุทรปราการ",
+            "images": [
+                {
+                    "id": "a8907ffacae746b1a0f62263c6d5068d.17",
+                    "url": "https://lh3.googleusercontent.com/EU6hVUrGiGgxqViJEm6OfFTZ4rkJuuqonhCIGJIFwuA8gPV-24LJgTrOyPGssgSMyCsjsl-7em9j9sitqX3D1l4ZOywX"
+                },
+                {
+                    "id": "5b8ee73c13d54e84bc4e93c822dbd81b.17",
+                    "url": "https://lh3.googleusercontent.com/boP21-WtBwu0f1VjC7rEh3TlJJdU3es7BoxzPmRT_YkvQtCIbLDu-IqA__LqrXID_xfejnwVj3cxXJVVKRpbHXlYicmX"
+                },
+                {
+                    "id": "4fb13bc21fa74fac8af37bef1193f277.17",
+                    "url": "https://lh3.googleusercontent.com/OkVDZBhAiCExCPllQoKIhGHJ3zlpHFRzDsh84qgzHsMLHPPoFiIn1gAOu56zqmIgUG3ZI4lhV2nEw2_ptz6f4dcriQ"
+                },
+                {
+                    "id": "c507cb5c1f1e421b895dc9431e5052cc.17",
+                    "url": "https://lh3.googleusercontent.com/IKY2ZU4i0lbnreJ-JBkhmlbr-ICpASUmVd3Z3CWcEAuvctMCxmgBSx8ZBWYeYTWVm0c_54aNQOFkhpMGyZwuh653rcg"
+                }
+            ],
+            "address": "Thang Rotfai Sai Kao, Sam Rong Nua, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "Samut Prakan",
+            "city": "Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.235
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.141
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.209
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.235
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ef61812bbf2c38b4a66e815bdef5ed91.16",
+            "hashedId": "788fefab9696630a4be0c527f8d20d6253e683e5",
+            "title": "Graffiti",
+            "state": "LIVE",
+            "lat": 13.64936,
+            "lng": 100.598457,
+            "description": "งานศิลปะ บนกำแพง",
+            "images": [
+                {
+                    "id": "e99aa3b463613b1594927b4df96628c2.17",
+                    "url": "https://lh3.googleusercontent.com/PujycrvCSvKoq0157C1DMPFAUEWwlmDZ1tBbyCCBHb4wZtt34ii-17zp3gvdgkTjF3ecTUC_m3UkoqoEfMyo93O1c6HVwuh-OmpnmTnA"
+                }
+            ],
+            "address": "JHXX+PC6, Samrong Nuea, Mueang Samut Prakan District, Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Samrong Nuea",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "2b084e300609a053b412f62cb6ad4ff7",
+                "name": "Painting"
+            },
+            "qualityScore": 88.88149,
+            "categories": [
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting"
+                },
+                {
+                    "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                    "name": "Graffiti"
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1644728272844"
+        },
+        {
+            "id": "ef95027aabd04fafb50562418ad11268.16",
+            "hashedId": "6a14f0ae8b2adcbbe07618e4c200ab84ae20b8b5",
+            "title": "พระสีวลี",
+            "state": "LIVE",
+            "lat": 13.647421,
+            "lng": 100.599645,
+            "lastUpdateTimestampMs": "1589895523078",
+            "description": "สถานที่สักการะบูชาของชุมชน สำโรงเหนือ",
+            "images": [
+                {
+                    "id": "4fee5cd3c74f430baf6521fa9c452de6.17",
+                    "url": "https://lh3.googleusercontent.com/cnYZ1LEVDa_YNHk8Y5VBDWU7_DuIA4povphNceWcwFCWYfgHgY4pDyq4SZyOdASQqPbGtoLcf_scMeZitiVN8MLJUA"
+                }
+            ],
+            "address": "1713/6-7 ศูนย์การค้าปู่เจ้าสมิงพราย, ถนนสุขุมวิท, ตำบลสำโรงเหนือ อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ, 10270 Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": {
+                "id": "84e574daec6b8d56073510921571bbcb",
+                "name": "Community Center",
+                "score": 0.414
+            },
+            "categories": [
+                {
+                    "id": "84e574daec6b8d56073510921571bbcb",
+                    "name": "Community Center",
+                    "score": 0.414
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.146
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church",
+                    "score": 0.187
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1577292630371"
+        },
+        {
+            "id": "f9fb8bcd8a9630b7a6f3a474157f8d8f.16",
+            "hashedId": "9b559651f032aaa2437a97b4f3b4d2679ccac632",
+            "title": "the metropolis",
+            "state": "LIVE",
+            "lat": 13.646125,
+            "lng": 100.595328,
+            "description": "คอนโดติดbtsเดินทางสะดวก",
+            "images": [
+                {
+                    "id": "2da6071774ad31e8b4a55350470734c4.17",
+                    "url": "https://lh3.googleusercontent.com/RKUY0Wuv5nUuUX6i4EmXp0yuixbuo4zYo4m4bfnrf2msbzXNcFPKqX1OT3vS_h7TmxilHaCsLEhfiyUHN1qN1ysF33Dvl0ONuF9_mLQVGw"
+                }
+            ],
+            "address": "The Metropolis Samrong ชั้น 3 ห้อง 317 JHWW+F3, Tambon Sam Rong Nua, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Sam Rong Nua",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1695969851732"
+        },
+        {
+            "id": "fe80e01f77ef3bd095a85e9887df8f3d.16",
+            "hashedId": "4fdd7234c7c6d760f9128a990bf55847e9318aaa",
+            "title": "MRT map",
+            "state": "LIVE",
+            "lat": 13.645207,
+            "lng": 100.59646099999999,
+            "description": "แผนที่การเดินรถ MRT",
+            "images": [
+                {
+                    "id": "ac4c479ab56035ccb9ea33d2839bbcb9.17",
+                    "url": "https://lh3.googleusercontent.com/IOS1DQMUIV0Txk9EYOoPOQo3cVxheRZ9dXJgWV3KcQsLew_qA85bquDvqzLWBIox-L6dmHxBej0ISV6sEVPwtSuDDUl-9U571lNjOmEO3Q"
+                }
+            ],
+            "address": "Samrong, Tambon Thepharak, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Samut Prakan",
+            "geoStateShort": "จ.สมุทรปราการ",
+            "city": "Tambon Thepharak",
+            "postalCode": "10270",
+            "mainCategory": null,
+            "qualityScore": 71.85508,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1702964474189"
+        }
+    ]
+}

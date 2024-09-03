@@ -1,0 +1,3777 @@
+{
+    "pois": [
+        {
+            "id": "016ad6208d824fedace54544a3220812.16",
+            "hashedId": "9f87d3a13dd3737043835b7b672f4cfdcda62f04",
+            "title": "หุ่นยนต์สีส้ม",
+            "state": "RETIRED",
+            "lat": 13.870671,
+            "lng": 100.54619799999999,
+            "lastUpdateTimestampMs": "1612268398129",
+            "description": "มันก็จะคล้ายๆ ออพติมัส ไพร์ม หน่อยๆ แต่ตัวดันสีส้ม",
+            "images": [
+                {
+                    "id": "31b707962eda4f8f8259985ed7d0ecc5.17",
+                    "url": "https://lh3.googleusercontent.com/Ea4Db_Hbz_wn9MuPscdaMyJTRz4Qbx8YxSkc0v85S60ayTIKc0zwEHT0TdCb7dECjCJD0Xh2zjr5AqV6FXULOCeG5aY"
+                },
+                {
+                    "id": "66ff2bb4a67c4c388105d0370b90e0f2.17",
+                    "url": "https://lh3.googleusercontent.com/lABKcfGtxRj-fgf8ae7CEsKxtOIzpOaxkMjKJDHzR2vf3hRgjOfbPYKZSChbnxgBkHXuBLN_URrVOKgl77nI9zlYmQE"
+                }
+            ],
+            "address": "98 Soi Prachachuennonthaburi 8, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0264d66c0c1c35eba3b4c4c3eabbb557.16",
+            "hashedId": "c136a8e0a53507c16023f22ca263ea36aea6f683",
+            "title": "ศาลเจ้าเรือนไม้ทรงไทย",
+            "state": "LIVE",
+            "lat": 13.870248,
+            "lng": 100.544229,
+            "description": "ศาลเจ้าประจำสนามฟุตบอลหญ้าเทียม ท้ายซอย ประชาชื่น-นนทบุรี 8",
+            "images": [
+                {
+                    "id": "7ff13b6410ef3ad59e82486b33cfdbb7.17",
+                    "url": "https://lh3.googleusercontent.com/6SR1_iFv2fEyrNC51rFDXwRaVcaNvsXDbtbQEDM-zKVZtA0Or1jxXikzf698-9QPsS5Gdj7M1jon02ipaco5cxRv-t_NO5wTvWGlOlKb"
+                }
+            ],
+            "address": "68 Soi Prachachuennonthaburi 8, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 85.135185,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple"
+                },
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1656646109974"
+        },
+        {
+            "id": "0889fa48c03c484f9a93208e07dfe7be.16",
+            "hashedId": "d5e4fe3ee4b5a61b41a56081b52fe69eb58c3aeb",
+            "title": "มหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "state": "LIVE",
+            "lat": 13.869589,
+            "lng": 100.550024,
+            "lastUpdateTimestampMs": "1589896011556",
+            "description": "มหาวิทยาลัยธุรกิจบัณฑิตย์ ป้ายชื่อมหาวิทยาลัยขนาดใหญ่ ตั้งอยู่บนตึก 10 มองเห็นได้จากระยะไกล",
+            "images": [
+                {
+                    "id": "014f4644b2bd4db4b1969904a19e1cb0.17",
+                    "url": "https://lh3.googleusercontent.com/lm0iI0IJ-1SSGmK0EEjH4PyJ9SV85gFrxy-97NUtvfKGmzBm6UnOOKArYWDePqXR8DHCqvRpkatf7rgjkeptJIDDTfA"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.992
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.191
+                },
+                {
+                    "id": "999fc448411afcd33c4c924f9f5e4679",
+                    "name": "Welcome Sign"
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.992
+                },
+                {
+                    "id": "f3675576bd8fb23a7fa5216dd69a1385",
+                    "name": "College",
+                    "score": 0.255
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1575613067709"
+        },
+        {
+            "id": "0899d05e60ae30889cbbb29f2a628cfb.16",
+            "hashedId": "8e2e160657cb9455a07936b2f11a452c4f867bf7",
+            "title": "Ratchaphruek village excercise point",
+            "state": "LIVE",
+            "lat": 13.865447,
+            "lng": 100.548367,
+            "description": "A small fitness center for village residents and the general public",
+            "images": [
+                {
+                    "id": "88eb553b40ad3f0e919ceaafd41321ef.17",
+                    "url": "https://lh3.googleusercontent.com/Nj4RlBxZx9eBxwf5rL1bK64O_cyjkewrQ3drqPFuVujHIdzpKf0rrm9Ga_xNcBxOMkIWXnEECxGJMRnFdMd77tP5pa9bqRpx2pHWuPyD"
+                }
+            ],
+            "address": "150/34 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "aae12013c0f49182495d12e50d9b5d5e",
+                "name": "Fitness Station"
+            },
+            "qualityScore": 96.30879,
+            "categories": [
+                {
+                    "id": "aae12013c0f49182495d12e50d9b5d5e",
+                    "name": "Fitness Station"
+                },
+                {
+                    "id": "c469083e12d884a1b9092e598e447412",
+                    "name": "Gym"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1700133581932"
+        },
+        {
+            "id": "0cf664024597413b8c169da5166f81fe.16",
+            "hashedId": "d076ab11f153c4dd8d54fe862257074bb9cf1509",
+            "title": "น้ำพุ",
+            "state": "LIVE",
+            "lat": 13.869693,
+            "lng": 100.55106699999999,
+            "lastUpdateTimestampMs": "1595258385163",
+            "description": "น้ำพุ",
+            "images": [
+                {
+                    "id": "2ab0a10de63e4f5da64e5b1f5725b272.17",
+                    "url": "https://lh3.googleusercontent.com/buK0Tl2yh7Jlxpx5fNdJ-9RbyqdcVz5Rm1Cn-0fqYMPER3ZNhtdCbO86UqBikW983wFDXhJW8cX_VBOVYs2Y-PPdAjtN"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen, มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.999
+            },
+            "categories": [
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.999
+                },
+                {
+                    "id": "abcae25a2a58779f429ddf2b69b7b7a3",
+                    "name": "Park",
+                    "score": 0.047
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.045
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0f3997426c5340a8bb91cc4bdc01c040.16",
+            "hashedId": "3fb50befbea27d08a09f8a9be57a6a172c60eef4",
+            "title": "สนามฟุตบอล มหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "state": "RETIRED",
+            "lat": 13.869850999999999,
+            "lng": 100.550437,
+            "lastUpdateTimestampMs": "1578371923884",
+            "description": "สนามฟุตบอล มหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "images": [
+                {
+                    "id": "675dab37ed634d53ac9e081d2ec7a3a2.17",
+                    "url": "https://lh3.googleusercontent.com/GMLxYRZL2BUCAqUzphnyAxm8NxpGhU6BdMU3g5vxXnUn-kHLxP7b3_ed_SC_C7UheapvW0o-AGlqomgeZyX6omnlSEY"
+                },
+                {
+                    "id": "847fe9d74afc426aa694d81414d830c7.17",
+                    "url": "https://lh3.googleusercontent.com/BnwPIW5ouBktuBQc2hmQjCrBbYHsEe3Qyy_ovlcpDu_hGf4pb1xIbMq_FH7mdtPAvXnynrw7Xxv0wpl1WneOEYD1fmMl"
+                }
+            ],
+            "address": "Soi Mu Ban Plus City Park Ngam Wongwan 25, Bang Khen, Mueang Nonthaburi District, Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "0f6d0db3f2114f64ba26a735792ee177.16",
+            "hashedId": "793e5e7c6ce6f10d6db89150356c3bedccfc8c04",
+            "title": "ศาลพระพรหม JJ Green 2",
+            "state": "LIVE",
+            "lat": 13.868151,
+            "lng": 100.548611,
+            "lastUpdateTimestampMs": "1589895805630",
+            "description": "ศาลพระพรหม ประจำตลาดกลางคืน JJ Green 2",
+            "images": [
+                {
+                    "id": "6ac207c8b46843de95202d1ee9e7bd95.17",
+                    "url": "https://lh3.googleusercontent.com/ByOIHWuWZr7SRkcq4FVaF3F0Mu2UdzMOr2yQMrroFcj-Sls5mJBcqxhsEf3duQlbx0GoyfKQA0bE5RHs8yEc98iqEg"
+                }
+            ],
+            "address": "61/3 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.102
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.09
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.102
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.071
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1584341262516"
+        },
+        {
+            "id": "123d0dfd7f8748079954d24be3a11f89.16",
+            "hashedId": "dad9e6edafd0850ca35c9d4eadfec8fa14583a18",
+            "title": "ตลาด JJ Green Square 2",
+            "state": "LIVE",
+            "lat": 13.867982,
+            "lng": 100.54831399999999,
+            "lastUpdateTimestampMs": "1589895696382",
+            "description": "ตลาด Night Market \"JJ Green Square 2\" เป็นตลาด JJ Green แห่งที่สอง ที่ย้ายมาจาก JJ Green จตุจักร เปิดวันพฤหัส ถึง วันอาทิตย์ เวลา 18.00 น. ถึง 24.00 น.",
+            "images": [
+                {
+                    "id": "f7498511420f4ab3b0f900f44f4f955e.17",
+                    "url": "https://lh3.googleusercontent.com/U0OxR3U2zlt12be4ChgwDkmNdP3H7lT7-nQoZ2MyDonEcv22bpmHu5QhTwccNuKL614j54_ic6poFqxj2R-sD5WEY9o"
+                },
+                {
+                    "id": "883dbe929bdc483290c1dd6ec5677145.17",
+                    "url": "https://lh3.googleusercontent.com/MOr61RtRt8tMbVbBmYMBdvhybVN2vbmTV0PJDNMJiQF2edIAJl5r47kYBkR_gZB-6k3rYa1mR1XyBS8kJu5vITrmBsM"
+                }
+            ],
+            "address": "เลขที่ 61/16, แขวง จตุจักร เขต หลักสี่ กรุงเทพมหานคร 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "กรุงเทพมหานคร",
+            "geoStateShort": "กรุงเทพมหานคร",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "2b53450af0c24cd79053f1fc64ee11b8",
+                "name": "Open Market"
+            },
+            "categories": [
+                {
+                    "id": "2b53450af0c24cd79053f1fc64ee11b8",
+                    "name": "Open Market"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.154
+                },
+                {
+                    "id": "99cdfc5b63c22f6ce6707865db95afe3",
+                    "name": "Gateway"
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.073
+                },
+                {
+                    "id": "d184b15bccc683c93a009381adb5e4d2",
+                    "name": "Shopping Mall",
+                    "score": 0.102
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1579160293494"
+        },
+        {
+            "id": "123d8c0c0b983b899573e64dc24288ba.16",
+            "hashedId": "42f69ca3a17657ff5a58f25176303f4c763a8ad1",
+            "title": "ศาลพระภูมิ ซอย 8 แยก 4",
+            "state": "LIVE",
+            "lat": 13.870944999999999,
+            "lng": 100.54652399999999,
+            "description": "ศาลพระภูมิใน ซอย 8 แยก 4",
+            "images": [
+                {
+                    "id": "76cb47dca123308c8bf1ab5df35c71f5.17",
+                    "url": "https://lh3.googleusercontent.com/godTfE1JCU5V5ujYNGWV9H1EJjj3nQEvEoRv0BAAFmhkALBhCDKxzybx4xwADsrARwDPLVR58NUCHQU84Om-l7Mbcyg"
+                }
+            ],
+            "address": "76 Pracha Chuen Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1677048316476"
+        },
+        {
+            "id": "223646d2ad82463e83466b40a7044588.16",
+            "hashedId": "d63fbe021f61a3ac044f80874938364dfecfa4cf",
+            "title": "DPU Elephant Floor Lamp",
+            "state": "LIVE",
+            "lat": 13.871747,
+            "lng": 100.549784,
+            "lastUpdateTimestampMs": "1610288618922",
+            "description": "โคมไฟลายช้างไทย 4 เศียร มหาวิทยาลัยธุรกิจบัณฑิตย์ หลักสี่, กทม.",
+            "images": [
+                {
+                    "id": "b1123e2c275446f88e9f4ee627ac3456.17",
+                    "url": "https://lh3.googleusercontent.com/yBNUv-3VC_MkqfeA6rolPCsrAThb5EDeFPQmODmBd7vdfwvMP0drrpE5kn1wq-_doKdV0a74aGF8mvJjnuok245jHw"
+                },
+                {
+                    "id": "b2e9d4cd35104d01a20251bd58149583.17",
+                    "url": "https://lh3.googleusercontent.com/xSyNR7ZPcvdCVyQSjb8FoPx2i1UtfZopKvmKJJqanQMJnflsvy859rypn-i6OBHQYV3BMIzDHjDas9PkRaAerQjUZTw"
+                }
+            ],
+            "address": "317 ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "254f17fb1c5948a099787e01e551099b.16",
+            "hashedId": "18b28d2e400c470241962335c99fe7e8a2ef4476",
+            "title": "สี่สหายโอ่งน้ำพุต้อนรับขนาดยักษ์",
+            "state": "LIVE",
+            "lat": 13.870294,
+            "lng": 100.546216,
+            "lastUpdateTimestampMs": "1609856586455",
+            "description": "โอ่งน้ำพุต้อนรับ ขนาดใหญ่ 4 ใบ ลวดลายการออกแบบตามศิลปะล้านช้าง",
+            "images": [
+                {
+                    "id": "b7637f0674454464997e3a52b1fe984b.17",
+                    "url": "https://lh3.googleusercontent.com/ClmvArCSXaedfMUpMEsa06ypAZFstaJ3YARpSwhO0mzBUVIYckyJVIOvRGRE0RqvfcvlMQzqcai77LG8Qkyy0fzhJYAMwt-A4K9c0xu95w"
+                }
+            ],
+            "address": "7 Soi Prachachuennonthaburi 8, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.986
+            },
+            "qualityScore": 80.65234225852984,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.352
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "83d027af8025458e96e088c113fc9875",
+                    "name": "Water Pump"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.986
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.074
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1609501720582",
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1672067872649"
+        },
+        {
+            "id": "25ceb5eb3bbd4af3b454b1f8167b68b7.16",
+            "hashedId": "0691cbe99a64e17e4d2704cd691985feb0a0df70",
+            "title": "ศาลาทรงไทย",
+            "state": "LIVE",
+            "lat": 13.871297,
+            "lng": 100.54964799999999,
+            "lastUpdateTimestampMs": "1589895704572",
+            "description": "อาคารทรงไทย มหาวิทยาลัยธุรกิจบัณฑิตย์ ใช้เป็นพื้นที่จัดกิจกรรมต่างๆ",
+            "images": [
+                {
+                    "id": "a23f3ab043b04521b8600487f566606a.17",
+                    "url": "https://lh3.googleusercontent.com/3KeIvz--qEVmTl0aLivSiCKN4MpSMpJbENdikZRXCO82_b62FGo0DwZiEhwuvteKP95k9Jt4YlyESUeoiT58JI50MQ"
+                }
+            ],
+            "address": "110/5 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.933
+            },
+            "categories": [
+                {
+                    "id": "9bad4f33027ca1d80109986e055488fb",
+                    "name": "City Hall",
+                    "score": 0.097
+                },
+                {
+                    "id": "9c7ac0bcc27549bcdc56088791be8ed4",
+                    "name": "Performance Hall",
+                    "score": 0.413
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.933
+                },
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1579083734212"
+        },
+        {
+            "id": "2ad83b7aef034533abd454f56401d123.16",
+            "hashedId": "e47c9bcedea1273b992c3f87ad8ea10e279a00fd",
+            "title": "หลวงพ่อโตซอย 7",
+            "state": "LIVE",
+            "lat": 13.867367999999999,
+            "lng": 100.546674,
+            "lastUpdateTimestampMs": "1572546317823",
+            "description": "หลวงพ่อโตซอย7 กลางวงเวียน",
+            "images": [
+                {
+                    "id": "4a52852b811942e5aad702f716ccdbea.17",
+                    "url": "https://lh3.googleusercontent.com/BpSTWoiPkC99MFkk2lokPTTJSMfbuK_2aooCQUVkQkdT8ojXY_2dOlT1m1ie740a4m-iJkPBWgWwb41Vnb1QkTyXMQ"
+                },
+                {
+                    "id": "360d748ff9e6453f9e3cbaaeb40cb139.17",
+                    "url": "https://lh3.googleusercontent.com/v6hFVRKolzMAJMBDNM_rC2VqdOVOYHR9tG7Ml6O1Xwlq6a7YLqKarWnJyU_twKqomGd_jt2DDF4U0PVvHzVW1GAgXg11"
+                }
+            ],
+            "address": "Soi Prachachuennonthaburi 7, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.233
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.148
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.233
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.099
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2b3bad01e4f549fca4e05f93a351673c.16",
+            "hashedId": "190170dad5a73195f7c9c6599e4f2e64c771ce6e",
+            "title": "เดินกะลา",
+            "state": "LIVE",
+            "lat": 13.869731999999999,
+            "lng": 100.549568,
+            "lastUpdateTimestampMs": "1594941223643",
+            "description": "รูปปั้นลอยตัวเด็กไทย กับการละเล่นในสมัยก่อน",
+            "images": [
+                {
+                    "id": "ac6a90dab6924f4e80083a20a44d99d8.17",
+                    "url": "https://lh3.googleusercontent.com/M-P4qHs_vkMxcI3MtYNSwAwC_H5pZR2ltK3Lf3PvowzE5Z0Wf_ZtvW7Co2luOERa5do3YmY1tH954yGAvMVsLkGLDA8"
+                },
+                {
+                    "id": "d05c0a357d61466ca8ad2a0803653ec8.17",
+                    "url": "https://lh3.googleusercontent.com/iHT1KDAwxXnv3TUDLM4J9mOgdtsRgEwomTyICG-hQNg_lMyoMu-HEOpm2D9J0qGhWUuF8Y3-yyTIZiOm5b2cFYg2YDEd"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "3d62e6a4c11d43527cf1316c81398804",
+                "name": "Playground Area",
+                "score": 0.526
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.526
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.332
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.289
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "2b65fdee55a74468ba9324edf1221369.16",
+            "hashedId": "e369cbf1451f2baa867176bbc3587c9767fd4177",
+            "title": "ดร.ไสว อาจารย์สนั่น",
+            "state": "LIVE",
+            "lat": 13.871248,
+            "lng": 100.550101,
+            "lastUpdateTimestampMs": "1592547437555",
+            "description": "ผู้ก่อตั้งมหาวิทยาลัย ดร.ไสว สุทธิพิทักษ์ และอาจารย์สนั่น เกตุทัต เมื่อวันที่ 30 พฤษภาคม พ.ศ. 2511",
+            "images": [
+                {
+                    "id": "09c230d4446a419d8cbbc8587838e539.17",
+                    "url": "https://lh3.googleusercontent.com/unpgFqhr8lR5qT6mBqAaU2XbmtfqG9XkUpUISdwC8PWIZnvgKeBi9i-jM5gCY_IQv5XuB3dxE--Y6HMXjJ6yXIqBKJJK"
+                },
+                {
+                    "id": "6309786bc2ed46c4b6b14d23841ec5b9.17",
+                    "url": "https://lh3.googleusercontent.com/cKgk6wE-fAW4JfBBwIAAtUWTXAxiu6KRicFEl9Vi-vZzTwlocq3tScSJBBDH4eS0iYz4zjUYoI2ekWHQTf4BzGiCqvw"
+                },
+                {
+                    "id": "eb0d67de5bc54a2d929e72a60bc81bee.17",
+                    "url": "https://lh3.googleusercontent.com/-hVCAWcZ7j5TatgX5uamlNzIscJs2st9hWG4pRzIAoEFJULNWUKO7iBh8Sa2UnGq3WgCbDO2nk8fYO2ElJNpRgVUqw"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.313
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.265
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.274
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.313
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1671358760503"
+        },
+        {
+            "id": "30e98d9648ea491bbd3e80d171382342.16",
+            "hashedId": "805b5a5f97deeeb21b7632e18f06327e2baf852a",
+            "title": "K.GYM Train Different",
+            "state": "LIVE",
+            "lat": 13.872385,
+            "lng": 100.545997,
+            "lastUpdateTimestampMs": "1582648115574",
+            "description": "Kay Fitness Gym : เค มวยไทยยิม ซ.ประชาชื่น 8/1 กทม.",
+            "images": [
+                {
+                    "id": "f82143f44e7c3abd98789e02040881bf.17",
+                    "url": "https://lh3.googleusercontent.com/uCkT1yTo7FtHXgZXvVHWninqGTP3W4nJE_SWmqmol3CnFEtyPh062jf3kfElpxy0Nlna9b9EL8qkdbZ3prkrfm6O3qEhomRaWCB4b3f3hw"
+                },
+                {
+                    "id": "b3fce437e1884edd9abbddf9275d8888.17",
+                    "url": "https://lh3.googleusercontent.com/c6Wxaw0MRpadFArU9pg95ppOz-q4c9Wg1ALIGnZxL0-4NeIl6HFzfe0faqsrxW8VRwSvRDJ__hL0fIiQ1607yfYETxk"
+                }
+            ],
+            "address": "Prachachuennonthaburi 8/1 Alley, Tha Sai, Mueang Nonthaburi District, Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.991
+            },
+            "categories": [
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.2
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.991
+                },
+                {
+                    "id": "c469083e12d884a1b9092e598e447412",
+                    "name": "Gym"
+                },
+                {
+                    "id": "e117ee4f06266ce18d4e6b8c42fd4227",
+                    "name": "Recreation Center",
+                    "score": 0.053
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1671297771968"
+        },
+        {
+            "id": "3106938ab8dc4af2b97418503059039b.16",
+            "hashedId": "8c25f0869b792c3530b71246b1fce61c0a036513",
+            "title": "Elephen DPU",
+            "state": "GAME_REJECTED",
+            "lat": 13.869731999999999,
+            "lng": 100.55174799999999,
+            "lastUpdateTimestampMs": "1501109849537",
+            "images": [
+                {
+                    "id": "ce0c159172e04716a0d77da5d9c1b385.17",
+                    "url": "https://lh3.googleusercontent.com/fPTgPNeUPB1BPoQfII9zxcVZRN4J7VYMUBkBTZXxPTxeQIA8x_u46U8X46BFa_KpD_Ukoih-sUtnMGFX5eH3zrs3q5Y"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen, มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "31625cbe21844737ac458b4f9eeb41ec.11",
+            "hashedId": "b4cdd8a609c78330f726166637e809595b20bc9d",
+            "title": "Dhurakij Pundit University",
+            "state": "LIVE",
+            "lat": 13.870844,
+            "lng": 100.549011,
+            "lastUpdateTimestampMs": "1575495748667",
+            "description": "มหาวิทยาลัยธุรกิจบัณฑิตย์ก่อตั้งขึ้นเมื่อวันที่ 30 พฤษภาคม พ.ศ. 2511 ภายใต้เจตนารมณ์ของ ดร.ไสว สุทธิพิทักษ์ และอาจารย์สนั่น เกตุทัต",
+            "images": [
+                {
+                    "id": "237560e8634244e59a02ab83160045b0.17",
+                    "url": "https://lh3.googleusercontent.com/8u1ecaEgsdWGGH5_QPefnvcZOykWc6SpqiSnS0QLLhn9o9TN_bqg_Ys9qk4IjeMgFmeD2O3qoWPEHRva1QOZwrhbBtxK"
+                },
+                {
+                    "id": "d6cf9409e7fa414a94b07b484b16e0c2.17",
+                    "url": "https://lh3.googleusercontent.com/AVsV_nbty2p71WpdDHk86caJSPTyQvsB9fDG4gnS7F0RXIWdsq8FIbfLUZJqK0lx_Oe-TdJlnuUDmV4tUycaomhEovI"
+                },
+                {
+                    "id": "145d36b558ae4903a9db016206e6df5f.17",
+                    "url": "https://lh3.googleusercontent.com/Yy5cHc_Ftjw8LgpspbZmOAYdEIALwl4W9WHKDckrxcM_qtcErptgJ0GhKt2UgFVkJU0-UmJuRmDKaj2O8gzchUBb4w"
+                },
+                {
+                    "id": "0ba2f5e91456481eacf2a909cb947094.17",
+                    "url": "https://lh3.googleusercontent.com/gIhLx2YOlmI0RV4WuI6O7SExgIfBd8CoxBkjXdTRcrZa4APo6KFGxKf6lw2TvzKeGZgfA0OhfWI2UeYlCnH8yrGdzC0"
+                },
+                {
+                    "id": "85590fbb2e1233bc84f68c96802eedff.17",
+                    "url": "https://lh3.googleusercontent.com/aL1tG-BsdQ6BON7VIkq9D6Z45OUcJwUQJ4pZsaAF1oJQJkItLFeJ_oRyk0KeimVY8Oe0cYcDWtHbmUGtySRKX0sP-ltux417jdgu5krwTg"
+                }
+            ],
+            "address": "110/7 Pracha Chuen, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.993
+            },
+            "categories": [
+                {
+                    "id": "2e7cb063c63fee882e8212c6a88472d4",
+                    "name": "Plaque",
+                    "score": 0.17
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.993
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.142
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "EXPERIMENTAL",
+            "vpsActivatedTimestampMs": "1660202848546"
+        },
+        {
+            "id": "331da744c49e4973abc3df71ee359a87.16",
+            "hashedId": "af9b03734e957676d990750214af1d8f8379657d",
+            "title": "ขี่ม้าส่งเมือง",
+            "state": "LIVE",
+            "lat": 13.870033,
+            "lng": 100.549782,
+            "lastUpdateTimestampMs": "1572554505633",
+            "images": [
+                {
+                    "id": "bf4580a33ada4bd8b1a150ae86dd3ad4.17",
+                    "url": "https://lh3.googleusercontent.com/vdoGSei_E2BnHNqrbtyJsEXV6CWgtn35TY7N0L7bhvWRuoHR4MG_3UxSGA7Y5gq-ftMf-PcDnM-hqSAsSPPu_rKeTN4"
+                }
+            ],
+            "address": "มหาวิทยาลัยธุรกิจบัณฑิตย์, 110/1-4 ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.419
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.114
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.419
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.164
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "363b4206c0304fb08b42d267f03669dc.16",
+            "hashedId": "1d3c96b0ed50b93cd4e89a96fc742dbbea6d79d5",
+            "title": "หัวล้านถือบะหมี่",
+            "state": "LIVE",
+            "lat": 13.868164,
+            "lng": 100.550788,
+            "lastUpdateTimestampMs": "1590499568826",
+            "description": "รูปปั้นลอยตัวขนาดใหญ่ หัวล้านถือบะหมี่ ในตลาดกลางคืน JJ Green 2",
+            "images": [
+                {
+                    "id": "fde261a672fd4254a8aa205eaa901113.17",
+                    "url": "https://lh3.googleusercontent.com/LStrAaASBfqGP5hgKrSRZcMKUmFymPHuGCIxGKNGQ4ceposJiAJe5JZETLmT6Sd_fWQ3CvMHLrME2KdnLRZxVjDkfqSs"
+                }
+            ],
+            "address": "333/335 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.733
+            },
+            "categories": [
+                {
+                    "id": "2cb2078a28859a376087bcfb909c374b",
+                    "name": "Restaurant",
+                    "score": 0.233
+                },
+                {
+                    "id": "7ac387dc5b896116bd3a881e4fcbd867",
+                    "name": "Bust"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.733
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.586
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1589912849266"
+        },
+        {
+            "id": "36cecee0134c42f98eb4c37a42182fc8.16",
+            "hashedId": "6196babb49f093a290d99c7994b0a6ae1602dccf",
+            "title": "นางคนโท",
+            "state": "LIVE",
+            "lat": 13.870771,
+            "lng": 100.55116699999999,
+            "lastUpdateTimestampMs": "1572546181825",
+            "description": "รูปปั้นเทพี ณ ตึก 7 IT DPU",
+            "images": [
+                {
+                    "id": "49d37b5244424e648cc831ec80cd6559.17",
+                    "url": "https://lh3.googleusercontent.com/t_jtVXstxUcSu92rd5Jebsb33jI9RQMncvufc2uALXvYdb1VFZwYbm1yJi9bUox0IQ78mHM7d1CxZqxC5pBAFnsJ3Q"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.677
+            },
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.09
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.424
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.677
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "37bf6c747c004a01b5695d03e19fb701.16",
+            "hashedId": "bf3644d9d5a416ade2b8823692a72916f05d5eb5",
+            "title": "เฒ่าทารก",
+            "state": "LIVE",
+            "lat": 13.871729,
+            "lng": 100.550388,
+            "lastUpdateTimestampMs": "1592321061698",
+            "description": "ตุ๊กตาดินเผาไทยโบราณ",
+            "images": [
+                {
+                    "id": "fd1fe504446d412b8b5095fe4fe929cc.17",
+                    "url": "https://lh3.googleusercontent.com/5FaUB7sLEDJGhiJxiddcKq37Ukb8seYVltm7xM9PgmHvvB9kJreMM48UMHHq71EfbeLTzFZXILAeIr7EzszVIjn9bQ"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.686
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.686
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.285
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.164
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "3a88a7411f0d3c2db0b0ba10325136e0.16",
+            "hashedId": "5b54293d4618c73f319c658e6473f64c5ab0db1e",
+            "title": "ศาลพระภูมิหอพักลิตา",
+            "state": "LIVE",
+            "lat": 13.869214,
+            "lng": 100.54651,
+            "description": "ศาลพระภูมิหอพักลิตา",
+            "images": [
+                {
+                    "id": "dafeb3a968a138fcbf4fa8fe75785685.17",
+                    "url": "https://lh3.googleusercontent.com/TtXHGfdCSnsleYRsjfBkyBK4wBMCU3uxXJDwL90IY_S0CF8I0toOgaTDiFnRwPPQk4yNshIQ8aH1Rl3qLO6lv-HrABTQsA"
+                }
+            ],
+            "address": "2518 Soi Petcharatana, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1649418912124"
+        },
+        {
+            "id": "454fa8f37bc6452db702c9d8e8645457.16",
+            "hashedId": "ec683fcf16f7a62d2654831ec0535e4dca7608e8",
+            "title": "เงินพดด้วงตรากระต่าย",
+            "state": "GAME_REJECTED",
+            "lat": 13.871376,
+            "lng": 100.550497,
+            "lastUpdateTimestampMs": "1501109472333",
+            "images": [
+                {
+                    "id": "10c3d9d3c3bc494f947481048113817d.17",
+                    "url": "https://lh3.googleusercontent.com/DQCcdPswzOlabWxLq-aIPXXOOnm1a_890xtB01gqJr-duj7y4tQrjRrBcSCKm1j7-B5cBtZpjO7yFxqxq_KzsabMovg"
+                }
+            ],
+            "address": "มหาวิทยาลัยธุรกิจบัณฑิตย์, 110/1-4 ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "4828845e74ff44919e2e938bb1a38ba3.16",
+            "hashedId": "93b5139b88132d7d2115752cfb6de961b48443ad",
+            "title": "Wall Statue",
+            "state": "GAME_REJECTED",
+            "lat": 13.869738,
+            "lng": 100.55181999999999,
+            "lastUpdateTimestampMs": "1501109511936",
+            "images": [
+                {
+                    "id": "ecd38e9138e945e885a0c8fa9d249eff.17",
+                    "url": "https://lh3.googleusercontent.com/GZj3j9HJTRB_046bkQ2u5PUv8urga_eSS30dFY11aEyoJJDKDF22YwCdelvShIgrliPOFhtxD7EWVXfI9ZAJp6S41PY"
+                },
+                {
+                    "id": "994a3b8350924d0fb4da79ae76bef1ab.17",
+                    "url": "https://lh3.googleusercontent.com/_SqI5oa8s_xx7QfCS2QqUQNunQJ5-cQEExoVOtw1lbmrmoXRNzV4Py9WjMn5Xc8bzY3t9D6j1wnfXbQvJKd-rJtxtw"
+                },
+                {
+                    "id": "265542d136ed412ba22d851ea88df3c8.17",
+                    "url": "https://lh3.googleusercontent.com/DMNZdSdQtdCO-ZUANDOift_G5iRBaiCKRerKDWhYolzG_n4dlgeC5g3EQ2Jjutdso5eigorkH3VPldYyVZ2TWsApqnyw"
+                },
+                {
+                    "id": "68d5cacc5f174851bbc10a5317b0b066.17",
+                    "url": "https://lh3.googleusercontent.com/MPTOv5z88QSPn6p3aX6ak2vatRqQjpOCRnqaWiJztFk7s5CQxhLfjoy1C1rXK2NukegEgXGITHlaxc6VufxdS3o9pQ"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen, มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "48bedceeb0393d84ab65469e992539c6.16",
+            "hashedId": "810c8934c328b3fc088774fd3f0f14adfbb02b33",
+            "title": "DPU : President’s Office Buliding",
+            "state": "PROVISIONAL",
+            "lat": 13.870253,
+            "lng": 100.551507,
+            "description": "Dhurakij Bundit University, Bangkok, Thailand",
+            "images": [
+                {
+                    "id": "d3c13da2082c3f1d94565aacff2cf320.17",
+                    "url": "https://lh3.googleusercontent.com/gr7UJrgC4WM_Pq0__OhgkXdf5i402xx6-koytt5GJ6xbnhQdy30nnB8kDVCQFYwodBJP1KMCANt9ZeGGZs1kLTigZtQxeNuqnTHTz5Q"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1668347177908"
+        },
+        {
+            "id": "543a288d0d68474dbee3011a4cf0560e.16",
+            "hashedId": "63cb182a21cf627878366837b2ce3f4a8445abad",
+            "title": "ศาลพระพรหม 4 หน้า",
+            "state": "LIVE",
+            "lat": 13.870152,
+            "lng": 100.54516799999999,
+            "lastUpdateTimestampMs": "1589895925316",
+            "description": "ศาลพระพรหม เทพเจ้าสูงสุดตามศาสนาฮินดู พระผู้เป็นผู้สร้าง",
+            "images": [
+                {
+                    "id": "4f2c85be5aaa36868896622cff326f7e.17",
+                    "url": "https://lh3.googleusercontent.com/oHKylCNY8mCYt-_RkxfTwIXqaBa44Q9T9VAaZWWqK4AHT6AKZUreerR-fyOLL3Y8msJeI45CKfaOo13EAcM0JKMs0du3hFZ1bjd4Dl9IZA"
+                },
+                {
+                    "id": "72c0df3496444f3fbfe9d8cf123eb3fe.17",
+                    "url": "https://lh3.googleusercontent.com/hulxvNGY9g0KUv4v-fA8602DqukYU-caqiRBbhAjXds0sfWH8qbGL-fh1DUirfoqy5xlTO0fpzgPubAN2xHa7-_KmD8"
+                }
+            ],
+            "address": "50/11 Petcharatana 3/5 Alley, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.35
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.35
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.133
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.211
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1576515828616"
+        },
+        {
+            "id": "54d9d6d0936438d18d75e7904b66c7c3.16",
+            "hashedId": "38d1e13c8b74526acda938e280604be9ffddf859",
+            "title": "ชุมชนราชพฤฤกษ์",
+            "state": "LIVE",
+            "lat": 13.864872,
+            "lng": 100.54751499999999,
+            "description": "ป้ายชุมชน หมู่บ้านราชพฤกษ์",
+            "images": [
+                {
+                    "id": "ed63ff1f72363fd3934b519485f5fe3d.17",
+                    "url": "https://lh3.googleusercontent.com/Q9EVAWo2qaFZUmIPjVUaB9cElscCl02dK7YE50QK-0SF0K24UDtbMeyt2tmRrcMm4xarx1BnfMdyPQx-LTtjcrZ9-BIryaHFS0iDjJk"
+                }
+            ],
+            "address": "149/6 Soi Prachachun 8 Yaek 8, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "qualityScore": 85.5661,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1696695195944"
+        },
+        {
+            "id": "5d3fa32b387a4f198b22b62273c98cef.16",
+            "hashedId": "ff7e963f9389dc67d9f9b092c64023404896f121",
+            "title": "DPU Shrine",
+            "state": "RETIRED",
+            "lat": 13.870766999999999,
+            "lng": 100.54961399999999,
+            "lastUpdateTimestampMs": "1578370911556",
+            "description": "พระสิทธิธาดา",
+            "images": [
+                {
+                    "id": "c6eb9d27f65a4770b538078a8db681f8.17",
+                    "url": "https://lh3.googleusercontent.com/n2KmiLLp4Olqov5Q5h9VGJmrbwwMqBYkuAoSacrOAHmgsrwbD3BOUzBGrzkwDJdFfBac7fTzjw5uvVc-PTipBi4zYFdj"
+                }
+            ],
+            "address": "Phayathai Road, Thanon Phaya Thai, Ratchathewi, Bangkok 10400, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10400",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6584fc7fbe2a44f5ad4ae21c4f14d3b5.16",
+            "hashedId": "8d794b744903c2ae490ee736fabc8c985d01ce0c",
+            "title": "ศาลพระภูมิคู่สีขาว",
+            "state": "LIVE",
+            "lat": 13.872262,
+            "lng": 100.550613,
+            "lastUpdateTimestampMs": "1591676488386",
+            "description": "ศาลพระภูมิคู่สีขาว อยู่ ณ ร้านเบเกอรี่ หลังมหาวิทยาลัยธุรกิจบัณฑิตย์ กทม.",
+            "images": [
+                {
+                    "id": "614bfb485cfb4a2a83d72ab3f5e70ba7.17",
+                    "url": "https://lh3.googleusercontent.com/195TUZuZkLc44eHenLPUrp9YWZeHfELGPip8bi-MK2Crr_kM9x6-JGMZRZ42_837oeBcNznauKxy02v1DqKZ5347kfUp"
+                }
+            ],
+            "address": "316 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.089
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.145
+                },
+                {
+                    "id": "f3675576bd8fb23a7fa5216dd69a1385",
+                    "name": "College",
+                    "score": 0.066
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1585843246492"
+        },
+        {
+            "id": "6631c6079b574ece872d74f88974b6f9.16",
+            "hashedId": "d686e1293fbafbec6e5ea8cd6d8a06482852d7d1",
+            "title": "ศาลพระพรหม",
+            "state": "LIVE",
+            "lat": 13.871625,
+            "lng": 100.545925,
+            "lastUpdateTimestampMs": "1610461532290",
+            "description": "ศาลพระพรหมสีขาว ซอยประชาชื่น นนทบุรี 8 แยก 2",
+            "images": [
+                {
+                    "id": "adfe84ec3d3a481eb4068be7aca7a507.17",
+                    "url": "https://lh3.googleusercontent.com/m7OtYrTBgNNitiT7MJpnnbiaiM_2QMki0T8I6S-Sfc-YLzvJVPIHtw_RO8MycdgRP9N1PhNFVFBSPorR9bu7zFFj64JI5N8yx2NXHdKb"
+                }
+            ],
+            "address": "43 ซอย เพชรรัตน์ 3/2 Talat Kwan, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.285
+            },
+            "qualityScore": 88.45796637309851,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.203
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.212
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.285
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1609939965915"
+        },
+        {
+            "id": "68cde1b9c2aa4331af28a4eb51e230d4.16",
+            "hashedId": "beff306f14a1c2d61a355115f74d103a401fb280",
+            "title": "ศาลพระพรหมสีเขียวมรกต",
+            "state": "LIVE",
+            "lat": 13.870668,
+            "lng": 100.546233,
+            "lastUpdateTimestampMs": "1613485505603",
+            "description": "ศาลพระพรหมสี่พระพักตร์ ตามความเชื่อของศาสนาพราหมณ์-ฮินดู ณ ซอย 8 ประชาชื่น",
+            "images": [
+                {
+                    "id": "ab151e273f1f30959dcc7a19cfd199f0.17",
+                    "url": "https://lh3.googleusercontent.com/mkpD1g7_E0duV2D_Q6wLKCVjwx4_5HWRZTc9m2VCk2KF8s-fd1vKHpk9NJkCwfEl80dBF_3pbN6FLU-4ljBSW2aqPzKUb17xNuNKLRaUrg"
+                },
+                {
+                    "id": "71e6c9a781583a238948a9f109d4c6e5.17",
+                    "url": "https://lh3.googleusercontent.com/xqDHwu0m0Uo9QE12-PEfuVeO8-FDreYwXK8FxIcpEk1PkN1Yjk6uu8R_q3tV0r3zH_YCjV5eZwVhNw48Gw7KTJFpC-0Hjg_bnsvy5oXOuA"
+                },
+                {
+                    "id": "573fef44720746bf8981959b02b97d41.17",
+                    "url": "https://lh3.googleusercontent.com/nTF3MLBRennkny_JFzfb_3-THDMZ8gpZWdWjhJH_yEFBK86EliHtAY8XlrQxHf80gqLN-PWwJ43C2dnbkk6tzohbHlvBspMWdE1Pfzg"
+                }
+            ],
+            "address": "49, 33 Soi Prachachuennonthaburi 8, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 88.79914581673312,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1613119153594",
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1671070956533"
+        },
+        {
+            "id": "6ab5a0aa1216419e81f4f826fb0d1c84.16",
+            "hashedId": "a4788bfbc6409e56072bf6d1c451d03d37dcdaa9",
+            "title": "Tennis Courts",
+            "state": "LIVE",
+            "lat": 13.868858,
+            "lng": 100.550435,
+            "lastUpdateTimestampMs": "1589896217214",
+            "description": "สนามเทนนิส มหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "images": [
+                {
+                    "id": "4bb62af1826a458d84386aa5d56f29c8.17",
+                    "url": "https://lh3.googleusercontent.com/YD9Cez70jovpH_cRS237xt7SERFUpuKbTv_VrudMX_heWegA6mnniT-g6ieAPJGInMHfF7lymklN6ISw9o5AD9lHdp_O"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "bd21c3f1053277f94b5f690858e5f62f",
+                "name": "Tennis Court",
+                "score": 0.996
+            },
+            "categories": [
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.584
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.187
+                },
+                {
+                    "id": "bd21c3f1053277f94b5f690858e5f62f",
+                    "name": "Tennis Court",
+                    "score": 0.996
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1575947687909"
+        },
+        {
+            "id": "6c1345ad1f283d0bba0741205497a7a7.16",
+            "hashedId": "f791ccb7ab5eb951e442b7574d1a93e6365eefa4",
+            "title": "ลานเครื่องออกกำลังกาย มหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "state": "LIVE",
+            "lat": 13.868419,
+            "lng": 100.54919199999999,
+            "description": "ลายออกกำลังกาย อยู่หลังอาคารศูนย์กีฬา มหาลัยวิทยาลัยธุรกิจบัณฑิตย์ และ เจเจ กรีน ตลาดนัดกลางคืน",
+            "images": [
+                {
+                    "id": "3da559ba748334f9a51844400b81b5d8.17",
+                    "url": "https://lh3.googleusercontent.com/I8GF1d6JrmNoNHkQsQ5y5a4hWRyYX23g296LUUgzGTRrmRGTChqmJ6vo0F6RIP5qUhCPZYvrU1zRyLu6KWxr58VfaGenHYFqAnD4C8g"
+                }
+            ],
+            "address": "AETHAER, 2nd floor, ล็อค aamu1,2, 61, 16 ถ. ประชาชื่น แขวง ทุ่งสองห้อง เขต หลักสี่ กรุงเทพมหานคร 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "กรุงเทพมหานคร",
+            "geoStateShort": "กรุงเทพมหานคร",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "qualityScore": 92.838394,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1667972899857"
+        },
+        {
+            "id": "6c28d4660ff848b0ad67dbd1bffe3ce6.16",
+            "hashedId": "e1dae631b61d17ce6fd9b575e6f641485358e185",
+            "title": "เดกน้อย",
+            "state": "LIVE",
+            "lat": 13.870429,
+            "lng": 100.55066,
+            "lastUpdateTimestampMs": "1566482198764",
+            "description": "Children statue in Dhurakij Bandit University",
+            "images": [
+                {
+                    "id": "a50ad7b193194f6d9b7623e4a69b034b.17",
+                    "url": "https://lh3.googleusercontent.com/futtMfGlLIXnsuWVgSQ5VPoIXjGABOjIqi-cDcyzdDGav8dosIGtyZoVN0ZEKjVLhpLSal4_kNnNiprV5uXorcOM-mQ"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen, มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.679
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.565
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.21
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.679
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "6c5579c8fbf74b86af70ec256faded07.16",
+            "hashedId": "6aca766759c5b706dc559303940160939675f90f",
+            "title": "ตุ๊กตาดินเผา น้องขี่ม้าก้านกล้วย",
+            "state": "LIVE",
+            "lat": 13.869492,
+            "lng": 100.55071,
+            "lastUpdateTimestampMs": "1589895849265",
+            "description": "ตุ๊กตาดินเผาเด็กไทยในอดีต มาพร้อมม้าก้านกล้วย ของเล่นจากทางกล้วย ที่เด็กๆ ในอดีตนิยมเล่นกันอย่างแพร่หลาย",
+            "images": [
+                {
+                    "id": "7958affe72354354902a25262d23a78a.17",
+                    "url": "https://lh3.googleusercontent.com/8XUbEaC53ndnwx40ntVnafI5kzWuz2uZxxpSe4TvLKyguWjjTpX0WGB2ezxgqwgo4KPbwYzhcb00GJuL1kRJI_ALK6wT"
+                }
+            ],
+            "address": "เลขที่ 110/1-4 ถนน ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.565
+            },
+            "categories": [
+                {
+                    "id": "3d62e6a4c11d43527cf1316c81398804",
+                    "name": "Playground Area",
+                    "score": 0.348
+                },
+                {
+                    "id": "643e642ddf4552f773e250f1466656dd",
+                    "name": "Airplane"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.565
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.103
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1579101616772"
+        },
+        {
+            "id": "76e98dc8df6b43dcbb9876b5568a51d9.16",
+            "hashedId": "57b7218763d039fed627050026fc685206f48d64",
+            "title": "น้ำพุเทวรูปคิวปิด",
+            "state": "LIVE",
+            "lat": 13.870859999999999,
+            "lng": 100.546792,
+            "lastUpdateTimestampMs": "1611671195584",
+            "description": "น้ำพุต้อนรับประติมากรรมลอยตัว เทวรูปคิวปิด หน้าร้านขนมหวาน ซอย 8 ตรงข้ามมหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "images": [
+                {
+                    "id": "e0a691c53f7342acba99e0e5a5e83bf4.17",
+                    "url": "https://lh3.googleusercontent.com/REun-54Q6Tjx0cqCCGguhbUcsV_y5yvS77e9e3K-6y7XOKE-GKH-DWWIIkPhpmCvQyU-g0ros-z0vWj9egjWcG7ZZ0Mt9EpxVqP3woISmg"
+                }
+            ],
+            "address": "76 Pracha Chuen Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.988
+            },
+            "qualityScore": 72.59022566003965,
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.492
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.988
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.194
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1611213755129"
+        },
+        {
+            "id": "77272ea7ba7f417ba9f1840e8f99a584.16",
+            "hashedId": "210c55feb8baf735572845cf1dac6cca3593cdca",
+            "title": "DPU Swimming Pool",
+            "state": "LIVE",
+            "lat": 13.8688,
+            "lng": 100.54997999999999,
+            "lastUpdateTimestampMs": "1589895396008",
+            "description": "สระว่ายน้ำ มหาวิทยาลัยธุรกิจบัณฑิตย์ กรุงเทพมหานคร",
+            "images": [
+                {
+                    "id": "5654ecc56bac464c890b3dbdc1766a4d.17",
+                    "url": "https://lh3.googleusercontent.com/s8_IIpa3Xz213GSQYom7dfsYHhmGMbSiBFAFv7-6W6hvdc7Z-OXZFvpnPkNZPwZc7VbzTmegrhSOq1r84BnrgsAqr6ep"
+                },
+                {
+                    "id": "389075bd25074bd1816aabc84bbb492d.17",
+                    "url": "https://lh3.googleusercontent.com/ASO-Ract2upevymFW0oRXVN0GT8CbtIHCeZWenFj7RoBo7JHucEdx1Mhbkoi3wtHQCGlorytepmov7o1F2PP-cG18pgP"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "b2352c8c78169e35ee3fea56d0e57c99",
+                "name": "Swimming Pool",
+                "score": 0.971
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.153
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.548
+                },
+                {
+                    "id": "b2352c8c78169e35ee3fea56d0e57c99",
+                    "name": "Swimming Pool",
+                    "score": 0.971
+                },
+                {
+                    "id": "bc8f641f7d8eb8bb69c974cbfba23fa7",
+                    "name": "Swimming Pool"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1581779418487"
+        },
+        {
+            "id": "7c3170cfaf3a446ba6af1d2decda9a85.16",
+            "hashedId": "567d084c14827331eb6061d84d342bfc63b27dc7",
+            "title": "ศิลปะกระเบื้องสีสัน",
+            "state": "LIVE",
+            "lat": 13.868205,
+            "lng": 100.54950699999999,
+            "lastUpdateTimestampMs": "1589895733095",
+            "description": "ศิลปะกระเบื้องสีสัน ในตลาดกลางคืน JJ Green 2",
+            "images": [
+                {
+                    "id": "318cf713bb8c441c9ce03698570e37f1.17",
+                    "url": "https://lh3.googleusercontent.com/cGOdGVlBDJg00AX-zHCBQ9laJQ2Hytw57xuB5CWpLBiodPaq_HHFXRQNlghDW919Kf8n7MYxPL3yFfZGT31e4sJZHA"
+                }
+            ],
+            "address": "333/348 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "2209fabf553ecce2d8a0546aae6696a9",
+                "name": "Mosaic Tile"
+            },
+            "categories": [
+                {
+                    "id": "2209fabf553ecce2d8a0546aae6696a9",
+                    "name": "Mosaic Tile"
+                },
+                {
+                    "id": "2b084e300609a053b412f62cb6ad4ff7",
+                    "name": "Painting",
+                    "score": 0.291
+                },
+                {
+                    "id": "aeabee4b7b9893bbf9dccb693c6b2502",
+                    "name": "Graffiti",
+                    "score": 0.518
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.27
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1589804627053"
+        },
+        {
+            "id": "7e2f48911eae4a35bc8be8f574cb1e1c.16",
+            "hashedId": "f5852667930c22db8f3c4f332e2e2efcd924ed98",
+            "title": "พระพุทธรูป",
+            "state": "LIVE",
+            "lat": 13.87093,
+            "lng": 100.55066599999999,
+            "lastUpdateTimestampMs": "1594907945210",
+            "description": "พระศรีทศพลญาณสุทัศน์วีสติมวรรษปริปุณณพุทธมงคล ณ ศาลาธรรมธัช มหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "images": [
+                {
+                    "id": "a04a208d317646baa16bf66055d64d0b.17",
+                    "url": "https://lh3.googleusercontent.com/du7eEoBZJldp0T3b81ufNuHOtW-TgNRavHVjoWLOvYWW0qIG_c6eh1FJCix_HYmVDQeFr4DaKuCvOMvty6wJfWMavKA"
+                },
+                {
+                    "id": "0e6536ccfb794dfebf202363281222d8.17",
+                    "url": "https://lh3.googleusercontent.com/gZ3KFlNW-koV5lO1xoM6N7UHay9zrkTJynbhnOiA7WtCVUulJymbAO0lO0IlugKdzA9mDuFMuZIRPYZIk1Y4Ls5L4rM"
+                },
+                {
+                    "id": "0cee2d1148cb473799cf2568df5588bc.17",
+                    "url": "https://lh3.googleusercontent.com/2TP_JohEyyvZLqcHrpRyFi3R946BjcemgHfJlh4dA9rO7tVjRYEbH4qDcNoPxu6Rkdt0m0UUq-frcQ8xtfORrsaM0Po"
+                },
+                {
+                    "id": "9d284cfcbe054bb5b2bab58980bcafe9.17",
+                    "url": "https://lh3.googleusercontent.com/a_kfI5dJA0uY33Ngju-3q-Y7da4a850Q0hNaGr6wGjFwcPpzuHAZZ_pLYFY8ieVyUnKwEGFQxRuuAJVu5Cmvd-w7t8M"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.452
+            },
+            "categories": [
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.452
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.216
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.407
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "803ef92f1d3e403ebfb79eb0ca8ec15c.16",
+            "hashedId": "87cb8f3554ba8fde83377870964a81a2513df225",
+            "title": "ศาลพระภูมิสีขาวคู่",
+            "state": "LIVE",
+            "lat": 13.872228999999999,
+            "lng": 100.54773499999999,
+            "lastUpdateTimestampMs": "1589895683748",
+            "description": "ศาลพระภูมิในซ. ประชาชื่น นนทบุรี 8/1",
+            "images": [
+                {
+                    "id": "72142e1fe2764c0f9cefe44f65838658.17",
+                    "url": "https://lh3.googleusercontent.com/FStjlUQAySEbwrQGacVaCdX-Lovb-5XWe8v51ivK1oeXSgY4v7OnwlvTRnHkw99Plwf-3qTPMmXgs2fEBBvqTLRplbU"
+                }
+            ],
+            "address": "49/6 Pracha Chuen Rd, Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.303
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.239
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.112
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.303
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1575350603300"
+        },
+        {
+            "id": "8152aee0d75d48119761a0463c47bbe7.16",
+            "hashedId": "52cb0b069d772d8827d3b8e1b9f305129dc0a9f3",
+            "title": "ศาลา น้ำพุ",
+            "state": "LIVE",
+            "lat": 13.870673,
+            "lng": 100.55098799999999,
+            "lastUpdateTimestampMs": "1571051940273",
+            "images": [
+                {
+                    "id": "0244c583dcf44fab86b34f759e9b371c.17",
+                    "url": "https://lh3.googleusercontent.com/nSn_JHG7_Bpa1PEdQCI83zmQ_CwcGj-eVEzcbiZ02NCiRrHsi5AkN3Tjtz0owO_Q8Tpni3i7STw_FeDHKVFBqbNaqQ"
+                },
+                {
+                    "id": "ca54d40005df4f109063c5da9b9c4557.17",
+                    "url": "https://lh3.googleusercontent.com/G1MqaARBjrRSdkK7Ro7rUBG1x-nQNLzCNnfNUXYebhKkGE7K5y0stZiK-eEXI0AIL6hSH0TFJYhUlLcmYx90TQ8ZSKk"
+                },
+                {
+                    "id": "8559c62f17544750926fd782f8fcc5f3.17",
+                    "url": "https://lh3.googleusercontent.com/h8Dvm3_-tUdXdcYo3rOAByxc3f7vEPbeFB345Y7weHINoRaCSDL-OevZ5mqn6SOsdvEPCjeCi8rcINrobaPjJzBySg"
+                },
+                {
+                    "id": "76d02bbb76974b37870b1b37de93ff76.17",
+                    "url": "https://lh3.ggpht.com/X5-jJ7VyRMV89-i5E1FD1YbTtidfs2HuM5GcBKFI9qxHlqRAJVfSZnVWeoTafiAIPc0uHN4JHxdmWPheIrYPLw"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.976
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.068
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.976
+                },
+                {
+                    "id": "9bad4f33027ca1d80109986e055488fb",
+                    "name": "City Hall",
+                    "score": 0.073
+                },
+                {
+                    "id": "deaed3fc05b15a909711363addda3ba1",
+                    "name": "Gazebo"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "850afaad54c14a01887c679d13dded2a.16",
+            "hashedId": "0423baa7377c1549ce9e21a93c9650fb55930c9f",
+            "title": "Water Flow Garden DPU",
+            "state": "LIVE",
+            "lat": 13.869745,
+            "lng": 100.551594,
+            "lastUpdateTimestampMs": "1501109474284",
+            "images": [
+                {
+                    "id": "125e9d59131141c0aefaaf5550695534.17",
+                    "url": "https://lh3.googleusercontent.com/U-ATF1cqAWs5wzVCHM8IBIJClLwbSM85Z3f7BIJ7XFqru5DckQm2_No137ZWpE7BsGzHc0lfSFPywQ7842h9zCQo4Q"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen, มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "45929338fa74ec1e46190f4def203daa",
+                "name": "Garden",
+                "score": 0.407
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.276
+                },
+                {
+                    "id": "45929338fa74ec1e46190f4def203daa",
+                    "name": "Garden",
+                    "score": 0.407
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.138
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "8a7ef860bd4b4b17a5078f73d7da19e1.16",
+            "hashedId": "67143a9d2fc9e012ecd42563feb958c338502c0e",
+            "title": "นกเหล็ก CADT",
+            "state": "LIVE",
+            "lat": 13.871203,
+            "lng": 100.54838699999999,
+            "lastUpdateTimestampMs": "1589895507594",
+            "description": "อดีตเครื่องบินตัวท็อปของการบินไทย ปัจจุบันใช้เป็นห้องเรียนสอนการบิน มหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "images": [
+                {
+                    "id": "14f685ec172d44af91db0760576118a4.17",
+                    "url": "https://lh3.googleusercontent.com/XgdtWFJUWmyDoJ1Zn1gh5RhHAn3BDIzy9Jc65P_gBApYdYaCdlO3CE9JuuRj0WsGW1oyqljLyiB3Dp2YHNHA6PADAA"
+                }
+            ],
+            "address": "ป้ายรถประจำทาง มหาวิทยาลัยธุรกิจบัณฑิตย์ 2 Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.354
+            },
+            "categories": [
+                {
+                    "id": "0a87f4c91381662fda48ceb64e1beeb1",
+                    "name": "Specialty School",
+                    "score": 0.349
+                },
+                {
+                    "id": "643e642ddf4552f773e250f1466656dd",
+                    "name": "Airplane"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.261
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.354
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1572076892078"
+        },
+        {
+            "id": "90b00a9fc746491d87aa9690706ba96f.16",
+            "hashedId": "f94bd7dd78520b55c95dcc3ddaaa4506539d4efe",
+            "title": "Urban Fountain",
+            "state": "LIVE",
+            "lat": 13.872285,
+            "lng": 100.549989,
+            "lastUpdateTimestampMs": "1593096129898",
+            "description": "เหล่าน้ำพุ ณ Urban Square",
+            "images": [
+                {
+                    "id": "4c71a8f63aa5393e9ac361097559386d.17",
+                    "url": "https://lh3.googleusercontent.com/nrc8Y8_0p8daLPcHRiFBirRu6UqCUabiGUN9b8h9vE4Qv0EJFsC830RC16tGGOk5JfpPZdLB5XgLQ48XoBL7N3UqwMS-1YVIBW6r6qh3"
+                },
+                {
+                    "id": "c8942303ed9d46a3acb06cd88869aad4.17",
+                    "url": "https://lh3.googleusercontent.com/2hJUu_fuAoXZrWxjzjlqnAv8Ldk_y-dFV_i86aVMtN43x1qCIzp-7FvHPpgxVagNE62MdYIwdkPfthTOvB2CsHSdmw"
+                }
+            ],
+            "address": "Pracha Chuen 12, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.997
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.037
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.997
+                },
+                {
+                    "id": "9bad4f33027ca1d80109986e055488fb",
+                    "name": "City Hall",
+                    "score": 0.158
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "95f0b68ce9724b068ea2772ccbb998cb.16",
+            "hashedId": "2e887546b57f3876ac661f1a281253ffc141b9ba",
+            "title": "Rotary Peace Pole",
+            "state": "LIVE",
+            "lat": 13.870548999999999,
+            "lng": 100.551153,
+            "lastUpdateTimestampMs": "1571198641366",
+            "images": [
+                {
+                    "id": "6690081c07fd4178accfa0b5a80ccd17.17",
+                    "url": "https://lh3.googleusercontent.com/0kTr8qpSxPt8uGMf46-kx5LDEeqsZ14I3D-Xm4KRUlB2Lff4afWK0N2PtJHRgR-piANMamA93AsBrdr4nhSD1ZkwmQ"
+                },
+                {
+                    "id": "1d5eacadc2b2412fb07f5eb56f9d72a9.17",
+                    "url": "https://lh3.googleusercontent.com/VejenKbxdYJP3ng9cV5JHgfFD4pspHQwLSlb2-zrIfG0WdRI2s1tAjTp5Y3yOLOc2SgD84LXkNo7FDcAcpH5"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.152
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.152
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.138
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.144
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "9a8f2434aa693fb9b776e0f5180f21da.16",
+            "hashedId": "104216c08f6a1c235dfcb7621781b0c4ec3b20af",
+            "title": "สนามบาสเกตบอลกลางแจ้ง มหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "state": "LIVE",
+            "lat": 13.869136999999998,
+            "lng": 100.550162,
+            "description": "สนามบาสเกตบอลกลางแจ้ง ภายในมหาวิทยาลัยธุรกิจบัณฑิตย์, หลักสี่, กทม.",
+            "images": [
+                {
+                    "id": "d61a2888c9e2384daa72217872932b6c.17",
+                    "url": "https://lh3.googleusercontent.com/Z8Yy-1OoTA1kSEsBrMa451EmwuI5xy3Oqqnz9mSCvweN2uBCH0khOqcAS23iSC6GxzHPuCjYSZz3uxc46uZt_pl_7GElvTykPdLnOok"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University"
+            },
+            "qualityScore": 82.19777,
+            "categories": [
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1671549829056"
+        },
+        {
+            "id": "9ff3445ad8774cdf82d19dcba392b445.16",
+            "hashedId": "383dc07eaf96c402ba48d4a23727ec8dda0084ef",
+            "title": "ศาลพระภูมิปั้มเชลล์",
+            "state": "LIVE",
+            "lat": 13.872561,
+            "lng": 100.548721,
+            "lastUpdateTimestampMs": "1589895587684",
+            "description": "ศาลพระภูมิสีขาวคู่ ตั้งอยู่ในปั้มเชลล์ เลียบคลองประปา",
+            "images": [
+                {
+                    "id": "144fdcc7379843e6afbe01deef33eea1.17",
+                    "url": "https://lh3.googleusercontent.com/OyEQT_VcIPBLlPr7-KzQZh1Gf_t9dP7vkhYGLDyS-goCzkmdIikB2lKiUzH1tknrJuKvJHIIgm_7xWUv3kao7If-h24"
+                },
+                {
+                    "id": "0162a9f5e1e04453bda1f214dda75525.17",
+                    "url": "https://lh3.googleusercontent.com/6Q6a30xN717p6fZnJEWZqrBzLt1_dkjxWjj9Le9FCpWQ-KWDV_Nae3srunmXYZx68FwfEvRyhPUHG1yRFsTEJrqJEA"
+                }
+            ],
+            "address": "315 Thanon Pracha Chuen, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "3ae6a743d3d327d58d0ced2cdf98ee4e",
+                    "name": "Water Tower",
+                    "score": 0.063
+                },
+                {
+                    "id": "5058742ab1f224fdefea0f7c699f0fef",
+                    "name": "Arch",
+                    "score": 0.325
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.071
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1574081575492",
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1671106568289"
+        },
+        {
+            "id": "a16f2b1ac6d9409fbd0a6ac846a372a8.16",
+            "hashedId": "966d3f3f164942730703910f30b38c903f1332db",
+            "title": "Elephant Statue",
+            "state": "GAME_REJECTED",
+            "lat": 13.869686,
+            "lng": 100.551823,
+            "lastUpdateTimestampMs": "1501109670337",
+            "images": [
+                {
+                    "id": "501cd20a6444490d93aca47cee9ce0bb.17",
+                    "url": "https://lh3.googleusercontent.com/k4qHml39R7R_Wj74EAYiJKsOJcOB9Tvtq9IYHDqgI6AfK423TI4ayAfuueI1VyeHl4I6WoUb2UPWcwqnv_BZgjeOAaCv"
+                },
+                {
+                    "id": "e615c0c63ba749e191f0c0e6963d368d.17",
+                    "url": "https://lh3.googleusercontent.com/LxDsqr5NMzERnzQ1DigT918xBO2HGV7lpeMFjpFkqXerLv0PNV7y3VaDUIV84mh1-pplk7cDWGw84eoiX63GZd9V6dH_"
+                },
+                {
+                    "id": "629a759ed87849598db5caa6cf5694ef.17",
+                    "url": "https://lh3.googleusercontent.com/tCOE1rpHcNrndSvW4CiHjp0IwP2-bg1aK9jNaeeh2amEUyuhfTC_pIbfRvnJxPdg940WEpdISb0kLBPmG_Vu6Ffj7Amc"
+                },
+                {
+                    "id": "490ce4f5d74147479ddf5e02003f067f.17",
+                    "url": "https://lh3.googleusercontent.com/n8xM9Nmx2T6Pj3V1yATRT76GCyYmwUH8ccXaQxoQEHYT6OhsfJOBGojnuTTnHW1BCVZX8s0R4q9QvPZMpG0umAwxeg"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a462372e5d194e12b0f5a78942ccd2c1.16",
+            "hashedId": "ba44897ee1577981b7238f3db159db43488c3665",
+            "title": "DPU Football Stadium",
+            "state": "LIVE",
+            "lat": 13.869997,
+            "lng": 100.55018299999999,
+            "lastUpdateTimestampMs": "1589895774209",
+            "description": "สนามฟุตบอลกลาง มหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "images": [
+                {
+                    "id": "74e7e1a1dacc404e9b6c6b59ecc99ecf.17",
+                    "url": "https://lh3.googleusercontent.com/ZS_iTxZwHOeUspvhAVIaIlg0DdbGgGAgp79407Y3oPIesSlBM9sKqsvhGCGEGxh8XkDrUV4saTTzyYNKbocm_hlsozw"
+                },
+                {
+                    "id": "cc119867eeaa420ca45ae410d7ee064f.17",
+                    "url": "https://lh3.googleusercontent.com/GMLxYRZL2BUCAqUzphnyAxm8NxpGhU6BdMU3g5vxXnUn-kHLxP7b3_ed_SC_C7UheapvW0o-AGlqomgeZyX6omnlSEY"
+                },
+                {
+                    "id": "3eef0d1bf22c4b6694c8971fcca03f5c.17",
+                    "url": "https://lh3.googleusercontent.com/f0vNAr2InRzuXNNGjhTvU65uC9NHQPOrb1STkeFTyImlukYxvCPwBdI--bXi4lqvjh0gfhDgsjToQCIBsaykPjRSSQg"
+                },
+                {
+                    "id": "857d532df53d416b814ad9bce9f855c7.17",
+                    "url": "https://lh3.googleusercontent.com/5sDv3SduJHHKCMyBY_90UqkSLLdowWNEB2LUo26deUWOwfBkzM7v7_EzmarPPWblQFEmJ46upwhEr3uytFuB6EmkcXyC"
+                },
+                {
+                    "id": "cb75a63611cc4b12a6dac3f8db59e496.17",
+                    "url": "https://lh3.googleusercontent.com/GO3WilxaYeBfgQpUuhMdh6T-f03aA3FRpfOFvNVtRXoJiCHmTfpzP4dbC93W994u2z92LcXLKI3XYggjTB0uxE9rsw"
+                },
+                {
+                    "id": "5e7eabd428614c3796327c51efbd8e83.17",
+                    "url": "https://lh3.googleusercontent.com/GehwdL9pzprUU6_q-M4DqAGBCSZ5bgPlkeMte3ADX2TO6mK6LAtA-6hGkHzsxoPnw1TssZ_sB13qdgUy5v9ksDTcwf4"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "9f471e5607b385dfd5cb109672ec9784",
+                "name": "Soccer Field",
+                "score": 0.647
+            },
+            "categories": [
+                {
+                    "id": "27889e84d5b12300a0aedbdd5c1ee914",
+                    "name": "Stadium",
+                    "score": 0.243
+                },
+                {
+                    "id": "5ac9de23416b18bb59a5e507de2bb536",
+                    "name": "Athletic Field",
+                    "score": 0.531
+                },
+                {
+                    "id": "8fe799891e1e5433bebb2bee0a16af97",
+                    "name": "Football Stadium"
+                },
+                {
+                    "id": "9f471e5607b385dfd5cb109672ec9784",
+                    "name": "Soccer Field",
+                    "score": 0.647
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1576646012456"
+        },
+        {
+            "id": "a6ddb1df466f40f980bbf349fab3915f.16",
+            "hashedId": "b7ea858fc5d48b8fc7bb41ab21a54efeb5136c2f",
+            "title": "The Twin Serpents",
+            "state": "LIVE",
+            "lat": 13.873498999999999,
+            "lng": 100.546617,
+            "lastUpdateTimestampMs": "1516794951251",
+            "images": [
+                {
+                    "id": "ce03648b1f3246dc9fdca48865f3a049.17",
+                    "url": "https://lh3.googleusercontent.com/G8AfYb2XYU6jeCzi7QHFawmb4vjnP_RWK65b7JGfcJA5Ag8JSZfeCDsKHwH79wHL_FioLYwSsDZgw0LLH1z1kWs5K1I"
+                }
+            ],
+            "address": "Prachachuennonthaburi 8/1, Tha Sai, Nonthaburi, 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.518
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.077
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.518
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.221
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a75f5ea9faaf43859c423d3cb57f5cbc.16",
+            "hashedId": "a1963af544df93bc4ee140f67a245274293cc438",
+            "title": "Four Face",
+            "state": "GAME_REJECTED",
+            "lat": 13.872349,
+            "lng": 100.549449,
+            "lastUpdateTimestampMs": "1501109796885",
+            "images": [
+                {
+                    "id": "ab6ee79c2bd64e4fa2cda76dfd1627b6.17",
+                    "url": "https://lh3.googleusercontent.com/SenbZA2VouoQvClDzvq-Z8Hqmf-bR29wTnt1fu_EGnbVgWirCNXCRzokny4KBsoyQivB4j4c3aqsEh-6gXnEb_2MdRo"
+                }
+            ],
+            "address": "Pracha Chuen 12, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "a8724a0a09283b1c89dba70cd2c82aa0.16",
+            "hashedId": "82d410ef0590d829687374821e06444eeb8c6c4e",
+            "title": "น้ำพุต้อนรับสีนิลรัตติกาล",
+            "state": "LIVE",
+            "lat": 13.869143999999999,
+            "lng": 100.546216,
+            "description": "โอ่งน้ำพุต้อนรับขนาดใหญ่ สีดำนิลรัตกาล ตั้งอยู่หน้าอาคารนุชจรี ซอยประชาชื่น นนทบุรี 8 แยก 1/4 นนทบุรี",
+            "images": [
+                {
+                    "id": "36b5267d652e397886dacdabcfb5a4e8.17",
+                    "url": "https://lh3.googleusercontent.com/Xe5yTlix-Y6t9De6DCL5a9CVwmbhIVMwJ9EPLo94fRVpCqdYFo1_0ogI1ecfQBXFtanyP7x4BngmVgHo8jzzhSJNN_0PNOsqFVtYqLCXwQ"
+                },
+                {
+                    "id": "34bf92b8081032f8a6446e7fd0393457.17",
+                    "url": "https://lh3.googleusercontent.com/EtwLcPLaTbS5E5y_5W2hpRORvTOgIX_TGgmbZwDHBLCnkvT1tcvR0KZ0riaEuVMfXupd1sF0l5T0wZGZUsXnRy0LtrWoVJKshW93M_0"
+                },
+                {
+                    "id": "e8501802499937a1880ae0fe3b09dd81.17",
+                    "url": "https://lh3.googleusercontent.com/g6F9Ci4PzAA1KkE0SBpZnLHwols6HZTP1blgKikg6MFJpwRHOzDdI7zomiO5rAYBgYJFSWB7hbaVs8jr4WS71FrAiOVSp9qMNcER8CqJ"
+                }
+            ],
+            "address": "6/147 Petcharatana 6 Alley, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1649395002445"
+        },
+        {
+            "id": "a8a6ccc53fbb4d419026f03bb9dbd873.16",
+            "hashedId": "5b4df78ae716a6e55281303fb02ea282cf4d4c3b",
+            "title": "DPU Waterflow Fountain",
+            "state": "LIVE",
+            "lat": 13.869729,
+            "lng": 100.55180299999999,
+            "lastUpdateTimestampMs": "1501110122770",
+            "images": [
+                {
+                    "id": "35019bcb6878481ba36c27cb05084139.17",
+                    "url": "https://lh3.googleusercontent.com/gbRKQgAIxXu01psyZCxSQYl8_ltUeprKSZgu442a1gprxaoC_gMNzzUyDEd-guKzCFldB9ERwlmY03t8b1y0PixXsDY"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen, มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.859
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.106
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.078
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.859
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ac82588723904bd78bbfc1f05d418ab9.16",
+            "hashedId": "9e23ed09c32b78284007d74f10c9e8f1d4b4860a",
+            "title": "เงินพดด้วงบากกว้าง",
+            "state": "GAME_REJECTED",
+            "lat": 13.871274,
+            "lng": 100.55045,
+            "lastUpdateTimestampMs": "1501109905070",
+            "images": [
+                {
+                    "id": "a911fe2b490f475090e1d4a4e2e10ee6.17",
+                    "url": "https://lh3.googleusercontent.com/elvWWVxIB_tZrZsy6fj3DydupWcqJ_36oUCI2jhw2AK1Chjqgc-IYPlhU3N_Oqb46ZTlbeJLFnCD_khdEr5baeVr0A9L"
+                }
+            ],
+            "address": "มหาวิทยาลัยธุรกิจบัณฑิตย์, 110/1-4 ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ad2e50ede90842d780589cc4b8f685a1.16",
+            "hashedId": "ee503d0487a0fb0c1de925cd97b44a6b6932d411",
+            "title": "อาคารสุทธิเกตุ",
+            "state": "LIVE",
+            "lat": 13.869244,
+            "lng": 100.549703,
+            "lastUpdateTimestampMs": "1589902477802",
+            "description": "ศูนย์กีฬา อาคารสุทธิเกตุ มหาวิทยาลัยธุรกิจบัณฑิตย์ ใช้เป็นอาคารออกกำลังกายประจำมหาวิทยาลัย",
+            "images": [
+                {
+                    "id": "c13c5833ddde3e0bb68dac084f0a8960.17",
+                    "url": "https://lh3.googleusercontent.com/PbXdRcbNg5_SrQybWO1jJOlDq8NQ4NTOVowhyO1slCeT-Nmc1bC4K3BM2n564BiRdJwjK30lpwKfSEwjK8h-kuTgBSecBJoqZp-xmLsw"
+                },
+                {
+                    "id": "756b9bd90b5a47c590693c47e89d2971.17",
+                    "url": "https://lh3.googleusercontent.com/2IFM16C_bNyYboKfiUGCUZ3XMMAjgM8XV2gIsA3oqLcSDvqHQTwZ2npZjv5TGdU9f_uM-IJezb19KFXW5WXNkfVarKU"
+                }
+            ],
+            "address": "110/1-4 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.831
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.09
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.831
+                },
+                {
+                    "id": "f3675576bd8fb23a7fa5216dd69a1385",
+                    "name": "College",
+                    "score": 0.097
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1576037459087"
+        },
+        {
+            "id": "b12decec42aa487597c1eeb1984e00a7.16",
+            "hashedId": "da71c48e8038fa18378696ab06e55c60db6ea0ff",
+            "title": "กมมนเตน วิสุชฌตื คนบริสุทธิ์ได้ด้วยการงาน",
+            "state": "LIVE",
+            "lat": 13.870975,
+            "lng": 100.54966399999999,
+            "lastUpdateTimestampMs": "1589905970694",
+            "description": "ป้ายสัญลักษณ์ทางเข้ามหาวิทยาลัยธุรกิจบัณฑิตย์",
+            "images": [
+                {
+                    "id": "4c26917c14ba4e3186d60375a64c5572.17",
+                    "url": "https://lh3.googleusercontent.com/pIynyzTdfXPIltc8zK7KXj3jlHc1l_0CpXfU3BdKZxwqtSsv1zICnrfwApXacfUW7k5LDzyB43cxWzTh4kHAUiDTmJI"
+                }
+            ],
+            "address": "115/16 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "9d75ba3434f8ec1d169f18ef48692235",
+                "name": "University",
+                "score": 0.582
+            },
+            "categories": [
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University",
+                    "score": 0.582
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.281
+                },
+                {
+                    "id": "f3675576bd8fb23a7fa5216dd69a1385",
+                    "name": "College",
+                    "score": 0.195
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1575014327328"
+        },
+        {
+            "id": "b77bd050cb6b450fa46f7ac478eecc47.16",
+            "hashedId": "195b28ed8887a323b8bbaf5525611612eea4a3ac",
+            "title": "ศาลพระภูมิสีเหลืองทอง",
+            "state": "LIVE",
+            "lat": 13.870401999999999,
+            "lng": 100.546516,
+            "lastUpdateTimestampMs": "1614840512914",
+            "description": "ศาลพระภูมิสีเหลืองทอง ซ. ประชาชื่น นนทบุรี 8 แยก 1",
+            "images": [
+                {
+                    "id": "58b0d85e8860436f97890bfcd4b29e00.17",
+                    "url": "https://lh3.googleusercontent.com/R9_-kVxhWppDwEPhYM1OhKKfWYE15nC1zNbyniulpLUVxL4BHf9Rtk34UqcHLk_r311dKgkfN3oH6nmPoNgFjNTMhQ4"
+                }
+            ],
+            "address": "98 Soi Prachachuennonthaburi 8, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 83.54477306189942,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1576482626928"
+        },
+        {
+            "id": "ba6c7a2a4f934d7381074724739551a3.16",
+            "hashedId": "d6fc301746bfa548ffe0331951e69f5c22f6a776",
+            "title": "น้ำพุนางในวรรณคดีไทย",
+            "state": "LIVE",
+            "lat": 13.871293,
+            "lng": 100.546521,
+            "lastUpdateTimestampMs": "1610461089315",
+            "description": "น้ำพุที่เป็นปฏิมากรรมศิลปะลอยตัว นางในวรรณคดีไทย",
+            "images": [
+                {
+                    "id": "6fb135562bc24be897493cb45427c43e.17",
+                    "url": "https://lh3.googleusercontent.com/uA0eweknFxYu9fV-9LCFAa9UG9QD_1rWbRncC9OUNcpvXsp51_bZSGuTlCBojBDSC6b6nsNhS4CEmYKoHkmAdBcOJ9Wk2Av9P8DvUeU"
+                }
+            ],
+            "address": "1 Petcharatana 2 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "6af0c8724df1f4f19a16234a43f34271",
+                "name": "Religious Sculpture"
+            },
+            "qualityScore": 74.53307766059446,
+            "categories": [
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture"
+                },
+                {
+                    "id": "76a4f0f09885af135f7e54845cfb82c5",
+                    "name": "Designed Manhole"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.38
+                },
+                {
+                    "id": "7bff61f2ef57d44ee63625c8c41c58a7",
+                    "name": "Water Fountain"
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.879
+                },
+                {
+                    "id": "f99929861aba9d2951015b54d74b06fb",
+                    "name": "Carving",
+                    "score": 0.086
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1610134361302"
+        },
+        {
+            "id": "bf999469c2a14156bac10493de027f54.16",
+            "hashedId": "c78260353564357dfcfcc7c479a328c0e058271e",
+            "title": "Urban Square",
+            "state": "LIVE",
+            "lat": 13.872373,
+            "lng": 100.54929,
+            "lastUpdateTimestampMs": "1579839426197",
+            "description": "ป้ายเออเบิล สแควร์ Community ของคนรุ่นใหม่",
+            "images": [
+                {
+                    "id": "677fd68d81754944813db4c0ba718625.17",
+                    "url": "https://lh3.googleusercontent.com/v8RB8EwIXGEX17S92PD5AOAoODF1YFi-RenTpkQoCtb7YKhf2SCLTJP5I49h4-91LwSFZhkOPYJMOWpbF_V5-hGrCko"
+                },
+                {
+                    "id": "b8939d539c7e4d5a971b142e6abd2c22.17",
+                    "url": "https://lh3.googleusercontent.com/9cd6_BHyNh-v0GTXCmjwVYRxuyDSDDnHrjoZcqC-hRzc-ht3aNKtcZ46OYvzwGMF-Ohio-iTH5dVz7yoeMlD4XkYOA"
+                },
+                {
+                    "id": "0e6e9b87d841480086af6d35cbe252dd.17",
+                    "url": "https://lh3.googleusercontent.com/CttjdOVCrrtocGQ5CQvS_MSbemyiP8VHrJ8VzsVUae86z9NlaL1LGsHVNX5f0NcxLhxrjYK6J6BYOduuENWNLC6czDs"
+                }
+            ],
+            "address": "Pracha Chuen 12, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "84e574daec6b8d56073510921571bbcb",
+                "name": "Community Center",
+                "score": 0.447
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.407
+                },
+                {
+                    "id": "84e574daec6b8d56073510921571bbcb",
+                    "name": "Community Center",
+                    "score": 0.447
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.174
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "c4492114033645b2b19bbf65f19c4414.16",
+            "hashedId": "506eb87d85696efec586f74846c97bb828fca892",
+            "title": "Chatchanok Joss House",
+            "state": "LIVE",
+            "lat": 13.86934,
+            "lng": 100.548507,
+            "lastUpdateTimestampMs": "1501109457089",
+            "images": [
+                {
+                    "id": "0ce626b35e98476893c712b6cd8daa5d.17",
+                    "url": "https://lh3.googleusercontent.com/fSbM-UkyZcM7MHBbgnRnlj-MIuz2QuL04PKJiyvzM0RwoXMWJPd1pPD8y5gzEGYf1BOk51yglU_Z_2-Tj0hvzhdp_V4"
+                }
+            ],
+            "address": "Pracha Chuen 12 Alley, Lane 1, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.237
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.237
+                },
+                {
+                    "id": "9929f4fed77f8b5525b7fd2cd27cdebe",
+                    "name": "Historic Building",
+                    "score": 0.053
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.159
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ca78251fa9f240d2bd2928e616691880.16",
+            "hashedId": "c907f16b1f24de2a58040a9d9992d02056c32780",
+            "title": "ศาลพระภูมิสีขาวคู่",
+            "state": "LIVE",
+            "lat": 13.872261,
+            "lng": 100.54690599999999,
+            "lastUpdateTimestampMs": "1589895397858",
+            "description": "ศาลพระภูมิคู่ในซอย 8/1",
+            "images": [
+                {
+                    "id": "c933e509c2b44eb6b8199ef4848b78db.17",
+                    "url": "https://lh3.googleusercontent.com/QtpNeeYXfgVpNxYuIZ5_bqGeLwaeoyhLnLmuEhGoYhB-jise0Y1QPW6jMCz185z_wg4b_8-7agcgz_dCGD7nhF8bGfE"
+                }
+            ],
+            "address": "70/920 Moo 7, Soi Prachachuen 8/1, Prachachuen Roaad, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Nonthaburi, 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.307
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.181
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.093
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.307
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ccf39dfaaa5142e3b9e3bfdd3ee59555.16",
+            "hashedId": "24cf9f11e16287c659ddae7ce7cff871e1a85047",
+            "title": "เงินพดด้วงตราตีศูล",
+            "state": "LIVE",
+            "lat": 13.871315,
+            "lng": 100.550536,
+            "lastUpdateTimestampMs": "1596303149443",
+            "description": "เงินพดด้วงตราตรีศูล เป็นเงินพดด้วงที่สร้างขึ้นในสมัยกรุงธนบุรี สร้างขึ้นตามพระแสงตรีศูล (ตรีศูล) ซึ่งเป็นอาวุธประจำพระองค์พระบาทสมเด็จพระตากสินมหาราช",
+            "images": [
+                {
+                    "id": "1f21a081064d43caa9dd922fa88a43b6.17",
+                    "url": "https://lh3.googleusercontent.com/vvGT8E0fvHNu4PW2QNfOzNTnI8RvdjN20O-ItPDHwItJ_4QRlcmtmAM539eAV_1qsMpZas7v0cBcY-GkT60r9IygFH0"
+                },
+                {
+                    "id": "e3b0343b494441d5ab1ffa6a20fcdd9c.17",
+                    "url": "https://lh3.googleusercontent.com/Az0eT_Fm_03vV2cMk8KrtICldEzS92mIpKV8GXcwtIdMN-eH_P462ku2R68a8gaw95z4TIhxmoJVADr4BvuMtu9zSA"
+                }
+            ],
+            "address": "มหาวิทยาลัยธุรกิจบัณฑิตย์, 110/1-4 ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.557
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.557
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.22
+                },
+                {
+                    "id": "f8a51e54c4881c5e831fdc05f8e29204",
+                    "name": "Historic Structure",
+                    "score": 0.09
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ceaa2307361f4561bd0e54d3729f7a01.16",
+            "hashedId": "87c0d7d93f32629ad5a4dcbe209df82600cc0f4d",
+            "title": "ธรรมจักร",
+            "state": "LIVE",
+            "lat": 13.870773999999999,
+            "lng": 100.550525,
+            "lastUpdateTimestampMs": "1571023739707",
+            "images": [
+                {
+                    "id": "12abfc8fa321471b9c4aca66ad6b3286.17",
+                    "url": "https://lh3.googleusercontent.com/NUvVFh6xthVH_jFDayShreJvKFrMIlWSDFWvN8Uk6bJZh0aFsDod3xRidTvbOZxt-AwZUQ41-l2nXdyP6Y3vnY7Ybm0"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                "name": "Sculpture",
+                "score": 0.258
+            },
+            "categories": [
+                {
+                    "id": "31fc43f63d4a8a45c89350464cdcbabf",
+                    "name": "Chapel",
+                    "score": 0.084
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.258
+                },
+                {
+                    "id": "f6b95c0d2bd214b167213e02d0760f75",
+                    "name": "Church",
+                    "score": 0.142
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d2bd788812734182ad162478e2b42434.16",
+            "hashedId": "d11adf90577dfe26e32f680e1cac531df5ac1946",
+            "title": "P Portal",
+            "state": "RETIRED",
+            "lat": 13.870306,
+            "lng": 100.551271,
+            "lastUpdateTimestampMs": "1541151609514",
+            "images": [
+                {
+                    "id": "8ae864334791442fb2ce745f32c2b815.17",
+                    "url": "https://lh3.googleusercontent.com/LoKlKaZt0NTrOvSw8uEFOXnYaAF-pvu_sneGC9mD5BUdd-g6tuTZ1Gn56Q6re8V1FPx1YzjyRlR1wXm9SFx57ERIC4fZ"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "d65e561cb830439eaa2900d6e583f355.16",
+            "hashedId": "2adcdcbfd6d547691e3ddf63c30288403b09aafa",
+            "title": "Golf Club Entance",
+            "state": "LIVE",
+            "lat": 13.87219,
+            "lng": 100.545165,
+            "lastUpdateTimestampMs": "1501109527541",
+            "images": [
+                {
+                    "id": "a1af5d9fde5644b793b4fd466cca2b13.17",
+                    "url": "https://lh3.googleusercontent.com/Vg7kYMEpPTGlKwWmJqxpw2EUpYf_vw3WWi8zlGPYrpq4oeuwKTwETMh5JCbf5mpUS3NrbuH6jtAaUtHY6ZDFQUqvMcM"
+                },
+                {
+                    "id": "5c532fe5719442b1ad98ce78e01b2b05.17",
+                    "url": "https://lh3.googleusercontent.com/okD1bdDurWTOI_pZ2sHHP7lFob50DywMLLsIEnV8ycDcUcXmBvKpDJxrNBHEFYk6tl2KR4oLpiTO6aiYA8zYLnlQL20"
+                }
+            ],
+            "address": "Petcharatana 3/6 Alley, Tha Sai, Mueang Nonthaburi District, Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                "name": "Place Name Sign",
+                "score": 0.494
+            },
+            "categories": [
+                {
+                    "id": "3f961b2a437b5defa434b4b9b770a551",
+                    "name": "Sport Club",
+                    "score": 0.283
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.494
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.166
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "def1a13a56814110ac9c3a8d58794214.16",
+            "hashedId": "6aed33260bba07c30b6b9d3565cebd1a751356d4",
+            "title": "Urban Square",
+            "state": "GAME_REJECTED",
+            "lat": 13.872358,
+            "lng": 100.549521,
+            "images": [
+                {
+                    "id": "219f89981923444d82fd2c8af601e9a0.17",
+                    "url": "https://lh3.googleusercontent.com/VUW0hiLe-eAivFVFyaYp2EbIjXwBVDVqQl7N79p_uKZhKqVINboItNVywF5Es4tx3x5gPx__Iwz9WNaJ6XzT0o7BQDw"
+                },
+                {
+                    "id": "5b2b3390a5a84315be84c211bd16ff09.17",
+                    "url": "https://lh3.googleusercontent.com/4So9KuFfKH8ghaXD0aE1mKBcfuPVU5du6Bwl23e00zH_bkAmaT0I7k1flRWgIke7nzF33zj28dCLQqRuRH_S3piYk9I"
+                }
+            ],
+            "address": "Pracha Chuen 12, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "e32ddff1562336ff9a37497b00a34991.16",
+            "hashedId": "21295cac976d62071be5cdd9337f50a870f3ee94",
+            "title": "DPU Flight Simulation Training Center II",
+            "state": "LIVE",
+            "lat": 13.871272999999999,
+            "lng": 100.547775,
+            "description": "ศูนย์เครื่องช่วยบินจำลอง 2 มหาวิทยาลัยธุรกิจบัณฑิตย์ แขวงทุ่งสองห้อง เขตหลักสี่ กรุงเทพมหานคร",
+            "images": [
+                {
+                    "id": "76c9a0c8da92330e9c6c9960aaf2e65a.17",
+                    "url": "https://lh3.googleusercontent.com/VxRprWD9NTecq6SGLmwssFWoo7MV9QmV_9CR1KAVdCdlChuvQYwgdI53LYrYi39DfGx_SPNAn7cixu8OjXI7aSVNeK6jhx0MTbIyXjcS"
+                }
+            ],
+            "address": "49 Prachachuennonthaburi 8/1 Alley, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0a87f4c91381662fda48ceb64e1beeb1",
+                "name": "Specialty School"
+            },
+            "qualityScore": 94.16245,
+            "categories": [
+                {
+                    "id": "0a87f4c91381662fda48ceb64e1beeb1",
+                    "name": "Specialty School"
+                },
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign"
+                },
+                {
+                    "id": "9d75ba3434f8ec1d169f18ef48692235",
+                    "name": "University"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1646995863805"
+        },
+        {
+            "id": "e431f721aedd323aa4563a52076324cf.16",
+            "hashedId": "ec2d04d19909a81e4f4a6b335d3590d911b057ab",
+            "title": "College of Aviation Development and Training",
+            "state": "LIVE",
+            "lat": 13.870892999999999,
+            "lng": 100.548383,
+            "description": "ป้ายวิทยาลัยการพัฒนาและฝึกอบรมด้านการบิน มหาวิทยาลัยธุรกิจบัณฑิตย์ กรุงเทพมหานคร",
+            "images": [
+                {
+                    "id": "c4c49ff06bb43008b092a47439983b20.17",
+                    "url": "https://lh3.googleusercontent.com/DoKjbnKkDCYyNOz2Xh5BWcYAdYkhf-mFLjwd9rUMiZua3jBswcM7g7-mXuKS1mOoI0D_6z2B6H6i6ylIgPEjt_OGH4A"
+                }
+            ],
+            "address": "110 Pracha Chuen Rd, Tambon Tha Sai, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "mainCategory": {
+                "id": "f3675576bd8fb23a7fa5216dd69a1385",
+                "name": "College"
+            },
+            "categories": [
+                {
+                    "id": "f3675576bd8fb23a7fa5216dd69a1385",
+                    "name": "College"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1652356506154"
+        },
+        {
+            "id": "e8ed56f1de9b4f118d112325a0cd1a26.16",
+            "hashedId": "415de1800304c4b1d633283d01fc728a156f6098",
+            "title": "พระสิทธิธาดา",
+            "state": "LIVE",
+            "lat": 13.870676999999999,
+            "lng": 100.54976099999999,
+            "lastUpdateTimestampMs": "1586014236595",
+            "description": "พระสิทธิธาดาซึ่งเป็นสัญลักษณ์สำคัญของตราประจำสถาบัน เป็นปางหนึ่งของพระคเณศ เทพเจ้าแห่งความสำเร็จและปัญญา",
+            "images": [
+                {
+                    "id": "4e238abaabbf45a4b5d0a9aaf34590b4.17",
+                    "url": "https://lh3.googleusercontent.com/p6UmbBsi5Z0RBifDrjjSpHjoqBngQJoqv1ge511pgQGtRrAxmJi43R9sfGE7DQjtkQRNXip6e06yanx9xCXjfFeoBqA"
+                },
+                {
+                    "id": "f83c96787f5a446cbc074de1bfb70726.17",
+                    "url": "https://lh3.googleusercontent.com/MGZcT6fMovS0H-Bdbvs2rTdMFxgnrhwGulmGZkMbgOQjK85OpQDVJw2eU3DC9LYB3F-PKW1vvwYnkYO1IB0-YSntwHg"
+                },
+                {
+                    "id": "0b78525ab59d32cdbb97b104362286cd.17",
+                    "url": "https://lh3.googleusercontent.com/1j5Ifsyh-GE_fo6BBTXnsoQfTqkFjJijCTyuqh94KpIxoTIX7IJJNlSuf31iQdQbD3Eb_1hyGMPIsUDledErilG9N7brvg1GEArfiPjl"
+                },
+                {
+                    "id": "fcf0ac9a13854ec0976b8e090067e89a.17",
+                    "url": "https://lh3.googleusercontent.com/gonbll0lVY-_hNm-6oFRjJCic9bks81JKMgzvf5utXTvjSxtFKn8bGwZU9b2Uq8WNb6sEkbliWhzcrIWxy-VpeZnRMk"
+                },
+                {
+                    "id": "e13df9efe3ec464b8d0ff6184536e471.17",
+                    "url": "https://lh3.googleusercontent.com/i1L1tCWgpnTCxNIVeVqWdX-FIr_LoCoazW-UNdEp8tImet3KohuxAYCQLv8F2cQZgdyOqqqDqhT5uuv7Vwzv6oWR8EQ"
+                },
+                {
+                    "id": "5860f4537dea41b698576847f4dacb31.17",
+                    "url": "https://lh3.googleusercontent.com/vb8ShEazCKOiCI_V5WprSJp42vBS21ndZciHfFyjJUCz52x_9crw9EH3bx2RvdfHB_GPFWAP3jL6SeZ4OqI_L8w-vZkd"
+                }
+            ],
+            "address": "110 ประชาชื่น Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "c96775a6f334554a80bed6e52d3108da",
+                "name": "Temple",
+                "score": 0.647
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.196
+                },
+                {
+                    "id": "6af0c8724df1f4f19a16234a43f34271",
+                    "name": "Religious Sculpture",
+                    "score": 0.141
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.647
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "vpsActivated": true,
+            "vpsLocalizability": "PRODUCTION",
+            "vpsActivatedTimestampMs": "1671268617995"
+        },
+        {
+            "id": "ec5d1943df9f40d4ae9f59089616264f.16",
+            "hashedId": "59a5b7a56adc2dc67c4398b1acc61a7c71a6a8f1",
+            "title": "Rungphet shines",
+            "state": "LIVE",
+            "lat": 13.867386,
+            "lng": 100.547343,
+            "lastUpdateTimestampMs": "1566509792833",
+            "description": "ศาลพระภูมิ หอพักรุ่งเพชรเรสซิเดนท์",
+            "images": [
+                {
+                    "id": "f314a2eaec374b268c2912144221d4a1.17",
+                    "url": "https://lh3.googleusercontent.com/wunOltOUsqrBsdXEAxJJe5cj3wFqT0_NkWS6Dq5J2iQ_jC45ApNrJ1qrIR7x7ftGEks_tWAyc2iCrPEx90_kd2cL9U2Q"
+                },
+                {
+                    "id": "3a35fee286a94d94992fefcd725a59c3.17",
+                    "url": "https://lh3.googleusercontent.com/75UW1cSS3KtlRY8hjK03JJpQHq7rVXY23nVk5-zRjTAgnNXKpvtaZ60b7eOSO0mXJDEmWLtfyGtwTiTwdTrsFm5_AQ4"
+                },
+                {
+                    "id": "fe58fba5d484465db4c6dc8eff7ae415.17",
+                    "url": "https://lh3.googleusercontent.com/4YXyTV_5xb04t2BpybkxB72Dx6ecAAT_NkcPsoUmrWWYUUfUsI3vNsAKgQhUFaj7H0OBFckSA41E58FRGGV0qFPpQg"
+                }
+            ],
+            "address": "Soi Prachachuennonthaburi 7\nTambon Bang Khen, Thesaban Nakhon Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Nonthaburi",
+            "geoStateShort": "Nonthaburi",
+            "city": "Nonthaburi",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.333
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.254
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.333
+                },
+                {
+                    "id": "f2b3765a5aedf9a94c0c5127ff563f16",
+                    "name": "Rest Area",
+                    "score": 0.188
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ec9f844ce9554f9493842e9fccdec213.16",
+            "hashedId": "9ef787db620c2a880b9da6c6895712132579d492",
+            "title": "Two Boys on the Pillar",
+            "state": "LIVE",
+            "lat": 13.870484,
+            "lng": 100.549849,
+            "lastUpdateTimestampMs": "1572552439428",
+            "description": "Two Boys",
+            "images": [
+                {
+                    "id": "86ea2d16d35540149f269a7b75ffa2ec.17",
+                    "url": "https://lh3.googleusercontent.com/DnQTUE0eigphOtRQm5g9wzPSCETRY74J8zRbnAJAVAuXvzok8AZAzxo4pR34R0LNCalGBvS4S2A-xXAqYqBIfLB5sEI"
+                }
+            ],
+            "address": "110 ประชาชื่น Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                "name": "Statue",
+                "score": 0.517
+            },
+            "categories": [
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.185
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.517
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.145
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "edad4c1bdbd04fb3a048fa068d94a108.16",
+            "hashedId": "fda26f6e84c0c00d63b2649c3cf701940a121b77",
+            "title": "Flowers and jar bad relief",
+            "state": "LIVE",
+            "lat": 13.871907,
+            "lng": 100.55012599999999,
+            "lastUpdateTimestampMs": "1501109814360",
+            "images": [
+                {
+                    "id": "664117c9aa2340e48de8f3eaf07798ed.17",
+                    "url": "https://lh3.googleusercontent.com/twEpMPAAfQfsgZqTM_QjAeV8rY71UFd-qqtyve2mIMBhr3cgYD6rUj2fetfDcEezAX4-UeVvVJGvKEnjTVWnj6BAnI8"
+                }
+            ],
+            "address": "317/1 ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "6ba15cdbde1b644ab4721bacbc780f4d",
+                "name": "Flower"
+            },
+            "categories": [
+                {
+                    "id": "6ba15cdbde1b644ab4721bacbc780f4d",
+                    "name": "Flower"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.333
+                },
+                {
+                    "id": "ce64859076051dec2b34827e1b0bd37f",
+                    "name": "Informational Sign",
+                    "score": 0.158
+                },
+                {
+                    "id": "cf9a16584819ecd385ecc72a3cd4696b",
+                    "name": "Mural",
+                    "score": 0.118
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "ee92feac92f439be9aabdd5af00b4f24.16",
+            "hashedId": "2e2faf620122f065708ef77e911f87e9cbe3567a",
+            "title": "ศูนย์กีฬา ราชพฤกษ์",
+            "state": "LIVE",
+            "lat": 13.865449,
+            "lng": 100.548403,
+            "description": "พื้นที่ออกกำลังกายสำหรับคนในชุมชม เปิดให้ประชาชนทุกคนเข้าใช้งานได้ สามารถใช้งานได้ตลอดเวลา ช่วงเย็นจะผู้มาใช้บริการเยอะ",
+            "images": [
+                {
+                    "id": "b2ee741bed213805b513270e32481c37.17",
+                    "url": "https://lh3.googleusercontent.com/_jK341cSqU4jHFVAtOEaaivp7R4JVqx3oJNLIqmr3TGkdA3n8dhxP1x5Lmv5HsLDszJ1Qjh1qgEvoaTcQllkCe7y6V5EVJTC-JhAYIblEg"
+                }
+            ],
+            "address": "150/34 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "3f961b2a437b5defa434b4b9b770a551",
+                "name": "Sport Club"
+            },
+            "qualityScore": 72.363495,
+            "categories": [
+                {
+                    "id": "3f961b2a437b5defa434b4b9b770a551",
+                    "name": "Sport Club"
+                },
+                {
+                    "id": "aae12013c0f49182495d12e50d9b5d5e",
+                    "name": "Fitness Station"
+                },
+                {
+                    "id": "c469083e12d884a1b9092e598e447412",
+                    "name": "Gym"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1700147741912"
+        },
+        {
+            "id": "ef71673258433004b5c9277670571557.16",
+            "hashedId": "dedd555a25da4c0a38f24fbde0e59d9e56076e7f",
+            "title": "ศาลพระภูมิสีเขียว สุดซอย 8",
+            "state": "LIVE",
+            "lat": 13.870505999999999,
+            "lng": 100.544766,
+            "description": "สิ่งปลูกสร้างตามความเชื่อของคนไทย ตั้งอยู่สุดซอยประชาชื่น-นนทบุรี 8",
+            "images": [
+                {
+                    "id": "db3a11ac5b993605baf3bd8b8de51fe4.17",
+                    "url": "https://lh3.googleusercontent.com/dYd_OcxUa2uCZB49WgAasQ-ZkmLytxDsPnRQjlfkS6aEUokq-U1__Ywu06-ZTkWb-BX0n_l1ovGq_pRsGv0_POn0LU_JFTW9T87KV23w"
+                }
+            ],
+            "address": "31 Soi Prachachuennonthaburi 8, Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine"
+            },
+            "qualityScore": 92.445656,
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine"
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture"
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue"
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1647841379497"
+        },
+        {
+            "id": "f0aa57a741a1421ca7d586170c05bcad.16",
+            "hashedId": "8b7503b3d041fef9220c3cf225f1643f6d599f2f",
+            "title": "น้ำพุ เรือนไทย",
+            "state": "LIVE",
+            "lat": 13.870229,
+            "lng": 100.550992,
+            "lastUpdateTimestampMs": "1501109167208",
+            "images": [
+                {
+                    "id": "faa21664d660486b870e4ec67c18e988.17",
+                    "url": "https://lh3.googleusercontent.com/EyhZN4pwr0rO4BwV15_prkCarK3dmenmFgQnpf52rhTo-B_9WvXuXRzGFY9UZrA76E6Xqbax14_jDg0k6hRhadONf4T2"
+                }
+            ],
+            "address": "110/1-4 ประชาชื่น มหาวิทยาลัยธุรกิจบัณฑิตย์, Thung Song Hong, Lak Si, Bangkok 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Bangkok",
+            "geoStateShort": "Bangkok",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "8b2ab423b4b1d519da94473040edc07c",
+                "name": "Decorative Fountain",
+                "score": 0.878
+            },
+            "categories": [
+                {
+                    "id": "44cd8315e13dd0d03938d7feefec1ad2",
+                    "name": "Place Name Sign",
+                    "score": 0.064
+                },
+                {
+                    "id": "7bc83b40e1cbbeeb9464717d4cb6fb1f",
+                    "name": "Sculpture",
+                    "score": 0.083
+                },
+                {
+                    "id": "8b2ab423b4b1d519da94473040edc07c",
+                    "name": "Decorative Fountain",
+                    "score": 0.878
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        },
+        {
+            "id": "f28b6687eee836f683b13e667575572f.16",
+            "hashedId": "4936d6bbbe2a50205529ee8c4a966356c667eb84",
+            "title": "ศาลพระพรหม ร้านทุกอย่าง 20 บาท",
+            "state": "LIVE",
+            "lat": 13.869653999999999,
+            "lng": 100.546568,
+            "description": "ศาลพระพรหมข้างร้านทุกอย่าง 20 บาท ในซอยประชาชื่น-นนทบุรี 8 แยก 1",
+            "images": [
+                {
+                    "id": "58ced4c116643baebe417631db34b817.17",
+                    "url": "https://lh3.googleusercontent.com/yhqlTs6iee0prH9YAfP6licbl2GGWcJpXo9RNRDKqMWL_09LH3TAQq7VsCDSY8B-zZ4BgY_ylYIwPLWLrkxZBm8NwGV_rNXz31RbvG-4"
+                },
+                {
+                    "id": "4ac9368ff9c43008abd3c8635fe93b2d.17",
+                    "url": "https://lh3.googleusercontent.com/vUtnau6aUHEIaxOk5QtqYzvDd3L8uxUUKEBIoDb19hKukBbaXgIqf3Zbop1mUX-cp-rrC6LOBKKTfHVuwQ-7Jg"
+                }
+            ],
+            "address": "เลขที่ 59/1 ซอย เพชรรัตน์ Tambon Bang Khen, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Chang Wat Nonthaburi",
+            "geoStateShort": "จ.นนทบุรี",
+            "postalCode": "11000",
+            "mainCategory": null,
+            "qualityScore": 84.646225,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1645945872338"
+        },
+        {
+            "id": "f33caaba6c8b4adab8545fd2db0784bc.16",
+            "hashedId": "4bbe6711c026b0cd364e170473ff1b45291d7f56",
+            "title": "ศาลพระพรหม สีเหลือง",
+            "state": "LIVE",
+            "lat": 13.868312,
+            "lng": 100.54836,
+            "lastUpdateTimestampMs": "1589899559656",
+            "description": "ศาลพระพรหมสีเหลือง ข้างๆ ตลาดกลางคืน JJ Green 2",
+            "images": [
+                {
+                    "id": "90800d5e7115444d804b7fe6122bdb67.17",
+                    "url": "https://lh3.googleusercontent.com/ztDM2yMwlHOMgKOnyo5UUVf4PfUm4ua_p8vsOm8ss863DRDkp3SilrMckw6DCGaXO7wjw5Dyg9osTNMUka8rwZ7hQQ--"
+                }
+            ],
+            "address": "61/3 Pracha Chuen Rd, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "postalCode": "10210",
+            "mainCategory": {
+                "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                "name": "Shrine",
+                "score": 0.188
+            },
+            "categories": [
+                {
+                    "id": "0486e39a3ff9583ee2a2e08d440859ea",
+                    "name": "Shrine",
+                    "score": 0.188
+                },
+                {
+                    "id": "b195929e9b98012f03a4cbb8d5add5e2",
+                    "name": "Statue",
+                    "score": 0.08
+                },
+                {
+                    "id": "c96775a6f334554a80bed6e52d3108da",
+                    "name": "Temple",
+                    "score": 0.078
+                }
+            ],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            },
+            "discoveredTimestampMs": "1589853945901"
+        },
+        {
+            "id": "fd45053cf5ce44b5ba744db8a184d898.16",
+            "hashedId": "142638d70fd5541a142167f288ae52153641c465",
+            "title": "Elephant tribe",
+            "state": "GAME_REJECTED",
+            "lat": 13.87187,
+            "lng": 100.55011499999999,
+            "lastUpdateTimestampMs": "1501109125669",
+            "images": [
+                {
+                    "id": "58ca4eda599e47f3be9b4bae4bf4e10a.17",
+                    "url": "https://lh3.googleusercontent.com/1ZzOXLY5rfxtHI7vzUpS0HJjDuW0CRDTzmjC5qIy5mwKxTGgRtZCmuH4eDQveSoBQx7PEQ8wKH_boK46qxiinFBX4TE"
+                }
+            ],
+            "address": "มหาวิทยาลัยธุรกิจบัณฑิตย์, 110/1-4 ประชาชื่น Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+            "countryLong": "Thailand",
+            "countryShort": "TH",
+            "geoStateLong": "Krung Thep Maha Nakhon",
+            "geoStateShort": "Krung Thep Maha Nakhon",
+            "city": "Bangkok",
+            "postalCode": "10210",
+            "mainCategory": null,
+            "categories": [],
+            "availability": {
+                "timeZone": "Asia/Bangkok",
+                "lat": null,
+                "lng": null
+            }
+        }
+    ]
+}
