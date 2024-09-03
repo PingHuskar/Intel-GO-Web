@@ -383,10 +383,38 @@ const BRT = [
     ],
   },
   {
+    name: "ถนนจันทน์เหนือ",
+    en: "Thanon Chan Nuea",
+    id: "B3A",
+    latlng: [13.707654, 100.537369],
+    bannergress: [
+      {
+        path: "",
+        bg: "",
+        w: 240,
+        h: 0,
+      },
+    ],
+  },
+  {
     name: "ถนนจันทน์",
     en: "Thanon Chan",
     id: "B4",
     latlng: [13.704787, 100.538925],
+    bannergress: [
+      {
+        path: "",
+        bg: "",
+        w: 240,
+        h: 0,
+      },
+    ],
+  },
+  {
+    name: "ถนนจันทน์ใต้",
+    en: "Thanon Chan Tai",
+    id: "B4A",
+    latlng: [13.700874, 100.541425],
     bannergress: [
       {
         path: "",
